@@ -63,6 +63,13 @@ footer {
 }
 
 a {
-  color: #ff9416;
   text-decoration: none;
+}
+
+a:link {
+  color: #ff9416;
+}
+
+a:visited {
+  color: #ffce07;
 }
