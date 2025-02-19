@@ -6,7 +6,7 @@ draft = false
 
 
 <div class="banner">
-  <img class="banner-element" src="./images/logos/BitcoinChatt_square-dark-backgrounds.png" alt="Bitcoin chatt logo for banner"/>
+  <img class="banner-element" src="./images/logos/BitcoinChatt_square.png" alt="Bitcoin chatt logo for banner"/>
 </div>
 
 <table class="nav">
