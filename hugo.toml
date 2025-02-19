@@ -1,0 +1,7 @@
+baseURL = 'https://bitcoinchatt.org/'
+languageCode = 'en-us'
+title = 'Satlantis'
+theme = 'main'
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

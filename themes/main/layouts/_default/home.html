@@ -1,0 +1,9 @@
+{{ define "main" }}
+  {{ .Content }}
+  <!--
+  this seems to loop through all pages and list links to them
+  {{ range site.RegularPages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+  {{ end }}-->
+{{ end }}
