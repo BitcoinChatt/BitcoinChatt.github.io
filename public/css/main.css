@@ -1,6 +1,7 @@
 body {
-  background-color: rgb(0, 0, 32);
-  color: #a57122;
+  /*discord uses #242429 for the background*/
+  background-color: #141419;
+  color: #ffffff;
   font-family: sans-serif;
   line-height: 1.5;
   margin: 1rem;
@@ -25,7 +26,7 @@ footer {
 }
 
 .banner {
-  background-color: rgb(0, 0, 16);
+  /*background-color: rgb(0, 0, 16);*/
   height: 20rem;
   display: flex;
   justify-content: center;
@@ -44,12 +45,14 @@ footer {
 }
 
 .nav-box {
-  background-color: rgb(0, 0, 24);
-  border: 1px solid rgb(7, 7, 59);
+  /*background-color: rgb(0, 0, 24);*/
+  border: 1px solid #343439;
+  margin: 1rem;
 }
 
 .nav-element {
   height: 15rem;
+  margin-left: 0px;
 }
 
 .social-links {
@@ -60,6 +63,6 @@ footer {
 }
 
 a {
-  color: #00e;
+  color: #ff9416;
   text-decoration: none;
 }

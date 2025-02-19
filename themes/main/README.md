@@ -1,7 +1,6 @@
-# Theme Name
+background darker gray
 
-## Features
+white text
 
-## Installation
-
-## Configuration
+bitcoin orange links
+clicked links are bitcoin chatt yellow

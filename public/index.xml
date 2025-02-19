@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Satlantis</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:37083/</link>
     <description>Recent content in Home on Satlantis</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2025 07:27:50 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 11:11:43 -0500</lastBuildDate>
+    <atom:link href="http://localhost:37083/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming_soon</title>
+      <link>http://localhost:37083/coming_soon/</link>
+      <pubDate>Wed, 19 Feb 2025 11:11:43 -0500</pubDate>
+      <guid>http://localhost:37083/coming_soon/</guid>
+      <description>&lt;p&gt;Stay tuned!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
+      <link>http://localhost:37083/blog/</link>
       <pubDate>Wed, 19 Feb 2025 07:27:50 -0500</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
+      <guid>http://localhost:37083/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Bitcoin_intro</title>
-      <link>http://localhost:1313/bitcoin_intro/</link>
+      <link>http://localhost:37083/bitcoin_intro/</link>
       <pubDate>Wed, 19 Feb 2025 07:27:39 -0500</pubDate>
-      <guid>http://localhost:1313/bitcoin_intro/</guid>
+      <guid>http://localhost:37083/bitcoin_intro/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:37083/about/</link>
       <pubDate>Wed, 19 Feb 2025 07:27:26 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:37083/about/</guid>
       <description>&lt;p&gt;Hello, About page!&lt;/p&gt;</description>
     </item>
   </channel>

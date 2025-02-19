@@ -13,7 +13,7 @@ draft = false
   <tr>
     <td>
       <div class="nav-box">
-        <a href="./bitcoin_intro">
+        <a href="./coming_soon">
           <img class="nav-element" src="./images/btc.png" alt="Bitcoin logo"/>
           <h3>New to Bitcoin?</h3>
         </a>
@@ -21,22 +21,28 @@ draft = false
     </td>
     <td>
       <div class="nav-box">
-        <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
-        <h3>Blog</h3>
+        <a href="./coming_soon">
+          <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
+          <h3>Blog</h3>
+        </a>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div class="nav-box">
-        <img class="nav-element" src="./images/calendar.png" alt="Calendar vector art"/>
-        <h3>Calendar</h3>
+        <a href="./coming_soon">
+          <img class="nav-element" src="./images/calendar.png" alt="Calendar vector art"/>
+          <h3>Calendar</h3>
+        </a>
       </div>
     </td>
     <td>
       <div class="nav-box">
-        <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
-        <h3>Map</h3>
+        <a href="./coming_soon">
+          <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
+          <h3>Map</h3>
+        </a>
       </div>
     </td>
   </tr>
@@ -52,7 +58,7 @@ draft = false
         </a>
       </td>
       <td>
-        <a href="./bitcoin_intro">
+        <a href="./coming_soon">
           <img height="40rem" src="./images/placeholder.png" alt="Nostr logo"/>
         </a>
       </td>
