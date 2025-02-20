@@ -9,42 +9,33 @@ draft = false
   <img class="banner-element" src="./images/logos/BitcoinChatt_square-transparent-with-shadow.png" alt="Bitcoin chatt logo for banner"/>
 </div>
 
-<table class="nav">
-  <tr>
-    <td>
-      <div class="nav-box">
-        <a href="./coming_soon">
-          <img class="nav-element" src="./images/btc.png" alt="Bitcoin logo"/>
-          <h3>New to Bitcoin?</h3>
-        </a>
-      </div>
-    </td>
-    <!--<td>
-      <div class="nav-box">
-        <a href="./coming_soon">
-          <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
-          <h3>Blog</h3>
-        </a>
-      </div>
-    </td>-->
-    <td>
-      <div class="nav-box">
-        <a href="./coming_soon">
-          <img class="nav-element" src="./images/calendar.png" alt="Calendar vector art"/>
-          <h3>Calendar</h3>
-        </a>
-      </div>
-    </td>
-    <td>
-      <div class="nav-box">
-        <a href="./coming_soon">
-          <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
-          <h3>Map</h3>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div class="nav">
+  <div class="nav-box">
+    <a href="./coming_soon">
+      <img class="nav-element" src="./images/btc.png" alt="Bitcoin logo"/>
+      <h3>New to Bitcoin?</h3>
+    </a>
+  </div>
+  <!--
+  <div class="nav-box">
+    <a href="./coming_soon">
+      <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
+      <h3>Blog</h3>
+    </a>
+  </div>-->
+  <div class="nav-box">
+    <a href="./coming_soon">
+      <img class="nav-element" src="./images/calendar.png" alt="Calendar vector art"/>
+      <h3>Calendar</h3>
+    </a>
+  </div>
+  <div class="nav-box">
+    <a href="./coming_soon">
+      <img class="nav-element" src="./images/map.jpg" alt="Map vector art"/>
+      <h3>Map</h3>
+    </a>
+  </div>
+</div>
 
 <p class="social-links">Follow Bitcoin Chatt!</p>
 <div class="social-links">

@@ -27,6 +27,13 @@ footer {
   height: 3rem;
 }
 
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 .header-element {
   margin-left: 3rem;
 }
@@ -44,6 +51,7 @@ footer {
 }
 
 .nav {
+  /*TODO: make this adapt to desktop/mobile devices*/
   display: flex;
   justify-content: center;
   align-items: center;
@@ -53,12 +61,11 @@ footer {
 .nav-box {
   /*background-color: rgb(0, 0, 24);*/
   /*border: 1px solid #343439;*/
-  margin: 1rem;
+  margin: 3rem 1rem;
 }
 
 .nav-element {
   height: 15rem;
-  margin-left: 0px;
 }
 
 .social-links {
