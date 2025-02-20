@@ -19,16 +19,14 @@ draft = false
         </a>
       </div>
     </td>
-    <td>
+    <!--<td>
       <div class="nav-box">
         <a href="./coming_soon">
           <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
           <h3>Blog</h3>
         </a>
       </div>
-    </td>
-  </tr>
-  <tr>
+    </td>-->
     <td>
       <div class="nav-box">
         <a href="./coming_soon">
