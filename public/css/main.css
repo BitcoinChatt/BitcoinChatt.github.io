@@ -1,5 +1,11 @@
 body {
   /*discord uses #242429 for the background*/
+  /*background-size: 100dvh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: multiply;
+  background-image: url("/images/logos/Bitcoin Chatt Avatar 2.0.png");*/
   background-color: #141419;
   color: #ffffff;
   font-family: sans-serif;
