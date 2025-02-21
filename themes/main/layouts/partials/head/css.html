@@ -9,12 +9,12 @@
 {{- end }}
 
 {{- if not .IsHome }}
-  {{- with .Resources.Get "/css/blogpost.css" }}
+  {{- with resources.Get "/css/blogpost.css" }}
     {{- if eq hugo.Environment "development" }}
       <link rel="stylesheet" href="{{ .RelPermalink }}">
-      {{- else }}
-        {{- with . | minify | fingerprint }}
-          <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{- else }}
+      {{- with . | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
       {{- end }}
     {{- end }}
   {{- else }}
