@@ -3,6 +3,5 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
-  background-blend-mode: multiply;
   background-image: url("/images/Logos/bitcoin-chatt-logo_outline-only_light-background.png");
 }

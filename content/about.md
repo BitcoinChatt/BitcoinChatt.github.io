@@ -4,6 +4,4 @@ draft = false
 title = 'About'
 +++
 
-<link rel="stylesheet" href="blogpost.css">
 
-Hello, About page!
