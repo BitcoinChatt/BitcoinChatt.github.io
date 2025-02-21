@@ -1,6 +1,6 @@
 baseURL = 'https://bitcoinchatt.org/'
 languageCode = 'en-us'
-title = 'Satlantis'
+title = 'Bitcoin Chatt'
 theme = 'main'
 
 [markup.goldmark.renderer]

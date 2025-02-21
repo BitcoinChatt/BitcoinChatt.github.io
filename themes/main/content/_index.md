@@ -6,8 +6,10 @@ draft = false
 
 
 <div class="banner">
-  <img class="banner-element" src="./images/logos/BitcoinChatt_square-transparent-with-shadow.png" alt="Bitcoin chatt logo for banner"/>
+  <img class="banner-element" src="./images/logos/BitcoinChatt_square-transparent.png" alt="Bitcoin chatt logo for banner"/>
 </div>
+
+<h3 style="text-align: center"><em>Lifting Chattanooga onto a Bitcoin standard.</em></h3>
 
 <div class="nav">
   <div class="nav-box">
@@ -37,18 +39,18 @@ draft = false
   </div>
 </div>
 
-<p class="social-links">Follow Bitcoin Chatt!</p>
+<h3 class="social-links">Follow Bitcoin Chatt</h3>
 <div class="social-links">
   <table>
     <tr>
       <td>
         <a target="_blank" href="https://x.com/bitcoinchatt">
-          <img height="40rem" src="./images/twitter.png" alt="Twitter/X logo"/>
+          <img height="40rem" src="./images/Logos/Twitter-X-Logo.png" alt="Twitter/X logo"/>
         </a>
       </td>
       <td>
         <a href="./coming_soon">
-          <img height="40rem" src="./images/placeholder.png" alt="Nostr logo"/>
+          <img height="40rem" src="./images/Logos/Nostr-Logo.png" alt="Nostr logo"/>
         </a>
       </td>
     </tr>
