@@ -33,14 +33,14 @@ draft = false
   </div>
   <div class="nav-box">
     <a href="./coming_soon">
-      <img class="nav-element" src="./images/map.jpg" alt="Map vector art"/>
+      <img class="nav-element" src="./images/map.png" alt="Map vector art"/>
       <h3>Map</h3>
     </a>
   </div>
 </div>
 
-<h3 class="social-links">Follow Bitcoin Chatt</h3>
 <div class="social-links">
+  <h3 class="social-links">Follow Bitcoin Chatt</h3>
   <table>
     <tr>
       <td>
