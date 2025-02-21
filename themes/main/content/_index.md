@@ -28,13 +28,13 @@ draft = false
   <div class="nav-box">
     <a href="./calendar">
       <img class="nav-element" src="./images/calendar.png" alt="Calendar vector art"/>
-      <h3>Calendar</h3>
+      <h3>Events Calendar</h3>
     </a>
   </div>
   <div class="nav-box">
     <a href="./map">
       <img class="nav-element" src="./images/map.png" alt="Map vector art"/>
-      <h3>Map</h3>
+      <h3>Bitcoin Businesses Map</h3>
     </a>
   </div>
 </div>
