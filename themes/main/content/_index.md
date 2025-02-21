@@ -6,7 +6,7 @@ draft = false
 
 
 <div class="banner">
-  <img class="banner-element" src="./images/logos/BitcoinChatt_square-transparent.png" alt="Bitcoin chatt logo for banner"/>
+  <img class="banner-element" src="/images/Logos/BitcoinChatt_square-transparent.png" alt="Bitcoin chatt logo for banner"/>
 </div>
 
 <h3 style="text-align: center"><em>Lifting Chattanooga onto a Bitcoin standard.</em></h3>
