@@ -2,5 +2,5 @@
 <meta name="viewport" content="width=device-width">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 <link rel="icon" href="/images/Logos/Bitcoin Chatt Avatar.png">
-{{ partialCached "head/css.html" . }}
+{{ partial "head/css.html" . }}
 {{ partialCached "head/js.html" . }}

@@ -24,6 +24,10 @@ footer {
   margin-top: 1rem;
 }
 
+h1 {
+  text-align: center;
+}
+
 .icon {
   height: 3rem;
 }

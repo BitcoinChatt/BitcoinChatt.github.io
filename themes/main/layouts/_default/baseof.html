@@ -4,12 +4,15 @@
   {{ partial "head.html" . }}
 </head>
 <body>
-  <h1>"{{ page.Path }}"</h1>
   <header>
     {{ partial "header.html" . }}
   </header>
   <main>
     {{ block "main" . }}{{ end }}
+
+    {{- if .Params.underConstruction }}
+      {{ partial "coming-soon.html" . }}
+    {{- end }}
   </main>
   <footer>
     {{ partial "footer.html" . }}
