@@ -8,6 +8,7 @@
     {{ partial "header.html" . }}
   </header>
   <main>
+    <h1>{{ .IsHome }}</h1>
     {{ block "main" . }}{{ end }}
 
     {{- if .Params.underConstruction }}
