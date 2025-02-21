@@ -13,7 +13,7 @@ draft = false
 
 <div class="nav">
   <div class="nav-box">
-    <a href="./coming_soon">
+    <a href="./new-to-bitcoin">
       <img class="nav-element" src="./images/btc.png" alt="Bitcoin logo"/>
       <h3>New to Bitcoin?</h3>
     </a>
@@ -26,13 +26,13 @@ draft = false
     </a>
   </div>-->
   <div class="nav-box">
-    <a href="./coming_soon">
+    <a href="./calendar">
       <img class="nav-element" src="./images/calendar.png" alt="Calendar vector art"/>
       <h3>Calendar</h3>
     </a>
   </div>
   <div class="nav-box">
-    <a href="./coming_soon">
+    <a href="./map">
       <img class="nav-element" src="./images/map.png" alt="Map vector art"/>
       <h3>Map</h3>
     </a>
