@@ -39,8 +39,8 @@ draft = false
   </div>
 </div>
 
+<h3 class="social-links">Follow Bitcoin Chatt</h3>
 <div class="social-links">
-  <h3 class="social-links">Follow Bitcoin Chatt</h3>
   <table>
     <tr>
       <td>
