@@ -45,12 +45,12 @@ draft = false
     <tr>
       <td>
         <a target="_blank" href="https://x.com/bitcoinchatt">
-          <img height="40rem" src="./images/Logos/Twitter-X-Logo.png" alt="Twitter/X logo"/>
+          <img class="social-link" height="40rem" src="./images/Logos/Twitter-X-Logo.png" alt="Twitter/X logo"/>
         </a>
       </td>
       <td>
         <a href="https://nostr.at/npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779">
-          <img height="40rem" src="./images/Logos/Nostr-Logo.png" alt="Nostr logo"/>
+          <img class="social-link" height="40rem" src="./images/Logos/Nostr-Logo.png" alt="Nostr logo"/>
         </a>
       </td>
     </tr>
