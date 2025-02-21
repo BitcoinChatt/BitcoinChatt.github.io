@@ -4,5 +4,3 @@ draft = false
 underConstruction = true
 title = 'Blog'
 +++
-
-{{ partial "header.html" . }}
