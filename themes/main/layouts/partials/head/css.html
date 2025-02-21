@@ -8,5 +8,6 @@
   {{- end }}
 {{- end }}
 
-
+{{- if not .IsHome }}
   <link rel="stylesheet" href="/css/blogpost.css">
+{{- end }}
