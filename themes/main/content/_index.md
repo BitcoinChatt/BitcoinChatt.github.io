@@ -49,7 +49,7 @@ draft = false
         </a>
       </td>
       <td>
-        <a href="https://njump.me/npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779">
+        <a target="_blank" href="https://njump.me/npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779">
           <img class="social-link" height="40rem" src="./images/Logos/Nostr-Logo.png" alt="Nostr logo"/>
         </a>
       </td>
