@@ -3,7 +3,7 @@ function isMobile()
   return window.innerWidth <= 480;
 }
 
-var headerExpanded = true;
+var headerExpanded = false;
 window.toggleHeaderMenu = function()
 {
   console.log("wow!");
