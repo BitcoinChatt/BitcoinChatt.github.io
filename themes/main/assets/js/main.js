@@ -1,6 +1,6 @@
 function isMobile()
 {
-  return window.innerWidth <= 480;
+  return window.innerWidth <= 1440;
 }
 
 var headerExpanded = false;
