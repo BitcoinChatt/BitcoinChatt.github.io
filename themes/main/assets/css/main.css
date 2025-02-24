@@ -40,7 +40,13 @@ h1 {
 }
 
 .header-element {
+  display: inline-block;
   margin-left: 3rem;
+  height: 3rem;
+}
+
+#hamburger {
+  display: none;
 }
 
 .banner {
@@ -99,12 +105,41 @@ a:visited {
 
 @media only screen and (max-device-width: 480px)
 {
+  .icon {
+    height: 3rem;
+  }
+
   .header {
     display: grid;
+    grid-template-columns: 15rem 6rem;
+    grid-template-rows: 4rem 4rem 4rem 4rem 4rem;
+    justify-items: left;
+    height: 3rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  #header-list {
+    display: block;
+    background-color: black;
+    justify-content: right;
+    justify-self: right;
+
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 6;
   }
 
   .header-element {
-    margin-left: 0rem;
+    display: block;
+    margin: 0.5rem 1rem;
+  }
+
+  #hamburger {
+    display: flex;
+    height: 3rem;
+    justify-self: right;
   }
 
   .nav {
