@@ -96,3 +96,18 @@ a:link {
 a:visited {
   color: #ffce07;
 }
+
+@media only screen and (max-device-width: 480px)
+{
+  .header {
+    display: grid;
+  }
+
+  .header-element {
+    margin-left: 0rem;
+  }
+
+  .nav {
+    display: grid;
+  }
+}
