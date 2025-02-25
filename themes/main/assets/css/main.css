@@ -10,22 +10,22 @@ body {
   color: #ffffff;
   font-family: sans-serif;
   line-height: 1.5;
-  margin: 1rem 18rem;
   min-height: 100dvh;
 }
 
 header {
   /*border-bottom: 1px solid #222;*/
-  margin-bottom: 1rem;
+  padding-bottom: 1rem;
 }
 
-footer {
-  /*border-top: 1px solid #222;
-  margin-top: 1rem;*/
-}
+/*footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}*/
 
 h1 {
-  text-align: center;
+  display: block;
+  text-align: justify;
 }
 
 /*h3 {
