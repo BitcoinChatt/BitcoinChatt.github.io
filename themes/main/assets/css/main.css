@@ -42,6 +42,11 @@ img {
   margin: 0rem 1rem;
 }
 
+time {
+  display: block;
+  text-align: center;
+}
+
 .icon {
   height: 3rem;
 }

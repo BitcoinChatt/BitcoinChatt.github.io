@@ -1,8 +1,23 @@
 {{ define "main" }}
 
   {{ .Content }}
-  {{ range .Pages }}
+  <!--{{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ .Summary }}
+  {{ end }}-->
+
+  <nav style="float: left;background-color: #000000;">
+    {{ range .Pages }}
+      <a href="#{{ .LinkTitle }}" style="display:block;">{{ .LinkTitle }}</a>
+    {{ end }}
+  </nav>
+
+  {{ range .Pages }}
+    <h1 id="{{ .LinkTitle }}">{{ .LinkTitle }}</h1>
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
+    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+
+    {{ .Content }}
   {{ end }}
 {{ end }}
