@@ -1,7 +1,4 @@
 {{ define "main" }}
-  {{- if not .Params.underConstruction }}
-    <h1>{{ .Title }}</h1>
-  {{- end }}
 
   {{ .Content }}
   {{ range .Pages }}

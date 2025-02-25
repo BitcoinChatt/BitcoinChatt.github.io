@@ -10,7 +10,7 @@ body {
   color: #ffffff;
   font-family: sans-serif;
   line-height: 1.5;
-  margin: 1rem;
+  margin: 1rem 18rem;
   min-height: 100dvh;
 }
 
@@ -26,6 +26,20 @@ footer {
 
 h1 {
   text-align: center;
+}
+
+/*h3 {
+  text-justify: auto;
+  text-align: justify;
+}*/
+
+p {
+  text-justify: auto;
+  text-align: justify;
+}
+
+img {
+  margin: 0rem 1rem;
 }
 
 .icon {
