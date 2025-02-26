@@ -18,7 +18,7 @@ Our mission is to onboard Chattanooga to a prosperous future with the best money
 
 ### Tools for Businesses to Accept Bitcoin
 
-<p style="margin-left: 2rem;">We provide Point of Sale systems and more to help businesses adopt bitcoin. When they do, we’ll announce it to members and add them to our [map](/map)!</p>
+<p style="margin-left: 2rem;">We provide Point of Sale systems and more to help businesses adopt bitcoin. When they do, we’ll announce it to members and add them to our <a href="/map">map</a>!</p>
 
 ### Community Service, Paid in Bitcoin
 
