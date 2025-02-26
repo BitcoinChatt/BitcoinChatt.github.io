@@ -28,19 +28,17 @@ Together, we’re creating a bitcoin circular economy and onboarding Chattanooga
 
 <br>
 
-<img src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
-
 ## Our Story
 
 <br>
+
+<img src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
 
 Bitcoin Chatt began as a humble meetup on October 1, 2021, where local Bitcoiners built friendships and educated curious visitors. In January 2025, Founder Jason Sellers visited El Salvador—the first nation to adopt bitcoin—and saw the hope that had spread from a small beach town there, to become a national phenomenon. Inspired, he returned to replicate that transformation here.
 
 Time will tell how far we go, but you can play an important role in our efforts to make the future one of liberty and personal responsibility, of savings and hope, and of peace and prosperity. Accept bitcoin at your business and be included on our [map](/map), [join](/join) our service projects, [donate](/donate) to keep us going, or simply spread the word—your support will lead to a freer, thriving Chattanooga.
 
 <br>
-
-<img src="./Jason%20at%20CHEA%20Workshop.jpg" style="width:20dvw;float:right;">
 
 ## Meet the Team
 
@@ -49,6 +47,8 @@ Time will tell how far we go, but you can play an important role in our efforts 
 ### Jason Sellers
 
 <br>
+
+<img src="./Jason%20at%20CHEA%20Workshop.jpg" style="width:20dvw;float:right;">
 
 <p style="margin-left: 2rem;">Jason, Bitcoin Chatt’s Founder and Executive Director, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while working in package delivery. In 2018, he found he had a passion for Bitcoin education, and created online groups to teach others about it.</p>
 
