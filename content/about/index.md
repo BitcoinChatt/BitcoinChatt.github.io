@@ -14,7 +14,7 @@ Our mission is to onboard Chattanooga to a prosperous future with the best money
 
 ### Free Workshops, Open to All
 
-<p style="margin-left: 2rem;">Nervous about Bitcoin? Our workshops demystify it, easing your fears. Prefer to teach yourself, but unsure where to begin? Check out our [New to Bitcoin](/new-to-bitcoin) page for resources!</p>
+<p style="margin-left: 2rem;">Nervous about Bitcoin? Our workshops demystify it, easing your fears. Prefer to teach yourself, but unsure where to begin? Check out our <a href="/new-to-bitcoin">New to Bitcoin</a> page for resources!</p>
 
 ### Tools for Businesses to Accept Bitcoin
 
