@@ -26,8 +26,6 @@ Our mission is to onboard Chattanooga to a prosperous future with the best money
 
 Together, we’re creating a bitcoin circular economy and onboarding Chattanooga to the future of money. *Nothing stops this train!*
 
-<br>
-
 ## Our Story
 
 <img src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
