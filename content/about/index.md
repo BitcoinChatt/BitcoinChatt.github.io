@@ -30,7 +30,7 @@ Together, we’re creating a bitcoin circular economy and onboarding Chattanooga
 
 <img src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
 
-### Our Story
+## Our Story
 
 <br>
 
@@ -42,16 +42,60 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 <img src="./Jason%20at%20CHEA%20Workshop.jpg" style="width:20dvw;float:right;">
 
-### Who is Jason Sellers?
+## Meet the Team
 
 <br>
 
-Jason, Bitcoin Chatt’s Founder and Executive Director, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while working in package delivery. In 2018, he found he had a passion for Bitcoin education, and created online groups to teach others about it.
+### Jason Sellers
 
-From 2022 to 2023, Jason led community growth at [NOAH](https://www.noah.com/), which designed a wallet app for those in developing countries to use bitcoin. He was then the Community Manager at the Spirit of Satoshi, a Large Language Model built on all Bitcoin knowledge, making it the ultimate AI expert on the topic.
+<br>
 
-In early 2024, Jason published ["21 Questions: A Beginner's Guide to Bitcoin"](https://a.co/d/0mcMtUC), a book that offers reliable answers to the top 21 Bitcoin-related questions from some of the most knowledgeable voices in the space. He was also the Ambassador Concierge at [Satlantis](https://www.satlantis.io/), a social app with Tripadvisor capabilities, until February 2025, when he left to focus all his time on building Bitcoin Chatt.
+<p style="margin-left: 2rem;">Jason, Bitcoin Chatt’s Founder and Executive Director, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while working in package delivery. In 2018, he found he had a passion for Bitcoin education, and created online groups to teach others about it.</p>
 
-Jason and his wife Leigh Ann live in Rossville, Georgia, with their 6 homeschooled children. Follow him on both [Twitter/X](https://www.x.com/geekigai) and [Nostr](https://njump.me/npub1693220pmp0a4c04a0p7hkz874vsxkyfrvtk2yk4zjyj3e4c0ugjs3r4j0c).
+<p style="margin-left: 2rem;">From 2022 to 2023, Jason led community growth at <a href="https://www.noah.com/">NOAH</a>, which designed a wallet app for those in developing countries to use bitcoin. He was then the Community Manager at the Spirit of Satoshi, a Large Language Model built on all Bitcoin knowledge, making it the ultimate AI expert on the topic.</p>
+
+<p style="margin-left: 2rem;">In early 2024, Jason published <a href="https://a.co/d/0mcMtUC">"21 Questions: A Beginner's Guide to Bitcoin"</a>, a book that offers reliable answers to the top 21 Bitcoin-related questions from some of the most knowledgeable voices in the space. He was also the Ambassador Concierge at <a href="https://www.satlantis.io/">Satlantis</a>, a social app with Tripadvisor capabilities, until February 2025, when he left to focus all his time on building Bitcoin Chatt.</p>
+
+<p style="margin-left: 2rem;">Jason and his wife Leigh Ann live in Rossville, Georgia, with their 6 homeschooled children. Follow him on both <a href="https://www.x.com/geekigai">Twitter/X</a> and <a href="https://njump.me/npub1693220pmp0a4c04a0p7hkz874vsxkyfrvtk2yk4zjyj3e4c0ugjs3r4j0c">Nostr</a>.</p>
+
+<br>
+
+### Brett Spradlin
+
+<br>
+
+<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+
+<br>
+
+### David Wyatt
+
+<br>
+
+<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+
+<br>
+
+### John Holler
+
+<br>
+
+<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+
+<br>
+
+### Robert Blumberg
+
+<br>
+
+<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+
+<br>
+
+### Stephen Adkins
+
+<br>
+
+<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
 
 </div>
