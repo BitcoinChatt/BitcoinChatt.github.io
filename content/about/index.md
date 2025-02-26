@@ -26,7 +26,7 @@ With 39% of Chattanoogans facing financial instability<sup><a target="_blank" hr
 
 Together, we’re creating a bitcoin circular economy and onboarding Chattanooga to the future of money. *Nothing stops this train!*
 
-<img src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:25dvw;float:left;">
+<img src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
 
 ### Our Story
 
@@ -36,7 +36,7 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 ### Who is Jason Sellers?
 
-<img src="./Jason%20at%20CHEA%20Workshop.jpg" style="width:27dvw;float:right;">
+<img src="./Jason%20at%20CHEA%20Workshop.jpg" style="width:20dvw;float:right;">
 
 Jason, Bitcoin Chatt’s Founder and Executive Director, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while working in package delivery. In 2018, he found he had a passion for Bitcoin education, and created online groups to teach others about it.
 
