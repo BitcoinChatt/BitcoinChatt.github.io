@@ -28,12 +28,12 @@ h1 {
 }
 
 h1, h3 {
-  margin-bottom: 0rem;
+  margin: 0rem;
 }
 
 p {
   text-align: justify;
-  margin: 0rem;
+  margin-top: 0rem;
 }
 
 img {
