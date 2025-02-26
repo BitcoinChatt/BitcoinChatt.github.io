@@ -164,6 +164,10 @@ a:visited {
     justify-self: right;
   }
 
+  .desktop-only {
+    display: none;
+  }
+
   .article {
     padding: 0rem 0rem;
   }
