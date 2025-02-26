@@ -45,6 +45,11 @@ time {
   text-align: center;
 }
 
+iframe {
+  display: block;
+  margin: 0rem auto;
+}
+
 .icon {
   height: 3rem;
 }
