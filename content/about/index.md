@@ -40,9 +40,9 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 <br>
 
-## Meet the Team
-
 <br>
+
+## Meet the Team
 
 ### Jason Sellers
 
