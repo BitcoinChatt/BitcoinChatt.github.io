@@ -174,7 +174,12 @@ a:visited {
   }
 
   .article {
+    display: block;
     padding: 0rem 0rem;
+  }
+
+  .article img {
+    width: 85dvw !important;
   }
 
   .nav {
