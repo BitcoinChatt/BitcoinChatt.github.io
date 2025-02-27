@@ -66,9 +66,11 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 <br>
 
-### David Wyatt
+### David W.
 
 <br>
+
+<img src="./David W.png" style="width:20dvw;float:right;">
 
 <p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
 
