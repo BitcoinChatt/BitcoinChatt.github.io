@@ -17,6 +17,7 @@ window.onload = function()
 
   if (isMobile()) {
     console.log('This site is mobile.');
+    document.getElementById("calendar-widget").src = "https://teamup.com/kshn1rcuawwcj2uczf?view=l&showHeader=1&showLogo=1&showSearch=1&showProfileAndInfo=0&showSidepanel=1&showViewHeader=1&showAgendaDetails=0&showDateControls=1&showDateRange=1";
   } else {
     console.log('This site is not mobile.');
   }

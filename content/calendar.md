@@ -4,4 +4,14 @@ draft = false
 title = 'Calendar'
 +++
 
-<iframe src="https://calendar.google.com/calendar/embed?src=bitcoinchatt%40proton.me&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe id="calendar-widget" src="https://teamup.com/kshn1rcuawwcj2uczf?showProfileAndInfo=0&showSidepanel=1&disableSidepanel=1&showViewHeader=1&showAgendaDetails=0&showDateControls=1&showDateRange=1" loading="lazy" frameborder="0" allowtransparency="true"></iframe>
+
+<div style="text-align:center;">
+
+<br>
+
+### This is the calendar of all Bitcoin Chattanooga events. Select any upcoming workshops, meetups, and service events and hit "Signup" to RSVP.
+
+<br><br>
+
+</div>
