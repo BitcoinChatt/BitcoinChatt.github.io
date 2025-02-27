@@ -45,7 +45,7 @@ time {
   text-align: center;
 }
 
-iframe {
+iframe, form, input, textarea, button {
   display: block;
   margin: 0rem auto;
 }
