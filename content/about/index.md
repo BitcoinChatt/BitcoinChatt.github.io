@@ -78,7 +78,9 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 <br>
 
-<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+<img src="./John Holler.png" style="width:20dvw;float:right;">
+
+<p style="margin-left: 2rem;">John took the Orange Pill in 2020 as he watched the COVID insanity unfold and trillions of fiat dollars get created out of thin air. He also took the Cow Pill, and in 2022 started a regenerative farm with his wife, Kathryn, and two other households. Their farm is <a href="http://beecreektn.com/">Bee Creek Farm</a> in Crossville, TN and they prefer payment in bitcoin!</p>
 
 <br>
 
