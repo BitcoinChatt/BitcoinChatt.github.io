@@ -17,7 +17,11 @@ window.onload = function()
 
   if (isMobile()) {
     console.log('This site is mobile.');
-    document.getElementById("calendar-widget").src = "https://teamup.com/kshn1rcuawwcj2uczf?view=l&showHeader=1&showLogo=1&showSearch=1&showProfileAndInfo=0&showSidepanel=1&showViewHeader=1&showAgendaDetails=0&showDateControls=1&showDateRange=1";
+
+    if (document.getElementById("calendar-widget"))
+    {
+      document.getElementById("calendar-widget").src = "https://teamup.com/kshn1rcuawwcj2uczf?view=l&showHeader=1&showLogo=1&showSearch=1&showProfileAndInfo=0&showSidepanel=1&showViewHeader=1&showAgendaDetails=0&showDateControls=1&showDateRange=1";
+    }
   } else {
     console.log('This site is not mobile.');
   }
@@ -26,8 +30,15 @@ window.onload = function()
   var map = L.map('map', {
     zoomControl: true,
     dragging: true,
-    scrollWheelZoom: true
+    scrollWheelZoom: true,
+    zoomSnap: 0.1,
+    tapHold: true
   }).setView([35.0456, -85.3097], 10);
+
+  while (document.getElementById('map') === null)
+    {
+      console.log('waiting for map');
+    }
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors'

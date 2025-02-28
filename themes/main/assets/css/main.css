@@ -180,6 +180,12 @@ a:visited {
     justify-self: right;
   }
 
+  #map {
+    width: 90dvw;
+    height: 60dvh;
+    padding-bottom: 0%;
+  }
+
   .desktop-only {
     display: none;
   }
