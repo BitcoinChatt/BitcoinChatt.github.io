@@ -40,7 +40,7 @@ window.onload = function()
               'Phone: 423-800-6800<br>' +
               'Hours: Mon-Thurs, 10AM-6PM<br>' +
               'Website: <a href="https://divinedesignnaturalhealth.com" target="_blank">DivineDesignNaturalHealth.com</a><br>' +
-              '<img src="themes/main/static/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg" style="width: 100px;">');
+              '<img src="/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg" style="width: 100px;">');
 
   // Pin 2: The Agora
   L.marker([35.1478, -85.2350]).addTo(map)
@@ -48,7 +48,7 @@ window.onload = function()
               'Address: 6112 Hixson Pike, Hixson, TN 37343<br>' +
               'Hours: Mon & Sat, 10AM-7PM<br>' +
               'Website: <a href="https://theagorahub.com" target="_blank">TheAgoraHub.com</a><br>' +
-              '<img src="themes/main/static/images/Bitcoin Businesses/The Agora/The-Agora.png" style="width: 100px;">');
+              '<img src="/images/Bitcoin Businesses/The Agora/The-Agora.png" style="width: 100px;">');
 
   // Polygon for Same Day Septic Service Area
   var sameDaySepticPolygon = [
@@ -77,7 +77,7 @@ window.onload = function()
               'Phone: 423-834-4867<br>' +
               'Hours: Sun-Sat, 12AM-11:45PM<br>' +
               'Website: <a href="https://samedayseptic.co" target="_blank">SameDaySeptic.co</a><br>' +
-              '<img src="themes/main/static/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;">');
+              '<img src="/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;">');
 }
 
 
