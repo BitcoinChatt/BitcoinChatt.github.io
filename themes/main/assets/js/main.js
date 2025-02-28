@@ -38,7 +38,7 @@ window.onload = function()
   var pos = [35.056145, -85.121643/*35.037366, -85.056710*/];
   if (isMobile())
   {
-    map.setView(pos, 10);
+    map.setView(pos, 9.7);
   } else
   {
     map.setView(pos, 11);
