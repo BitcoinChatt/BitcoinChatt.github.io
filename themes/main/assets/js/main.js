@@ -51,7 +51,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://theagorahub.com" target="_blank">TheAgoraHub.com</a>');
 
   // Polygon for Same Day Septic Service Area
-  var sameDaySepticPolygon = [
+  /*8var sameDaySepticPolygon = [
     [35.221744, -84.788608],
     [34.863648, -85.054517],
     [34.685611, -85.266279],
@@ -68,10 +68,10 @@ window.onload = function()
     color: 'blue',
     fillColor: 'blue',
     fillOpacity: 0.2
-  }).addTo(map);
+  }).addTo(map);*/
 
   // Pin 3: Same Day Septic (Centroid of Polygon)
-  L.marker([35.007984, -85.241003]).addTo(map)
+  L.marker([35.001709, -85.128325]).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;"><br>' +
               '<b>Same Day Septic</b><br>' +
               '<b>Address:</b> Chattanooga, TN<br>' +
