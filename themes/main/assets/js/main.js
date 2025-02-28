@@ -33,7 +33,17 @@ window.onload = function()
     scrollWheelZoom: true,
     zoomSnap: 0.1,
     tapHold: true
-  }).setView([35.041565, -85.126445/*35.037366, -85.056710*/], 11);
+  });
+
+  var pos = [35.056145, -85.121643/*35.037366, -85.056710*/];
+  if (isMobile())
+  {
+    map.setView(pos, 10);
+  } else
+  {
+    map.setView(pos, 11);
+  }
+  
 
   while (document.getElementById('map') === null)
     {
