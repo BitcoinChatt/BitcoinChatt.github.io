@@ -70,7 +70,7 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 <br>
 
-<img src="./David W.png" style="width:15dvw;float:right;">
+<img src="./David W.png" style="width:12dvw;float:right;">
 
 <p style="margin-left: 2rem;">David began studying bitcoin in 2021. From podcasts, to YouTube, articles and finally able to meet up with the awesome group of people at Bitcoin Chatt. 
 Him and his family left California for South Dakota in late 2019, to be closer to family and escape to a ‘Free State’. After 2 years there, opportunity knocked and landed them in Tennessee.</p>
