@@ -22,7 +22,7 @@ title = 'Map'
 
 <br>
 
-### Do you own a business and accept bitcoin? [join](/join) us and let us know, and we'll add your business' location to our map!
+### Do you own a business and accept bitcoin? [Join](/join) us and let us know, and we'll add your business' location to our map!
 
 <br><br>
 
