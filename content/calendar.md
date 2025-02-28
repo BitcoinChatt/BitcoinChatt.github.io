@@ -8,6 +8,8 @@ title = 'Calendar'
 
 <div style="text-align:center;">
 
+<br>
+
 ### This is the calendar of all Bitcoin Chattanooga events. Select any upcoming workshops, meetups, and service events and hit "Signup" to RSVP.
 
 <br><br>
