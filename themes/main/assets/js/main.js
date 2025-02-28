@@ -27,7 +27,7 @@ window.onload = function()
     zoomControl: true,
     dragging: true,
     scrollWheelZoom: true
-  }).setView([35.0456, -85.3097], 9);
+  }).setView([35.0456, -85.3097], 10);
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors'
@@ -35,20 +35,20 @@ window.onload = function()
 
   // Pin 1: Divine Design Natural Health
   L.marker([35.1851, -84.8755]).addTo(map)
-    .bindPopup('<b>Divine Design Natural Health</b><br>' +
-              'Address: 3800 Keith St NW, Cleveland, TN 37312<br>' +
-              'Phone: 423-800-6800<br>' +
-              'Hours: Mon-Thurs, 10AM-6PM<br>' +
-              'Website: <a href="https://divinedesignnaturalhealth.com" target="_blank">DivineDesignNaturalHealth.com</a><br>' +
-              '<img src="/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg" style="width: 100px;">');
+    .bindPopup('<img src="/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg" style="width: 100px;"><br>' +
+              '<b>Divine Design Natural Health</b><br>' +
+              '<b>Address:</b> 3800 Keith St NW, Cleveland, TN 37312<br>' +
+              '<b>Phone:</b> 423-800-6800<br>' +
+              '<b>Hours:</b> Mon-Thurs, 10AM-6PM<br>' +
+              '<b>Website:</b> <a href="https://divinedesignnaturalhealth.com" target="_blank">DivineDesignNaturalHealth.com</a>');
 
   // Pin 2: The Agora
   L.marker([35.1478, -85.2350]).addTo(map)
-    .bindPopup('<b>The Agora</b><br>' +
-              'Address: 6112 Hixson Pike, Hixson, TN 37343<br>' +
-              'Hours: Mon & Sat, 10AM-7PM<br>' +
-              'Website: <a href="https://theagorahub.com" target="_blank">TheAgoraHub.com</a><br>' +
-              '<img src="/images/Bitcoin Businesses/The Agora/The-Agora.png" style="width: 100px;">');
+    .bindPopup('<img src="/images/Bitcoin Businesses/The Agora/The-Agora.png" style="width: 100px;"><br>' +
+              '<b>The Agora</b><br>' +
+              '<b>Address:</b> 6112 Hixson Pike, Hixson, TN 37343<br>' +
+              '<b>Hours:</b> Mon & Sat, 10AM-7PM<br>' +
+              '<b>Website:</b> <a href="https://theagorahub.com" target="_blank">TheAgoraHub.com</a>');
 
   // Polygon for Same Day Septic Service Area
   var sameDaySepticPolygon = [
@@ -72,12 +72,12 @@ window.onload = function()
 
   // Pin 3: Same Day Septic (Centroid of Polygon)
   L.marker([35.007984, -85.241003]).addTo(map)
-    .bindPopup('<b>Same Day Septic</b><br>' +
-              'Address: Chattanooga, TN<br>' +
-              'Phone: 423-834-4867<br>' +
-              'Hours: Sun-Sat, 12AM-11:45PM<br>' +
-              'Website: <a href="https://samedayseptic.co" target="_blank">SameDaySeptic.co</a><br>' +
-              '<img src="/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;">');
+    .bindPopup('<img src="/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;"><br>' +
+              '<b>Same Day Septic</b><br>' +
+              '<b>Address:</b> Chattanooga, TN<br>' +
+              '<b>Phone:</b> 423-834-4867<br>' +
+              '<b>Hours:</b> Sun-Sat, 12AM-11:45PM<br>' +
+              '<b>Website:</b> <a href="https://samedayseptic.co" target="_blank">SameDaySeptic.co</a>');
 }
 
 
