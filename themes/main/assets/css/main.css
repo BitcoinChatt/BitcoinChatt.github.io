@@ -45,9 +45,14 @@ time {
   text-align: center;
 }
 
-iframe, form, input, textarea, button {
+iframe, form, input, textarea, button, #map {
   display: block;
   margin: 0rem auto;
+}
+
+#map {
+  width: 80%;
+  padding-bottom: 45%;
 }
 
 .icon {
