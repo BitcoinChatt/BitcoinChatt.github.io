@@ -12,7 +12,6 @@ title = 'Map'
 
 <br>
 
-{{< rawhtml >}}
 <div id="map" style="width: 1280px; height: 720px;"></div>
 <link rel="stylesheet" href="/css/leaflet.css" />
 <script src="/js/leaflet.js"></script>
@@ -74,7 +73,6 @@ title = 'Map'
               '<img src="themes/main/static/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;">');
 
 </script>
-{{< /rawhtml >}}
 
 <br>
 
