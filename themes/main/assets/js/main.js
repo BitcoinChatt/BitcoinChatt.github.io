@@ -33,7 +33,7 @@ window.onload = function()
     scrollWheelZoom: true,
     zoomSnap: 0.1,
     tapHold: true
-  }).setView([35.037366, -85.196710/*35.037366, -85.056710*/], 10);
+  }).setView([35.041565, -85.126445/*35.037366, -85.056710*/], 11);
 
   while (document.getElementById('map') === null)
     {
