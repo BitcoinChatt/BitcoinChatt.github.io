@@ -66,11 +66,11 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 <br>
 
+<img src="./David W.png" style="width:12dvw;float:right;">
+
 ### David W.
 
 <br>
-
-<img src="./David W.png" style="width:12dvw;float:right;">
 
 <p style="margin-left: 2rem;">David began studying bitcoin in 2021. From podcasts, to YouTube, articles and finally able to meet up with the awesome group of people at Bitcoin Chatt. 
 Him and his family left California for South Dakota in late 2019, to be closer to family and escape to a ‘Free State’. After 2 years there, opportunity knocked and landed them in Tennessee.</p>
@@ -81,11 +81,11 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 <br>
 
+<img src="./John Holler.png" style="width:20dvw;float:right;">
+
 ### John Holler
 
 <br>
-
-<img src="./John Holler.png" style="width:20dvw;float:right;">
 
 <p style="margin-left: 2rem;">John took the Orange Pill in 2020 as he watched the COVID insanity unfold and trillions of fiat dollars get created out of thin air. He also took the Cow Pill, and in 2022 started a regenerative farm with his wife, Kathryn, and two other households. Their farm is <a target="_blank" href="http://beecreektn.com/">Bee Creek Farm</a> in Crossville, TN and they prefer payment in bitcoin!</p>
 
@@ -97,13 +97,17 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 <br>
 
-### Robert B.
-
 <br>
 
 <img src="./Rob B.png" style="width:15dvw;float:right;">
 
+### Robert B.
+
+<br>
+
 <p style="margin-left: 2rem;">Robert first bought bitcoin in 2021 as an attempt to keep up with the crushing inflation caused by the government bailouts of the last 20 years. Bitcoin has no issuer and cannot be debased, which means his hard earned savings cannot be stolen by good intentioned politicians. Robert moved to Tennessee with his family in 2023. He has a passion for personal finance, spending less than he earns, and helping families preserve their assets.</p>
+
+<br>
 
 <br>
 
