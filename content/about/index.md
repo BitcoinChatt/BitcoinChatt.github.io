@@ -79,6 +79,8 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 <br>
 
+<br>
+
 ### John Holler
 
 <br>
@@ -89,11 +91,19 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 <br>
 
-### Robert Blumberg
+<br>
 
 <br>
 
-<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+### Robert B.
+
+<br>
+
+<img src="./Rob B.png" style="width:20dvw;float:right;">
+
+<p style="margin-left: 2rem;">Robert first bought bitcoin in 2021 as an attempt to keep up with the crushing inflation caused by the government bailouts of the last 20 years. Bitcoin has no issuer and cannot be debased, which means his hard earned savings cannot be stolen by good intentioned politicians. Robert moved to Tennessee with his family in 2023. He has a passion for personal finance, spending less than he earns, and helping families preserve their assets.</p>
+
+<br>
 
 <br>
 
@@ -102,5 +112,9 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 <br>
 
 <p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+
+<br>
+
+<br>
 
 </div>
