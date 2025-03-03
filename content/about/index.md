@@ -66,9 +66,9 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 <br>
 
-<img src="./David W.png" style="width:12dvw;float:right;">
-
 ### David W.
+
+<img src="./David W.png" style="width:12dvw;float:right;">
 
 <br>
 
@@ -81,9 +81,9 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 <br>
 
-<img src="./John Holler.png" style="width:20dvw;float:right;">
-
 ### John Holler
+
+<img src="./John Holler.png" style="width:20dvw;float:right;">
 
 <br>
 
@@ -99,9 +99,9 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 <br>
 
-<img src="./Rob B.png" style="width:15dvw;float:right;">
-
 ### Robert B.
+
+<img src="./Rob B.png" style="width:15dvw;float:right;">
 
 <br>
 
