@@ -6,6 +6,11 @@ title = 'Contact'
 +++
 
 <form target="_blank" action="https://formsubmit.co/d102e88eea9604b3922972d184399313" method="POST">
+
+## We'd love to hear from you!
+
+### Whether you have a general question about Bitcoin, a specific one about how your business can start accepting it, or a suggestion for anything we do better, no question, concern, or comment is unimportant!
+
   <div class="form-group">
     <div class="form-row">
       <div class="col">
@@ -20,7 +25,7 @@ title = 'Contact'
     </div>
   </div>
   <div class="form-group">
-    <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
+    <textarea placeholder="Your Message" class="textarea form-control" name="message" rows="10" required></textarea>
   </div>
   <button type="submit" class="form-button">Submit</button>
 </form>
