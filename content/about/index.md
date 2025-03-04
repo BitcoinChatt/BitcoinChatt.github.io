@@ -131,9 +131,9 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 <br>
 
-<p style="margin-left: 2rem;">Stephen started buying Bitcoin in 2014 and has been orange-pilling all who will listen ever since!
+<p style="margin-left: 2rem;">Stephen started buying Bitcoin in 2014 and has been orange-pilling all who will listen ever since!</p>
 
-After many years away, he moved with his family back to Chattanooga in 2022 to enjoy freedom and the natural beauty of the Tennessee Valley. He is passionate about helping families and small businesses get on the Bitcoin standard.</p>
+<p style="margin-left: 2rem;">After many years away, he moved with his family back to Chattanooga in 2022 to enjoy freedom and the natural beauty of the Tennessee Valley. He is passionate about helping families and small businesses get on the Bitcoin standard.</p>
 
 <br>
 
