@@ -5,7 +5,7 @@ underConstruction = true
 title = 'Contact'
 +++
 
-<form target="_blank" action="https://formsubmit.co/bitcoinchatt@proton.me" method="POST">
+<form target="_blank" action="https://formsubmit.co/d102e88eea9604b3922972d184399313" method="POST">
   <div class="form-group">
     <div class="form-row">
       <div class="col">
@@ -14,10 +14,13 @@ title = 'Contact'
       <div class="col">
         <input type="email" name="email" class="form-control" placeholder="Email Address" required>
       </div>
+      <div class="col">
+        <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+      </div>
     </div>
   </div>
   <div class="form-group">
     <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
   </div>
-  <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
+  <button type="submit" class="btn btn-lg btn-dark btn-block">Submit</button>
 </form>
