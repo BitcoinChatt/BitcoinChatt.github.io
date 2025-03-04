@@ -93,6 +93,13 @@ iframe, form, input, textarea, button, #map {
   padding: 0rem 20rem;
 }
 
+.form-button, .form-control {
+  width: 40dvw;
+  min-height: 4dvh;
+  border-radius: 8px;
+  margin: 1rem auto;
+}
+
 .nav {
   /*TODO: make this adapt to desktop/mobile devices*/
   display: flex;

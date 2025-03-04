@@ -1,7 +1,7 @@
 +++
 date = '2025-02-19T07:27:26-05:00'
 draft = false
-underConstruction = true
+underConstruction = false
 title = 'Contact'
 +++
 
@@ -22,5 +22,5 @@ title = 'Contact'
   <div class="form-group">
     <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
   </div>
-  <button type="submit" class="btn btn-lg btn-dark btn-block">Submit</button>
+  <button type="submit" class="form-button">Submit</button>
 </form>
