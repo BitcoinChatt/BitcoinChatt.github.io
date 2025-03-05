@@ -17,7 +17,7 @@ title = 'Contact'
 
   <br>
 
-  <p style="text-align: center;">Please fill out each part of this form</p>
+  <p style="text-align: center;">Please fill out each part of this form.</p>
 
   <div class="form-group">
     <div class="form-row">
