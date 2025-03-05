@@ -60,9 +60,11 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 ### Brett Spradlin
 
+<img src="./Brett Spradlin.png" style="width:15dvw;float:right;">
+
 <br>
 
-<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+<p style="margin-left: 2rem;">Dr. Brett Spradlin champions decentralization by accepting Bitcoin payments at his natural health practice. Rejecting conventional medicine, he employs ancient techniques of Biblical technology by using light, water, heat, electricity, plants, animals, and a healer's hands to provide life-changing results. He operates <a href="https://www.divinedesignnaturalhealth.com/">Divine Design Natural Health</a>, educates his community with regular Bitcoin onboarding events, and hosts a montlhly meetup, the Bitcoin Remnant of Cleveland. He passionately serves those who are ready to exit the modern medical and financial systems in search of God’s original divine design.</p>
 
 <br>
 
