@@ -11,7 +11,7 @@ title = 'Contact'
 
 <div class="article">
 
-### Whether you have a general question about Bitcoin, a specific one about how your business can start accepting it, or a suggestion for anything we do better, no question, concern, or comment is unimportant!
+### Whether you have a general question about Bitcoin, a specific one about how your business can start accepting it, or a suggestion for anything we can do better, no question, concern, or comment is unimportant!
 
 </div>
 
