@@ -6,9 +6,9 @@ title = 'New to Bitcoin?'
 
 <div class="article">
 
-# New to Bitcoin?
+<h1 style="text-align:center">New to Bitcoin?</h1>
 
-## You’ve come to the right place!
+<h2 style="text-align:center">You’ve come to the right place!</h2>
 
 Getting started with Bitcoin isn’t like picking up a new gadget or app—it’s a bigger leap, and the stakes can feel much higher. Many have hesitated because a misstep would be costly, and others are just not sure where to begin. If that’s you, you’re not alone, and this is exactly why Bitcoin Chatt exists. <b>We’re here to demystify Bitcoin, ease your worries, and walk alongside you as you jump onboard this game-changing money.</b>
 
@@ -24,7 +24,7 @@ But first, let’s tackle a couple of big questions that might be on your mind:
 
 <br>
 
-<img src="./Missed the Bus.png" style="width:30dvw;float:center;">
+<img src="./Missed the Bus.png" style="width:30dvw;margin-auto;">
 
 <br>
 
@@ -34,7 +34,7 @@ People have been asking this since Bitcoin’s early days, convinced they’ve m
 
 <br>
 
-<img src="./Bitcoin Prices Full History Log Scale.png" style="width:30dvw;float:center;">
+<img src="./Bitcoin Prices Full History Log Scale.png" style="width:30dvw;margin-auto;">
 
 <br>
 
@@ -44,7 +44,7 @@ Why 4 years? Bitcoin’s supply is capped at 21 million coins (each one divisibl
 
 <br>
 
-<img src="./Bitcoin Issuance Schedule.png" style="width:30dvw;float:center;">
+<img src="./Bitcoin Issuance Schedule.png" style="width:30dvw;margin-auto;">
 
 <br>
 
@@ -54,7 +54,7 @@ This leads to a cycle of new highs, burnout, and cooldown, while usually remaini
 
 <br>
 
-<img src="./Bitcoin's Adoption.png" style="width:30dvw;float:center;">
+<img src="./Bitcoin's Adoption.png" style="width:30dvw;margin-auto;">
 
 <br>
 
@@ -68,7 +68,7 @@ At Bitcoin Chatt, our focus is only on Bitcoin (BTC), and here’s why: Bitcoin 
 
 <br>
 
-<img src="./Spot the Difference.png" style="width:30dvw;float:center;">
+<img src="./Spot the Difference.png" style="width:30dvw;margin-auto;">
 
 <br>
 
@@ -78,7 +78,7 @@ Bitcoin is different. It has no CEO, no headquarters, and no fancy foundation pu
 
 <br>
 
-<img src="./Perception vs Reality.png" style="width:30dvw;float:center;">
+<img src="./Perception vs Reality.png" style="width:30dvw;margin-auto;">
 
 <br>
 
