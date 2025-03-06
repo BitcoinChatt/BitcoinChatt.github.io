@@ -24,7 +24,7 @@ But first, let’s tackle a couple of big questions that might be on your mind:
 
 <br>
 
-<img src="./Missed the Bus.png" style="width:30dvw;display:block;margin:0 auto;">
+<img src="./Missed the Bus.png" style="width:50dvw;display:block;margin:0 auto;">
 
 <br>
 
