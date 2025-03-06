@@ -84,9 +84,9 @@ Bitcoin is different. It has no CEO, no headquarters, and no fancy foundation pu
 
 <br>
 
-Ready to start learning about the future of money? Let’s start with the basics: <a href="https://www.bitcoinchatt.org/what-is-money">What is Money, and Why Do We Need It?</a>
+Ready to start learning about the future of money? Let’s start with the basics: <a href="https://www.bitcoinchatt.org/new-to-bitcoin/what-is-money">What is Money, and Why Do We Need It?</a>
 
-Or, browse the <a href="https://www.bitcoinchatt.org/table-of-contents">Table of Contents</a> to skip to whatever sparks your curiosity. Together, we’re turning Chattanooga into a Bitcoin city, with all the savings, freedom, and lasting prosperity that comes with it. Nothing stops this train, and we’re excited for you to climb aboard!
+Or, browse the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents">Table of Contents</a> to skip to whatever sparks your curiosity. Together, we’re turning Chattanooga into a Bitcoin city, with all the savings, freedom, and lasting prosperity that comes with it. Nothing stops this train, and we’re excited for you to climb aboard!
 
 <br>
 
