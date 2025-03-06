@@ -11,13 +11,11 @@ title = 'Contact'
 
 <div class="article">
 
-<<<<<<< HEAD
-### Whether you have a general question about Bitcoin, a specific one about how your business can start accepting it, or a suggestion for anything we do better, no question, concern, or comment is unimportant!
-=======
-### Whether you have a general question about Bitcoin, a specific one about your business accepting it for payment, or a suggestion for anything we can do better, there is no question, concern, or comment that's too unimportant for us to answer!
+### Do you have a general question about Bitcoin, a specific question about your business accepting it, or a suggestion for anything we can do better?
+
+### Send us your questions, concerns, or comments!
 
 </div>
->>>>>>> 785bf430ed89b11fd459d30d303a7117b5101923
 
 </div>
 
