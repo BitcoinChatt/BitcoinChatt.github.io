@@ -1,4 +1,4 @@
-+++
+r+++
 date = '2025-03-06T07:27:26-05:00'
 draft = false
 title = 'New to Bitcoin?'
@@ -24,7 +24,7 @@ But first, let’s tackle a couple of big questions that might be on your mind:
 
 <br>
 
-<img src="./Missed the Bus.png" style="width:30dvw;margin-auto;">
+<img src="./Missed the Bus.png" style="width:30dvw;display:block;margin:0auto;">
 
 <br>
 
@@ -34,7 +34,7 @@ People have been asking this since Bitcoin’s early days, convinced they’ve m
 
 <br>
 
-<img src="./Bitcoin Prices Full History Log Scale.png" style="width:30dvw;margin-auto;">
+<img src="./Bitcoin Prices Full History Log Scale.png" style="width:30dvw;display:block;margin:0auto;">
 
 <br>
 
@@ -44,7 +44,7 @@ Why 4 years? Bitcoin’s supply is capped at 21 million coins (each one divisibl
 
 <br>
 
-<img src="./Bitcoin Issuance Schedule.png" style="width:30dvw;margin-auto;">
+<img src="./Bitcoin Issuance Schedule.png" style="width:30dvw;display:block;margin:0auto;">
 
 <br>
 
@@ -54,7 +54,7 @@ This leads to a cycle of new highs, burnout, and cooldown, while usually remaini
 
 <br>
 
-<img src="./Bitcoin's Adoption.png" style="width:30dvw;margin-auto;">
+<img src="./Bitcoin's Adoption.png" style="width:30dvw;display:block;margin:0auto;">
 
 <br>
 
@@ -68,7 +68,7 @@ At Bitcoin Chatt, our focus is only on Bitcoin (BTC), and here’s why: Bitcoin 
 
 <br>
 
-<img src="./Spot the Difference.png" style="width:30dvw;margin-auto;">
+<img src="./Spot the Difference.png" style="width:30dvw;display:block;margin:0auto;">
 
 <br>
 
@@ -78,7 +78,7 @@ Bitcoin is different. It has no CEO, no headquarters, and no fancy foundation pu
 
 <br>
 
-<img src="./Perception vs Reality.png" style="width:30dvw;margin-auto;">
+<img src="./Perception vs Reality.png" style="width:30dvw;display:block;margin:0auto;">
 
 <br>
 
