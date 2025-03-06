@@ -26,6 +26,10 @@ Our mission is to onboard Chattanooga to a prosperous future with the best money
 
 Together, we’re creating a bitcoin circular economy and onboarding Chattanooga to the future of money. *Nothing stops this train!*
 
+<br>
+
+<br>
+
 ## Our Story
 
 <img src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
@@ -35,6 +39,10 @@ Together, we’re creating a bitcoin circular economy and onboarding Chattanooga
 Bitcoin Chatt began as a humble meetup on October 1, 2021, where local Bitcoiners built friendships and educated curious visitors. In January 2025, Founder Jason Sellers visited El Salvador—the first nation to adopt bitcoin—and saw the hope that had spread from a small beach town there, to become a national phenomenon. Inspired, he returned to replicate that transformation here.
 
 Time will tell how far we go, but you can play an important role in our efforts to make the future one of liberty and personal responsibility, of savings and hope, and of peace and prosperity. Accept bitcoin at your business and be included on our [map](/map), [join](/join) our service projects, [donate](/donate) to keep us going, or simply spread the word—your support will lead to a freer, thriving Chattanooga.
+
+<br>
+
+<br>
 
 <br>
 
@@ -60,9 +68,27 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 ### Brett Spradlin
 
+<img src="./Brett Spradlin.png" style="width:15dvw;float:right;">
+
 <br>
 
-<p style="margin-left: 2rem;"><i>Bio coming soon!</i></p>
+<p style="margin-left: 2rem;">Dr. Brett Spradlin champions decentralization by accepting Bitcoin payments at his natural health practice. Rejecting conventional medicine, he employs ancient techniques of Biblical technology by using light, water, heat, electricity, plants, animals, and a healer's hands to provide life-changing results. He operates <a href="https://www.divinedesignnaturalhealth.com/">Divine Design Natural Health</a>, educates his community with regular Bitcoin onboarding events, and hosts a montlhly meetup, the Bitcoin Remnant of Cleveland. He passionately serves those who are ready to exit the modern medical and financial systems in search of God’s original divine design.</p>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <br>
 
@@ -134,6 +160,14 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 <p style="margin-left: 2rem;">Stephen started buying Bitcoin in 2014 and has been orange-pilling all who will listen ever since!</p>
 
 <p style="margin-left: 2rem;">After many years away, he moved with his family back to Chattanooga in 2022 to enjoy freedom and the natural beauty of the Tennessee Valley. He is passionate about helping families and small businesses get on the Bitcoin standard.</p>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <br>
 

@@ -12,6 +12,11 @@
     <h3 class="header-element"><a href="/donate">Donate</a></h3>
   </div>
   <img id="hamburger" src="/images/hamburger.png" onclick="toggleHeaderMenu()">
+
+  <h1>{{ .Path }}</h1>
+  {{- if .Params.underConstruction }}
+    {{ partial "coming-soon.html" . }}
+  {{- end }}
 </div>
 
 <!--{{ partial "menu.html" (dict "menuID" "main" "page" .) }}-->
