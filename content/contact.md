@@ -13,6 +13,8 @@ title = 'Contact'
 
 ### Do you have a general question about Bitcoin, a specific question about your business accepting it, or a suggestion for anything we can do better?
 
+<br>
+
 ### Send us your questions, concerns, or comments!
 
 </div>
