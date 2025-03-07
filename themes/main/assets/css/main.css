@@ -11,6 +11,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
   min-height: 100dvh;
+  text-align: justify;
 }
 
 header {
@@ -32,7 +33,6 @@ h1, h3 {
 }
 
 p {
-  text-align: justify;
   margin-top: 0rem;
 }
 
@@ -91,6 +91,20 @@ iframe, form, input, textarea, button, #map {
 
 .article {
   padding: 0rem 20rem;
+}
+
+.table-of-contents {
+  padding: 0rem 30rem;
+}
+
+.tight-margin {
+  text-align: left;
+  padding: 0rem 38rem;
+}
+
+.tighter-margin {
+  text-align: left;
+  padding: 0rem 42rem;
 }
 
 form {
