@@ -13,6 +13,8 @@ title = 'What Is Money'
 
 <h3 syle="text-align:left">What is Money?</h3>
 
+<br>
+
 We often take money for granted. We use it every day, but have you ever stopped to consider what it is fundamentally, beyond coins or bills? At its core, <b>money is a technology that turns our time, work, and resources into a form that can be easily saved and shared.</b> Without money, trade would have to rely on bartering, which is burdened with a problem known as the “coincidence of wants”—both sides must have what the other wants, or else no trade can occur.
 
 Money resolves this issue by eliminating the need for perfect matches, enabling trade with anyone, anywhere. Just as written and spoken words enable us to communicate information, money acts like a language that allows us to express and transfer value with each other.
@@ -26,6 +28,8 @@ For a quick overview of this topic, this short video explains it really well:
 <br>
 
 <h3 syle="text-align:left">The Functions of Money</h3>
+
+<br>
 
 Money plays three essential functions in the economy, each relying on the one before it: Store of Value, Medium of Exchange, and Unit of Account. In order for anything to become money, it must fulfill these roles in this sequence, as it earns society’s trust as money.
 
@@ -48,6 +52,8 @@ Each function depends on its predecessor, forming a hierarchy of utility. A new 
 <br>
 
 <h3 syle="text-align:left">The Properties of Ideal Money</h3>
+
+<br>
 
 For millennia, people have used various forms of money, and discovered the ideal qualities that money should have. Historically, none have possessed them all, but the more of these a money had, the more effectively it served humanity’s needs. These properties are:
 
@@ -124,6 +130,8 @@ For millennia, people have used various forms of money, and discovered the ideal
 <br>
 
 <h3 syle="text-align:left">A World Without Money</h3>
+
+<br>
 
 Science fiction writers and idealists have often spoken highly about a world without money, but once you understand what money is and its place in our society, it becomes clear how indispensable money is for a functioning civilization. Without it, we’d be forced to make direct exchanges for our needs, and our large, complex society would collapse.
 
