@@ -21,7 +21,7 @@ What do we mean by “value”? Value is never intrinsic to anything, but only e
 
 For a quick overview of this topic, this short video explains it really well:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/InwVM6s7WoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/InwVM6s7WoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 ## The Functions of Money
@@ -35,7 +35,7 @@ Finally, money acts as a <b>Unit of Account</b>, a standardized measure of value
 
 <br>
 
-<img src="./3 Functions of Money.png" style="width:50dvw;display:block;margin:0 auto;">
+<img src="./3 Functions of Money.png" style="width:25dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -49,11 +49,15 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 <br>
 
+<br>
+
 ### Scarcity
 
 <img src="./Scarcity.png" style="width:5dvw;float:right;">
 
 <p style="margin-left: 2rem;">Money must be limited in supply and difficult to acquire, so the only way to make or find more of it is the same way that someone else would earn it from you: through hard work!</p>
+
+<br>
 
 <br>
 
@@ -65,11 +69,15 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 <br>
 
+<br>
+
 ### Divisibility
 
 <img src="./Divisibility.png" style="width:5dvw;float:right;">
 
 <p style="margin-left: 2rem;">Money needs to be divisible into smaller units without loss, enabling precise transactions, whether you’re buying a house or a sandwich.</p>
+
+<br>
 
 <br>
 
@@ -81,6 +89,8 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 <br>
 
+<br>
+
 ### Fungibility
 
 <img src="./Fungibility.png" style="width:5dvw;float:right;">
@@ -89,11 +99,15 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 <br>
 
+<br>
+
 ### Verifiability
 
 <img src="./Verifiability.png" style="width:5dvw;float:right;">
 
 <p style="margin-left: 2rem;">It needs to be possible to quickly and easily authenticate whether a unit of money is real or not, since this guards against fraud and fosters trust between the buyer and seller.</p>
+
+<br>
 
 <br>
 
@@ -117,5 +131,9 @@ For an advanced society to prosper without money, everyone would have to always 
 Friedrich Hayek once observed, <i>“Money is one of the greatest instruments of freedom ever invented by man.”</i> It liberates us from these constraints, enabling cooperation and abundance on an unprecedented scale. Money isn’t optional; it’s the lifeblood of civilization itself.
 
 Next, we’ll explore <a href=”https://www.bitcoinchatt.org//new-to-bitcoin/history-of-money”>the History of Money</a>—from shells to dollars—and see how they stack up against the ideal traits of money.
+
+<br>
+
+<br>
 
 </div>
