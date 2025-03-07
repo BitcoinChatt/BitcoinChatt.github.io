@@ -94,12 +94,12 @@ iframe, form, input, textarea, button, #map {
 }
 
 .table-of-contents {
-  padding: 0rem 30rem;
+  padding: 0rem 36rem;
 }
 
 .tight-margin {
   text-align: left;
-  padding: 0rem 38rem;
+  padding: 0rem 39rem;
 }
 
 .tighter-margin {
@@ -224,6 +224,18 @@ a:visited {
 
   .article img {
     width: 85dvw !important;
+  }
+
+  .table-of-contents {
+    padding: 0rem;
+  }
+  
+  .tight-margin {
+    padding: 0rem;
+  }
+  
+  .tighter-margin {
+    padding: 0rem;
   }
 
   #calendar-widget {
