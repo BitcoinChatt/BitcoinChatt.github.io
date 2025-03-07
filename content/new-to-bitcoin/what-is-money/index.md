@@ -9,7 +9,7 @@ title = 'What Is Money'
 
 <h1 style="text-align:center">What is Money?</h1>
 
-<h2 style="text-align:center">And Why DO We Need It?</h2>
+<h2 style="text-align:center">And Why Do We Need It?</h2>
 
 ## What is Money?
 
