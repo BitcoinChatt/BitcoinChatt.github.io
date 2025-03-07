@@ -61,7 +61,7 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 ### Scarcity
 
-<img src="./Scarcity.png" style="width:5dvw;float:right;">
+<img class="mobile-icon" src="./Scarcity.png">
 
 <p style="margin-left: 2rem;">Money must be limited in supply and difficult to acquire, so the only way to make or find more of it is the same way that someone else would earn it from you: through hard work!</p>
 
@@ -71,7 +71,7 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 ### Durability
 
-<img src="./Durability.png" style="width:5dvw;float:right;">
+<img class="mobile-icon" src="./Durability.png">
 
 <p style="margin-left: 2rem;">Money must remain undamaged through time and use, resisting decay and destruction, preserving its value long after the work done to gain it is done.</p>
 
@@ -81,7 +81,7 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 ### Divisibility
 
-<img src="./Divisibility.png" style="width:5dvw;float:right;">
+<img class="mobile-icon" src="./Divisibility.png">
 
 <p style="margin-left: 2rem;">Money needs to be divisible into smaller units without loss, enabling precise transactions, whether you’re buying a house or a sandwich.</p>
 
@@ -91,7 +91,7 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 ### Portability
 
-<img src="./Portability.png" style="width:5dvw;float:right;">
+<img class="mobile-icon" src="./Portability.png">
 
 <p style="margin-left: 2rem;">Money must move easily across large geographic distances, unshackled by weight or bulk, so anyone anywhere can easily transact with each other.</p>
 
@@ -101,7 +101,7 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 ### Fungibility
 
-<img src="./Fungibility.png" style="width:5dvw;float:right;">
+<img class="mobile-icon" src="./Fungibility.png">
 
 <p style="margin-left: 2rem;">Each unit of the money must be equal to any other, and interchangeable without distinction, regardless of its physical condition (if the money is physical).</p>
 
@@ -111,7 +111,7 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 ### Verifiability
 
-<img src="./Verifiability.png" style="width:5dvw;float:right;">
+<img class="mobile-icon" src="./Verifiability.png">
 
 <p style="margin-left: 2rem;">It needs to be possible to quickly and easily authenticate whether a unit of money is real or not, since this guards against fraud and fosters trust between the buyer and seller.</p>
 
@@ -121,7 +121,7 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 ### Immutability
 
-<img src="./Immutability.png" style="width:5dvw;float:right;">
+<img class="mobile-icon" src="./Immutability.png">
 
 <p style="margin-left: 2rem;">Whichever of the above properties a money may have, this one locks them in so they stay fixed forever.</p>
 

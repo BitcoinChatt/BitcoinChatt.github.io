@@ -108,6 +108,11 @@ iframe, form, input, textarea, button, #map {
   padding: 0rem 42rem;
 }
 
+.mobile-icon {
+  width: 5dvw;
+  float: right;
+}
+
 form {
   text-align: center;
 }
@@ -223,7 +228,7 @@ a:visited {
     padding: 0rem 0rem;
   }
 
-  .article img {
+  .article :not(.mobile-icon) img {
     width: 85dvw !important;
   }
 
@@ -237,6 +242,13 @@ a:visited {
   
   .tighter-margin {
     padding: 0rem;
+  }
+
+  .mobile-icon {
+    float: none;
+    display: block;
+    margin: 0rem auto;
+    width: 25%;
   }
 
   #calendar-widget {
