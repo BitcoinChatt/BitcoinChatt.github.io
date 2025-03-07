@@ -59,8 +59,6 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 <br>
 
-<br>
-
 ### Scarcity
 
 <img src="./Scarcity.png" style="width:5dvw;float:right;">
