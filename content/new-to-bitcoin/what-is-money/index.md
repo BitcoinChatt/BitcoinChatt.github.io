@@ -147,7 +147,7 @@ For an advanced society to prosper without money, everyone would have to always 
 
 Friedrich Hayek once observed, <i>“Money is one of the greatest instruments of freedom ever invented by man.”</i> It liberates us from these constraints, enabling cooperation and abundance on an unprecedented scale. Money isn’t optional; it’s the lifeblood of civilization itself.
 
-Next, we’ll explore <a href=”https://www.bitcoinchatt.org/new-to-bitcoin/history-of-money”>the History of Money</a>—from shells to dollars—and see how they stack up against the ideal traits of money.
+Next, we’ll explore the [History of Money](/new-to-bitcoin/history-of-money)—from shells to dollars—and see how they stack up against the ideal traits of money.
 
 <br>
 
