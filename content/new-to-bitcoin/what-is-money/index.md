@@ -41,7 +41,7 @@ Finally, money acts as a <b>Unit of Account</b>, a standardized measure of value
 
 <br>
 
-<img src="./3 Functions of Money.png" style="width:25dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./3 Functions of Money.png">
 
 <br>
 
@@ -137,7 +137,7 @@ Why is that? There’s a concept that anthropologists call “Dunbar’s Number�
 
 <br>
 
-<img src="./Barter.png" style="width:25dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Barter.png">
 
 <br>
 

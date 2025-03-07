@@ -113,6 +113,12 @@ iframe, form, input, textarea, button, #map {
   float: right;
 }
 
+.mobile-banner {
+  width: 25dvw;
+  margin: 0 auto;
+  display: block;
+}
+
 form {
   text-align: center;
 }
@@ -249,6 +255,10 @@ a:visited {
     display: block;
     margin: 0rem auto;
     width: 25%;
+  }
+
+  .mobile-banner {
+    width: 90dvw;
   }
 
   #calendar-widget {
