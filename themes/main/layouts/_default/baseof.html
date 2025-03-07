@@ -8,10 +8,10 @@
     {{ partial "header.html" . }}
   </header>
   <main>
-    {{ block "main" . }}{{ end }}
-
     {{- if .Params.underConstruction }}
       {{ partial "coming-soon.html" . }}
+    {{- else }}
+      {{ block "main" . }}{{ end }}
     {{- end }}
   </main>
   <footer>
