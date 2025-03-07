@@ -11,7 +11,7 @@ title = 'What Is Money'
 
 <h2 style="text-align:center">And Why Do We Need It?</h2>
 
-## What is Money?
+<h3 syle="text-align:left">What is Money?</h3>
 
 We often take money for granted. We use it every day, but have you ever stopped to consider what it is fundamentally, beyond coins or bills? At its core, <b>money is a technology that turns our time, work, and resources into a form that can be easily saved and shared.</b> Without money, trade would have to rely on bartering, which is burdened with a problem known as the “coincidence of wants”—both sides must have what the other wants, or else no trade can occur.
 
@@ -24,7 +24,9 @@ For a quick overview of this topic, this short video explains it really well:
 <iframe width="700" height="394" src="https://www.youtube.com/embed/InwVM6s7WoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
-## The Functions of Money
+
+<h3 syle="text-align:left">The Functions of Money</h3>
+
 Money plays three essential functions in the economy, each relying on the one before it: Store of Value, Medium of Exchange, and Unit of Account. In order for anything to become money, it must fulfill these roles in this sequence, as it earns society’s trust as money.
 
 As a <b>Store of Value</b>, it must have purchasing power that can be preserved over time. Without this, no value can be exchanged today or stored for being exchanged tomorrow, leaving the would-be money without a solid foundation.
@@ -44,7 +46,9 @@ Finally, money acts as a <b>Unit of Account</b>, a standardized measure of value
 Each function depends on its predecessor, forming a hierarchy of utility. A new money, like Bitcoin, must prove itself first as value storage, then as a medium for exchanging goods and services, before naturally becoming the standard for measuring the value of everything.
 
 <br>
-## The Properties of Ideal Money
+
+<h3 syle="text-align:left">The Properties of Ideal Money</h3>
+
 For millennia, people have used various forms of money, and discovered the ideal qualities that money should have. Historically, none have possessed them all, but the more of these a money had, the more effectively it served humanity’s needs. These properties are:
 
 <br>
@@ -119,7 +123,8 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 <br>
 
-## A World Without Money
+<h3 syle="text-align:left">A World Without Money</h3>
+
 Science fiction writers and idealists have often spoken highly about a world without money, but once you understand what money is and its place in our society, it becomes clear how indispensable money is for a functioning civilization. Without it, we’d be forced to make direct exchanges for our needs, and our large, complex society would collapse.
 
 Why is that? There’s a concept that anthropologists call “Dunbar’s Number”. The number itself is roughly 150, and it represents the maximum meaningful relationships individuals can maintain with others. This cognitive ceiling limits our trust to only those we know personally, reducing us to bartering in small groups. This would restrict us from sustainably expanding local populations much past that point, and conflict with other small villages would be common.
