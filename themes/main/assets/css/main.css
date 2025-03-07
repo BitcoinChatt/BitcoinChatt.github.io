@@ -48,6 +48,7 @@ time {
 iframe, form, input, textarea, button, #map {
   display: block;
   margin: 0rem auto;
+  max-width: 95dvw;
 }
 
 #map {
