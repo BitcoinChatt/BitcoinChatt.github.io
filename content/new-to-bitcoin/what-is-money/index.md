@@ -124,7 +124,13 @@ Science fiction writers and idealists have often spoken highly about a world wit
 
 Why is that? There’s a concept that anthropologists call “Dunbar’s Number”. The number itself is roughly 150, and it represents the maximum meaningful relationships individuals can maintain with others. This cognitive ceiling limits our trust to only those we know personally, reducing us to bartering in small groups. This would restrict us from sustainably expanding local populations much past that point, and conflict with other small villages would be common.
 
+<br>
+
 <img src="./Barter.png" style="width:25dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
 
 For an advanced society to prosper without money, everyone would have to always know everyone else’s desires, both present and future, perfectly. And then we would still need to find each other for every trade, even across vast distances, while somehow being able to trust everyone implicitly. Needless to say, it can’t be done.
 
