@@ -16,11 +16,11 @@ If you prefer learning in person, our free workshops are open to everyone! Just 
 
 But if you’d rather take a self-guided approach, you’re in the right spot. On the following pages, we’ll guide you through the basics of economics and Bitcoin, and also point you to the best educational resources elsewhere on the internet. And if you’d like to suggest something we missed, share it with us on our  <a href="https://www.bitcoinchatt.org/contact">Contact</a> page so we can add it.
 
-But first, let’s tackle a couple of big questions that might be on your mind:
+But first, let’s tackle a couple big questions that might be on your mind:
 
 <br>
 
-## Am I Too Late?
+## "Am I Too Late?"
 
 <br>
 
@@ -60,7 +60,7 @@ This leads to a cycle of new highs, burnout, and cooldown, while usually remaini
 
 <br>
 
-## What About Other Cryptocurrencies?
+## "What About Other Cryptocurrencies?"
 
 <br>
 
