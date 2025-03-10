@@ -32,7 +32,7 @@ Together, we’re creating a bitcoin circular economy and onboarding Chattanooga
 
 ## Our Story
 
-<img src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
+<img class="mobile-banner" src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
 
 <br>
 
@@ -54,7 +54,7 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 <br>
 
-<img src="./Jason%20at%20CHEA%20Workshop.jpg" style="width:20dvw;float:right;">
+<img class="mobile-banner" src="./Jason%20at%20CHEA%20Workshop.jpg" style="width:20dvw;float:right;">
 
 <p style="margin-left: 2rem;">Jason, Bitcoin Chatt’s Founder and Executive Director, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while working in package delivery. In 2018, he found he had a passion for Bitcoin education, and created online groups to teach others about it.</p>
 
@@ -68,7 +68,7 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 ### Brett Spradlin
 
-<img src="./Brett Spradlin.png" style="width:15dvw;float:right;">
+<img class="mobile-banner" src="./Brett Spradlin.png" style="width:15dvw;float:right;">
 
 <br>
 
@@ -94,7 +94,7 @@ Time will tell how far we go, but you can play an important role in our efforts 
 
 ### David W.
 
-<img src="./David W.png" style="width:12dvw;float:right;">
+<img class="mobile-banner" src="./David W.png" style="width:12dvw;float:right;">
 
 <br>
 
@@ -109,7 +109,7 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 ### John Holler
 
-<img src="./John Holler.png" style="width:20dvw;float:right;">
+<img class="mobile-banner" src="./John Holler.png" style="width:20dvw;float:right;">
 
 <br>
 
@@ -127,7 +127,7 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 ### Robert B.
 
-<img src="./Rob B.png" style="width:15dvw;float:right;">
+<img class="mobile-banner" src="./Rob B.png" style="width:15dvw;float:right;">
 
 <br>
 
@@ -153,7 +153,7 @@ Him and his family left California for South Dakota in late 2019, to be closer t
 
 ### Stephen Adkins
 
-<img src="./Stephen Adkins.png" style="width:20dvw;float:right;">
+<img class="mobile-banner" src="./Stephen Adkins.png" style="width:20dvw;float:right;">
 
 <br>
 

@@ -113,7 +113,7 @@ iframe, form, input, textarea, button, #map {
   float: right;
 }
 
-.mobile-banner {
+.article-banner {
   width: 25dvw;
   margin: 0 auto;
   display: block;
@@ -257,8 +257,14 @@ a:visited {
     width: 25%;
   }
 
-  .mobile-banner {
+  .article-banner {
     width: 90dvw;
+  }
+
+  .mobile-banner {
+    width: 95dvw !important;
+    margin: 0 auto;
+    display: block;
   }
 
   #calendar-widget {
