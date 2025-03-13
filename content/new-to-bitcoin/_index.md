@@ -67,7 +67,13 @@ This leads to a cycle of new highs, burnout, and cooldown, while usually remaini
 <br>
 </details>
 
-## "What About Other Cryptocurrencies?"
+<details>
+        
+<summary>
+
+<h2 style="display: inline-block">"What About Other Cryptocurrencies?"</h2>
+
+</summary>
 
 <br>
 
@@ -88,6 +94,8 @@ Bitcoin is different. It has no CEO, no headquarters, and no fancy foundation pu
 <img class="mobile-banner" src="./Perception vs Reality.png" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
+
+</details>
 
 <br>
 
