@@ -22,11 +22,11 @@ But if you’d rather take a self-guided approach, you’re in the right spot. O
 
 <details>
         
-  <summary>
+<summary>
 
-## "Am I Too Late?"
+<h2 style="display: inline-block">"Am I Too Late?"</h2>
 
-  </summary>
+</summary>
 
 <br>
 
