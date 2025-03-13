@@ -20,7 +20,13 @@ But if you’d rather take a self-guided approach, you’re in the right spot. O
 
 <br>
 
+<details>
+        
+  <summary>
+
 ## "Am I Too Late?"
+
+  </summary>
 
 <br>
 
@@ -59,6 +65,7 @@ This leads to a cycle of new highs, burnout, and cooldown, while usually remaini
 <br>
 
 <br>
+</details>
 
 ## "What About Other Cryptocurrencies?"
 
