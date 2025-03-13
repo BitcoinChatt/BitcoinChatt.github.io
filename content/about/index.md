@@ -6,7 +6,7 @@ title = 'About'
 
 <div class="article">
 
-# *Welcome to Bitcoin Chattanooga—“Bitcoin Chatt” for short!*
+# *Welcome to Bitcoin Chattanooga!*
 
 <img class="desktop-only" src="/images/Logos/Bitcoin%20Chatt%20Avatar.png" style="width:16dvw;float:right;">
 
