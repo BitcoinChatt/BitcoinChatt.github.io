@@ -289,7 +289,7 @@ Local businesses in Chattanooga can benefit from Bitcoin, too. In order to accep
 
 <br>
 
-Bitcoin’s fixed supply of 21 million coins makes it truly unique. Unlike dollars, which lose value when more are printed, <b>Bitcoin can’t be debased</b>.f the amount you own is the numerator in the fraction of the total supply, then the denominator will forever be 21 million. As more people learn about what Bitcoin can do, demand for it will continue to rise, and as that rising demand meets its unchangeable supply, the price goes up. Historically, it's wise to hold your bitcoin for at least 4 years, so for many Chattanoogans, this is the long-term savings vehicle they desperately need, as a shield against inflation’s steady erosion of their purchasing power.
+Bitcoin’s fixed supply of 21 million coins makes it truly unique. Unlike dollars, which lose value when more are printed, <b>Bitcoin can’t be debased</b>. If the amount you own is the numerator in the fraction of the total supply, then the denominator will forever be 21 million. As more people learn about what Bitcoin can do, demand for it will continue to rise, and as that rising demand meets its unchangeable supply, the price goes up. Historically, it's wise to hold your bitcoin for at least 4 years, so for many Chattanoogans, this is the long-term savings vehicle they desperately need, as a shield against inflation’s steady erosion of their purchasing power.
 
 <br>
 
