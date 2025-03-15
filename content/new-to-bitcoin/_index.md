@@ -18,6 +18,18 @@ But if you’d rather take a self-guided approach, you’re in the right spot. O
 
 <br>
 
+<img class="mobile-banner" src="./Bitcoin Newbie.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+Ready to start learning about the future of money? Let’s start with the basics: <a href="https://www.bitcoinchatt.org/new-to-bitcoin/what-is-money">What is Money, and Why Do We Need It?</a>
+
+Or, browse the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents">Table of Contents</a> and skip to whatever sparks your curiosity. And feel free to look through the Frequently Asked Questions below!
+
+Together, we’re turning Chattanooga into the next Bitcoin city, with all the savings, freedom, and lasting prosperity that comes with it. Nothing stops this train, and it's time for you to climb aboard!
+
+<br>
+
 <br>
 
 <h1 style="text-align:center">Frequently Asked Questions</h1>
@@ -302,16 +314,6 @@ Bitcoin's price increasing with time also ties into a concept called <i>time pre
 <br>
 
 </details>
-
-<br>
-
-<br>
-
-Ready to start learning about the future of money? Let’s start with the basics: <a href="https://www.bitcoinchatt.org/new-to-bitcoin/what-is-money">What is Money, and Why Do We Need It?</a>
-
-Or, browse the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents">Table of Contents</a> to skip to whatever sparks your curiosity. Together, we’re turning Chattanooga into a Bitcoin city, with all the savings, freedom, and lasting prosperity that comes with it. Nothing stops this train, and we’re excited for you to climb aboard!
-
-<br>
 
 <br>
 
