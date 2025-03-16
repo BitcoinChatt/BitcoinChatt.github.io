@@ -13,8 +13,6 @@ title = 'What Is Money'
 
 <h2 style="text-align:center"><b>TL;DR:</b></h2>
 
-<br>
-
 <h3 style="text-align:center">Money is technology that allows us to store & share our time, work, & resources.</h3>
 
 <br>
