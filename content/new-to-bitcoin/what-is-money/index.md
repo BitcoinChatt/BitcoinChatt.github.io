@@ -21,7 +21,7 @@ title = 'What Is Money'
 
 <br>
 
-<h3 style="text-align:center">Money needs to be a Store of Value, a Mediam of Exchange, & a Unit of Account, <i>in that order.</i></h3>
+<h3 style="text-align:center">Money needs to be a Store of Value, a Medium of Exchange, & a Unit of Account, <i>in that order.</i></h3>
 
 <br>
 
