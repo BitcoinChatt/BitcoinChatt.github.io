@@ -46,7 +46,7 @@ Together, we’re turning Chattanooga into the next Bitcoin city, with all the s
 
 <br>
 
-<img class="mobile-banner" src="./Missed the Bus.png" style="width:50dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Missed the Bus.png" style="width:45dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -127,7 +127,7 @@ No, Bitcoin is not bad for the environment—actually, <b><i>it’s the game-cha
 
 <br>
 
-<img class="mobile-banner" src="./Gold Mine vs Bitcoin Mine.png" style="width:50dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Gold Mine vs Bitcoin Mine.png" style="width:45dvw;display:block;margin:0 auto;">
 
 <br>
 
