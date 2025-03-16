@@ -11,8 +11,6 @@ title = 'What Is Money'
 
 <h2 style="text-align:center">And Why Do We Need It?</h2>
 
-<br>
-
 <h2 style="text-align:center"><b>TL;DR:</b></h2>
 
 <br>
