@@ -127,7 +127,7 @@ No, Bitcoin is not bad for the environment—actually, <b><i>it’s the game-cha
 
 <br>
 
-<img class="mobile-banner" src="./Gold Mine vs Bitcoin Mine.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Gold Mine vs Bitcoin Mine.png" style="width:50dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -199,6 +199,12 @@ Bitcoin often gets called a scam or Ponzi scheme, but when you look at it more c
 
 <br>
 
+<img class="mobile-banner" src="./Ponzi Scheme.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 Bitcoin's value comes from the real problems it solves: its fixed supply of 21 million coins makes it impossible to debase, its public audit approximately every 10 minutes eliminates the possibility of fraud, and its decentralized network lets you transact globally without fear of censorship or confiscation. So as long as anyone wants to save their hard-earned money without its purchasing power being drained away by inflation, or have the assurance that there will never be a chargeback, or be able to send and receive money without it being frozen, then there will be demand for bitcoin. And when that rising demand meets Bitcoin's fixed supply, its price goes up.
 
 <br>
@@ -227,6 +233,12 @@ While it's true that some criminals have used bitcoin for illegal activities, it
 
 <br>
 
+<img class="mobile-banner" src="./Bitcoin is for Criminals.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 Even if criminals and terrorists suddenly switched to using bitcoin more than anything else, it wouldn’t mean bitcoin itself is flawed. Criminals use oxygen to breathe, water to drink, and roads to travel—does that make those things evil? Of course not. <b>Tools are neutral; it’s the intent behind their use that matters.</b> Sure, bad actors might choose to use it badly, just as they do with nearly everything else, but that’s a poor reason to dismiss a technology with such transformative potential.
 
 <br>
@@ -247,6 +259,12 @@ The question of what “backs” Bitcoin often trips people up because we’ve b
 
 <br>
 
+<img class="mobile-banner" src="./Intrinsic Value.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 Gold is backed by the time and energy it takes to dig it out of the earth, refine it, and shape it into coins or bars. The scarcity and the effort required to get it are what make it precious; it doesn't have "intrinsic value" (nothing does). The same goes for bitcoin. It’s "mined" through computational work, using energy to guess the answer to a math problem that, once found, can be used to easily prove that work was done to find the correct number. Thousands of computers around the world run these numbers approximately every 10 minutes to verify all bitcoin in circulation, and ensure that all transactions are legitimate. This means that Bitcoin is ultimately backed by immutable math, unbreakable energy, and unchangeable code, which are <i>infinitely</i> more reliable than corrupt bureaucrats.
 
 <br>
@@ -264,6 +282,12 @@ Gold is backed by the time and energy it takes to dig it out of the earth, refin
 <br>
 
 Bitcoin has never been hacked since it started running in 2009, and it’s designed to stay that way forever. It runs on a network of thousands of computers—called nodes—worldwide, each with a full copy of its protocol and ledger, the Timechain (often called a "blockchain"). To hack Bitcoin, someone would need to control every single node—not just most, but <i><b>all</b></i>—simultaneously, and change its rules without anyone noticing. The impossibility of such a task cannot be overstated; even one honest node restarting with the original rules would undo the attack.
+
+<br>
+
+<img class="mobile-banner" src="./Map of Nodes.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 <br>
 
@@ -295,6 +319,12 @@ On-chain Bitcoin transactions are publicly recorded on its Timechain (often call
 
 <br>
 
+<img class="mobile-banner" src="./CoinJoin.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 To enhance Bitcoin's privacy, a process known as <a target="_blank" href="https://bitcoinmagazine.com/technical/a-comprehensive-bitcoin-coinjoin-guide">CoinJoin</a> can mix bitcoin from multiple users in a transaction and obscure their history and future ownership. Additionally, the <a target="_blank" href="https://lightning.network/">Lightning Network</a> enables off-chain payments hidden from the public ledger, with even network nodes unable to trace the full path between the sender and receiver. Additionally, locking up bitcoin in an <a target="_blank" href="https://cashu.space/">ecash</a> token allows it to be transferred privately via any medium, like email or a piece of paper, without necessarily leaving a digital trail. Bitcoin’s layered privacy tools offer a robust, adaptable solution that outperforms overhyped alternatives.
 
 <br>
@@ -315,7 +345,13 @@ Bitcoin is important because it offers a decentralized alternative to traditiona
 
 <br>
 
-Local businesses in Chattanooga can benefit from Bitcoin, too. In order to accept credit card payments, businesses must pay fees of 2-3% to cover possible fraud and chargebacks. But <b>no fraudulent transaction has <i>ever</i> been confirmed on Bitcoin's ledger,</b> the Timechain (often called the "blockchain"), and all bitcoin transactions are <i>final</i>. So a business that accepts bitcoin can avoid those costs, potentially lowering prices for customers, increasing business profits, and keeping more revenue in the community.
+<img class="mobile-banner" src="./No Middleman.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
+Local businesses in Chattanooga can benefit from Bitcoin, too. In order to accept credit card payments, businesses must pay fees of 2-3% to cover possible fraud and chargebacks. But <b>no fraudulent transaction has <i>ever</i> been confirmed on Bitcoin's ledger,</b> the Timechain (often called a "blockchain"), and all bitcoin transactions are <i>final</i>. So a business that accepts bitcoin can avoid those costs, potentially lowering prices for customers, increasing business profits, and keeping more revenue in the community.
 
 <br>
 
@@ -323,7 +359,19 @@ Bitcoin’s fixed supply of 21 million coins makes it truly unique. Unlike dolla
 
 <br>
 
+<img class="mobile-banner" src="./Infinity Divided by 21 Million.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 Bitcoin's price increasing with time also ties into a concept called <i>time preference</i>, which measures how much the present is prioritized over the future. Like in <a target="_blank" href="https://youtu.be/2xMgHKxukr0">Stanford University's famous marshmallow test</a>, those with high time preference cannot delay gratification, and quickly eat the marshmallow, but those with low time preference are able to delay gratification, and work hard in the present to receive a greater reward (like a second marshmallow) in the future. Bitcoin’s limited supply, immutable code, and increasing value <b>train its users to lower their time preference,</b> leading to greater success, joy, and fulfilment in all areas of life.
+
+<br>
+
+<img class="mobile-banner" src="./Time Preference.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 <br>
 
