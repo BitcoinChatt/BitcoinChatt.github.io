@@ -127,6 +127,12 @@ No, Bitcoin is not bad for the environment—actually, <b><i>it’s the game-cha
 
 <br>
 
+<img class="mobile-banner" src="./Gold Mine vs Bitcoin Mine.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 <b>For any form of money to be worth anything, it must rely on energy.</b> Gold needs mining rigs to tear up the earth, and fiat currencies have banks, armored trucks, dishonest politicians, and even wars to back them up—all messy and wasteful. But Bitcoin fulfills the role of money more cleanly, efficiently, and peacefully than any type of money before it. Its energy use is a feature, not a bug, as it keeps the network ironclad and decentralized while pushing us toward a greener future.
 
 <br>
@@ -153,11 +159,23 @@ Don’t worry—Bitcoin’s got this covered! Its genius lies in its decentraliz
 
 <br>
 
+<img class="mobile-banner" src="./Map of Nodes.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 If the internet goes dark, that won't be a problem, either: Bitcoin is just information that's secured through work, so it would still be accessible through satellites, radio waves, USB drives, and any other communications medium. So just like with a power outage, if your private key is safe, your bitcoin will be safe and ready for you when connections are reestablished.
 
 <br>
 
-What about a worst-case scenario in which every single computer everywhere somehow gets shuts down, and they can't be restarted? It's true that in <i>that</i> situation, Bitcoin would be gone (until society is rebuilt and the nodes are turned back on), but the truth is that we’d have much bigger problems than not having digital, censorship resistant, perfectly sound money. Cash, gold, and other stores of value would be similarly useless, since the need for immediate survival would trump everything else.
+What about a worst-case scenario in which every single computer everywhere somehow gets shuts down, and they can't be restarted? It's true that in <i>that</i> situation, Bitcoin would be gone (until society is rebuilt and the nodes are turned back on), but the truth is that we’d have <i>much</i> bigger problems than not having digital, censorship resistant, and perfectly sound money. Cash, gold, and other stores of value would be similarly useless, since the need for immediate survival would trump everything else.
+
+<br>
+
+<img class="mobile-banner" src="./Bitcoin After Apocalypse.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 <br>
 
