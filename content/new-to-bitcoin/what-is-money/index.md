@@ -21,11 +21,11 @@ title = 'What Is Money'
 
 <br>
 
-<h3 style="text-align:center">Money needs to be a Store of Value, a Mediam of Exchange, and a Unit of Account, <i>in that order.</i></h3>
+<h3 style="text-align:center">Money needs to be a Store of Value, a Mediam of Exchange, & a Unit of Account, <i>in that order.</i></h3>
 
 <br>
 
-<h3 style="text-align:center">The best money would be Scarce, Durable, Divisible, Portable, Fungible, Verifiable, and Immutable.</h3>
+<h3 style="text-align:center">The best money would be Scarce, Durable, Divisible, Portable, Fungible, Verifiable, & Immutable.</h3>
 
 <br>
 
