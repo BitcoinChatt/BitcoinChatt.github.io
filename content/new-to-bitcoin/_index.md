@@ -103,7 +103,7 @@ At Bitcoin Chatt, our focus is only on Bitcoin (BTC), and here’s why: Bitcoin 
 
 <br>
 
-Bitcoin is different. It has no CEO, no headquarters, and no fancy foundation pulling strings. It’s owned and run by us—its users—built from the ground up to replace the broken banking system, not reinvent a worse version of it like cryptos do. Ben Perrin, the host of <<a target="_blank" href="https://www.youtube.com/@BTCSessions">BTC Sessions</a>, explained it perfectly: “With fiat, only one entity can print money; with crypto, anyone can print money; with Bitcoin, <i>no one</i> can print money.” That’s the level of integrity that Bitcoin represents, which is why we’re laser-focused on it.
+Bitcoin is different. It has no CEO, no headquarters, and no fancy foundation pulling strings. It’s owned and run by us—its users—built from the ground up to replace the broken banking system, not reinvent a worse version of it like cryptos do. Ben Perrin, the host of <a target="_blank" href="https://www.youtube.com/@BTCSessions">BTC Sessions</a>, explained it perfectly: “With fiat, only one entity can print money; with crypto, anyone can print money; with Bitcoin, <i>no one</i> can print money.” That’s the level of integrity that Bitcoin represents, which is why we’re laser-focused on it.
 
 <br>
 
