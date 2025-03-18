@@ -45,7 +45,7 @@ Now that we’ve explored money as a tool to express and transfer value—built 
 
 <br>
 
-<img class="mobile-banner" src="./Primitive Money.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Primitive Money.png" style="width:50dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -71,7 +71,7 @@ As societies grew and mingled, and new technologies made it easier to acquire ce
 
 <br>
 
-<img class="mobile-banner" src="./African Slave Beads.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./African Slave Beads.png" style="width:50dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -87,7 +87,11 @@ So in the 17th century, banks stepped in with the best solution available at the
 
 <br>
 
-<img class="mobile-banner" src="./Money Timeline to Fiat.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Money Timeline to Fiat.png" style="width:50dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
 
 In late 1913, the Federal Reserve was formed—a private bank that is not federal, nor does it hold any reserves—tasked by the U.S. government with printing bank notes and juggling the nation’s debt (learn more in <a target="_blank" href="https://a.co/d/2XXDCtT">The Creature from Jekyll Island</a>, by G. Edward Griffin). This flipped the entire concept of money upside-down—once rooted in the work required to obtain certain objects, it now relied on promises from dishonest men in suits.
 
@@ -99,7 +103,7 @@ Today, central banks can print all the money they want—both physically and dig
 
 <br>
 
-<img class="mobile-banner" src="./Breaches of that Trust.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Breaches of that Trust.png" style="width:50dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -111,7 +115,7 @@ Leading up to the 2008 financial crisis, many banks recklessly pursued wealth at
 
 <br>
 
-<img class="mobile-banner" src="./BRevolution Before Tomorrow Morning.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Revolution Before Tomorrow Morning.png" style="width:50dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -123,7 +127,7 @@ This radical new form of money would not be run by a powerful few, but defined b
 
 <br>
 
-<img class="mobile-banner" src="./Money Timeline to Bitcoin.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Money Timeline to Bitcoin.png" style="width:50dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -137,7 +141,7 @@ The chart below compares ancient and modern monies, from ancient stone ledgers t
 
 <br>
 
-<img class="mobile-banner" src="./Stone Ledger to Fiat.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Stone Ledger to Fiat.png" style="width:50dvw;display:block;margin:0 auto;">
 
 <br>
 
