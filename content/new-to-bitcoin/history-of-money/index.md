@@ -1,7 +1,7 @@
 +++
 date = '2025-03-17T07:39:04-05:00'
 draft = false
-underConstruction = true
+underConstruction = false
 title = 'History of Money'
 +++
 
