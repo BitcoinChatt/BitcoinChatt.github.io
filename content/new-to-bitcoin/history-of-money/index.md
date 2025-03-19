@@ -150,3 +150,5 @@ The chart below compares ancient and modern monies, from ancient stone ledgers t
 We’ve explored ancient monies and unpacked how the fiat system works today. Next, in <a href="https://www.bitcoinchatt.org/new-to-bitcoin/intro-to-bitcoin/">An Introduction to Bitcoin</a>, we’ll explore how Bitcoin fixes the problems born of old monetary systems, and why it might just be the best type of money humanity has ever had, and the last type we will ever need.
 
 <br>
+
+</div>
