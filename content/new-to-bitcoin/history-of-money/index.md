@@ -9,7 +9,7 @@ title = 'History of Money'
 
 <h1 style="text-align:center">The History of Money</h1>
 
-<h2 style="text-align:center">TL;DR:</h2>
+<h2 style="text-align:center">Key Points:</h2>
 
 <h3 style="text-align:center">There were many different kinds of ancient forms of money, each with its own strengths and weaknesses.</h3>
 
@@ -148,3 +148,5 @@ The chart below compares ancient and modern monies, from ancient stone ledgers t
 <br>
 
 We’ve explored ancient monies and unpacked how the fiat system works today. Next, in <a href="https://www.bitcoinchatt.org/new-to-bitcoin/intro-to-bitcoin/">An Introduction to Bitcoin</a>, we’ll explore how Bitcoin fixes the problems born of old monetary systems, and why it might just be the best type of money humanity has ever had, and the last type we will ever need.
+
+<br>
