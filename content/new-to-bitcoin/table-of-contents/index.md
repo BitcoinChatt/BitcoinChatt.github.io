@@ -25,24 +25,9 @@ How did money become what it is today? What can we learn from past forms of mone
 
 The story of Bitcoin’s creation, a non-technical look at how it works, the problems that bitcoin solves, and so much more\!
 
-## [**The Lightning Network**](/new-to-bitcoin/lightning-network)
-
-All about Bitcoin’s most popular network for scaling bitcoin,  
-so it can be used quickly, privately, and cheaply. 
-
 ## [**How to Use Bitcoin**](/new-to-bitcoin/how-to-use-bitcoin)
 
 Practical instructions for safely sending, receiving, and storing bitcoin as money for daily use.
-
-## [**Under the Hood**](/new-to-bitcoin/under-the-hood)
-
-A more technical look at how Bitcoin works under the hood,  
-from cryptography to UTXOs.
-
-## [**A Bitcoin Standard**](/new-to-bitcoin/bitcoin-standard)
-
-What might the world be like on a Bitcoin standard?  
-What can we do to make Chattanooga a Bitcoin city?
 
 ---
 
