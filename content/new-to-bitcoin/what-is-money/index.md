@@ -11,7 +11,7 @@ title = 'What Is Money'
 
 <h2 style="text-align:center">And Why Do We Need It?</h2>
 
-<h2 style="text-align:center"><b>TL;DR:</b></h2>
+<h2 style="text-align:center"><b>Key Points:</b></h2>
 
 <h3 style="text-align:center">Money is technology that allows us to store & share our time, work, & resources.</h3>
 
@@ -47,7 +47,11 @@ What do we mean by “value”? Value is never intrinsic to anything, but only e
 
 For a quick overview of this topic, this short video explains it really well:
 
+<br>
+
 <iframe width="700" height="394" src="https://www.youtube.com/embed/InwVM6s7WoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 <br>
 
@@ -151,6 +155,8 @@ For millennia, people have used various forms of money, and discovered the ideal
 
 <br>
 
+<br>
+
 <h3 syle="text-align:left">A World Without Money</h3>
 
 <br>
@@ -172,8 +178,6 @@ For an advanced society to prosper without money, everyone would have to always 
 Friedrich Hayek once observed, <i>“Money is one of the greatest instruments of freedom ever invented by man.”</i> It liberates us from these constraints, enabling cooperation and abundance on an unprecedented scale. Money isn’t optional; it’s the lifeblood of civilization itself.
 
 Next, we’ll explore the [History of Money](/new-to-bitcoin/history-of-money)—from shells to dollars—and see how they stack up against the ideal traits of money.
-
-<br>
 
 <br>
 
