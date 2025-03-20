@@ -13,61 +13,65 @@ title = 'Intro to Bitcoin'
 
 <details>
 
-<summary><h2 style="text-align:center">Key Points</h2></summary>
+<summary>
 
-<h3 style="text-align:center">Bitcoin was created by an anonymous individual or group calling themselves “Satoshi Nakamoto”.</h3>
+<h2 class="align-left" style="display: inline-block">Key Points</h2>
 
-<br>
+</summary>
 
-<h3 style="text-align:center">Satoshi disappeared in 2011, and has never been heard from since, nor have they used their bitcoin.</h3>
-
-<br>
-
-<h3 style="text-align:center">There will never be more than 21 million bitcoin.</h3>
+<h3 style="bullet-heading">Bitcoin was created by an anonymous individual or group calling themselves “Satoshi Nakamoto”.</h3>
 
 <br>
 
-<h3 style="text-align:center">Each bitcoin is divisible to the 100 millionth, called “satoshis” or just “sats”.</h3>
+<h3 style="bullet-heading">Satoshi disappeared in 2011, and has never been heard from since, nor have they used their bitcoin.</h3>
 
 <br>
 
-<h3 style="text-align:center">Bitcoin has all 7 ideal properties of money.</h3>
+<h3 style="bullet-heading">There will never be more than 21 million bitcoin.</h3>
 
 <br>
 
-<h3 style="text-align:center">Bitcoin uses a Timechain (a.k.a. “blockchain”), which is a shared public ledger of all bitcoin transactions.</h3>
+<h3 style="bullet-heading">Each bitcoin is divisible to the 100 millionth, called “satoshis” or just “sats”.</h3>
 
 <br>
 
-<h3 style="text-align:center">Bitcoin is decentralized, so the users are in charge.</h3>
+<h3 style="bullet-heading">Bitcoin has all 7 ideal properties of money.</h3>
 
 <br>
 
-<h3 style="text-align:center">Unlike with gold, more bitcoin miners does <i>not</i> mean more bitcoin will be mined faster.</h3>
+<h3 style="bullet-heading">Bitcoin uses a Timechain (a.k.a. “blockchain”), which is a shared public ledger of all bitcoin transactions.</h3>
 
 <br>
 
-<h3 style="text-align:center">About every 4 years, the rate of newly mined bitcoin is cut in half, and that will continue until the last sat is mined.</h3>
+<h3 style="bullet-heading">Bitcoin is decentralized, so the users are in charge.</h3>
 
 <br>
 
-<h3 style="text-align:center">There are 2 kinds of wallets: custodial and noncustodial (noncustodial is best).</h3>
+<h3 style="bullet-heading">Unlike with gold, more bitcoin miners does <i>not</i> mean more bitcoin will be mined faster.</h3>
 
 <br>
 
-<h3 style="text-align:center">Acquire bitcoin by exchanging for it or working for it.</h3>
+<h3 style="bullet-heading">About every 4 years, the rate of newly mined bitcoin is cut in half, and that will continue until the last sat is mined.</h3>
 
 <br>
 
-<h3 style="text-align:center">On-chain transactions are slow & sometimes expensive, but are the most secure, & not limited in the amount that can be sent.</h3>
+<h3 style="bullet-heading">There are 2 kinds of wallets: custodial and noncustodial (noncustodial is best).</h3>
 
 <br>
 
-<h3 style="text-align:center">Off-chain transactions are fast, cheap/free, still secure enough, but are sometimes limited in the amount that can be sent.</h3>
+<h3 style="bullet-heading">Acquire bitcoin by exchanging for it or working for it.</h3>
 
 <br>
 
-<h3 style="text-align:center">Dollars are the Titanic; Bitcoin is the lifeboat.</h3>
+<h3 style="bullet-heading">On-chain transactions are slow & sometimes expensive, but are the most secure, & not limited in the amount that can be sent.</h3>
+
+<br>
+
+<h3 style="bullet-heading">Off-chain transactions are fast, cheap/free, still secure enough, but are sometimes limited in the amount that can be sent.</h3>
+
+<br>
+
+<h3 style="bullet-heading">Dollars are the Titanic; Bitcoin is the lifeboat.</h3>
 
 <br>
 
