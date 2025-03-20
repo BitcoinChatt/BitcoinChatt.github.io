@@ -11,27 +11,39 @@ title = 'What Is Money'
 
 <h2 style="text-align:center">And Why Do We Need It?</h2>
 
-<h2 style="text-align:center"><b>Key Points:</b></h2>
+<center>
 
-<h3 style="text-align:center">Money is technology that allows us to store & share our time, work, & resources.</h3>
+<details>
 
-<br>
+<summary>
 
-<h3 style="text-align:center">We need money because <i>barter doesn't work.</i></h3>
+<h2 class="align-left" style="display: inline-block">Key Points</h2>
 
-<br>
+</summary>
 
-<h3 style="text-align:center">Money needs to be a Store of Value, a Medium of Exchange, & a Unit of Account, <i>in that order.</i></h3>
-
-<br>
-
-<h3 style="text-align:center">The best money would be Scarce, Durable, Divisible, Portable, Fungible, Verifiable, & Immutable.</h3>
+<h3 style="bullet-heading">Money is technology that allows us to store & share our time, work, & resources.</h3>
 
 <br>
 
-<h3 style="text-align:center">Without money, <b><i>civilization can not exist.</i></b></h3>
+<h3 style="bullet-heading">We need money because <i>barter doesn't work.</i></h3>
 
 <br>
+
+<h3 style="bullet-heading">Money needs to be a Store of Value, a Medium of Exchange, & a Unit of Account, <i>in that order.</i></h3>
+
+<br>
+
+<h3 style="bullet-heading">The best money would be Scarce, Durable, Divisible, Portable, Fungible, Verifiable, & Immutable.</h3>
+
+<br>
+
+<h3 style="bullet-heading">Without money, <i>civilization can not exist.</i></h3>
+
+<br>
+
+</details>
+
+</center>
 
 <br>
 
