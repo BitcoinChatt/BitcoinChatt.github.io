@@ -13,13 +13,7 @@ title = 'Intro to Bitcoin'
 
 <details>
 
-<summary>
-
-<h2 style="text-align:center">Key Points</h2>
-
-</summary>
-
-</center>
+<summary><h2 style="text-align:center">Key Points</h2></summary>
 
 <h3 style="text-align:center">Bitcoin was created by an anonymous individual or group calling themselves “Satoshi Nakamoto”.</h3>
 
@@ -78,6 +72,8 @@ title = 'Intro to Bitcoin'
 <br>
 
 </details>
+
+</center>
 
 <br>
 
