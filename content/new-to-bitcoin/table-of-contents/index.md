@@ -9,6 +9,8 @@ title = 'Table of Contents'
 
 # Table of Contents
 
+# The Intro to Bitcoin Series
+
 ## [**New to Bitcoin?**](/new-to-bitcoin/)
 
 If you’re new to Bitcoin, this is the place to start! Find answers to Frequently Asked Questions here\!
@@ -29,17 +31,23 @@ How Bitcoin started, a non-technical look at how it works, the problems that bit
 
 Practical tips for safely sending, receiving, and storing bitcoin as money for daily use\.
 
+
+
 ---
+
+
+
+# Other Resources
 
 ## [**Exchanges and Wallets**](/new-to-bitcoin/exchanges-and-wallets)
 
 A list of the best ways to acquire and store bitcoin, as recommended by Bitcoiners in the Chattanooga area\.
 
-## [**Other Resources**](/new-to-bitcoin/resources)
+## [**Educational Resources**](/new-to-bitcoin/resources)
 
 Some of the best websites, videos, articles, books, and even games that will teach you about Bitcoin\!
 
-## [**Glossary of Terms**](/new-to-bitcoin/glossary)
+## [**Glossary**](/new-to-bitcoin/glossary)
 
 "HODL"? "Timechain"? "Noncustodial wallets"? Learn what these and many other terms mean here\.
 
