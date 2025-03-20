@@ -175,7 +175,7 @@ This clip from <i>Willy Wonka & the Chocolate Factory</i> (1971) is a good analo
 
 <h4 syle="text-align:left"><i>Cryptography</i></h4>
 
-Bitcoin’s security is bolstered by basic cryptography. If you’re new to cryptography, it’s basically a field of mathematics with functions that can be easily verified in one direction, but are nearly impossible to solve in the other direction without repeated guessing and checking. <a target="_blank" href="https://youtu.be/YEBfamv-_do">This video</a> excellently described a metaphor to help you understand how cryptography works, using colo mixing. But you can watch the main clip here:
+Bitcoin’s security is bolstered by basic cryptography. If you’re new to cryptography, it’s basically a field of mathematics with functions that can be easily verified in one direction, but are nearly impossible to solve in the other direction without repeated guessing and checking. <a target="_blank" href="https://youtu.be/YEBfamv-_do">This video</a> excellently described a metaphor to help you understand how cryptography works, using color mixing. But you can watch the main clip here:
 
 <br>
 
