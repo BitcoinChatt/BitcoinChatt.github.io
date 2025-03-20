@@ -11,7 +11,9 @@ title = 'Intro to Bitcoin'
 
 <details>
 
-<h2 style="text-align:center"><summary>Key Points</h2>
+<summary>
+
+<h2 style="text-align:center">Key Points</h2>
 
 </summary>
 
