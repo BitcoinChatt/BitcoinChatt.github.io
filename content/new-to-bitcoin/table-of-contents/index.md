@@ -11,7 +11,7 @@ title = 'Table of Contents'
 
 <br>
 
-# The Intro to Bitcoin Series
+## The Intro to Bitcoin Series
 
 ## [**New to Bitcoin?**](/new-to-bitcoin/)
 
@@ -39,7 +39,7 @@ Practical tips for safely sending, receiving, and storing bitcoin as money for d
 
 <br>
 
-# Other Resources
+## Other Resources
 
 ## [**Exchanges and Wallets**](/new-to-bitcoin/exchanges-and-wallets)
 
