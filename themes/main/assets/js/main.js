@@ -71,26 +71,6 @@ window.onload = function()
               '<b>Hours:</b> Mon & Sat, 10AM-7PM<br>' +
               '<b>Website:</b> <a href="https://theagorahub.com" target="_blank">TheAgoraHub.com</a>');
 
-  // Polygon for Same Day Septic Service Area
-  /*8var sameDaySepticPolygon = [
-    [35.221744, -84.788608],
-    [34.863648, -85.054517],
-    [34.685611, -85.266279],
-    [34.675898, -85.287830],
-    [34.672740, -85.301062],
-    [34.987224, -85.468056],
-    [34.987231, -85.468055],
-    [35.159486, -85.376866],
-    [35.176297, -85.363120],
-    [35.327259, -85.154306],
-    [35.330686, -85.132336]
-  ];
-  L.polygon(sameDaySepticPolygon, {
-    color: 'blue',
-    fillColor: 'blue',
-    fillOpacity: 0.2
-  }).addTo(map);*/
-
   // Pin 3: Same Day Septic (Centroid of Polygon)
   L.marker([35.001709, -85.128325]).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;"><br>' +
@@ -100,5 +80,3 @@ window.onload = function()
               '<b>Hours:</b> Sun-Sat, 12AM-11:45PM<br>' +
               '<b>Website:</b> <a href="https://samedayseptic.co" target="_blank">SameDaySeptic.co</a>');
 }
-
-
