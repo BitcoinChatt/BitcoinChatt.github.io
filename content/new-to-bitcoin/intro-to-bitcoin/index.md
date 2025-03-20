@@ -155,7 +155,7 @@ Miners, equipped with the most efficient computer hardware available, expend ene
 
 This clip from <i>Willy Wonka & the Chocolate Factory</i> (1971) is a good analogy of the roles that nodes and miners each play:
 
-<video class="mobile-banner" src="./Node and Miners.mp4" controls style="width:40vw; display:block; margin:0 auto;">
+<video class="mobile-banner" src="./Node and Miners.mp4" controls style="width:40vw; display:block; margin:0 auto;"></video>
 
 <br>
 
@@ -163,7 +163,7 @@ This clip from <i>Willy Wonka & the Chocolate Factory</i> (1971) is a good analo
 
 Bitcoin’s security is bolstered by basic cryptography. If you’re new to cryptography, it’s basically a field of mathematics with functions that can be easily verified in one direction, but are nearly impossible to solve in the other direction without repeated guessing and checking. <a target="_blank" href="https://youtu.be/YEBfamv-_do">This video</a> excellently described a metaphor to help you understand how cryptography works, using colo mixing. But you can watch the main clip here:
 
-<video class="mobile-banner" src="./Encryption Explained.mp4" controls style="width:40vw; display:block; margin:0 auto;">
+<video class="mobile-banner" src="./Encryption Explained.mp4" controls style="width:40vw; display:block; margin:0 auto;"></video>
 
 For noncustodial wallets (more on that below), users are provided with a random <i>private</i> key, which is essentially a very large number that acts as a code to give you access to your bitcoin. The private key is then run through an algorithm to produce a <i>public</i> key, which is another large number that allows others to send bitcoin to the owner of the private key. This algorithm is a unidirectional cryptographic hash function; in other words, if the <i>private</i> key is known, then the <i>public</i> key can easily be found, but if only the <i>public</i> key is known, then it will be practically impossible to find the <i>private</i> key, even if all the computers on Earth worked together to do it.
 
