@@ -52,11 +52,11 @@ Together, we’re turning Chattanooga into the next Bitcoin city, with all the s
 
 <br>
 
-People have been asking this since Bitcoin’s early days, convinced they’ve missed the train, but here’s the good news: <b>No, you’re not too late!</b> Bitcoin is the future of money, not a casino for getting rich quick, so it isn’t about getting into it at the perfect time—it’s about how long you can stay aboard. As the investment guru Kenneth Fisher put it, “Time <i>in</i> the market beats tim<i>ing</i> the market.” History shows that holding bitcoin for at least 4 years is long enough to see it grow in value, no matter when you start.
+People have been asking this since Bitcoin’s early days, convinced they’ve missed the train, but here’s the good news: <b>No, you’re not too late!</b> Bitcoin is the future of money, not a casino for getting rich quick, so it isn’t about getting into it at the perfect time—it’s about how long you can stay aboard. As the investment guru Kenneth Fisher put it, “Time <i>in</i> the market beats tim<i>ing</i> the market.” History shows that holding bitcoin for at least 4 years is long enough to see it grow in value, no matter when you start. Many Bitcoiners recommend holding (or, as they like to say, <i>"hodling"</i>) for even longer than that, as the point of Bitcoin is not to give you more dollars, but to <i>replace</i> the dollar.
 
 <br>
 
-<img class="mobile-banner" src="./Bitcoin Prices Full History Log Scale.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./You Won't Have To.png" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
