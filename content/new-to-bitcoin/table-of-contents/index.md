@@ -9,6 +9,8 @@ title = 'Table of Contents'
 
 # Table of Contents
 
+<br>
+
 # The Intro to Bitcoin Series
 
 ## [**New to Bitcoin?**](/new-to-bitcoin/)
@@ -31,11 +33,11 @@ How Bitcoin started, a non-technical look at how it works, the problems that bit
 
 Practical tips for safely sending, receiving, and storing bitcoin as money for daily use\.
 
-
+<br>
 
 ---
 
-
+<br>
 
 # Other Resources
 
