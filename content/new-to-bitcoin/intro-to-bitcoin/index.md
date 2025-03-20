@@ -13,7 +13,7 @@ title = 'Intro to Bitcoin'
         
 <summary>
         
-<h2 class="text-align:center" style="display: inline-block">Key Points</h2>
+<h2 style="text-align:center">Key Points</h2>
 
 </summary>
 
@@ -87,7 +87,7 @@ title = 'Intro to Bitcoin'
 
 <br>
 
-It’s often said that Bitcoin is the first cryptocurrency, but that’s actually not correct; Bitcoin is the first cryptocurrency that <i>worked</i>, and its origins go much farther back than its announcement in 2008. Bitcoin can be traced back to developments made in the 1970s, and a group of cryptography experts and coders that got together in the early 1990s, and dedicated themselves to advancing individual privacy and autonomy through technology, known as the Cypherpunks.
+It’s often said that Bitcoin was the first cryptocurrency, but that’s actually not correct; Bitcoin is the first cryptocurrency that <i>worked</i>, and its origins go much farther back than its announcement in 2008. Bitcoin can be traced back to developments made in the 1970s, and a group of cryptography experts and coders that got together in the early 1990s, and dedicated themselves to advancing individual privacy and autonomy through technology, known as the Cypherpunks.
 
 On October 31, 2008, an individual or group using the pseudonym “Satoshi Nakamoto” sent an email on the Cypherpunk mailing list, and published the <a target="_blank" href="https://bitcoin.org/bitcoin.pdf">Bitcoin Whitepaper</a>. This paper outlined a decentralized digital currency system independent of traditional financial intermediaries. Some in the Cypherpunk community expressed skepticism due to prior unsuccessful digital currency experiments, while others, including Hal Finney, supported Bitcoin’s development, and worked with Satoshi to get it started.
 
