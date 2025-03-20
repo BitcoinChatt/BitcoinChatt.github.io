@@ -15,7 +15,7 @@ title = 'History of Money'
 
 <summary>
 
-<h2 class="align-left" style="display: inline-block">Key Points:</h2>
+<h2 class="align-left" style="display: inline-block">Key Points</h2>
 
 </summary>
 
