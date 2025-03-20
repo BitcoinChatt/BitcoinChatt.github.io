@@ -9,31 +9,43 @@ title = 'History of Money'
 
 <h1 style="text-align:center">The History of Money</h1>
 
-<h2 style="text-align:center">Key Points:</h2>
+<center>
 
-<h3 style="text-align:center">There were many different kinds of ancient forms of money, each with its own strengths and weaknesses.</h3>
+<details>
 
-<br>
+<summary>
 
-<h3 style="text-align:center">Gold was the best for a while, but it has its drawbacks.</h3>
+<h2 class="align-left" style="display: inline-block">Key Points:</h2>
 
-<br>
+</summary>
 
-<h3 style="text-align:center">Banks were made to be a solution for those drawbacks.</h3>
-
-<br>
-
-<h3 style="text-align:center">Fiat money disconnected from gold in 1971.</h3>
+<h3 style="bullet-heading">There were many different kinds of ancient forms of money, each with its own strengths and weaknesses.</h3>
 
 <br>
 
-<h3 style="text-align:center">Banks can print money infinitely & instantly, while you have to work for it.</h3>
+<h3 style="bullet-heading">Gold was the best for a while, but it has its drawbacks.</h3>
 
 <br>
 
-<h3 style="text-align:center">Bitcoin solves the problems created by banks.</h3>
+<h3 style="bullet-heading">Banks were made to be a solution for those drawbacks.</h3>
 
 <br>
+
+<h3 style="bullet-heading">Fiat money disconnected from gold in 1971.</h3>
+
+<br>
+
+<h3 style="bullet-heading">Banks can print money infinitely & instantly, while you have to work for it.</h3>
+
+<br>
+
+<h3 style="bullet-heading">Bitcoin solves the problems created by banks.</h3>
+
+<br>
+
+</details>
+
+</center>
 
 <br>
 
