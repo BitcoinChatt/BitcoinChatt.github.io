@@ -9,7 +9,13 @@ title = 'Intro to Bitcoin'
 
 <h1 style="text-align:center">An Introduction to Bitcoin</h1>
 
-<h2 style="text-align:center">Key Points:</h2>
+<details>
+        
+<summary>
+
+<h2 class="align-center" style="display: inline-block">Key Points</h2>
+
+</summary>
 
 <h3 style="text-align:center">Bitcoin was created by an anonymous individual or group calling themselves “Satoshi Nakamoto”.</h3>
 
@@ -66,6 +72,8 @@ title = 'Intro to Bitcoin'
 <h3 style="text-align:center">Dollars are the Titanic; Bitcoin is the lifeboat.</h3>
 
 <br>
+
+</details>
 
 <br>
 
@@ -139,7 +147,7 @@ Bitcoin functions without any oversight from a central authority such as a gover
 
 <br>
 
-<h4 syle="text-align:left">The Timechain and Mempools</h4>
+<h4 syle="text-align:left"><i>The Timechain and Mempools</i></h4>
 
 The backbone of Bitcoin’s system is the Timechain, commonly known as a blockchain, which serves as a public, chronological ledger of all transactions since Bitcoin began. When transactions are initiated, they’re broadcast to the whole network, and placed with other pending transactions in a database called a Mempool. When transactions are  added to Bitcoin’s ledger, they’re cryptographically secured, rendering them completely unalterable by anything on Earth. This immutability underpins the system’s security by preventing double-spending and ensuring transaction finality.
 
@@ -147,7 +155,7 @@ To interact with a live view of the Timechain and a Mempool, go to <a target="_b
 
 <br>
 
-<h4 syle="text-align:left">Nodes and Miners</h4>
+<h4 syle="text-align:left"><i>Nodes and Miners</i></h4>
 
 The Bitcoin network relies on two critical groups of participants: nodes and miners. Nodes are computers—each is usually a simple laptop or a Raspberry Pi—run by volunteers around the world. They each maintain a full copy of the Timechain and the protocol’s rules, which they enforce by validating transactions, essentially making them the network’s overseers. They also each have their own Mempool, where they hold all the pending transactions that have been broadcast, until they’re added to the Timechain.
 
@@ -159,7 +167,7 @@ This clip from <i>Willy Wonka & the Chocolate Factory</i> (1971) is a good analo
 
 <br>
 
-<h4 syle="text-align:left">Cryptography</h4>
+<h4 syle="text-align:left"><i>Cryptography</i></h4>
 
 Bitcoin’s security is bolstered by basic cryptography. If you’re new to cryptography, it’s basically a field of mathematics with functions that can be easily verified in one direction, but are nearly impossible to solve in the other direction without repeated guessing and checking. <a target="_blank" href="https://youtu.be/YEBfamv-_do">This video</a> excellently described a metaphor to help you understand how cryptography works, using colo mixing. But you can watch the main clip here:
 
@@ -171,7 +179,7 @@ However, anyone who has your public key will be able to check Bitcoin’s Timech
 
 <br>
 
-<h4 syle="text-align:left">The Difficulty Adjustment</h4>
+<h4 syle="text-align:left"><i>The Difficulty Adjustment</i></h4>
 
 Miners add new blocks to Bitcoin’s Timechain every 10 minutes, on average. As more miners are booted up, more guesses—or “hashes”—would be made to find the answer—a number known as a “nonce”—to the cryptographic puzzle, resulting in blocks coming in too quickly to be seen and validated by nodes around the world before another new block would be found. Like guessing the combination to a lock, two people working together would find the answer about twice as quickly as just one working on their own.
 
@@ -185,7 +193,7 @@ So every 2,016 blocks, or approximately every 2 weeks, Bitcoin’s protocol chec
 
 <br>
 
-<h4 syle="text-align:left">The Halvings</h4>
+<h4 syle="text-align:left"><i>The Halvings</i></h4>
 
 The immovable limit of just under 21 million bitcoin (20,999,999.9769 bitcoin, to be precise) comes from the automatic schedule of new bitcoin rewarded to the miners. When Bitcoin began, miners received 50 new bitcoin for every block they added to the Timechain. After 210,000 of those blocks, or a little less than 4 years, that reward was automatically cut in half to 25 new bitcoin with each new block. 210,000 blocks—or almost 4 years—later, the reward was halved again, to 12.5 new bitcoin. It was halved again to 6.25 bitcoin, and then again to 3.125 bitcoin.
 
@@ -203,7 +211,7 @@ This process will continue for over a hundred more years. Sometime around the ye
 
 <br>
 
-<h4 syle="text-align:left">Wallets</h4>
+<h4 syle="text-align:left"><i>Wallets</i></h4>
 
 To receive, hold, or spend bitcoin, you need a type of app or hardware device called a wallet. Wallet applications and devices manage your bitcoin by using private keys to send and secure funds, and public keys and addresses to receive them. There are two main kinds of wallets: <b>custodial</b> and <b>noncustodial</b>. Custodial wallets are hosted by third parties, like an exchange, and they retain control of the private keys. Like with fiat banks, you need to trust that the custodian isn’t claiming to hold more funds than they actually have, that they won’t run away with your money, and that they won’t get hacked. And also like fiat banks, <i>the history of custodial wallets is full of breaches of that trust.</i>
 
@@ -217,7 +225,7 @@ Noncustodial wallets, on the other hand, allow exclusive authority over the priv
 
 <br>
 
-<h4 syle="text-align:left">Acquiring Bitcoin</h4>
+<h4 syle="text-align:left"><i>Acquiring Bitcoin</i></h4>
 
 There are two ways to acquire bitcoin: <b>exchanging</b> dollars or goods/services for it, and <b>working</b> for it in your job or by mining. A third option would be <b>stealing</b> someone else’s private key, but we absolutely do <i>not</i> recommend that, of course, so we’ll just focus on the first two.
 
@@ -231,7 +239,7 @@ However you acquire bitcoin, make sure to <i>always</i> move it from the custodi
 
 <br>
 
-<h4 syle="text-align:left">Transactions</h4>
+<h4 syle="text-align:left"><i>Transactions</i></h4>
 
 Bitcoin transactions occur both on the Timechain and off the Timechain. On-chain transactions are broadcast to all the nodes on the network, and then permanently embedded in a block by a miner. This offers unparalleled security and a transfer capacity that’s limited only by the amount you own, but it also involves long processing times and transaction fees that can get pricey when the network is busy, making on-chain transactions more suitable for large transactions, like purchasing a house or a car.
 
