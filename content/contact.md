@@ -40,7 +40,7 @@ title = 'Contact'
     <textarea placeholder="Your Message" class="textarea form-control" name="message" rows="10" required></textarea>
   </div>
   <div class="form-control">
-    <input type="checkbox" name="follow mailing list" style="display: inline-block;">
+    <input type="checkbox" name="join mailing list" value="yes" style="display: inline-block;">
     <p>I want to receive the free email newsletter, as well as announcements of upcoming workshops, opportunities to earn bitcoin, and other events.</p></input>
   </div>
   <button type="submit" class="form-button">Submit</button>
