@@ -9,17 +9,15 @@ title = 'Contact'
 
 ## We'd love to hear from you!
 
-<div class="article">
+  <div class="article">
 
 ### Do you have a general question about Bitcoin, a specific question about your business accepting it, or a suggestion for anything we can do better?
 
-<br>
+  <br>
 
 ### Send us your questions, concerns, or comments!
 
-</div>
-
-</div>
+  </div>
 
   <br>
 
@@ -40,6 +38,10 @@ title = 'Contact'
   </div>
   <div class="form-group">
     <textarea placeholder="Your Message" class="textarea form-control" name="message" rows="10" required></textarea>
+  </div>
+  <div class="form-control">
+    <input type="checkbox" style="display: inline-block;">
+    <p>I want to receive the free email newsletter, as well as announcements of upcoming workshops, opportunities to earn bitcoin, and other events.</p></input>
   </div>
   <button type="submit" class="form-button">Submit</button>
 </form>
