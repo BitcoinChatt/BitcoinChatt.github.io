@@ -18,12 +18,14 @@ title = 'Map'
 
 <br>
 
-### This is a map of all the businesses in the Chattanooga area that accept bitcoin. Select any of them for their details.
+### These are all the businesses in the Chattanooga area that accept bitcoin. Select any of them for their details.
 
 <br>
 
-### Do you own a business and accept bitcoin? [Join](/join) us and let us know, and we'll add your business' location to our map!
+### Do you own a business and accept bitcoin? [Let us know](/contact), and we'll add your location to our map, and recommend you to all Bitcoiners in the area!
 
-<br><br>
+<br>
+
+<br>
 
 </div>
