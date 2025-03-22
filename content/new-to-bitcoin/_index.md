@@ -12,9 +12,9 @@ title = 'New to Bitcoin?'
 
 Getting started with Bitcoin isn’t like picking up a new gadget or app—it’s a bigger leap, and the stakes can feel much higher. Many have hesitated because a misstep would be costly, and others are just not sure where to begin. If that’s you, you’re not alone, and this is exactly why Bitcoin Chatt exists. <b>We’re here to demystify Bitcoin, ease your worries, and walk alongside you as you jump onboard this game-changing money.</b>
 
-If you prefer learning in person, our free workshops are open to everyone! Just hop over to our <a href="https://www.bitcoinchatt.org/join">Join</a> page to connect with the team and sign up for our newsletter, and RSVP for an upcoming event on our <a href="https://www.bitcoinchatt.org/calendar">Calendar</a>. 
+If you prefer learning in person, our free workshops are open to everyone! RSVP for upcoming workshops on our <a href="https://www.bitcoinchatt.org/calendar">Calendar</a>, or <a href="https://www.bitcoinchatt.org/contact">Contact</a> us directly to schedule one.
 
-But if you’d rather take a self-guided approach, you’re in the right spot. On the following pages, we’ll guide you through the basics of economics and Bitcoin, and also point you to the best educational resources elsewhere on the internet. And if you’d like to suggest something we missed, share it with us on our  <a href="https://www.bitcoinchatt.org/contact">Contact</a> page so we can add it.
+But if you’d rather take a self-guided approach, you’re in the right spot. On the following pages, we’ll guide you through the basics of economics and Bitcoin, and also point you to the best educational resources elsewhere on the internet. And if you’d like to suggest we add or change something, <a href="https://www.bitcoinchatt.org/contact">let us know</a>, and we'll look into it.
 
 <br>
 
