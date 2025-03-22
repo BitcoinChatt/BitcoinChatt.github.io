@@ -11,17 +11,17 @@ title = 'Contact'
 
   <div class="article">
 
-### Do you have a general question about Bitcoin, a specific question about your business accepting it, or a suggestion for anything we can do better?
+### Do you have questions about Bitcoin, about how your business can start accepting it, or a suggestion for something we can do better?
 
   <br>
 
-### Send us your questions, concerns, or comments!
+### Contact us here!
 
   </div>
 
   <br>
 
-  <p style="text-align: center;">Please fill out all parts of this form.</p>
+  <p style="text-align: center;">Please fill out each text box.</p>
 
   <div class="form-group">
     <div class="form-row">
