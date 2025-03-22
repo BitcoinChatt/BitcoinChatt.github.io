@@ -36,7 +36,9 @@ Together, we’re creating a bitcoin circular economy and onboarding Chattanooga
 
 Bitcoin Chatt began as a humble meetup on October 1, 2021, where local Bitcoiners built friendships and educated curious visitors. In January 2025, Founder Jason Sellers visited El Salvador—the first nation to adopt bitcoin—and saw the hope that had spread from a small beach town there, to become a national phenomenon. Inspired, he returned to replicate that transformation here.
 
-Time will tell how far we go, but you can play an important role in our efforts to make the future one of liberty and personal responsibility, of savings and hope, and of peace and prosperity. You can start today by accepting bitcoin at your business—we'll include it on our [map](/map) and recommend it to all Bitcoiners in the area—or by asking the businesses you visit if they accept it yet. If you'd like to be notificed of upcoming workshops, opportunities to earn some bitcoin, or any other events, [tell us](/contact), and we'll email you before each one. Also, please consider [donating](/donate) either dollars or bitcoin to keep us going, but even spreading the word to anyone who wants to start using the future of money will help us build a freer, thriving Chattanooga.
+Time will tell how far we go, but you can play an important role in our efforts to make the future one of liberty and personal responsibility, of savings and hope, and of peace and prosperity. You can start today by [learning all about Bitcoin](/new-to-bitcoin), accepting bitcoin at your business—we'll include it on our [map](/map) and recommend it to all Bitcoiners in the area—or by asking the businesses you visit to start accepting it.
+
+If you'd like to be notified of upcoming workshops, opportunities to earn some bitcoin through service to your community, or any other events, [tell us](/contact), and we'll include you in our email list. Also, please consider [donating](/donate) either dollars or bitcoin to keep us going, but even spreading the word about us to anyone who wants to start using the future of money will help us build a freer, thriving Chattanooga.
 
 <br>
 
