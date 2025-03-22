@@ -41,7 +41,7 @@ title = 'Contact'
   </div>
   <div class="form-control" style="text-align: left;">
     <p><input type="checkbox" name="join-mailing-list" value="yes" style="display: inline-block;">
-    I want to receive the free email newsletter, as well as announcements of upcoming workshops, opportunities to earn bitcoin, and other events.</p></input>
+    Send me the free email newsletter, as well as announcements of upcoming workshops, opportunities to earn bitcoin, and other events.</p></input>
   </div>
   <button type="submit" class="form-button">Submit</button>
 </form>
