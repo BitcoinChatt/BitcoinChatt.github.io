@@ -261,7 +261,7 @@ Bitcoin transactions occur both on the Timechain and off the Timechain. On-chain
 
 <br>
 
-Off-chain transactions, enabled by technologies like the Lightning Network and others, bypass the Timechain for near-instantaneous, free or very-low-cost transfers, ideal for routine purchases like buying a coffee. However, like everything else they come with tradeoffs. The Lightning Network, for example, runs on a web of channels, each channel created by two Bitcoiners who embedded a transaction in the Timechain that opened a connection between them with a certain amount of bitcoin being shared between them. Once the channel is opened, they can transact with each other instantly and freely, without the transaction ever touching the Timechain.
+Off-chain transactions, enabled by technologies like the Lightning Network and others, bypass the Timechain for near-instantaneous, free or very-low-cost transfers, ideal for routine purchases like buying a coffee. However, like everything else they come with tradeoffs. The Lightning Network, for example, runs on a web of channels, each channel created by Bitcoiners who use on-chan transactions to open a connection between each other, with a certain amount of bitcoin in the channel, on the side of one of the users. Once the on-chain transaction is confirmed and the channel is opened, they can transact with each other instantly and freely, without the transactions ever touching the Timechain. They can also transact with others who are connected to their connections, as long as there's enough liquidity on the various sides of the channel to make a given transaction possible.
 
 For instance, if Alice has a channel open with Carol, who also has a channel open with Ella, who also has a channel open with Frank, then Alice would still be able to instantly send sats to Frank, even though they’re not directly connected. The sats would first be sent to Carol, whose Lightning Node would automatically send the same number of sats to Ella, and her Lightning Node would automatically send the same amount to Frank. Carol and Ella could even charge a small fee for facilitating the payment, if they wanted to.
 
@@ -273,7 +273,7 @@ For instance, if Alice has a channel open with Carol, who also has a channel ope
 
 <br>
 
-No matter how many hops there are between the sender and receiver, the transaction will complete, provided there are enough sats in all the channels involved, and the sat are on the right sides of those channels. There’s always a possibility that there won’t be any open channels between the sender and receiver, or there won’t be enough sats in those channels, both everything has its tradeoffs, and those are the tradeoffs with the Lightning Network. But the Lightning Network is growing in size, capacity, and robustness every day, so this is becoming less of a problem.
+No matter how many hops there are between the sender and receiver, the transaction will complete if there are enough sats in all the channels involved, and the sats are on the needed sides of those channels. There’s always a possibility that there won’t be any open channels between the sender and receiver, or there won’t be enough sats in those channels; everything has its tradeoffs, and those are the tradeoffs with the Lightning Network. But Lightning is growing in size, capacity, and robustness every day, so this is becoming less of a problem.
 
 <br>
 
