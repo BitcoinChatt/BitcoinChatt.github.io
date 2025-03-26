@@ -11,17 +11,17 @@ title = 'Contact'
 
   <div class="article">
 
-### Do you have a general question about Bitcoin, a specific question about your business accepting it, or a suggestion for anything we can do better?
+### Do you have questions about Bitcoin, about how your business can start accepting it, or a suggestion for something we can do better?
 
   <br>
 
-### Send us your questions, concerns, or comments!
+### Contact us here!
 
   </div>
 
   <br>
 
-  <p style="text-align: center;">Please fill out all parts of this form.</p>
+  <p style="text-align: center;">Please fill out each text box.</p>
 
   <div class="form-group">
     <div class="form-row">
@@ -39,9 +39,9 @@ title = 'Contact'
   <div class="form-group">
     <textarea placeholder="Your Message" class="textarea form-control" name="message" rows="10" required></textarea>
   </div>
-  <div class="form-control">
-    <input type="checkbox" name="join-mailing-list" value="yes" style="display: inline-block;">
-    <p>I want to receive the free email newsletter, as well as announcements of upcoming workshops, opportunities to earn bitcoin, and other events.</p></input>
+  <div class="form-control" style="text-align: left;">
+    <p><input type="checkbox" name="join-mailing-list" value="yes" style="display: inline-block;">
+    Send me the free email newsletter, as well as announcements of upcoming workshops, opportunities to earn bitcoin, and other events.</p></input>
   </div>
   <button type="submit" class="form-button">Submit</button>
 </form>

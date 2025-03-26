@@ -12,9 +12,9 @@ title = 'New to Bitcoin?'
 
 Getting started with Bitcoin isn’t like picking up a new gadget or app—it’s a bigger leap, and the stakes can feel much higher. Many have hesitated because a misstep would be costly, and others are just not sure where to begin. If that’s you, you’re not alone, and this is exactly why Bitcoin Chatt exists. <b>We’re here to demystify Bitcoin, ease your worries, and walk alongside you as you jump onboard this game-changing money.</b>
 
-If you prefer learning in person, our free workshops are open to everyone! Just hop over to our <a href="https://www.bitcoinchatt.org/join">Join</a> page to connect with the team and sign up for our newsletter, and RSVP for an upcoming event on our <a href="https://www.bitcoinchatt.org/calendar">Calendar</a>. 
+If you prefer learning in person, our free workshops are open to everyone! RSVP for upcoming workshops on our <a href="https://www.bitcoinchatt.org/calendar">Calendar</a>, or <a href="https://www.bitcoinchatt.org/contact">Contact</a> us directly to schedule one.
 
-But if you’d rather take a self-guided approach, you’re in the right spot. On the following pages, we’ll guide you through the basics of economics and Bitcoin, and also point you to the best educational resources elsewhere on the internet. And if you’d like to suggest something we missed, share it with us on our  <a href="https://www.bitcoinchatt.org/contact">Contact</a> page so we can add it.
+But if you’d rather take a self-guided approach, you’re in the right spot. On the following pages, we’ll guide you through the basics of economics and Bitcoin, and also point you to the best educational resources elsewhere on the internet. And if you’d like to suggest we add or change something, <a href="https://www.bitcoinchatt.org/contact">let us know</a>, and we'll look into it.
 
 <br>
 
@@ -195,7 +195,7 @@ But until a day like that comes, Bitcoin's decentralized backbone and multi-medi
 
 <br>
 
-Bitcoin often gets called a scam or Ponzi scheme, but when you look at it more closely, that claim doesn’t hold up. A Ponzi scheme is a fraud where early investors get paid with money from new ones, hiding the truth until it collapses. Bitcoin is different—it uses a transparent ledger known as the Timechain (often called a "blockchain"), in which every transaction is visible, and it has no central figure pulling strings. It has been around since 2009 and hit a multi-trillion-dollar market cap, which no scam could sustain for long.
+Bitcoin is often labeled a scam or Ponzi scheme, but when you look at it more closely, that claim doesn’t hold up. A Ponzi scheme is a fraud where early investors get paid by a central scammer with money from new investors, while the truth remains hidden until the whole scheme collapses. Bitcoin could hardly be more different: It uses a transparent ledger known as the Timechain (often called a "blockchain"), in which every transaction is visible. There is no central figure pulling strings, and its creator, Satoshi Nakamoto, didn't give himself any bitcoin for free, but it can be proven that he followed all the same mining rules as everyone else. Bitcoin has been around since 2009 and hit a multi-trillion-dollar market cap recently, which no scam could sustain for long.
 
 <br>
 
@@ -205,7 +205,7 @@ Bitcoin often gets called a scam or Ponzi scheme, but when you look at it more c
 
 <br>
 
-Bitcoin's value comes from the real problems it solves: its fixed supply of 21 million coins makes it impossible to debase, its public audit approximately every 10 minutes eliminates the possibility of fraud, and its decentralized network lets you transact globally without fear of censorship or confiscation. So as long as anyone wants to save their hard-earned money without its purchasing power being drained away by inflation, or have the assurance that there will never be a chargeback, or be able to send and receive money without it being frozen, then there will be demand for bitcoin. And when that rising demand meets Bitcoin's fixed supply, its price goes up.
+It's true that Bitcoin's price has increased substantially over the years, but the rising demand for it comes from the real problems it solves: its fixed supply of 21 million coins makes it impossible to debase, its public audit approximately every 10 minutes eliminates the possibility of fraud, and its decentralized network lets you transact globally without fear of censorship or confiscation. So as long as anyone wants to save their hard-earned money without its purchasing power being drained away by inflation, or have the assurance that there will never be a chargeback, or send and receive money without fear of it being frozen, then there will always be demand for bitcoin. And when that rising demand meets Bitcoin's fixed supply, its price goes up.
 
 <br>
 
@@ -229,7 +229,7 @@ Learn more here: https://www.lynalden.com/bitcoin-ponzi-scheme/
 
 <br>
 
-While it's true that some criminals have used bitcoin for illegal activities, it would be wrong to conclude that Bitcoin is uniquely designed for criminal activity. Criminals and terrorists still overwhelmingly prefer to use the US dollar for illicit dealings, with estimates suggesting that up to 30% of all physical cash in circulation is tied to illegal activity <sup><a target="_blank" href="https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2017/wp17-02.pdf">1</a></sup>. In contrast, a Chainalysis report from 2022 shows that only about 0.12% of bitcoin transactions were linked to illicit purposes<sup><a target="_blank" href="https://go.chainalysis.com/2022-Crypto-Crime-Report.html">2</a></sup>. That’s a minuscule fraction by comparison. So, if we’re pointing fingers at tools of crime, the dollar is far ahead in the race—yet no one’s calling it “bad” because of that (it's bad for other reasons, but not that one).
+While it's true that some criminals have used bitcoin for illegal activities, it would be wrong to conclude that Bitcoin is uniquely designed for criminal activity. Criminals and terrorists still overwhelmingly prefer to use the US dollar for illicit dealings, with estimates suggesting that up to 30% of all physical cash in circulation is tied to illegal activity <sup><a target="_blank" href="https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2017/wp17-02.pdf">1</a></sup>. In contrast, a Chainalysis report from 2022 shows that only about 0.12% of bitcoin transactions were linked to illicit purposes<sup><a target="_blank" href="https://go.chainalysis.com/2022-Crypto-Crime-Report.html">2</a></sup>. That’s a minuscule fraction by comparison, and likely due to the fact that Bitcoin's Timechain (often called a "blockchain") is public and frequently audited. So, if we’re pointing fingers at tools of crime, the dollar is far ahead in the race, yet no one’s calling it “bad” because of that (it's bad for other reasons, but not that one).
 
 <br>
 
@@ -239,7 +239,7 @@ While it's true that some criminals have used bitcoin for illegal activities, it
 
 <br>
 
-Even if criminals and terrorists suddenly switched to using bitcoin more than anything else, it wouldn’t mean bitcoin itself is flawed. Criminals use oxygen to breathe, water to drink, and roads to travel—does that make those things evil? Of course not. <b>Tools are neutral; it’s the intent behind their use that matters.</b> Sure, bad actors might choose to use it badly, just as they do with nearly everything else, but that’s a poor reason to dismiss a technology with such transformative potential.
+Even if criminals and terrorists suddenly switched to using bitcoin more than anything else, it wouldn’t mean bitcoin itself is flawed. Criminals also use oxygen to breathe, water to drink, and roads to travel—does that make those things evil? Of course not. <b>Tools are neutral; it’s the intent behind their use that matters.</b> Sure, bad actors might choose to use it badly, just as they might do with anything else, but that’s a poor reason to dismiss a technology with such transformative potential.
 
 <br>
 

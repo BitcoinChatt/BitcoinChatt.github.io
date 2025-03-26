@@ -28,8 +28,6 @@ Together, we’re creating a bitcoin circular economy and onboarding Chattanooga
 
 <br>
 
-<br>
-
 ## Our Story
 
 <img class="mobile-banner" src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
@@ -38,13 +36,9 @@ Together, we’re creating a bitcoin circular economy and onboarding Chattanooga
 
 Bitcoin Chatt began as a humble meetup on October 1, 2021, where local Bitcoiners built friendships and educated curious visitors. In January 2025, Founder Jason Sellers visited El Salvador—the first nation to adopt bitcoin—and saw the hope that had spread from a small beach town there, to become a national phenomenon. Inspired, he returned to replicate that transformation here.
 
-Time will tell how far we go, but you can play an important role in our efforts to make the future one of liberty and personal responsibility, of savings and hope, and of peace and prosperity. Accept bitcoin at your business and be included on our [map](/map), [join](/join) our service projects, [donate](/donate) to keep us going, or simply spread the word—your support will lead to a freer, thriving Chattanooga.
+Time will tell how far we go, but you can play an important role in our efforts to make the future one of liberty and personal responsibility, of savings and hope, and of peace and prosperity. You can start today by [learning all about Bitcoin](/new-to-bitcoin), accepting bitcoin at your business—we'll include it on our [map](/map) and recommend it to all Bitcoiners in the area—or by asking the businesses you visit to start accepting it.
 
-<br>
-
-<br>
-
-<br>
+If you'd like to be notified of upcoming workshops, opportunities to earn some bitcoin through service to your community, or any other events, [tell us](/contact), and we'll include you in our email list. Also, please consider [donating](/donate) either dollars or bitcoin to keep us going, but even spreading the word about us to anyone who wants to start using the future of money will help us build a freer, thriving Chattanooga.
 
 <br>
 
@@ -73,10 +67,6 @@ Time will tell how far we go, but you can play an important role in our efforts 
 <br>
 
 <p style="margin-left: 2rem;">Dr. Brett Spradlin champions decentralization by accepting Bitcoin payments at his natural health practice. Rejecting conventional medicine, he employs ancient techniques of Biblical technology by using light, water, heat, electricity, plants, animals, and a healer's hands to provide life-changing results. He operates <a href="https://www.divinedesignnaturalhealth.com/">Divine Design Natural Health</a>, educates his community with regular Bitcoin onboarding events, and hosts a montlhly meetup, the Bitcoin Remnant of Cleveland. He passionately serves those who are ready to exit the modern medical and financial systems in search of God’s original divine design.</p>
-
-<br>
-
-<br>
 
 <br>
 
