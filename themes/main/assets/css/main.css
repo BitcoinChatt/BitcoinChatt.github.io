@@ -1,3 +1,7 @@
+html {
+  background-color: #141419;
+}
+
 body {
   /*discord uses #242429 for the background*/
   /*background-size: 100dvh;
@@ -6,7 +10,6 @@ body {
   background-position: center;
   background-blend-mode: multiply;
   background-image: url("/images/logos/Bitcoin Chatt Avatar 2.0.png");*/
-  background-color: #141419;
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
@@ -14,9 +17,14 @@ body {
   text-align: justify;
 }
 
-header {
+.header {
   /*border-bottom: 1px solid #222;*/
-  padding-bottom: 1rem;
+  padding: 0.5rem;
+  position: fixed;
+  left: 50%;
+  top: 0%;
+  transform: translate(-50%, 0%);
+  background-color: #141419;
 }
 
 /*footer {
@@ -66,6 +74,7 @@ iframe, form, input, textarea, button, #map {
 
 .header {
   display: flex;
+  width: 100dvw;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -195,8 +204,8 @@ a:visited {
     grid-template-columns: 15rem 6rem;
     grid-template-rows: 4rem 4rem 4rem 4rem 4rem;
     justify-items: left;
-    height: 3rem;
-    position: relative;
+    height: 3.5rem;
+    /*position: relative;*/
     z-index: 1;
   }
 
