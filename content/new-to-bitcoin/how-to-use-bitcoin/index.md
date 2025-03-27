@@ -105,7 +105,7 @@ Alternatively, you might acquire bitcoin by accepting it as payment, a method th
 
 <br>
 
-<img class="mobile-banner" src="./Strike Direct Deposit.gif" style="width:10dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Strike Direct Deposit.gif" style="width:20dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -137,7 +137,13 @@ A full list of our recommended hot and cold wallets is on our <a href="https://w
 
 <br>
 
-<center><b>boil today beyond salon poverty wood radio unit settle talk pepper uniform</b></center>
+<center>
+
+<b>boil today beyond salon poverty wood radio unit settle talk pepper uniform</b>
+
+</center>
+
+<br>
 
 <br>
 
@@ -147,7 +153,7 @@ Whether you set up a hot wallet on your phone, or purchase a signing device for 
 
 <br>
 
-<img class="mobile-banner" src="./Not Your Keys.gif" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Not Your Keys.gif" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -161,7 +167,7 @@ As you may recall, Bitcoin’s Timechain (commonly called the “blockchain”) 
 
 <br>
 
-<img class="mobile-banner" src="./Ledger.png" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Ledger.png" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -184,7 +190,13 @@ As an example, here’s a Native SegWit bitcoin address that’s connected to Bi
 
 <br>
 
-<center><b>bc1qnn35dt7vr4s7yxdpytknjxx5u66ex8033uk797</b></center>
+<center>
+
+<b>bc1qnn35dt7vr4s7yxdpytknjxx5u66ex8033uk797</b>
+
+</center>
+
+<br>
 
 <br>
 
@@ -208,7 +220,13 @@ Once the transaction is sent, you just need to wait for it to be confirmed. Whil
 
 <br>
 
-<center><b>a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d</b></center>
+<center>
+
+<b>a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d</b>
+
+</center>
+
+<br>
 
 <br>
 
@@ -216,7 +234,7 @@ Once the transaction is sent, you just need to wait for it to be confirmed. Whil
 
 <br>
 
-<img class="mobile-banner" src="./Laszlo Hanyecz.png" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Laszlo Hanyecz.png" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -252,7 +270,7 @@ So every so often, when the fee rate is low and you have a lot of small UTXOs, t
 
 <br>
 
-<img class="mobile-banner" src="./Lightning.gif" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Lightning.gif" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -266,7 +284,7 @@ For instance, if Alice and Carol have a channel, and Carol has a channel with El
 
 <br>
 
-<img class="mobile-banner" src="./Lightning Network.gif" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Lightning Network.gif" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -282,9 +300,13 @@ The Lightning Network was started in 2018, after the SegWit upgrade the year pri
 
 <br>
 
-<br>
+<center>
 
-<center><b>lnbc10u1pn79srzsp5eckwgvflsmxky0tnrssht478a90jaskkmpr74q4xykywl6a5q3aspp5eqkfhaw0fq3z28kkhxauc9qak86j530hvpqaf9s8cxuhtm03talqhp5uwcvgs5clswpfxhm7nyfjmaeysn6us0yvjdexn9yjkv3k7zjhp2sxq9z0rgqcqpnrzjqwsl8t7kgmthhkh4ghxw4ureh2mq2l4w2trrrxmrkkqr6zvf66nj7rv03cqqpfcqqqqqqqqqqqqqqqqqjq9qxpqysgq47khqscxv76qdxk82nkfcdzm92luwq829qlzlftjjzgje7z4ql38rghnuuvuhnjm376p94rmntvdva504c2g3ddryey0ntwcfq95awcq8y2f32</b></center>
+<p style="word-break: break-all;"><b>lnbc10u1pn79srzsp5eckwgvflsmxky0tnrssht478a90jaskkmpr74q4xykywl6a5q3aspp5eqkfhaw0fq3z28kkhxauc9qak86j530hvpqaf9s8cxuhtm03talqhp5uwcvgs5clswpfxhm7nyfjmaeysn6us0yvjdexn9yjkv3k7zjhp2sxq9z0rgqcqpnrzjqwsl8t7kgmthhkh4ghxw4ureh2mq2l4w2trrrxmrkkqr6zvf66nj7rv03cqqpfcqqqqqqqqqqqqqqqqqjq9qxpqysgq47khqscxv76qdxk82nkfcdzm92luwq829qlzlftjjzgje7z4ql38rghnuuvuhnjm376p94rmntvdva504c2g3ddryey0ntwcfq95awcq8y2f32</b></p>
+
+</center>
+
+<br>
 
 <br>
 
@@ -296,9 +318,13 @@ Later, the Lightning protocol was upgraded to support static Lightning payment c
 
 <br>
 
-<br>
+<center>
 
-<center><b>lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwpcs54448nawn2vtrecz6247uan3wztz0rpum8c03vp3qywxcwzqqsrze3j8hf2sz4nmegpngr7qgt65rhv89pnhl5fm6726r6ypv35urwsqvapjz5ujha9yvkl2lrxrvn05gkqahaup6z3uk83s79z5te9hdmuqw6vm3w6p27wl8spd3m3xt0tkaawr2saqfx9gw0v8jyxxks9zqwsyhxeew0cxsfe7kj58f5rymgfwmglhqfzxqqsfgruwdfp9kw5s3986akzlrt4qg</b></center>
+<p style="word-break: break-all;"><b>lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwpcs54448nawn2vtrecz6247uan3wztz0rpum8c03vp3qywxcwzqqsrze3j8hf2sz4nmegpngr7qgt65rhv89pnhl5fm6726r6ypv35urwsqvapjz5ujha9yvkl2lrxrvn05gkqahaup6z3uk83s79z5te9hdmuqw6vm3w6p27wl8spd3m3xt0tkaawr2saqfx9gw0v8jyxxks9zqwsyhxeew0cxsfe7kj58f5rymgfwmglhqfzxqqsfgruwdfp9kw5s3986akzlrt4qg</b></p>
+
+</center>
+
+<br>
 
 <br>
 
@@ -308,7 +334,7 @@ More recently, sending bitcoin over Lightning has gotten even easier! A new mess
 
 <br>
 
-<img class="mobile-banner" src="./Nostr.png" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Nostr.png" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -320,7 +346,7 @@ Regarding zaps, each Nostr app does it somewhat differently, but the overall con
 
 <br>
 
-<img class="mobile-banner" src="./Zapping.gif" style="width:10dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Zapping.gif" style="width:20dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -340,7 +366,7 @@ While Lightning Network offers instant and cheap/free transactions, like any too
 
 <br>
 
-<img class="mobile-banner" src="./Ark.png" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Ark.png" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -360,7 +386,7 @@ If you’ve read everything and made it this far, you’ve already learned a lot
 
 <br>
 
-<img class="mobile-banner" src="./Rabbit Hole.gif" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Rabbit Hole.gif" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -370,21 +396,25 @@ As always, if you know of a Bitcoin term or an educational resource that we negl
 
 If you want to give back to the Bitcoin community, and help move Bitcoin adoption forward, there are several things you can do:
 
-<b>Run a Node</b>
+<p style="margin-bottom: 0;"><b>Run a Node</b></p>
+
 Most nodes cost a few hundred dollars, but they are not energy-intensive like miners. Running one helps to not only keep Bitcoin decentralized, but as long as you link it to your wallet, it also adds a layer of privacy to your transactions, and allows you to verify with certainty that the current state of the Timechain is completely accurate. If you’re interested in running a node and enforcing Bitcoin’s rules, a few of the best ones you should look into are <a target="_blank" href="https://store.start9.com/">Start9</a>, <a target="_blank" href="https://mynodebtc.com/">MyNode</a>, and <a target="_blank" href="https://umbrel.com/">Umbrel</a>.
 
-<b>Run a Miner</b>
+<p style="margin-bottom: 0;"><b>Run a Miner</b></p>
+
 Miners usually run in the price range of several thousand dollars, and are very energy-intensive. When you mine, you’re contributing to a shield of pure energy that protects all Bitcoin transactions, so you get paid for it with newly mined bitcoin and transaction fees. If you choose to mine, make sure to use equipment that runs efficiently, and that the cost of your electricity is low. Here is a helpful <a target="_blank" href="https://tools.bitbo.io/mining-calculator/">calculator</a>, where you can check to see if it would be profitable for you. If you’re interested in mining bitcoin and protecting the Timechain from any kind of tampering, a few of the best miners you should look into are the <a target="_blank" href="https://bitaxe.org/">Bitaxe</a>, <a target="_blank" href="https://heatbit.com/?ref=jsellers">Heatbit</a>, and <a target="_blank" href="https://futurebit.io/products/apollo-ii">Futurebit</a>.
 
-<b>Learn to Code</b>
+<p style="margin-bottom: 0;"><b>Learn to Code</b></p>
+
 Bitcoin is completely open source, which means the code can be checked by anyone, but it can also be altered by anyone, and anyone can choose whether to accept the altered code or not. All of Bitcoin’s upgrades start with the developers, before being reviewed and either accepted or rejected by the node runners and the general Bitcoin community. But there are precious few who know how to contribute to Bitcoin’s code, so more of them are always needed! If you’re interested in coding for Bitcoin, and play a part in creating its newest updates, a few of the best (<i>and free!</i>) educational resources are <a target="_blank" href="https://developer.bitcoin.org/">Bitcoin.org’s developer page</a>, Saylor Academy’s <a target="_blank" href="https://learn.saylor.org/enrol/index.php?id=500">Bitcoin for Developers I</a> course, and <a target="_blank" href="https://bitcoinedge.org/">Bitcoin Edge</a>.
 
-<b>Accept Bitcoin for Payments</b>
+<p style="margin-bottom: 0;"><b>Accept Bitcoin for Payments</b></p>
+
 Whether you run a business or you just run a garage sale now and then, accepting bitcoin for payments is a great way to stack sats without needing to register with an exchange. If you’re a business owner, then once you start accepting bitcoin (or if you already accept it), <a target="_blank" href="https://www.BitcoinChatt.org/contact">reach out to us</a>, and we’ll add you to our <a target="_blank" href="https://www.BitcoinChatt.org/map">Map</a>, and actively recommend your business to all Bitcoiners in the area. Bitcoin is quickly gaining more attention and gradually rising in value (with a few dips along the way), so the time to begin accepting it for payment is now, before your competitors catch on.
 
 <br>
 
-<img class="mobile-banner" src="./Bitcoin Accepted Here.png" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Bitcoin Accepted Here.png" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -409,7 +439,13 @@ First, Bitcoin is far too large for anyone you know to move the price in any not
 
 Second, anyone who knows enough about Bitcoin to want to tell others about it would not only know the first point, but would also understand that <b>the point of holding bitcoin is not for its users to sell it for more dollars, but to ultimately hold <i>less</i> dollars, and more of the only perfect money humanity has ever had.</b> No matter what Bitcoin’s price in fiat is today, it’s still indescribably cheap compared to what it will inevitably be in the future, and will continue to be so forever, for anyone who can hold onto it long enough.
 
-<img class="mobile-banner" src="./We Are Not the Same.png" style="width:10dvw;display:block;margin:0 auto;">
+<br>
+
+<img class="mobile-banner" src="./We Are Not the Same.png" style="width:20dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
 
 And third, while Bitcoin was initially created to separate money from state, it leads to other changes, as well, especially within the hearts and minds of its users. That may sound strange, but remember that money is how we communicate value, and value is closely tied to our decision making. <b>When we use a store of value that can never be debased and continues to trend up in value over time, it affects the way we think, incentivizing us to sacrifice things that only offer short-lived gratification for things that bring long-lasting inner peace.</b> Many who measure the value of their time and labor in bitcoin have overcome addictions, started families, and found meaning and purpose for their lives for the first time. All from a little project started in 2008 by an anonymous individual on an obscure email list. Fascinating, isn’t it?
 
@@ -417,7 +453,7 @@ So go tell others about Bitcoin, and how Bitcoin Chattanooga can help them use i
 
 <br>
 
-<img class="mobile-banner" src="./Fix the Money.gif" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Fix the Money.gif" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
