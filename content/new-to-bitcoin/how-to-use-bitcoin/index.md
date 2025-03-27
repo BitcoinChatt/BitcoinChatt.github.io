@@ -145,8 +145,6 @@ A full list of our recommended hot and cold wallets is on our <a href="https://w
 
 <br>
 
-<br>
-
 <b>Warning:</b> Do <i>NOT</i> use this private key! If you do, your funds <i>WILL</i> be lost!
 
 Whether you set up a hot wallet on your phone, or purchase a signing device for cold storage, you’ll need to write down this 12- or 24-word seed phrase on something like a piece of paper, or anything else that is <i>not</i> connected to the internet (unlike what we did above). For extra security against time and the elements, many choose to engrave their seed phrase on steel or titanium. Whatever you do, <i>do not store your private key on your computer, in cloud storage, or anywhere online!</i> <b>Your private key <i>is</i> your bitcoin,</b> so keep it somewhere safe, just as you would if it were gold.
@@ -198,8 +196,6 @@ As an example, here’s a Native SegWit bitcoin address that’s connected to Bi
 
 <br>
 
-<br>
-
 If you were to donate sats to Bitcoin Chatt (<a href="https://www.BitcoinChatt.org/donate">please do!</a>), you could copy that address, open your bitcoin wallet, select “Send”, paste that address in the appropriate line for it, set the amount you’d want to send, choose your fee rate, confirm that all the details are correct, and then send the transaction.
 
 Alternatively, scanning this QR code will give you that same receiving address:
@@ -225,8 +221,6 @@ Once the transaction is sent, you just need to wait for it to be confirmed. Whil
 <b>a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d</b>
 
 </center>
-
-<br>
 
 <br>
 
@@ -308,8 +302,6 @@ The Lightning Network was started in 2018, after the SegWit upgrade the year pri
 
 <br>
 
-<br>
-
 Later, the Lightning protocol was upgraded to support static Lightning payment codes. These could be shared and used any time—even when the recipient is sleeping—but it still involved a lengthy code that was not easy for humans to remember or share. Here’s an example of a static Lightning Payment code (and yes, this belongs to a Bitcoin Chatt wallet):
 
 <br>
@@ -323,8 +315,6 @@ Later, the Lightning protocol was upgraded to support static Lightning payment c
 <p style="word-break: break-all;"><b>lno1zrxq8pjw7qjlm68mtp7e3yvxee4y5xrgjhhyf2fxhlphpckrvevh50u0qwpcs54448nawn2vtrecz6247uan3wztz0rpum8c03vp3qywxcwzqqsrze3j8hf2sz4nmegpngr7qgt65rhv89pnhl5fm6726r6ypv35urwsqvapjz5ujha9yvkl2lrxrvn05gkqahaup6z3uk83s79z5te9hdmuqw6vm3w6p27wl8spd3m3xt0tkaawr2saqfx9gw0v8jyxxks9zqwsyhxeew0cxsfe7kj58f5rymgfwmglhqfzxqqsfgruwdfp9kw5s3986akzlrt4qg</b></p>
 
 </center>
-
-<br>
 
 <br>
 
