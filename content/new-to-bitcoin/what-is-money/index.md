@@ -47,7 +47,7 @@ title = 'What Is Money'
 
 <br>
 
-<h3 syle="text-align:left">What is Money?</h3>
+<h3 style="text-align:left">What is Money?</h3>
 
 <br>
 

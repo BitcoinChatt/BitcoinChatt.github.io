@@ -247,7 +247,7 @@ a:visited {
     padding: 0rem 0rem;
   }
 
-  .article :not(.mobile-icon) img {
+  .article img :not(.mobile-icon) {
     width: 85dvw !important;
   }
 
