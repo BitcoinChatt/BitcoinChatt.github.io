@@ -10,7 +10,7 @@ title = 'About'
 
 <img class="desktop-only" src="/images/Logos/Bitcoin%20Chatt%20Avatar.png" style="width:16dvw;float:right;">
 
-Our mission is to onboard Chattanooga to a prosperous future with the best money ever: Bitcoin. We do this by providing:  
+We're on a mission to help Chattanoogans build their savings with the only money that can never be debased, confiscated, or corrupted: Bitcoin. We do this by providing:  
 
 ### Free Workshops, Open to All
 
