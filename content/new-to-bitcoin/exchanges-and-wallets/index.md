@@ -266,9 +266,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android, Browser extension</td>
     </tr>
     <tr>
@@ -276,9 +276,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -286,9 +286,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain, Lightning, & Liquid</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -296,9 +296,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain (without a node)</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -306,9 +306,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
     <tr>
@@ -316,9 +316,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -326,9 +326,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -336,9 +336,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
     </tr>
     <tr>
@@ -346,9 +346,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (web-based)</td>
     </tr>
     <tr>
@@ -356,9 +356,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
     <tr>
@@ -366,9 +366,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Custodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning, Liquid, & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
     <tr>
@@ -376,9 +376,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux</td>
     </tr>
     <tr>
@@ -386,9 +386,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -396,9 +396,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, Android</td>
     </tr>
     <tr>
@@ -406,9 +406,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -416,9 +416,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
     </tr>
     <tr>
@@ -426,9 +426,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android, Windows, macOS, Linux</td>
     </tr>
     <tr>
@@ -436,9 +436,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, Android</td>
     </tr>
     <tr>
@@ -446,9 +446,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS</td>
     </tr>
     <tr>
@@ -456,9 +456,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Android</td>
     </tr>
     <tr>
@@ -466,9 +466,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
     </tr>
     <tr>
@@ -476,9 +476,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -486,9 +486,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, iOS, Android</td>
     </tr>
     <tr>
@@ -496,9 +496,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
     </tr>
     <tr>
@@ -506,9 +506,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
     <tr>
@@ -516,9 +516,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Various</td>
     </tr>
     <tr>
@@ -526,9 +526,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -536,9 +536,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Custodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -546,9 +546,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android, web</td>
     </tr>
     <tr>
@@ -556,9 +556,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
@@ -566,9 +566,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Various</td>
     </tr>
     <tr>
@@ -576,9 +576,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Android</td>
     </tr>
     <tr>
@@ -586,9 +586,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux</td>
     </tr>
     <tr>
@@ -596,9 +596,9 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
   </table>
