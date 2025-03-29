@@ -250,356 +250,356 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
 <center>
 
 <div style="overflow-x: auto;">
-  <table style="color: white; border: 1px white; border-collapse: collapse;">
+  <table style="color: white; border: 1px solid white; border-collapse: collapse;">
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><b>Wallets</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><b>Difficulty</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><b>Type</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><b>Custody</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><b>Open Source?</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><b>Supports</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><b>Node Required</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><b>Compatibility</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Wallets</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Difficulty</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Type</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Custody</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Open Source?</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Supports</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Node Required</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Compatibility</b></td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.getalby.com"><b>Alby</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android, Browser extension</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.getalby.com"><b>Alby</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android, Browser extension</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.bitkit.to"><b>Bitkit</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.bitkit.to"><b>Bitkit</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.blitz-wallet.com"><b>Blitz Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white border-collapse: collapse; background-color: #000000;">On-chain, Lightning, & Liquid</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.blitz-wallet.com"><b>Blitz Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white border-collapse: collapse; background-color: #000000;">On-chain, Lightning, & Liquid</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.bluewallet.io"><b>BlueWallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain (without a node)</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.bluewallet.io"><b>BlueWallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain (without a node)</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.boardwalkcash.com/setup"><b>Boardwalk</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.boardwalkcash.com/setup"><b>Boardwalk</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://breez.technology"><b>Breez</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://breez.technology"><b>Breez</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.github.com/thesimplekid/cashcrab"><b>Cashcrab</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.github.com/thesimplekid/cashcrab"><b>Cashcrab</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.github.com/cashubtc/cashu-feni"><b>Cashu Feni</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.github.com/cashubtc/cashu-feni"><b>Cashu Feni</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://wallet.cashu.me/"><b>Cashu.me</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">All (web-based)</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://wallet.cashu.me/"><b>Cashu.me</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (web-based)</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coinos.io"><b>CoinOS</a> - On-chain</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coinos.io"><b>CoinOS</a> - On-chain</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coinos.io"><b>CoinOS</a> - Layer 2</b></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Custodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning, Liquid, & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coinos.io"><b>CoinOS</a> - Layer 2</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Custodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning, Liquid, & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coldcard.com"><b>Coldcard</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Hardware</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coldcard.com"><b>Coldcard</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.covebitcoinwallet.com"><b>Cove Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.covebitcoinwallet.com"><b>Cove Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.electrum.org"><b>Electrum</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.electrum.org"><b>Electrum</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.enuts.cash"><b>eNuts</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.enuts.cash"><b>eNuts</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.github.com/elnosh/gonuts"><b>Gonuts</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.github.com/elnosh/gonuts"><b>Gonuts</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.blockstream.com/green"><b>Green Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android, Windows, macOS, Linux</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.blockstream.com/green"><b>Green Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android, Windows, macOS, Linux</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.blockstream.com/jade"><b>Jade</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Hardware</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.blockstream.com/jade"><b>Jade</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://macadamia.cash"><b>Macadamia</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://macadamia.cash"><b>Macadamia</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://minibits.cash"><b>Minibits</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://minibits.cash"><b>Minibits</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://github.com/ngutech21/moksha"><b>Moksha</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://github.com/ngutech21/moksha"><b>Moksha</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.muun.com"><b>Muun</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.muun.com"><b>Muun</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.nunchuk.io"><b>Nunchuck</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.nunchuk.io"><b>Nunchuck</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://github.com/cashubtc/nutshell"><b>Nutshell</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://github.com/cashubtc/nutshell"><b>Nutshell</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">macOS, Windows, Linux</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://nutstash.app"><b>Nutstash</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://nutstash.app"><b>Nutstash</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.foundationdevices.com"><b>Passport</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Hardware</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Various</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.foundationdevices.com"><b>Passport</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px wsolid hite; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Various</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://phoenix.acinq.co"><b>Phoenix</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://phoenix.acinq.co"><b>Phoenix</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.primal.net"><b>Primal Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Custodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.primal.net"><b>Primal Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Custodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.proton.me/wallet"><b>Proton Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #FF0000;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android, web</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.proton.me/wallet"><b>Proton Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android, web</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://satoshi.money/"><b>Satoshi Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #FF0000;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://satoshi.money/"><b>Satoshi Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.seedsigner.com"><b>Seed Signer</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Hardware</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Various</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.seedsigner.com"><b>Seed Signer</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
+      <td style="border: 1px wsolid hite; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Various</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://sbw.app"><b>Simple Bitcoin Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Beginner</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">No</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://sbw.app"><b>Simple Bitcoin Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Android</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.sparrowwallet.com"><b>Sparrow Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.sparrowwallet.com"><b>Sparrow Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux</td>
     </tr>
     <tr>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://zeusln.app"><b>Zeus Wallet</b></a></td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
-      <td style="border: 1px white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://zeusln.app"><b>Zeus Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
   </table>
 </div>
