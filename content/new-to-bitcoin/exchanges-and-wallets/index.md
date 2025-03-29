@@ -22,18 +22,21 @@ title = 'Exchanges and Wallets'
 </summary>
 
 <a target="_blank" href="https://invite.strike.me/IEU8IW">
-      <img class="mobile-icon" src="./Strike.png">
+      <img class="mobile-banner" src="./Strike.png" style="width:20dvw;float:left;">
 </a>
 
 <a target="_blank" href="https://invite.strike.me/IEU8IW">Strike</a> is a versatile Bitcoin exchange that lets you buy, sell, pay, and even get paid in bitcoin. Set up recurring buys to dollar-cost average effortlessly, perfect for beginners and seasoned users alike. Its intuitive app makes Bitcoin accessible, offering a smooth way to embrace the future of money without added complexity.
 
 <b>Fees</b>
+<br>
 Strike keeps fees low at just 0.3% per bitcoin purchase, making it ideal for frequent buyers or bigger stacks. There are no fees for receiving Bitcoin, and withdrawals to your own wallet are free, since Strike encourages its users to take custody of their own bitcoin. This cost-effective structure beats many competitors, so Strike is best for keeping costs down as you grow your stash.
 
 <b>KYC</b>
+<br>
 Strike’s KYC (Know Your Customer) process, as required by law, involves giving them your full name, email, phone number, and a government-issued ID to set up your account. In some case you’ll need to provide proof of address, too. Link your bank account or debit card, and once verified, you’re ready to buy bitcoin securely.
 
 <b>Referrals</b>
+<br>
 Join Strike with Bitcoin Chattanooga’s referral link, and after your first Bitcoin purchase, you’ll unlock the ability to trade up to $500 with zero fees. Bitcoin Chattanooga will likewise get $500 in fee-free trading. This generous perk eliminates many costs right away, letting you stack more sats while enabling Bitcoin Chattanooga to move forward with its mission to onboard our community to a Bitcoin standard.
 
 </details>
