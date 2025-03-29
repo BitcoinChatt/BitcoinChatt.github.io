@@ -239,8 +239,6 @@ It’s worth mentioning here that every cryptocurrency other than Bitcoin is run
 
 <h2 syle="text-align:left">Recommended Wallets</h2>
 
-<br>
-
 Here's a list of all the Bitcoin-only wallets we could find that are available in our area, along with all the most important details about each. Choose any of these according to your needs:
 
 <br>
@@ -249,24 +247,8 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
 
 <center>
 
-<style>
-  .centered-table td {
-    overflow-wrap: break-word;
-  }
-</style>
-
 <div style="overflow-x: auto;">
-  <table class="centered-table"; style="color: white; border: 1px solid white; border-collapse: collapse;">
-        <colgroup>
-              <col>
-              <col>
-              <col>
-              <col style="width: 10%;">
-              <col>
-              <col>
-              <col>
-              <col>
-        </colgroup>
+  <table style="color: white; border: 1px solid white; border-collapse: collapse;">
     <tr>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Wallets</b></td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Difficulty</b></td>
@@ -368,12 +350,22 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (web-based)</td>
     </tr>
     <tr>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coinos.io"><b>CoinOS</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coinos.io"><b>CoinOS</a> - On-chain</b></td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Noncustodial On-chain, Custodial Lightning</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain, Lightning, Liquid, & eCash</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.coinos.io"><b>CoinOS</a> - Layer 2</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Custodial</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning, Liquid, & eCash</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">All (Web-based)</td>
     </tr>
