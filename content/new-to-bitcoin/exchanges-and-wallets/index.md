@@ -22,7 +22,7 @@ title = 'Exchanges and Wallets'
 </summary>
 
 <a target="_blank" href="https://invite.strike.me/IEU8IW">
-      <img class="mobile-banner" src="./Strike.png" style="width:10dvw;float:left;">
+      <img class="mobile-banner" src="./Strike.png" style="width:5dvw;float:left;">
 </a>
 
 <a target="_blank" href="https://invite.strike.me/IEU8IW">Strike</a> is a versatile Bitcoin exchange that lets you buy, sell, pay, and even get paid in bitcoin. Set up recurring buys to dollar-cost average effortlessly, perfect for beginners and seasoned users alike. Its intuitive app makes Bitcoin accessible, offering a smooth way to embrace the future of money without added complexity.
@@ -50,7 +50,7 @@ Join Strike with Bitcoin Chattanooga’s referral link, and after your first Bit
 </summary>
 
 <a target="_blank" href="https://river.com/signup?r=3ODI6556F4">
-      <img class="mobile-banner" src="./River.png" style="width:10dvw;float:left;">
+      <img class="mobile-banner" src="./River.png" style="width:5dvw;float:left;">
 </a>
 
 <a target="_blank" href="https://river.com/signup?r=3ODI6556F4">River</a> is a user-friendly Bitcoin exchange built for simplicity and security, perfect for newcomers eager to dive into Bitcoin. You can buy Bitcoin easily with your bank account, and their customer support team is always there to help when you need them. River also provides educational tools to boost your Bitcoin knowledge, making it an inviting starting point for anyone ready to improve their future with the world’s best money.
@@ -78,7 +78,7 @@ Sign up for River with Bitcoin Chattanooga’s referral link, and after your fir
 </summary>
 
 <a target="_blank" href="https://bitcoinwell.com/referral/geekigai">
-      <img class="mobile-banner" src="./Bitcoin Well.png" style="width:10dvw;float:left;">
+      <img class="mobile-banner" src="./Bitcoin Well.png" style="width:5dvw;float:left;">
 </a>
 
 <a target="_blank" href="https://bitcoinwell.com/referral/geekigai">Bitcoin Well</a> makes buying and selling bitcoin simple and secure. With its Bitcoin-only focus, and its emphasis on security and compliance, it offers a user-friendly platform that’s perfect for beginners and seasoned users alike. Whether you’re dipping your toes into bitcoin or trading regularly, Bitcoin Well lets you exchange dollars for bitcoin straight from your bank account.
@@ -106,7 +106,7 @@ Sign up for Bitcoin Well using our referral link, and you’ll earn a $10 Bitcoi
 </summary>
 
 <a target="_blank" href="https://hodlhodl.com/join/QPXV">
-      <img class="mobile-banner" src="./Hodl Hodl.png" style="width:10dvw;float:left;">
+      <img class="mobile-banner" src="./Hodl Hodl.png" style="width:5dvw;float:left;">
 </a>
 
 <a target="_blank" href="https://hodlhodl.com/join/QPXV">Hodl Hodl</a> is a peer-to-peer Bitcoin exchange that champions privacy and keeping you in control, ideal for those wary of centralized platforms. It doesn’t hold your funds—instead, it uses multisig escrow for direct trades between users, minimizing risks of exchange hacks. If you value decentralization and want to buy bitcoin on your terms, Hodl Hodl offers a secure, autonomous path to stack sats without middlemen getting in the way.
@@ -134,7 +134,7 @@ Join Hodl Hodl with Bitcoin Chattanooga’s referral link, and you’ll lock in 
 </summary>
 
 <a target="_blank" href="https://www.swanbitcoin.com/jsellers">
-      <img class="mobile-banner" src="./Swan Bitcoin.png" style="width:10dvw;float:left;">
+      <img class="mobile-banner" src="./Swan Bitcoin.png" style="width:5dvw;float:left;">
 </a>
 
 <a target="_blank" href="https://www.swanbitcoin.com/jsellers">Swan</a> is a Bitcoin-only exchange tailored for long-term savers, helping you build a disciplined bitcoin stash with ease. With Swan, you can set up automatic recurring buys to dollar-cost average over time, making it perfect for beginners aiming to grow wealth steadily. And with personalized support and plenty of educational resources, Swan empowers you to understand Bitcoin deeply.
@@ -162,7 +162,7 @@ Use our referral link for Swan, and both you and Bitcoin Chattanooga will get $1
 </summary>
 
 <a target="_blank" href="https://cash.app/app/ZBHJXGR">
-      <img class="mobile-banner" src="./Cash App.png" style="width:10dvw;float:left;">
+      <img class="mobile-banner" src="./Cash App.png" style="width:5dvw;float:left;">
 </a>
 
 <a target="_blank" href="https://cash.app/app/ZBHJXGR">Cash App</a> is a popular app that makes it easy to buy, sell, and hold bitcoin, so it’s a good choice for beginners seeking simplicity. It allows you to instantly purchase bitcoin with your bank account or debit card, set up recurring buys to stack sats effortlessly, and even send sats to friends with a tap. Its extensive KYC (Know Your Customer) process is often a deal-breaker for Bitcoiners, though, which is why we included it last on our list.
@@ -185,13 +185,11 @@ Sign up for Cash App with our referral link, and after sending $5 worth to a fri
 
 <h3 syle="text-align:left">Exchanges to Avoid</h3>
 
-<img class="mobile-banner" src="./Nyet Shitcoin.png" style="width:20dvw;display:block;margin:0 auto;">
-
 As you can see from the exchanges listed above, none of them are created equal, but those are the ones we would recommend. There are some that are downright terrible, though. Unfortunately, these tend to be some of the most well-known, since they make a lot of money from uninformed customers, which they can then spend on marketing. These include exchanges like Coinbase, Robinhood, and Crypto.com, but many others, as well. Expand the full list below to see the top 21 exchanges that we suggest you avoid.
 
-<details>
-
 <br>
+
+<details>
 
 <summary>
 
@@ -233,6 +231,12 @@ It’s worth mentioning here that every cryptocurrency other than Bitcoin is run
 
 <br>
 
+<img class="mobile-banner" src="./Nyet Shitcoin.png" style="width:20dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 <h2 syle="text-align:left">Recommended Wallets</h2>
 
 <br>
@@ -245,8 +249,24 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
 
 <center>
 
+<style>
+  .centered-table td {
+    overflow-wrap: break-word;
+  }
+</style>
+
 <div style="overflow-x: auto;">
-  <table style="color: white; border: 1px solid white; border-collapse: collapse;">
+  <table class="centered-table"; style="color: white; border: 1px solid white; border-collapse: collapse;">
+        <colgroup>
+              <col>
+              <col>
+              <col>
+              <col style="width: 10%;">
+              <col>
+              <col>
+              <col>
+              <col>
+        </colgroup>
     <tr>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Wallets</b></td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Difficulty</b></td>
@@ -294,7 +314,7 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Noncustodial</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain (without a node)</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No (Yes for Lightning)</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #023020;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
