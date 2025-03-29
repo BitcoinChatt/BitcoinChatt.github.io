@@ -185,6 +185,8 @@ Sign up for Cash App with our referral link, and after sending $5 worth to a fri
 
 <h3 syle="text-align:left">Exchanges to Avoid</h3>
 
+<br>
+
 As you can see from the exchanges listed above, none of them are created equal, but those are the ones we would recommend. There are some that are downright terrible, though. Unfortunately, these tend to be some of the most well-known, since they make a lot of money from uninformed customers, which they can then spend on marketing. These include exchanges like Coinbase, Robinhood, and Crypto.com, but many others, as well. Expand the full list below to see the top 21 exchanges that we suggest you avoid.
 
 <br>
