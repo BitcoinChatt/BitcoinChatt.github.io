@@ -255,19 +255,10 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
 
 </div>
 
-<style>
-  .centered-table {
-    width: 75%;
-    margin: 0 auto;
-    table-layout: fixed;
-  }
-  .centered-table td {
-    overflow-wrap: break-word;
-  }
-</style>
+<center>
 
 <div style="overflow-x: auto;">
-  <table class="centered-table"; style="color: white; border: 1px solid white; border-collapse: collapse;">
+  <table style="color: white; border: 1px solid white; border-collapse: collapse;">
     <tr>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Wallets</b></td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Difficulty</b></td>
@@ -610,6 +601,8 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
     </tr>
   </table>
 </div>
+
+</center>
 
 <div class="article">
 
