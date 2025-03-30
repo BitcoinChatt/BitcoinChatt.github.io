@@ -208,7 +208,7 @@ As you can see from the exchanges listed above, none of them are created equal, 
 <li>Binance</li>
 <li>eToro</li>
 <li>Bitstamp</li>
-<li>Uphold</li>
+<li>PayPal</li>
 <li>Paxful</li>
 <li>KuCoin</li>
 <li>Bittrex</li>
@@ -642,7 +642,7 @@ Just as there are many exchanges to avoid, there are many wallets to avoid, too.
 <li>Edge Wallet</li>
 <li>ZenGo</li>
 <li>Abra</li>
-<li>Enjin Wallet</li>
+<li>PayPal</li>
 <li>KeepKey</li>
 <li>BitBox02</li>
 <li>Ellipal Titan</li>
