@@ -15,11 +15,13 @@ draft = false
 
 <h2 style="text-align: center"><b>Latest News:</b></h2>
 
-<center>The <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin Intro Series</a> is now complete! If you're new to Bitcoin, start there.</center>
+<center><b>March 31st:</b>The <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin Intro Series</a> is now complete! If you're new to Bitcoin, start there.</center>
+
+<center>We're still working on the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/resources/">Educational Resources</a> and <a href="https://www.bitcoinchatt.org/new-to-bitcoin/glossary/">Glossary</a> pages, though. Thank you for your patience!</center>
 
 <br>
 
-<center>Bitcoin Chatt will be at the <a target="_blank" href="https://www.tickettailor.com/events/eastridgecouncil/1524189">East Ridge Council Business Expo</a> on April 3rd from 11:30am-1:00pm.</center>
+<center><b>March 31st:</b>Bitcoin Chatt will be at the <a target="_blank" href="https://www.tickettailor.com/events/eastridgecouncil/1524189">East Ridge Council Business Expo</a> on April 3rd from 11:30am-1:00pm.</center>
 
 <center>Come say hi, ask your questions, and show your support!</center>
 
