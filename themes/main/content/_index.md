@@ -11,6 +11,14 @@ draft = false
 
 <h3 style="text-align: center"><em>Onboarding Chattanooga to a Bitcoin Standard</em></h3>
 
+<br>
+
+<h2 style="text-align: center"><b>Latest News:</b></h2>
+
+<center>The <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin Intro Series</a> is now complete! If you're new to Bitcoin, start there.</center>
+
+<br>
+
 <div class="nav">
   <div class="nav-box">
     <a href="./new-to-bitcoin">
