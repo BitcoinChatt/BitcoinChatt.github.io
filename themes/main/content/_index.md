@@ -17,7 +17,11 @@ draft = false
 
 <center>The <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin Intro Series</a> is now complete! If you're new to Bitcoin, start there.</center>
 
-<center>Bitcoin Chatt will be at the <a target="_blank" href="https://www.tickettailor.com/events/eastridgecouncil/1524189">East Ridge Council Business Expo</a> on April 3rd from 11:30am-1:00pm. Come say hi, ask your questions, and show your support!</center>
+<br>
+
+<center>Bitcoin Chatt will be at the <a target="_blank" href="https://www.tickettailor.com/events/eastridgecouncil/1524189">East Ridge Council Business Expo</a> on April 3rd from 11:30am-1:00pm.</center>
+
+<center>Come say hi, ask your questions, and show your support!</center>
 
 <br>
 
