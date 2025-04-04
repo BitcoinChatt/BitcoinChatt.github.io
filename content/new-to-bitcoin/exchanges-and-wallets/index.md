@@ -268,7 +268,7 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
-      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android, Browser extension</td>
     </tr>
     <tr>
