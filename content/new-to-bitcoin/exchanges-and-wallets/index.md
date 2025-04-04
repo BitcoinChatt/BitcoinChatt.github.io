@@ -258,7 +258,7 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Custody</b></td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Open Source?</b></td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Supports</b></td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Node Required</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Node Required?</b></td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Compatibility</b></td>
     </tr>
     <tr>
