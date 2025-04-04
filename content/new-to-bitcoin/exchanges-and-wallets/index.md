@@ -668,4 +668,145 @@ When you understand Bitcoin, you can’t help but see it as the money of the fut
 
 <br>
 
+<h2 syle="text-align:left">Bitcoin Point of Sale Systems</h2>
+
+<br>
+
+<img class="mobile-banner" src="./Bitcoin PoS Device.png" style="width:40dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
+If you run a business, it’s time you get ahead of the competition and start accepting bitcoin. When you do, you will be added to our <a href="https://www.BitcoinChatt.org/map">Map</a>, and we will recommend you to all the Bitcoiners in the area, so they'll choose your business before those that only accept fiat.
+
+You can always receive sats in any of our recommended wallets listed above, but most don’t come with accounting software built-in, like the ability to produce a spreadsheet of payments. So here’s a list of Point of Sale services, both hardware and software, built to allow businesses to accept bitcoin, along with their various qualities. Choose one that best fits your business’ needs.
+
+<br>
+
 </div>
+
+<center>
+
+<div style="overflow-x: auto;">
+  <table style="color: white; border: 1px solid white; border-collapse: collapse;">
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>PoS System</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Difficulty</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Type</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>KYC</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Custody</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Open Source?</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Supports</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Node Required?</b></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><b>Compatibility</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.getalby.com"><b>Alby</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android, Browser extension</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://bitcoinize.com"><b>Bitcoinize</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">N/A</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://btcpayserver.org"><b>BTCPay Server</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Browser window, macOS, Windows, Linux</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://lnbits.com"><b>LNbits</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Browser window, Linux</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://opennode.com"><b>OpenNode</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Custodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Browser window</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://satsale.org"><b>SatSale</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Expert</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Browser window, Linux</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://invite.strike.me/IEU8IW"><b>Strike</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">Custodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://swiss-bitcoin-pay.ch"><b>Swiss Bitcoin Pay</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Browser window, iOS, Android</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.tiankii.com"><b>Tiankii</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Hardware</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">N/A</td>
+    </tr>
+  </table>
+</div>
+
+</center>
+
+<div class="article">
+
+<br>
+
+If you need help with setting these up, have any questions, or notice something that’s missing or incorrect, please <a href="https://www.BitcoinChatt.org/contact">let us know</a>, and we’ll take care of it ASAP!
