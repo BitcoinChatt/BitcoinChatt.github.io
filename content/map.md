@@ -18,11 +18,15 @@ title = 'Map'
 
 <br>
 
-### These are all the businesses in the Chattanooga area that accept bitcoin. Select any of them for their details.
+### These are all the businesses in the Chattanooga area that accept bitcoin. Select any of them for details.
 
 <br>
 
-### Do you own a business and accept bitcoin? [Let us know](/contact), and we'll add your location to our map, and recommend you to all Bitcoiners in the area!
+### Own a business and want to start accepting bitcoin? Make sure you complete our [New to Bitcoin](/new-to-bitcoin) series, and choose a Bitcoin Point of Sale Service from the list at the bottom of our [Exchanges and Wallets](/new-to-bitcoin/exchanges-and-wallets) page.
+
+<br>
+
+### If you own a business and already accept bitcoin, [let us know](/contact), and we'll add your location to our map, and recommend you to all Bitcoiners in the area!
 
 <br>
 
