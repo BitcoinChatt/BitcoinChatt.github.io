@@ -680,9 +680,7 @@ When you understand Bitcoin, you can’t help but see it as the money of the fut
 
 If you run a business, it’s time you get ahead of the competition and start accepting bitcoin. When you do, you will be added to our <a href="https://www.BitcoinChatt.org/map">Map</a>, and we will recommend you to all the Bitcoiners in the area, so they'll choose your business before those that only accept fiat.
 
-You can always receive sats in any of our recommended wallets listed above, but most don’t come with accounting software built-in, like the ability to produce a spreadsheet of payments. So here’s a list of Point of Sale services, both hardware and software, built to allow businesses to accept bitcoin, along with their various qualities. Choose one that best fits your business’ needs.
-
-<br>
+You can always receive sats in any of our recommended wallets listed above, but most don’t come with accounting software built-in, like the ability to produce a spreadsheet of payments. So here’s a list of Point of Sale systems, both hardware and software, built to allow businesses to easily accept bitcoin, along with their various qualities. Choose one that best fits your business’ needs.
 
 </div>
 
