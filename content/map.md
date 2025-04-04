@@ -22,7 +22,9 @@ title = 'Map'
 
 <br>
 
-### Own a business and want to start accepting bitcoin? Make sure you complete our [New to Bitcoin](/new-to-bitcoin) series, and choose a Bitcoin Point of Sale Service from the list at the bottom of our [Exchanges and Wallets](/new-to-bitcoin/exchanges-and-wallets) page.
+### Own a business and want to start accepting bitcoin?
+
+### Make sure you complete our [New to Bitcoin](/new-to-bitcoin) series, and choose a Bitcoin Point of Sale Service from the list at the bottom of our [Exchanges and Wallets](/new-to-bitcoin/exchanges-and-wallets) page.
 
 <br>
 
