@@ -13,28 +13,6 @@ draft = false
 
 <br>
 
-<h2 style="text-align: center"><b>Latest News:</b></h2>
-
-<center>
-
-<img class="mobile-banner" src="./Business Expo 2025.png" style="width:20dvw;display:block;margin:0 auto;">
-
-<br>
-
-<b>April 3rd:</b> The East Ridge Business Expo was a <i>massive</i> success!
-
-If you stopped by, then please <a href="https://www.bitcoinchatt.org/contact">reach out to us</a>, so we can schedule a free workshop for your business to start accepting bitcoin, and get you added to our <a href="https://www.bitcoinchatt.org/map">Map</a>!
-
-<br>
-  
-<b>March 31st:</b> The <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin Intro Series</a> is now complete! If you're new to Bitcoin, start there.
-
-We're still working on the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/resources/">Educational Resources</a> and <a href="https://www.bitcoinchatt.org/new-to-bitcoin/glossary/">Glossary</a> pages, though. Thank you for your patience!
-
-</center>
-
-<br>
-
 <div class="nav">
   <div class="nav-box">
     <a href="./new-to-bitcoin">
@@ -62,6 +40,30 @@ We're still working on the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/
     </a>
   </div>
 </div>
+
+<br>
+
+<h2 style="text-align: center"><b>Latest News:</b></h2>
+
+<center>
+
+<img class="mobile-banner" src="./Business Expo 2025.png" style="width:20dvw;display:block;margin:0 auto;">
+
+<br>
+
+<b>April 3rd:</b> The East Ridge Business Expo was a <i>massive</i> success!
+
+If you stopped by, then please <a href="https://www.bitcoinchatt.org/contact">reach out to us</a>, so we can schedule a free workshop for your business to start accepting bitcoin, and get you added to our <a href="https://www.bitcoinchatt.org/map">Map</a>!
+
+<br>
+  
+<b>March 31st:</b> The <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin Intro Series</a> is now complete! If you're new to Bitcoin, start there.
+
+We're still working on the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/resources/">Educational Resources</a> and <a href="https://www.bitcoinchatt.org/new-to-bitcoin/glossary/">Glossary</a> pages, though. Thank you for your patience!
+
+</center>
+
+<br>
 
 <h3 class="social-links">Follow Bitcoin Chatt</h3>
 <div class="social-links">
