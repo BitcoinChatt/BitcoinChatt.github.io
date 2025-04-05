@@ -41,8 +41,6 @@ draft = false
   </div>
 </div>
 
-<br>
-
 <h2 style="text-align: center"><b>Latest News:</b></h2>
 
 <center>
@@ -62,6 +60,8 @@ If you stopped by, then please <a href="https://www.bitcoinchatt.org/contact">re
 We're still working on the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/resources/">Educational Resources</a> and <a href="https://www.bitcoinchatt.org/new-to-bitcoin/glossary/">Glossary</a> pages, though. Thank you for your patience!
 
 </center>
+
+<br>
 
 <br>
 
