@@ -13,7 +13,9 @@ Every sat you donate will go towards covering all the supplies, fees, and other 
 
 <br>
 
-<iframe src='https://btcpay.satcrowd.com/apps/23zSkvmJdv2AECLfcom4Xij5zLLh/pos' style='max-width: 100%; border: 0;'></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe src='https://btcpay.satcrowd.com/apps/23zSkvmJdv2AECLfcom4Xij5zLLh/pos' style='width: 100%; max-width: 400px; height: 600px; border: 0;'></iframe>
+</div>
 
 <br>
 
