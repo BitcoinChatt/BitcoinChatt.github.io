@@ -23,7 +23,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <details>
   <summary>
-    <h2 class="align-left">
+    <h2 class="align-left" style="display: inline-block">
       Videos
     </h2>
   </summary>
@@ -244,7 +244,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <details>
   <summary>
-    <h2 class="align-left">
+    <h2 class="align-left" style="display: inline-block">
       Websites
     </h2>
   </summary>
@@ -276,7 +276,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <details>
   <summary>
-    <h2 class="align-left">
+    <h2 class="align-left" style="display: inline-block">
       Books
     </h2>
   </summary>
@@ -387,7 +387,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <details>
   <summary>
-    <h2 class="align-left">
+    <h2 class="align-left" style="display: inline-block">
       Apps
     </h2>
   </summary>
@@ -431,7 +431,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 <details>
 
 <summary>
-  <h2 class="align-left">
+  <h2 class="align-left" style="display: inline-block">
     Games
   </h2>
 </summary>
@@ -478,7 +478,7 @@ As before, if there are any tutorials that you would like us to add here, please
 
 <details>
   <summary>
-    <h2>Hardware Wallets</h2>
+    <h3 style="text-align:left">Hardware Wallets</h3>
   </summary>
   <div class="video-container">
     <div class="video-row">
@@ -555,7 +555,7 @@ As before, if there are any tutorials that you would like us to add here, please
 
 <details>
   <summary>
-    <h2>Software Wallets</h2>
+    <h3 style="text-align:left">Software Wallets</h3>
   </summary>
   <div class="video-container">
     <div class="video-row">
