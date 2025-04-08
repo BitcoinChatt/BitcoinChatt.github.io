@@ -660,12 +660,16 @@ details {
   max-width: 800px; /* Adjusted for two 350px items + spacing */
   margin: 0 auto;
   padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .video-row {
   display: flex;
   justify-content: space-between;
   margin-bottom: 40px;
+  max-width: 800px;
 }
 
 .video-row:last-child {
@@ -675,6 +679,7 @@ details {
 .video-item {
   width: 350px; /* Matches iframe width */
   margin: 0 20px; /* Space between items */
+  /*display: block;*/
 }
 
 .iframe-title {
@@ -707,7 +712,7 @@ Here are three different kinds of nodes you may want to look into, and learn how
 <br>
 
 <div class="video-container">
-  <div class="video-row">
+  <!--div class="video-row"-->
     <div class="video-item">
       <h3 class="iframe-title">Umbrel</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/Fa9AvF4jk1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -718,8 +723,8 @@ Here are three different kinds of nodes you may want to look into, and learn how
       <iframe width="350" height="197" src="https://www.youtube.com/embed/DzikmY4S42Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
-  </div>
-  <div class="video-row">
+  <!--/div-->
+  <!--div class="video-row"-->
     <div class="video-item">
       <h3 class="image-title">MyNode</h3>
       <a target="_blank" href="https://youtube.com/playlist?list=PLCRbH-IWlcW0KP8DxyWWrqahGafZyV2HR">
@@ -727,7 +732,7 @@ Here are three different kinds of nodes you may want to look into, and learn how
       </a>
       <p><i>Description pending.</i></p>
     </div>
-  </div>
+  <!--/div-->
 </div>
 <div style="clear: both;"></div>
 
@@ -786,7 +791,7 @@ This <a target="_blank" href="https://tools.bitbo.io/mining-calculator">Mining C
 <br>
 
 <div class="video-container">
-  <div class="video-row">
+  <!--div class="video-row"-->
     <div class="video-item">
       <h3 class="iframe-title">Heatbit</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/2uecG0trazk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -797,14 +802,14 @@ This <a target="_blank" href="https://tools.bitbo.io/mining-calculator">Mining C
       <iframe width="350" height="197" src="https://www.youtube.com/embed/QAwSXZ3L7Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
-  </div>
-  <div class="video-row">
+  <!--/div-->
+  <!--div class="video-row"-->
     <div class="video-item">
       <h3 class="iframe-title">FutureBit</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/t4DbRDJ3p50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
-  </div>
+  <!--/div-->
 </div>
 <div style="clear: both;"></div>
 
