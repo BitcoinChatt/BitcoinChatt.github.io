@@ -23,7 +23,9 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <details>
   <summary>
-    <h2>Videos</h2>
+    <h2 class="align-left">
+      Videos
+    </h2>
   </summary>
   <div class="video-container">
     <div class="video-row">
@@ -242,7 +244,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <details>
   <summary>
-    <h2 class="align-left" style="display: inline-block">
+    <h2 class="align-left">
       Websites
     </h2>
   </summary>
@@ -274,7 +276,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <details>
   <summary>
-    <h2 class="align-left" style="display: inline-block">
+    <h2 class="align-left">
       Books
     </h2>
   </summary>
@@ -384,14 +386,15 @@ If you would like to recommend any resources that we didn't include, please <a h
 </details>
 
 <details>
+  <summary>
+    <h2 class="align-left">
+      Apps
+    </h2>
+  </summary>
 
-<summary>
-
-<h2 class="align-left" style="display: inline-block">Apps</h2>
-
-</summary>
-
-<h2 style="text-align:center">Yzer</h2>
+<h2 style="text-align:center">
+  Yzer
+</h2>
 
 <div style="text-align: center;">
   <a target="_blank" href="https://apps.apple.com/us/app/yzer-learn-bitcoin-finance/id6443545393">
@@ -407,7 +410,9 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <br>
 
-<h2 style="text-align:center">Simple Bitcoin: Learn & Earn</h2>
+<h2 style="text-align:center">
+  Simple Bitcoin: Learn & Earn
+</h2>
 
 <div style="text-align: center;">
   <a target="_blank" href="https://apps.apple.com/de/app/simple-crypto-bitcoin/id1487375777">
@@ -426,7 +431,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 <details>
 
 <summary>
-  <h2 class="align-left" style="display: inline-block">
+  <h2 class="align-left">
     Games
   </h2>
 </summary>
@@ -459,7 +464,9 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <br>
 
-<h2 style="text-align:center">Bitcoin Wallet Tutorials</h2>
+<h2 style="text-align:center">
+  Bitcoin Wallet Tutorials
+</h2>
 
 <br>
 
