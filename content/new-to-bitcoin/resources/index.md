@@ -1,5 +1,5 @@
 +++
-date = '2025-03-06T19:54:44-05:00'
+date = '2025-04-07T19:54:44-05:00'
 draft = false
 underConstruction = false
 title = 'Resources'
@@ -18,8 +18,6 @@ title = 'Resources'
 We did our best to cover the basics of Bitcoin in our <a href="https://www.bitcoinchatt.org/new-to-bitcoin">New to Bitcoin</a> series, but no explanation is perfect, and it’s likely that some of the resources below will speak more to you than what we wrote. The following are organized by type, and each type’s list starts with the most simple, and then gets more complex (according to our subjective opinions).
 
 If you would like to recommend any resources that we didn't include, please <a href="https://www.bitcoinchatt.org/contact">let us know</a>, and we’ll consider adding it!
-
-<br>
 
 <details>
   <summary>
@@ -186,6 +184,8 @@ details {
   display: block; /* Prevents extra space below image */
 }
 </style>
+
+</div>
 
 <br>
 
