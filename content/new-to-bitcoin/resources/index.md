@@ -201,18 +201,24 @@ details {
       Bitcoin Rocks!
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://River.com/learn">
       River Financial's <i>Learn</i> page
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://Bitcoin.org/en/getting-started">
       Unofficial-Official Bitcoin Website
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://LearnMeaBitcoin.com">
@@ -233,96 +239,128 @@ details {
       Bitcoin Money: A Tale of Bitville Discovering Good Money
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/iDpYbmT">
       21 Questions: The Beginners Guide to Bitcoin
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://thesimplestbitcoinbook.net/">
       The Simplest Bitcoin Book Ever Written
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://myfirstbitcoin.io/wp-content/uploads/2024/09/Bitcoin-Diploma-2024-PDF.pdf">
       Bitcoin Diploma
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/6vNpeOj">
       Inventing Bitcoin
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/1ifsTGf">
       Thank God for Bitcoin
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/b4G6d3F">
       The Little Bitcoin Book
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/6II7ZAk">
       Magic Internet Money: A Book About Bitcoin
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://anilsaidso.gumroad.com/l/bitcoin?layout=profile">
       The Bitcoin Handbook
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/cIPBfEv">
       The Bullish Case for Bitcoin
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/cOmGgcs">
       History Echoes Bitcoin
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/7JPa6Ux">
       Fiat Ruins Everything
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/13gbNXb">
       Shells to Satoshi: The Story of Money and The Rise of Bitcoin
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/3VzrNFs">
       Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/1ZKOljz">
       The Bitcoin Standard: The Decentralized Alternative to Central Banking
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/0Q0J0Jg">
       The Fiat Standard: The Debt Slavery Alternative to Human Civilization
     </a>
   </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/dP2WRdv">
@@ -345,13 +383,13 @@ details {
 
 <div style="text-align: center;">
   <a target="_blank" href="https://apps.apple.com/us/app/yzer-learn-bitcoin-finance/id6443545393">
-    <img src="./App Store.png" width="100" alt="Description">
+    <img src="./App Store.png" width="150" alt="Description">
   </a>
 </div>
 
 <div style="text-align: center;">
   <a target="_blank" href="https://play.google.com/store/apps/details?id=io.wizzer.academy">
-    <img src="./Google Play.png" width="100" alt="Description">
+    <img src="./Google Play.png" width="150" alt="Description">
   </a>
 </div>
 
@@ -363,13 +401,13 @@ details {
 
 <div style="text-align: center;">
   <a target="_blank" href="https://apps.apple.com/de/app/simple-crypto-bitcoin/id1487375777">
-    <img src="./App Store.png" width="100" alt="Description">
+    <img src="./App Store.png" width="150" alt="Description">
   </a>
 </div>
 
 <div style="text-align: center;">
   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.simplecrypto.applearning.cryptoapp">
-    <img src="./Google Play.png" width="100" alt="Description">
+    <img src="./Google Play.png" width="150" alt="Description">
   </a>
 </div>
 
@@ -389,17 +427,23 @@ details {
   </a>
 </h3>
 
+<br>
+
 <h3 style="text-align:center">
   <a target="_blank" href="https://www.freemarketkids.com/products/bip-39">
     Bip39
   </a>
 </h3>
 
+<br>
+
 <h3 style="text-align:center">
   <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/hodl-up-a-bitcoin-mining-game">
     Hodl Up
   </a>
 </h3>
+
+<br>
 
 <h3 style="text-align:center">
   <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/channel-up-a-bitcoin-lightning-game">
