@@ -187,8 +187,6 @@ details {
 
 </div>
 
-<br>
-
 <div class="article">
 
 <details>
@@ -427,7 +425,7 @@ As before, if there are any tutorials that you would like us to add here, please
 
 <details>
   <summary>
-    <h3 style="text-align:left">Hardware Wallets</h3>
+    <h3 class="align-left" style="display: inline-block">Hardware Wallets</h3>
   </summary>
   <div class="video-container">
     <div class="video-row">
@@ -497,7 +495,7 @@ details {
 
 <details>
   <summary>
-    <h3 style="text-align:left">Software Wallets</h3>
+    <h3 class="align-left" style="display: inline-block">Software Wallets</h3>
   </summary>
   <div class="video-container">
     <div class="video-row">
@@ -645,6 +643,8 @@ details {
   text-align: center; /* Center-aligns all descriptions */
 }
 </style>
+
+<br>
 
 <br>
 
@@ -811,17 +811,23 @@ There will likely always be a shortage of developers when it comes to something 
     </a>
   </h4>
 
+  <br>
+
   <h3 style="text-align:center">
     <a target="_blank" href="https://bitcoinedge.org">
       Bitcoin Edge
     </a>
   </h4>
 
+  <br>
+
   <h3 style="text-align:center">
     <a target="_blank" href="https://learn.saylor.org/enrol/index.php?id=500">
-      Saylor Academy: CS120 - Bitcoin for Developers 1
+      Saylor Academy: CS120 - Bitcoin for Developers I
     </a>
   </h4>
+
+<br>
 
 <br>
 
