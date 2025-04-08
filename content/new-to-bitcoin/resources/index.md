@@ -144,7 +144,7 @@ details {
 
 .video-item {
   width: 350px; /* Matches iframe/image width */
-  margin: 0 20px; /* Space between items */
+  margin: 0.75rem; /* Space between items */
 }
 
 .iframe-title {
@@ -497,11 +497,6 @@ details {
   margin-bottom: 40px;
 }
 
-.video-item {
-  width: 350px; /* Matches iframe width */
-  margin: 0 20px; /* Space between items */
-}
-
 .iframe-title {
   text-align: center;
   margin: 0 0 10px 0; /* Space below title */
@@ -636,12 +631,6 @@ details {
   justify-content: center;
 }
 
-.video-item {
-  width: 350px; /* Matches iframe width */
-  margin: 0 20px; /* Space between items */
-  /*display: block;*/
-}
-
 .iframe-title {
   text-align: center;
   margin: 0 0 10px 0; /* Space below title */
@@ -707,11 +696,6 @@ Here are three different kinds of nodes you may want to look into, and learn how
 
 .video-row:last-child {
   justify-content: center;
-}
-
-.video-item {
-  width: 350px; /* Matches iframe/image width */
-  margin: 0 20px; /* Space between items */
 }
 
 .iframe-title {
@@ -784,11 +768,6 @@ This <a target="_blank" href="https://tools.bitbo.io/mining-calculator">Mining C
 
 .video-row:last-child {
   justify-content: center;
-}
-
-.video-item {
-  width: 350px; /* Matches iframe width */
-  margin: 0 20px; /* Space between items */
 }
 
 .iframe-title {
