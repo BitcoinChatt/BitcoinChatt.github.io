@@ -45,7 +45,7 @@ draft = false
 
 <center>
 
-<b>April 7th:</b> Our <a href="https://www.bitcoinchatt.org/donate">Donate</a> page is now live! It currently only supports donations on-chain and over Lightning, but we will add fiat compatibility ASAP.
+<b>April 7th:</b> Our <a href="https://www.bitcoinchatt.org/donate">Donate</a> page is now live! It currently only supports bitcoin donations on-chain and over Lightning, but we will add fiat compatibility ASAP.
 
 </center>
 
