@@ -45,7 +45,13 @@ draft = false
 
 <center>
 
-<b>April 7th:</b> Our <a href="https://www.bitcoinchatt.org/donate">Donate</a> page is now live! It currently only supports bitcoin donations on-chain and over Lightning, but we will add fiat compatibility ASAP.
+<b>April 8th:</b> Our <a href="https://www.bitcoinchatt.org/new-to-bitcoin/resources/">Educational Resources</a> page is <i>finally</i> done! 🎉🤩
+Check it out to dive even deeper down the Bitcoin Rabbit Hole!
+
+<br>
+
+<b>April 7th:</b> Our <a href="https://www.bitcoinchatt.org/donate">Donate</a> page is now live!
+It currently only supports bitcoin donations on-chain and over Lightning, but we will add fiat compatibility ASAP.
 
 </center>
 
