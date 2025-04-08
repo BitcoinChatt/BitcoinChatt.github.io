@@ -41,7 +41,7 @@ If you would like to recommend any resources that we didn't include, please <a h
     <div class="video-item">
       <h4><b>Tuttle Twins:</b> The Inflation Monster</h4>
         <a target="_blank" href="https://www.angel.com/watch/tuttle-twins/episode/5daf8a13-4532-4fbf-a89f-e37d544c0ec0/season-1/episode-6/the-inflation-monster">
-          <img src="Inflation Manster.png" width="350" height="197" alt="Tuttle Twins: The Inflation Monster">
+          <img src="Inflation Monster.png" width="350" height="197" alt="Tuttle Twins: The Inflation Monster">
         </a>
       <p>Join the Ethan and Emily Tuttle as they meet Milton Friedman, and learn all about what causes of inflation, and what the inflation monster does to society.</p>
     </div>
