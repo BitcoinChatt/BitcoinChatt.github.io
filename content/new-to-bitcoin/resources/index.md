@@ -24,114 +24,96 @@ If you would like to recommend any resources that we didn't include, please <a h
     <h2 class="align-left" style="display: inline-block">Videos</h2>
   </summary>
   <div class="video-container">
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Bitcoin Money:</b> A Tale of Bitville Discovering Good Money</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/2Fer-Bo7y_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>From bartering to Bitcoin, this video explains it all in a way a 5-year-old can understand!</p>
-      </div>
-      <div class="video-item">
-        <h3 class="image-title"><b>Tuttle Twins:</b> The Inflation Monster</h3>
-        <a target="_blank" href="https://www.angel.com/watch/tuttle-twins/episode/5daf8a13-4532-4fbf-a89f-e37d544c0ec0/season-1/episode-6/the-inflation-monster">
-          <img src="Inflation Monster.png" width="350" height="197" alt="Tuttle Twins: The Inflation Monster">
-        </a>
-        <p>Join Ethan and Emily Tuttle as they meet Milton Friedman, and learn all about what causes inflation, and what the inflation monster does to society.</p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Bitcoin Money:</b> A Tale of Bitville Discovering Good Money</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/2Fer-Bo7y_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p>From bartering to Bitcoin, this video explains it all in a way a 5-year-old can understand!</p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Tuttle Twins:</b> Bitcoin and the Beast</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/yLjx0ha_6Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>The Tuttle Twins are faced with a difficult decision: Should they accept dollars or bitcoin at their yard sale? Join them as they learn about what makes Bitcoin special, from the legendary creator of Bitcoin himself: Satoshi Nakamoto.</p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Tuttle Twins:</b> Bitcoin Bash and Corrupted Cash</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/hSZyUI6rbC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>After lamenting about rising prices at the grocery store, the Tuttle Twins wish they could control the money themselves, so it would never get ruined. But then they learn a crucial lesson: <i>When money is controlled, money is corrupted.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Tuttle Twins:</b> The Inflation Monster</h3>
+      <a target="_blank" href="https://www.angel.com/watch/tuttle-twins/episode/5daf8a13-4532-4fbf-a89f-e37d544c0ec0/season-1/episode-6/the-inflation-monster">
+        <img src="Inflation Monster.png" style="margin: 0rem;" width="350" height="197" alt="Tuttle Twins: The Inflation Monster">
+      </a>
+      <p>Join Ethan and Emily Tuttle as they meet Milton Friedman, and learn all about what causes inflation, and what the inflation monster does to society.</p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>WeUseCoins:</b> What is Bitcoin?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/Gc2en3nHxA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Doodling Bitcoin #1:</b> What is Bitcoin?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/mpHlBcDK-4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Tuttle Twins:</b> Bitcoin and the Beast</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/yLjx0ha_6Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p>The Tuttle Twins are faced with a difficult decision: Should they accept dollars or bitcoin at their yard sale? Join them as they learn about what makes Bitcoin special, from the legendary creator of Bitcoin himself: Satoshi Nakamoto.</p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Doodling Bitcoin #2:</b> Who Runs Bitcoin?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/UDIivWr2XUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Doodling Bitcoin #3:</b> Let’s Invent Bitcoin!</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/pwH3C6fQJQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Tuttle Twins:</b> Bitcoin Bash and Corrupted Cash</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/hSZyUI6rbC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p>After lamenting about rising prices at the grocery store, the Tuttle Twins wish they could control the money themselves, so it would never get ruined. But then they learn a crucial lesson: <i>When money is controlled, money is corrupted.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Jack Mallers Explains Bitcoin in Simple Terms</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/Fvd2rBTw6IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">The Greatest Bitcoin Explanation of All Time</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/gCfA1lkmJo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>WeUseCoins:</b> What is Bitcoin?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/Gc2en3nHxA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="image-title">Bitcoin University YouTube Channel</h3>
-        <a target="_blank" href="https://www.youtube.com/@Bitcoin_University">
-          <img src="Bitcoin University.png" width="350" height="197" alt="Bitcoin University, by Matthew Kratter">
-        </a>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="image-title">Ioni Appelberg YouTube Channel</h3>
-        <a target="_blank" href="https://www.youtube.com/@IoniAppelberg">
-          <img src="Ioni Appelberg.png" width="350" height="197" alt="Ioni Appelberg YouTube Channel">
-        </a>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Doodling Bitcoin #1:</b> What is Bitcoin?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/mpHlBcDK-4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Bitcoin: The biggest scam, or the best money to ever exist?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/JHbnExgAkqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title"><b>99Bitcoins:</b> What is Bitcoin? Bitcoin Explained Simply</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/41JCpzvnn_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Doodling Bitcoin #2:</b> Who Runs Bitcoin?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/UDIivWr2XUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Bitcoin is Protecting Human Rights Around the World</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">God Bless Bitcoin</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/oksraL7wN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Doodling Bitcoin #3:</b> Let’s Invent Bitcoin!</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/pwH3C6fQJQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">What’s the Problem?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/YtFOxNbmD38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Jack Mallers Explains Bitcoin in Simple Terms</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/Fvd2rBTw6IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">The Greatest Bitcoin Explanation of All Time</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/gCfA1lkmJo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Bitcoin University YouTube Channel</h3>
+      <a target="_blank" href="https://www.youtube.com/@Bitcoin_University">
+        <img src="Bitcoin University.png" style="margin: 0rem;" width="350" height="197" alt="Bitcoin University, by Matthew Kratter">
+      </a>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Ioni Appelberg YouTube Channel</h3>
+      <a target="_blank" href="https://www.youtube.com/@IoniAppelberg">
+        <img src="Ioni Appelberg.png" style="margin: 0rem;" width="350" height="197" alt="Ioni Appelberg YouTube Channel">
+      </a>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Bitcoin: The biggest scam, or the best money to ever exist?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/JHbnExgAkqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>99Bitcoins:</b> What is Bitcoin? Bitcoin Explained Simply</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/41JCpzvnn_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Bitcoin is Protecting Human Rights Around the World</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">God Bless Bitcoin</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/oksraL7wN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">What’s the Problem?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/YtFOxNbmD38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
   </div>
 </details>
@@ -472,29 +454,25 @@ As before, if there are any tutorials that you would like us to add here, please
     <h3 class="align-left" style="display: inline-block">Hardware Wallets</h3>
   </summary>
   <div class="video-container">
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Blockstream Jade</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/_U1jsTeqbTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">ColdCard</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/FAYmE5-40PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Blockstream Jade</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/_U1jsTeqbTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Foundation Passport</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/_uGZHg64wwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Seed Signer</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/AZqlIkJf0mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">ColdCard</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/FAYmE5-40PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Foundation Passport</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/_uGZHg64wwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Seed Signer</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/AZqlIkJf0mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
   </div>
 </details>
@@ -542,108 +520,90 @@ details {
     <h3 class="align-left" style="display: inline-block">Software Wallets</h3>
   </summary>
   <div class="video-container">
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Alby</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/2Z1BzwxdP4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Blitz Wallet</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/Ka60AHkfrPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Alby</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/2Z1BzwxdP4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">BlueWallet</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/-ZJ1DeB6VWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Breez</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/lcBsn8e-oQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Blitz Wallet</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/Ka60AHkfrPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Cashu.me</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/LIPw1c74LBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">CoinOS</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/GADLcQ4g8DU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">BlueWallet</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/-ZJ1DeB6VWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Electrum</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/ZGLWPFmYwrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Green Wallet</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/DesN85bWmGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Breez</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/lcBsn8e-oQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Minibits</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/igJF8ccMnbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Muun</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/5SbpyInuIJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Cashu.me</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/LIPw1c74LBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Nunchuk</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/gV4bAjX_ivA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Phoenix</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/cbtAmevYpdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">CoinOS</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/GADLcQ4g8DU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Primal Wallet</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/Qd4Po4i7wvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Proton Wallet</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/tpEh5Bx-n_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Electrum</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/ZGLWPFmYwrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Simple Bitcoin Wallet</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/FwjX6ija9iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Sparrow Wallet</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/qJ_SpQX_YKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Green Wallet</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/DesN85bWmGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Zeus Wallet</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/hmmehTnV3ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Minibits</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/igJF8ccMnbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Muun</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/5SbpyInuIJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Nunchuk</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/gV4bAjX_ivA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Phoenix</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/cbtAmevYpdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Primal Wallet</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/Qd4Po4i7wvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Proton Wallet</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/tpEh5Bx-n_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Simple Bitcoin Wallet</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/FwjX6ija9iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Sparrow Wallet</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/qJ_SpQX_YKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Zeus Wallet</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/hmmehTnV3ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
   </div>
 </details>
@@ -712,27 +672,23 @@ Here are three different kinds of nodes you may want to look into, and learn how
 <br>
 
 <div class="video-container">
-  <!--div class="video-row"-->
-    <div class="video-item">
-      <h3 class="iframe-title">Umbrel</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/Fa9AvF4jk1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
-    </div>
-    <div class="video-item">
-      <h3 class="iframe-title">Start9</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/DzikmY4S42Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
-    </div>
-  <!--/div-->
-  <!--div class="video-row"-->
-    <div class="video-item">
-      <h3 class="image-title">MyNode</h3>
-      <a target="_blank" href="https://youtube.com/playlist?list=PLCRbH-IWlcW0KP8DxyWWrqahGafZyV2HR">
-        <img src="MyNode.png" width="350" height="197" alt="MyNode">
-      </a>
-      <p><i>Description pending.</i></p>
-    </div>
-  <!--/div-->
+  <div class="video-item">
+    <h3 class="iframe-title">Umbrel</h3>
+    <iframe width="350" height="197" src="https://www.youtube.com/embed/Fa9AvF4jk1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><i>Description pending.</i></p>
+  </div>
+  <div class="video-item">
+    <h3 class="iframe-title">Start9</h3>
+    <iframe width="350" height="197" src="https://www.youtube.com/embed/DzikmY4S42Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><i>Description pending.</i></p>
+  </div>
+  <div class="video-item">
+    <h3 class="iframe-title">MyNode</h3>
+    <a target="_blank" href="https://youtube.com/playlist?list=PLCRbH-IWlcW0KP8DxyWWrqahGafZyV2HR">
+      <img src="MyNode.png" style="margin: 0rem;" width="350" height="197" alt="MyNode">
+    </a>
+    <p><i>Description pending.</i></p>
+  </div>
 </div>
 <div style="clear: both;"></div>
 
