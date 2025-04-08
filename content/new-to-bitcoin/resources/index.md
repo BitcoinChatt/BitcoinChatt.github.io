@@ -23,7 +23,7 @@ If you would like to recommend any resources that we didn't include, please <a h
 
 <details>
   <summary>
-    <h2>Videos</h2>
+    <h2 class="align-left" style="display: inline-block">Videos</h2>
   </summary>
   <div class="video-container">
     <div class="video-row">
@@ -156,6 +156,10 @@ details {
   display: flex;
   justify-content: space-between;
   margin-bottom: 40px;
+}
+
+.video-row:last-child {
+  justify-content: center;
 }
 
 .video-item {
@@ -622,6 +626,10 @@ details {
   margin-bottom: 40px;
 }
 
+.video-row:last-child {
+  justify-content: center;
+}
+
 .video-item {
   width: 350px; /* Matches iframe width */
   margin: 0 20px; /* Space between items */
@@ -690,6 +698,10 @@ Here are three different kinds of nodes you may want to look into, and learn how
   display: flex;
   justify-content: space-between;
   margin-bottom: 40px;
+}
+
+.video-row:last-child {
+  justify-content: center;
 }
 
 .video-item {
@@ -763,6 +775,10 @@ This <a target="_blank" href="https://tools.bitbo.io/mining-calculator">Mining C
   display: flex;
   justify-content: space-between;
   margin-bottom: 40px;
+}
+
+.video-row:last-child {
+  justify-content: center;
 }
 
 .video-item {
