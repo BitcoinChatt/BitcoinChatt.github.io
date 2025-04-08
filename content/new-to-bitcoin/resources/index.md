@@ -417,7 +417,7 @@ details {
 
 <br>
 
-You can find a full list of the wallets we recommend on our <a href="https://www.bitcoinchatt.org/new-to-bitcoin/exchanges-and-wallets">Exchanges and Wallets</a> page, and below is a list of tutorial videos for many of them. You’ll notice that nearly all of them are from BTC Sessions, but that wasn’t intentional; he just has so many tutorials, and they’re some of the best, so we had to include them.
+You can find a full list of the wallets we recommend on our <a href="https://www.bitcoinchatt.org/new-to-bitcoin/exchanges-and-wallets">Exchanges and Wallets</a> page, and below is a list of tutorial videos for many of them. You’ll notice that nearly all of them are from <a target="_blank" href="https://www.youtube.com/@BTCSessions">BTC Sessions</a>, but that wasn’t intentional; he just has so many tutorials, and they’re some of the best, so we had to include them.
 
 As before, if there are any tutorials that you would like us to add here, please <a href="https://www.bitcoinchatt.org/contact">let us know</a>, and we’ll look into it!
 
