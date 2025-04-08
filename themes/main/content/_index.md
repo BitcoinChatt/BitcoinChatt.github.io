@@ -45,19 +45,7 @@ draft = false
 
 <center>
 
-<img class="mobile-banner" src="./Business Expo 2025.png" style="width:20dvw;display:block;margin:0 auto;">
-
-<br>
-
-<b>April 3rd:</b> The East Ridge Business Expo was a <i>massive</i> success!
-
-If you stopped by, then please <a href="https://www.bitcoinchatt.org/contact">reach out to us</a>, so we can schedule a free workshop for your business to start accepting bitcoin, and get you added to our <a href="https://www.bitcoinchatt.org/map">Map</a>!
-
-<br>
-  
-<b>March 31st:</b> The <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin Intro Series</a> is now complete! If you're new to Bitcoin, start there.
-
-We're still working on the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/resources/">Educational Resources</a> and <a href="https://www.bitcoinchatt.org/new-to-bitcoin/glossary/">Glossary</a> pages, though. Thank you for your patience!
+<b>April 7th:</b> Our <a href="https://www.bitcoinchatt.org/donate">Donate</a> page is now live! It currently only supports donations on-chain and over Lightning, but we will add fiat compatibility ASAP.
 
 </center>
 
