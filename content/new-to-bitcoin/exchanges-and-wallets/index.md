@@ -782,7 +782,7 @@ You can always receive sats in any of our recommended wallets listed above, but 
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Optional</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
-      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #FF0000;">No</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Browser window, iOS, Android</td>
