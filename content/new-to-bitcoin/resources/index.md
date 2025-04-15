@@ -318,6 +318,14 @@ details {
   </h3>
 
   <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.amazon.com/dp/B0C2RM94BB">
+      Proof of Money: The Big Idea Behind Bitcoin <i>(What You Don't Know About Why You Need It)</i>
+    </a>
+  </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/cOmGgcs">
