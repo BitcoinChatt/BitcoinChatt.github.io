@@ -91,8 +91,6 @@ If you would like to recommend any resources that we didn't include, please <a h
         <p><i>Description pending.</i></p>
       </div>
     </div>
-  </div>
-  <div class="video-container">
     <div class="video-row">
       <div class="video-item">
         <h3 class="iframe-title">The Greatest Bitcoin Explanation of All Time</h3>
