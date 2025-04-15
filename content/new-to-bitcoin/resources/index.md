@@ -24,55 +24,47 @@ If you would like to recommend any resources that we didn't include, please <a h
     <h2 class="align-left" style="display: inline-block">Videos</h2>
   </summary>
   <div class="video-container">
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Bitcoin Money:</b> A Tale of Bitville Discovering Good Money</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/2Fer-Bo7y_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>From bartering to Bitcoin, this video explains it all in a way a 5-year-old can understand!</p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Tuttle Twins:</b> The Inflation Monster</h3>
-        <a target="_blank" href="https://www.angel.com/watch/tuttle-twins/episode/5daf8a13-4532-4fbf-a89f-e37d544c0ec0/season-1/episode-6/the-inflation-monster">
-          <img src="Inflation Monster.png" style="margin: 0rem;" width="350" height="197" alt="Tuttle Twins: The Inflation Monster">
-        </a>
-        <p>Join Ethan and Emily Tuttle as they meet Milton Friedman, and learn all about what causes inflation, and what the inflation monster does to society.</p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Bitcoin Money:</b> A Tale of Bitville Discovering Good Money</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/2Fer-Bo7y_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p>From bartering to Bitcoin, this video explains it all in a way a 5-year-old can understand!</p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Tuttle Twins:</b> Bitcoin and the Beast</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/yLjx0ha_6Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>The Tuttle Twins are faced with a difficult decision: Should they accept dollars or bitcoin at their yard sale? Join them as they learn about what makes Bitcoin special, from the legendary creator of Bitcoin himself: Satoshi Nakamoto.</p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Tuttle Twins:</b> Bitcoin Bash and Corrupted Cash</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/hSZyUI6rbC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>After lamenting about rising prices at the grocery store, the Tuttle Twins wish they could control the money themselves, so it would never get ruined. But then they learn a crucial lesson: <i>When money is controlled, money is corrupted.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Tuttle Twins:</b> The Inflation Monster</h3>
+      <a target="_blank" href="https://www.angel.com/watch/tuttle-twins/episode/5daf8a13-4532-4fbf-a89f-e37d544c0ec0/season-1/episode-6/the-inflation-monster">
+        <img src="Inflation Monster.png" style="margin: 0rem;" width="350" height="197" alt="Tuttle Twins: The Inflation Monster">
+      </a>
+      <p>Join Ethan and Emily Tuttle as they meet Milton Friedman, and learn all about what causes inflation, and what the inflation monster does to society.</p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>WeUseCoins:</b> What is Bitcoin?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/Gc2en3nHxA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Doodling Bitcoin #1:</b> What is Bitcoin?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/mpHlBcDK-4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Tuttle Twins:</b> Bitcoin and the Beast</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/yLjx0ha_6Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p>The Tuttle Twins are faced with a difficult decision: Should they accept dollars or bitcoin at their yard sale? Join them as they learn about what makes Bitcoin special, from the legendary creator of Bitcoin himself: Satoshi Nakamoto.</p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Doodling Bitcoin #2:</b> Who Runs Bitcoin?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/UDIivWr2XUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title"><b>Doodling Bitcoin #3:</b> Let’s Invent Bitcoin!</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/pwH3C6fQJQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Tuttle Twins:</b> Bitcoin Bash and Corrupted Cash</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/hSZyUI6rbC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p>After lamenting about rising prices at the grocery store, the Tuttle Twins wish they could control the money themselves, so it would never get ruined. But then they learn a crucial lesson: <i>When money is controlled, money is corrupted.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>WeUseCoins:</b> What is Bitcoin?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/Gc2en3nHxA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Doodling Bitcoin #1:</b> What is Bitcoin?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/mpHlBcDK-4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Doodling Bitcoin #2:</b> Who Runs Bitcoin?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/UDIivWr2XUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>Doodling Bitcoin #3:</b> Let’s Invent Bitcoin!</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/pwH3C6fQJQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">
@@ -85,63 +77,54 @@ If you would like to recommend any resources that we didn't include, please <a h
       </div>
       <p>An 8-and-a-half minute explanation of the problem with fiat and how Bitcoin solves it.</p>
     </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Jack Mallers Explains Bitcoin in Simple Terms</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/Fvd2rBTw6IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Jack Mallers Explains Bitcoin in Simple Terms</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/Fvd2rBTw6IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">The Greatest Bitcoin Explanation of All Time</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/gCfA1lkmJo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Bitcoin University YouTube Channel</h3>
-        <a target="_blank" href="https://www.youtube.com/@Bitcoin_University">
-          <img src="Bitcoin University.png" style="margin: 0rem;" width="350" height="197" alt="Bitcoin University, by Matthew Kratter">
-        </a>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">The Greatest Bitcoin Explanation of All Time</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/gCfA1lkmJo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Ioni Appelberg YouTube Channel</h3>
-        <a target="_blank" href="https://www.youtube.com/@IoniAppelberg">
-          <img src="Ioni Appelberg.png" style="margin: 0rem;" width="350" height="197" alt="Ioni Appelberg YouTube Channel">
-        </a>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Bitcoin: The biggest scam, or the best money to ever exist?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/JHbnExgAkqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Bitcoin University YouTube Channel</h3>
+      <a target="_blank" href="https://www.youtube.com/@Bitcoin_University">
+        <img src="Bitcoin University.png" style="margin: 0rem;" width="350" height="197" alt="Bitcoin University, by Matthew Kratter">
+      </a>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title"><b>99Bitcoins:</b> What is Bitcoin? Bitcoin Explained Simply</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/41JCpzvnn_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Bitcoin is Protecting Human Rights Around the World</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Ioni Appelberg YouTube Channel</h3>
+      <a target="_blank" href="https://www.youtube.com/@IoniAppelberg">
+        <img src="Ioni Appelberg.png" style="margin: 0rem;" width="350" height="197" alt="Ioni Appelberg YouTube Channel">
+      </a>
+      <p><i>Description pending.</i></p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">God Bless Bitcoin</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/oksraL7wN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">What’s the Problem?</h3>
-        <iframe width="350" height="197" src="https://www.youtube.com/embed/YtFOxNbmD38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p><i>Description pending.</i></p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Bitcoin: The biggest scam, or the best money to ever exist?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/JHbnExgAkqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title"><b>99Bitcoins:</b> What is Bitcoin? Bitcoin Explained Simply</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/41JCpzvnn_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Bitcoin is Protecting Human Rights Around the World</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">God Bless Bitcoin</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/oksraL7wN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">What’s the Problem?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/YtFOxNbmD38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
     </div>
   </div>
 </details>
@@ -429,63 +412,56 @@ details {
 </details>
 
 <details>
-
-<summary>
-  <h2 class="align-left" style="display: inline-block">
-    Games
-  </h2>
-</summary>
-
+  <summary>
+    <h2 class="align-left" style="display: inline-block">
+      Games
+    </h2>
+  </summary>
   <div class="video-container">
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">SHAmory</h3>
-        <a target="_blank" href="https://shamory.com/product/shamory">
-          <img src="SHAmory.png" style="margin: 0rem;" width="350" height="197" alt="SHAmory">
-        </a>
-        <p>A twist on the classic memory game, so it demonstrates how Bitcoin mining works and how new blocks are added to the Timechain. Great for young kids!</p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">BIP39</h3>
-        <a target="_blank" href="https://www.freemarketkids.com/products/bip-39">
-          <img src="BIP39.png" style="margin: 0rem;" width="350" height="197" alt="BIP39">
-        </a>
-        <p>With words from Bitcoin's <a target="_blank" href="https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt">BIP39 seed phrase list</a>, use "Yes" and "No" questions and your powers of deduction to guess other players' seed phrase words.</p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">SHAmory</h3>
+      <a target="_blank" href="https://shamory.com/product/shamory">
+        <img src="SHAmory.png" style="margin: 0rem;" width="350" height="197" alt="SHAmory">
+      </a>
+      <p>A twist on the classic memory game, so it demonstrates how Bitcoin mining works and how new blocks are added to the Timechain. Great for young kids!</p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Mission: Bitcoin</h3>
-        <a target="_blank" href="https://a.co/d/fHIu316">
-          <img src="Mission Bitcoin.png" style="margin: 0rem;" width="350" height="197" alt="Mission: Bitcoin">
-        </a>
-        <p>Fly your rocket to the moon in this board game that simulates Bitcoin halvings, epochs, exchange hacks, and so much more!</p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Hodl Up</h3>
-        <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/hodl-up-a-bitcoin-mining-game">
-          <img src="Hodl Up.png" style="margin: 0rem;" width="350" height="197" alt="Hodl Up">
-        </a>
-        <p>Build transactions, find new blocks, and accumulate bitcoin in this board game that blends a lot of strategy with a little bit of luck.</p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">BIP39</h3>
+      <a target="_blank" href="https://www.freemarketkids.com/products/bip-39">
+        <img src="BIP39.png" style="margin: 0rem;" width="350" height="197" alt="BIP39">
+      </a>
+      <p>With words from Bitcoin's <a target="_blank" href="https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt">BIP39 seed phrase list</a>, use "Yes" and "No" questions and your powers of deduction to guess other players' seed phrase words.</p>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Blockhunters</h3>
-        <a target="_blank" href="https://blockhuntersgame.com">
-          <img src="Blockhunters.png" style="margin: 0rem;" width="350" height="197" alt="Blockhunters">
-        </a>
-        <p>Mine, add transactions to the blocks you find, and try to figure out your opponent's private keys in this strategy game that shows you how Bitcoin works while you're having fun!</p>
-      </div>
-      <div class="video-item">
-        <h3 class="iframe-title">Channel Up</h3>
-        <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/channel-up-a-bitcoin-lightning-game">
-          <img src="Channel Up.png" style="margin: 0rem;" width="350" height="197" alt="Channel Up">
-        </a>
-        <p>Strategically build Lightning channels to pay for various items with your sats, while simultaneously seeing for yourself how the Lightning Network works!</p>
-      </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Mission: Bitcoin</h3>
+      <a target="_blank" href="https://a.co/d/fHIu316">
+        <img src="Mission Bitcoin.png" style="margin: 0rem;" width="350" height="197" alt="Mission: Bitcoin">
+      </a>
+      <p>Fly your rocket to the moon in this board game that simulates Bitcoin halvings, epochs, exchange hacks, and so much more!</p>
     </div>
-    <div style="clear: both;"></div>
+    <div class="video-item">
+      <h3 class="iframe-title">Hodl Up</h3>
+      <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/hodl-up-a-bitcoin-mining-game">
+        <img src="Hodl Up.png" style="margin: 0rem;" width="350" height="197" alt="Hodl Up">
+      </a>
+      <p>Build transactions, шестfind new blocks, and accumulate bitcoin in this board game that blends a lot of strategy with a little bit of luck.</p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Blockhunters</h3>
+      <a target="_blank" href="https://blockhuntersgame.com">
+        <img src="Blockhunters.png" style="margin: 0rem;" width="350" height="197" alt="Blockhunters">
+      </a>
+      <p>Mine, add transactions to the blocks you find, and try to figure out your opponent's private keys in this strategy game that shows you how Bitcoin works while you're having fun!</p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Channel Up</h3>
+      <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/channel-up-a-bitcoin-lightning-game">
+        <img src="Channel Up.png" style="margin: 0rem;" width="350" height="197" alt="Channel Up">
+      </a>
+      <p>Strategically build Lightning channels to pay for various items with your sats, while simultaneously seeing for yourself how the Lightning Network works!</p>
+    </div>
+  </div>
+  <div style="clear: both;"></div>
 
 <style>
 details {
@@ -579,7 +555,7 @@ details {
 }
 
 .video-container {
-  max-width: 800px; /* Adjusted for two 350px items + spacing */
+  max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -592,12 +568,12 @@ details {
 
 .iframe-title {
   text-align: center;
-  margin: 0 0 10px 0; /* Space below title */
+  margin: 0 0 10px 0;
 }
 
 .video-item p {
-  margin: 10px 0 0 0; /* Space above description */
-  text-align: center; /* Center-aligns all descriptions */
+  margin: 10px 0 0 0;
+  text-align: center;
 }
 </style>
 
@@ -705,7 +681,7 @@ details {
 }
 
 .video-container {
-  max-width: 800px; /* Adjusted for two 350px items + spacing */
+  max-width: 800px;
   margin: 0 auto;
   padding: 20px;
   display: flex;
@@ -726,12 +702,12 @@ details {
 
 .iframe-title {
   text-align: center;
-  margin: 0 0 10px 0; /* Space below title */
+  margin: 0 0 10px 0;
 }
 
 .video-item p {
-  margin: 10px 0 0 0; /* Space above description */
-  text-align: center; /* Center-aligns all descriptions */
+  margin: 10px 0 0 0;
+  text-align: center;
 }
 </style>
 
@@ -776,7 +752,7 @@ Here are three different kinds of nodes you may want to look into, and learn how
 
 <style>
 .video-container {
-  max-width: 800px; /* Adjusted for two 350px items + spacing */
+  max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -793,21 +769,21 @@ Here are three different kinds of nodes you may want to look into, and learn how
 
 .iframe-title {
   text-align: center;
-  margin: 0 0 10px 0; /* Space below title */
+  margin: 0 0 10px 0;
 }
 
 .image-title {
   text-align: left;
-  margin: 0 0 10px 0; /* Space below title */
+  margin: 0 0 10px 0;
 }
 
 .video-item p {
-  margin: 10px 0 0 0; /* Space above description */
-  text-align: center; /* Center-aligns all descriptions */
+  margin: 10px 0 0 0;
+  text-align: center;
 }
 
 .video-item img {
-  display: block; /* Prevents extra space below image */
+  display: block;
 }
 </style>
 
@@ -824,7 +800,6 @@ This <a target="_blank" href="https://tools.bitbo.io/mining-calculator">Mining C
 <br>
 
 <div class="video-container">
-  <!--div class="video-row"-->
     <div class="video-item">
       <h3 class="iframe-title">Heatbit</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/2uecG0trazk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -835,20 +810,17 @@ This <a target="_blank" href="https://tools.bitbo.io/mining-calculator">Mining C
       <iframe width="350" height="197" src="https://www.youtube.com/embed/QAwSXZ3L7Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
-  <!--/div-->
-  <!--div class="video-row"-->
     <div class="video-item">
       <h3 class="iframe-title">FutureBit</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/t4DbRDJ3p50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
-  <!--/div-->
 </div>
 <div style="clear: both;"></div>
 
 <style>
 .video-container {
-  max-width: 800px; /* Adjusted for two 350px items + spacing */
+  max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -865,12 +837,12 @@ This <a target="_blank" href="https://tools.bitbo.io/mining-calculator">Mining C
 
 .iframe-title {
   text-align: center;
-  margin: 0 0 10px 0; /* Space below title */
+  margin: 0 0 10px 0;
 }
 
 .video-item p {
-  margin: 10px 0 0 0; /* Space above description */
-  text-align: center; /* Center-aligns all descriptions */
+  margin: 10px 0 0 0;
+  text-align: center;
 }
 </style>
 
