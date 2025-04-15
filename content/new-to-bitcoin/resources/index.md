@@ -172,7 +172,7 @@ details {
 
 .video-item {
   width: 350px;
-  margin: 0.75rem auto;
+  margin: 0.75rem;
 }
 
 .iframe-title {
@@ -426,35 +426,98 @@ details {
   </h2>
 </summary>
 
-<h3 style="text-align:center">
-  <a target="_blank" href="https://shamory.com/product/shamory">
-    SHAmory
-  </a>
-</h3>
+  <div class="video-container">
+    <div class="video-row">
+      <div class="video-item">
+        <h3 class="iframe-title">SHAmory</h3>
+        <a target="_blank" href="https://shamory.com/product/shamory">
+          <img src="SHAmory.png" style="margin: 0rem;" width="350" height="197" alt="SHAmory">
+        </a>
+        <p>A twist on the classic memory game, so it demonstrates how Bitcoin mining works and how new blocks are added to the Timechain. Great for young kids!</p>
+      </div>
+      <div class="video-item">
+        <h3 class="iframe-title">BIP39</h3>
+        <a target="_blank" href="https://www.freemarketkids.com/products/bip-39">
+          <img src="BIP39.png" style="margin: 0rem;" width="350" height="197" alt="BIP39">
+        </a>
+        <p>With words from Bitcoin's <a target="_blank" href="https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt">BIP39 seed phrase list</a>, use "Yes" and "No" questions and your powers of deduction to guess other players' seed phrase words.</p>
+      </div>
+    </div>
+    <div class="video-row">
+      <div class="video-item">
+        <h3 class="iframe-title">Mission: Bitcoin</h3>
+        <a target="_blank" href="https://a.co/d/fHIu316">
+          <img src="Mission Bitcoin.png" style="margin: 0rem;" width="350" height="197" alt="Mission: Bitcoin">
+        </a>
+        <p>Fly your rocket to the moon in this board game that simulates Bitcoin halvings, epochs, exchange hacks, and so much more!</p>
+      </div>
+      <div class="video-item">
+        <h3 class="iframe-title">Hodl Up</h3>
+        <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/hodl-up-a-bitcoin-mining-game">
+          <img src="Hodl Up.png" style="margin: 0rem;" width="350" height="197" alt="Hodl Up">
+        </a>
+        <p>Build transactions, find new blocks, and accumulate bitcoin in this board game that blends a lot of strategy with a little bit of luck.</p>
+      </div>
+    </div>
+    <div class="video-row">
+      <div class="video-item">
+        <h3 class="iframe-title">Blockhunters</h3>
+        <a target="_blank" href="https://blockhuntersgame.com">
+          <img src="Blockhunters.png" style="margin: 0rem;" width="350" height="197" alt="Blockhunters">
+        </a>
+        <p>Mine, add transactions to the blocks you find, and try to figure out your opponent's private keys in this strategy game that shows you how Bitcoin works while you're having fun!</p>
+      </div>
+      <div class="video-item">
+        <h3 class="iframe-title">Channel Up</h3>
+        <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/channel-up-a-bitcoin-lightning-game">
+          <img src="Channel Up.png" style="margin: 0rem;" width="350" height="197" alt="Channel Up">
+        </a>
+        <p>Strategically build Lightning channels to pay for various items with your sats, while simultaneously seeing for yourself how the Lightning Network works!</p>
+      </div>
+    </div>
+    <div style="clear: both;"></div>
 
-<br>
+<style>
+details {
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+}
 
-<h3 style="text-align:center">
-  <a target="_blank" href="https://www.freemarketkids.com/products/bip-39">
-    Bip39
-  </a>
-</h3>
+.video-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
 
-<br>
+.video-row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
 
-<h3 style="text-align:center">
-  <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/hodl-up-a-bitcoin-mining-game">
-    Hodl Up
-  </a>
-</h3>
+.video-item {
+  width: 350px;
+  margin: 0.75rem auto;
+}
 
-<br>
+.iframe-title {
+  text-align: center;
+  margin: 0 0 10px 0;
+}
 
-<h3 style="text-align:center">
-  <a target="_blank" href="https://www.freemarketkids.com/collections/games-1/products/channel-up-a-bitcoin-lightning-game">
-    Channel Up
-  </a>
-</h3>
+.video-item p {
+  margin: 10px 0 0 0;
+  text-align: center;
+}
+
+.video-item img {
+  display: block;
+}
+</style>
+
+</div>
 
 </details>
 
