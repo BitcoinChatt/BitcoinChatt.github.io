@@ -74,18 +74,17 @@ If you would like to recommend any resources that we didn't include, please <a h
         <p><i>Description pending.</i></p>
       </div>
     </div>
-    <div class="video-row">
-      <div class="video-item">
-        <h3 class="iframe-title">Understanding Inflation and Bitcoin</h3>
+    <div class="video-item">
+      <h3 class="iframe-title">
+        Understanding Inflation and Bitcoin
+      </h3>
+      <div class="tweet-wrapper">
         <blockquote class="twitter-tweet" data-theme="dark" data-width="350">
-          <p lang="en" dir="ltr">
-            🚨When people understand inflation (most don’t REALLY get it) they finally see Bitcoin’s value. Here’s a 510-second floating video with the help of some pizza slices, and a couple of dictators. <a href="https://t.co/etJ6gOG7Gt">https://t.co/etJ6gOG7Gt</a>
-          </p>
           <a href="https://twitter.com/ProofOfMoney/status/1911441309132349706"></a>
         </blockquote>
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <p>An 8-and-a-half minute explanation of the problem with fiat and how Bitcoin solves it.</p>
       </div>
+      <p>An 8-and-a-half minute explanation of the problem with fiat and how Bitcoin solves it.</p>
+    </div>
       <div class="video-item">
         <h3 class="iframe-title">Jack Mallers Explains Bitcoin in Simple Terms</h3>
         <iframe width="350" height="197" src="https://www.youtube.com/embed/Fvd2rBTw6IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -158,21 +157,24 @@ details {
 }
 
 .video-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
 
-.video-row {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  margin-bottom: 40px;
+.tweet-wrapper {
+  width: 350px;
+  height: 197px;
+  overflow-y: scroll;
 }
 
 .video-item {
   width: 350px;
-  margin: 0.75rem;
+  box-sizing: border-box;
 }
 
 .iframe-title {
@@ -493,21 +495,18 @@ details {
 }
 
 .video-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
 
-.video-row {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  margin-bottom: 40px;
-}
-
 .video-item {
   width: 350px;
-  margin: 0.75rem auto;
+  box-sizing: border-box;
 }
 
 .iframe-title {
