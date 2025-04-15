@@ -506,6 +506,8 @@ details {
 
 <br>
 
+<div class="article">
+
 <h2 style="text-align:center">
   Bitcoin Wallet Tutorials
 </h2>
@@ -880,4 +882,5 @@ There will likely always be a shortage of developers when it comes to something 
 
 <br>
 
+</div>
 </div>
