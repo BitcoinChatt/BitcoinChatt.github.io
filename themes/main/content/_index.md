@@ -47,7 +47,7 @@ draft = false
 
 <center>
 
-<b>April 16th:</b> The first version of our <a href="https://www.bitcoinchatt.org/new-to-bitcoin/glossary/#block">Glossary</a> of Bitcoin terms is finally <b><i>DONE!</i></b> 🤩 That means our entire <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin</a> section is done, too! Check it out, and make sure to share it with a friend!
+<b>April 16th:</b> The first version of our <a href="https://www.bitcoinchatt.org/new-to-bitcoin/glossary">Glossary</a> of Bitcoin terms is finally <b><i>DONE!</i></b> 🤩 That means our entire <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin</a> section is done, too! Check it out, and make sure to share it with a friend!
 
 <br>
 
