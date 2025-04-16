@@ -41,19 +41,21 @@ draft = false
   </div>
 </div>
 
+<div class="article">
+
 <h2 style="text-align: center"><b>Latest News:</b></h2>
 
 <center>
 
-<b>April 8th:</b> Our <a href="https://www.bitcoinchatt.org/new-to-bitcoin/resources/">Educational Resources</a> page is <i>finally</i> done! 🎉🤩
-Check it out to dive even deeper down the Bitcoin Rabbit Hole!
+<b>April 16th:</b> The first version of our <a href="https://www.bitcoinchatt.org/new-to-bitcoin/glossary/#block">Glossary</a> of Bitcoin terms is finally <b><i>DONE!</i></b> 🤩 That means our entire <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">New to Bitcoin</a> section is done, too! Check it out, and make sure to share it with a friend!
 
 <br>
 
-<b>April 7th:</b> Our <a href="https://www.bitcoinchatt.org/donate">Donate</a> page is now live!
-It currently only supports bitcoin donations on-chain and over Lightning, but we will add fiat compatibility ASAP.
+<b>April 8th:</b> Our <a href="https://www.bitcoinchatt.org/new-to-bitcoin/resources/">Educational Resources</a> page is <i>finally</i> done! 🎉🤩 Check it out to dive even deeper down the Bitcoin Rabbit Hole!
 
 </center>
+
+</div>
 
 <br>
 
