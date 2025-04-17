@@ -10,21 +10,21 @@ title = 'About'
 
 <img class="desktop-only" src="/images/Logos/Bitcoin%20Chatt%20Avatar.png" style="width:16dvw;float:right;">
 
-We're on a mission to help Chattanoogans build their savings with the only money that can never be debased, confiscated, or corrupted: Bitcoin. We do this by providing:  
+We promote businesses that accept bitcoin for payments, offer free Bitcoin education, and connect Chattanoogans with opportunities to work and build their savings using bitcoin. We do these by providing:
+
+### Free Advertising When You Start Accepting Bitcoin
+
+<p style="margin-left: 2rem;">Bitcoiners aren't investors looking to make more dollars; <b>they're revolutionaries who hope for a freer world without borders or boundaries.</b> So when they see a "Bitcoin Accepted Here" sign in your window, they will quickly become your most enthusiastic customers. Bitcoin Chattanooga is here to connect you with them, and them with you.</p>
 
 ### Free Workshops, Open to All
 
-<p style="margin-left: 2rem;">Nervous about Bitcoin? Our workshops demystify it, easing your fears. Prefer to teach yourself, but unsure where to begin? Check out our <a href="/new-to-bitcoin">New to Bitcoin</a> page for resources!</p>
+<p style="margin-left: 2rem;">If you're nervous about using Bitcoin, our free and open workshops are here to help you through that. Or, <a href="/contact">contact us</a> to schedule a free, in-person consultation that will get you started with Bitcoin. If you prefer to be self-taught, check out our <a href="/new-to-bitcoin">New to Bitcoin</a> page to get started!</p>
 
-### Tools for Businesses to Accept Bitcoin
+### Temporary Jobs, Paid in Bitcoin
 
-<p style="margin-left: 2rem;">We provide Point of Sale systems and more to help businesses adopt bitcoin. When they do, we’ll announce it to members and add them to our <a href="/map">map</a>!</p>
+<p style="margin-left: 2rem;">With 39% of Chattanoogans facing financial instability<sup><a target="_blank" href="https://unitedwaycha.org/financial-stability-and-our-greater-chattanooga-community/">1</a></sup>, Bitcoin Chattanooga will set up temporary job opportunities that will allow you to get paid in bitcoin, build long-term savings, and learn vital skills, while simultaneously improving our community.</p>
 
-### Community Service, Paid in Bitcoin
-
-<p style="margin-left: 2rem;">With 39% of Chattanoogans facing financial instability<sup><a target="_blank" href="https://unitedwaycha.org/financial-stability-and-our-greater-chattanooga-community/">1</a></sup>, our service opportunities allow you to get paid in bitcoin, so you can build long-term savings, learn vital skills, and create a beautiful community simultaneously.</p>
-
-Together, we’re creating a bitcoin circular economy and onboarding Chattanooga to the future of money. *Nothing stops this train!*
+Together, we’re onboarding Chattanooga to the future of money. *Nothing stops this train!*
 
 <br>
 
@@ -34,11 +34,11 @@ Together, we’re creating a bitcoin circular economy and onboarding Chattanooga
 
 <br>
 
-Bitcoin Chatt began as a humble meetup on October 1, 2021, where local Bitcoiners built friendships and educated curious visitors. In January 2025, Founder Jason Sellers visited El Salvador—the first nation to adopt bitcoin—and saw the hope that had spread from a small beach town there, to become a national phenomenon. Inspired, he returned to replicate that transformation here.
+Bitcoin Chatt began as a humble meetup on <a href="https://mempool.space/block/00000000000000000004730cacd16909b9e2323eeceab1305c31edae2af07537">October 1, 2021</a>, where local Bitcoiners built friendships and educated curious visitors. In January 2025, Bitcoin Chattanoga's Founder, Jason Sellers, visited El Salvador—the first nation to adopt bitcoin—and saw the hope that Bitcoin gave to the people there, which had spread from a small beach town there, to become a national phenomenon. Inspired, he returned to replicate that transformation here.
 
-Time will tell how far we go, but you can play an important role in our efforts to make the future one of liberty and personal responsibility, of savings and hope, and of peace and prosperity. You can start today by [learning all about Bitcoin](/new-to-bitcoin), accepting bitcoin at your business—we'll include it on our [map](/map) and recommend it to all Bitcoiners in the area—or by asking the businesses you visit to start accepting it.
+Time will tell how quickly this train moves toward its destination, but you can play an important role in our efforts to make the future one of liberty and personal responsibility, of savings and hope, and of peace and prosperity. You can start today by [learning all about Bitcoin](/new-to-bitcoin), accepting bitcoin at your business—<i>we'll freely promote you on social media and at our events, and also include you on our [map](/map)—</i>or by asking the businesses you visit to start accepting it.
 
-If you'd like to be notified of upcoming workshops, opportunities to earn some bitcoin through service to your community, or any other events, [tell us](/contact), and we'll include you in our email list. Also, please consider [donating](/donate) either dollars or bitcoin to keep us going, but even spreading the word about us to anyone who wants to start using the future of money will help us build a freer, thriving Chattanooga.
+If you'd like to schedule a free consultation, or be notified of upcoming workshops, opportunities to earn bitcoin, and other events, [tell us](/contact), and we'll include you in our email list. Also, please consider [supporting](/donate) us, but even spreading the word will help us build a freer, thriving Chattanooga.
 
 <br>
 
@@ -50,7 +50,7 @@ If you'd like to be notified of upcoming workshops, opportunities to earn some b
 
 <img class="mobile-banner" src="./Jason%20at%20CHEA%20Workshop.jpg" style="width:20dvw;float:right;">
 
-<p style="margin-left: 2rem;">Jason, Bitcoin Chatt’s Founder and Executive Director, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while working in package delivery. In 2018, he found he had a passion for Bitcoin education, and created online groups to teach others about it.</p>
+<p style="margin-left: 2rem;">Jason, Bitcoin Chattanooga’s Founder and Executive Director, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while working in package delivery. In 2018, he found he had a passion for Bitcoin education, and created online groups to teach others about it.</p>
 
 <p style="margin-left: 2rem;">From 2022 to 2023, Jason led community growth at <a href="https://www.noah.com/">NOAH</a>, which designed a wallet app for those in developing countries to use bitcoin. He was then the Community Manager at the Spirit of Satoshi, a Large Language Model built on all Bitcoin knowledge, making it the ultimate AI expert on the topic.</p>
 
