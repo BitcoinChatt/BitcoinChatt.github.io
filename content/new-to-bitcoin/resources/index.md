@@ -233,16 +233,16 @@ details {
   <br>
   
   <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/iDpYbmT">
-      21 Questions: The Beginners Guide to Bitcoin
+    <a target="_blank" href="https://thesimplestbitcoinbook.net/">
+      The Simplest Bitcoin Book Ever Written
     </a>
   </h3>
 
   <br>
   
   <h3 style="text-align:center">
-    <a target="_blank" href="https://thesimplestbitcoinbook.net/">
-      The Simplest Bitcoin Book Ever Written
+    <a target="_blank" href="https://a.co/d/iDpYbmT">
+      21 Questions: The Beginners Guide to Bitcoin
     </a>
   </h3>
 
