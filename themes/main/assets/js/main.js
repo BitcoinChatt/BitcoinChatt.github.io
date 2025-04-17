@@ -55,7 +55,7 @@ window.onload = function()
   }).addTo(map);
 
   // Pin 1: Divine Design Natural Health
-  L.marker([35.1851, -84.8755]).addTo(map)
+  L.marker([35.194250, -84.856933]).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg" style="width: 100px;"><br>' +
               '<b>Divine Design Natural Health</b><br>' +
               '<b>Address:</b> 3800 Keith St NW, Cleveland, TN 37312<br>' +
@@ -64,7 +64,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://divinedesignnaturalhealth.com" target="_blank">DivineDesignNaturalHealth.com</a>');
 
   // Pin 2: The Agora
-  L.marker([35.1478, -85.2350]).addTo(map)
+  L.marker([35.150883, -85.201333]).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/The Agora/The-Agora.png" style="width: 100px;"><br>' +
               '<b>The Agora</b><br>' +
               '<b>Address:</b> 6112 Hixson Pike, Hixson, TN 37343<br>' +
@@ -72,7 +72,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://theagorahub.com" target="_blank">TheAgoraHub.com</a>');
 
   // Pin 3: Same Day Septic (Centroid of Polygon)
-  L.marker([35.001709, -85.128325]).addTo(map)
+  L.marker([35.002027, -85.204528]).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;"><br>' +
               '<b>Same Day Septic</b><br>' +
               '<b>Address:</b> Chattanooga, TN<br>' +
