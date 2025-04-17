@@ -10,13 +10,15 @@ title = 'About'
 
 <img class="desktop-only" src="/images/Logos/Bitcoin%20Chatt%20Avatar.png" style="width:16dvw;float:right;">
 
-We promote businesses that accept bitcoin for payments, offer free Bitcoin education, and connect Chattanoogans with opportunities to work and build their savings using bitcoin. We do these by providing:
+We promote businesses that accept bitcoin for payments, offer free Bitcoin education, and connect Chattanoogans with opportunities to work and build their savings using bitcoin.
 
-### Free Advertising When You Start Accepting Bitcoin
+We do these by providing:
 
-<p style="margin-left: 2rem;">Bitcoiners aren't investors looking to make more dollars; <b>they're revolutionaries who hope for a freer world without borders or boundaries.</b> So when they see a "Bitcoin Accepted Here" sign in your window, they will quickly become your most enthusiastic customers. Bitcoin Chattanooga is here to connect you with them, and them with you.</p>
+### Free Advertising for Businesses that Accept Bitcoin
 
-### Free Workshops, Open to All
+<p style="margin-left: 2rem;">Bitcoiners aren't investors looking to make more dollars; <b>they're revolutionaries who hope for a freer world without borders or boundaries.</b> They tend to favor businesses that accept bitcoin, so we're here to connect them with those businesses.</p>
+
+### Bitcoin Workshops, Open to All
 
 <p style="margin-left: 2rem;">If you're nervous about using Bitcoin, our free and open workshops are here to help you through that. Or, <a href="/contact">contact us</a> to schedule a free, in-person consultation that will get you started with Bitcoin. If you prefer to be self-taught, check out our <a href="/new-to-bitcoin">New to Bitcoin</a> page to get started!</p>
 
@@ -24,7 +26,7 @@ We promote businesses that accept bitcoin for payments, offer free Bitcoin educa
 
 <p style="margin-left: 2rem;">With 39% of Chattanoogans facing financial instability<sup><a target="_blank" href="https://unitedwaycha.org/financial-stability-and-our-greater-chattanooga-community/">1</a></sup>, Bitcoin Chattanooga will set up temporary job opportunities that will allow you to get paid in bitcoin, build long-term savings, and learn vital skills, while simultaneously improving our community.</p>
 
-Together, we’re onboarding Chattanooga to the future of money. *Nothing stops this train!*
+Together, we’re onboarding Chattanooga to the future of money. <i>Nothing stops this train!</i>
 
 <br>
 
