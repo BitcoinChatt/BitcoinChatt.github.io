@@ -19,8 +19,6 @@ title = 'Donate'
 
 <br>
 
-<br>
-
 <b>Please note:</b> <i>While Bitcoin Chattanooga is a registered nonprofit corporation with the state of Tennessee, it does not yet been granted 501(c)(3) status by the IRS. Their review is pending, however, so as soon as we're approved, we will email you with the news, and your donations will then be retroactively tax deductible.</i>
 
 <br>
