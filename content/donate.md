@@ -11,19 +11,19 @@ title = 'Donate'
 
 <br>
 
-<h3>Every sat donated will go towards promoting buinesses that accept bitcoin, and spreading Bitcoin education and usage throughout the Chattanooga area.</h3>
+<h3 style="text-align:center">Every sat donated will go towards promoting buinesses that accept bitcoin, and spreading Bitcoin education and usage throughout the Chattanooga area.</h3>
 
 <br>
 
 <div class="video-container">
   <div class="video-item">
     <h3 class="iframe-title">On-Chain</h3>
-    <img src="content/Bitcoin Chatt QR On-chain.png" style="margin: 0rem;" width="350" height="350" alt="Donate on-chain">
+    <img src="BitcoinChatt.github.io/content/Bitcoin Chatt QR On-chain.png" style="margin: 0rem;" width="350" height="350" alt="Donate on-chain">
     <p>bc1qnn35dt7vr4s7yxdpytknjxx5u66ex8033uk797</p>
   </div>
   <div class="video-item">
     <h3 class="iframe-title">Lightning</h3>
-    <img src="content/Bitcoin Chatt QR Lightning.png" style="margin: 0rem;" width="350" height="350" alt="Donate over Lightning">
+    <img src="BitcoinChatt.github.io/content/Bitcoin Chatt QR Lightning.png" style="margin: 0rem;" width="350" height="350" alt="Donate over Lightning">
     <p>BitcoinChatt@strike.me</p>
   </div>
 </div>
