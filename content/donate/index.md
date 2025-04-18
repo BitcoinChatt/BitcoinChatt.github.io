@@ -15,7 +15,9 @@ title = 'Donate'
 
 <br>
 
-<iframe src='https://btcpay.satcrowd.com/apps/23zSkvmJdv2AECLfcom4Xij5zLLh/pos' style='width: 100%; max-width: 400px; height: 600px; border: 0;'></iframe>
+<a target="_blank" href="https://geyser.fund/project/bitcoinchatt"><img class="mobile-banner" src="./Geyser Button.png" style="width:30dvw;display:block;margin:0 auto;"></a>
+
+<br>
 
 <br>
 
