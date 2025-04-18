@@ -15,7 +15,7 @@ title = 'Donate'
 
 <br>
 
-<iframe src='https://btcpay.satcrowd.com/apps/23zSkvmJdv2AECLfcom4Xij5zLLh/pos' style='max-width: 100%; border: 0;'></iframe>
+<iframe src='https://btcpay.satcrowd.com/apps/23zSkvmJdv2AECLfcom4Xij5zLLh/pos' style='max-width: 300%; border: 0;'></iframe>
 
 <br>
 
