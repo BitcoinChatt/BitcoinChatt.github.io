@@ -11,17 +11,53 @@ title = 'Donate'
 
 <br>
 
-<h3>Every sat donated will cover the supplies, fees, and other expenses necessary for educating the Chattanooga area about Bitcoin.</h3>
+<h3>Every sat donated will go towards promoting buinesses that accept bitcoin, and spreading Bitcoin education and usage throughout the Chattanooga area.</h3>
 
 <br>
 
-Your contributions will help people <b>save</b> for the future, become more <b>prosperous</b>, and find gretaer <b>hope</b> in their lives.
-
-<br>
-
-<div style="display: flex; justify-content: center;">
-  <iframe src='https://btcpay.satcrowd.com/apps/23zSkvmJdv2AECLfcom4Xij5zLLh/pos' style='width: 100%; max-width: 400px; height: 600px; border: 0;'></iframe>
+<div class="video-container">
+  <div class="video-item">
+    <h3 class="iframe-title">On-Chain</h3>
+    <img src="Bitcoin Chatt QR On-chain.png" style="margin: 0rem;" width="350" height="350" alt="Donate on-chain">
+    <p>bc1qnn35dt7vr4s7yxdpytknjxx5u66ex8033uk797</p>
+  </div>
+  <div class="video-item">
+    <h3 class="iframe-title">Lightning</h3>
+    <img src="Bitcoin Chatt QR Lightning.png" style="margin: 0rem;" width="350" height="350" alt="Donate over Lightning">
+    <p>BitcoinChatt@strike.me</p>
+  </div>
 </div>
+
+<style>
+.video-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  justify-content: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.video-item {
+  width: 350px;
+  box-sizing: border-box;
+}
+
+.iframe-title {
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+
+.video-item p {
+  margin: 10px 0 0 0;
+  text-align: center;
+}
+
+.video-item img {
+  display: block;
+}
+</style>
 
 <br>
 
