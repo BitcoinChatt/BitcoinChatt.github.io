@@ -106,6 +106,13 @@ If you would like to recommend any resources that we didn't include, please <a h
       </a>
       <p><i>Description pending.</i></p>
     </div>
+        <div class="video-item">
+      <h3 class="iframe-title">Get Based YouTube Channel</h3>
+      <a target="_blank" href="https://www.youtube.com/@getbasedtv">
+        <img src="Get Based.png" style="margin: 0rem;" width="350" height="197" alt="Ioni Appelberg YouTube Channel">
+      </a>
+      <p><i>Description pending.</i></p>
+    </div>
     <div class="video-item">
       <h3 class="iframe-title">Bitcoin: The biggest scam, or the best money to ever exist?</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/JHbnExgAkqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -117,8 +124,23 @@ If you would like to recommend any resources that we didn't include, please <a h
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
+      <h3 class="iframe-title">The Great Reset and the Rise of Bitcoin</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/e0plyXEc1Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
       <h3 class="iframe-title">Bitcoin is a Decentralized Organism</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/uTgDQ56Su38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">The Rise and Rise of Bitcoin</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/A06qdTpOYcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">This Machine Greens</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/b-7dMVcVWgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
@@ -382,6 +404,14 @@ details {
   <br>
 
   <h3 style="text-align:center">
+    <a target="_blank" href="https://www.whatisbitcoin.com">
+      What is Bitcoin?
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
     <a target="_blank" href="https://www.satsvsfiat.com">
       What's the Problem?
     </a>
@@ -392,6 +422,14 @@ details {
   <h3 style="text-align:center">
     <a target="_blank" href="https://www.hope.com">
       Hope.com
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://bitcoinwell.com/learn">
+      The Bitcoin Academy, by Bitcoin Well
     </a>
   </h3>
 
@@ -420,12 +458,22 @@ details {
   </h3>
 
   <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://lookingglasseducation.com">
+      Looking Glass Education
+    </a>
+  </h3>
+
+  <br>
   
   <h3 style="text-align:center">
     <a target="_blank" href="https://LearnMeaBitcoin.com">
       Learn Me a Bitcoin
     </a>
   </h3>
+
+  <br>
 
   <h3 style="text-align:center">
     <a target="_blank" href="[https://Bitcoin.org/en/getting-started](https://bitcoiner.guide)">
@@ -692,6 +740,14 @@ details {
   <h3 style="text-align:center">
     <a target="_blank" href="https://a.co/d/cIPBfEv">
       The Bullish Case for Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/7sRU5Eu">
+      The Price of Tomorrow
     </a>
   </h3>
 
