@@ -187,6 +187,8 @@ details {
 
 </div>
 
+<div class="article">
+
 <details>
   <summary>
     <h2 class="align-left" style="display: inline-block">
@@ -790,6 +792,8 @@ details {
   </h3>
 
 </details>
+
+</div>
 
 <br>
 
