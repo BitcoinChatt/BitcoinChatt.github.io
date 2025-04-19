@@ -663,7 +663,7 @@ details {
     </div>
     <div class="video-item">
       <h3 class="iframe-title">Sparrow Wallet</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/qJ_SpQX_YKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/yJpvfRl03Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
