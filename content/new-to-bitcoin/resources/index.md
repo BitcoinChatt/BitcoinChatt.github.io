@@ -88,6 +88,11 @@ If you would like to recommend any resources that we didn't include, please <a h
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
+      <h3 class="iframe-title">Wences Casares Explains Bitcoin</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/IAFKJVLNVQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
       <h3 class="iframe-title">Bitcoin University YouTube Channel</h3>
       <a target="_blank" href="https://www.youtube.com/@Bitcoin_University">
         <img src="Bitcoin University.png" style="margin: 0rem;" width="350" height="197" alt="Bitcoin University, by Matthew Kratter">
@@ -109,6 +114,11 @@ If you would like to recommend any resources that we didn't include, please <a h
     <div class="video-item">
       <h3 class="iframe-title"><b>99Bitcoins:</b> What is Bitcoin? Bitcoin Explained Simply</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/41JCpzvnn_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
+      <h3 class="iframe-title">Bitcoin is a Decentralized Organism</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/uTgDQ56Su38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
@@ -177,237 +187,42 @@ details {
 
 </div>
 
-<div class="article">
-
 <details>
   <summary>
     <h2 class="align-left" style="display: inline-block">
-      Websites
-    </h2>
-  </summary>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://Bitcoin.Rocks">
-      Bitcoin Rocks!
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://River.com/learn">
-      River Financial's <i>Learn</i> page
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://Bitcoin.org/en/getting-started">
-      Unofficial-Official Bitcoin Website
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://LearnMeaBitcoin.com">
-      Learn Me a Bitcoin
-    </a>
-  </h3>  
-</details>
-
-<details>
-  <summary>
-    <h2 class="align-left" style="display: inline-block">
-      Books
-    </h2>
-  </summary>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/eIvLL1k">
-      Bitcoin Money: A Tale of Bitville Discovering Good Money
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://thesimplestbitcoinbook.net/">
-      The Simplest Bitcoin Book Ever Written
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/iDpYbmT">
-      21 Questions: The Beginners Guide to Bitcoin
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://myfirstbitcoin.io/wp-content/uploads/2024/09/Bitcoin-Diploma-2024-PDF.pdf">
-      Bitcoin Diploma
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/6vNpeOj">
-      Inventing Bitcoin
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/1ifsTGf">
-      Thank God for Bitcoin
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/b4G6d3F">
-      The Little Bitcoin Book
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/6II7ZAk">
-      Magic Internet Money: A Book About Bitcoin
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://anilsaidso.gumroad.com/l/bitcoin?layout=profile">
-      The Bitcoin Handbook
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/cIPBfEv">
-      The Bullish Case for Bitcoin
-    </a>
-  </h3>
-
-  <br>
-
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://www.amazon.com/dp/B0C2RM94BB">
-      Proof of Money: The Big Idea Behind Bitcoin <i>(What You Don't Know About Why You Need It)</i>
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/cOmGgcs">
-      History Echoes Bitcoin
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/7JPa6Ux">
-      Fiat Ruins Everything
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/13gbNXb">
-      Shells to Satoshi: The Story of Money and The Rise of Bitcoin
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/3VzrNFs">
-      Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/1ZKOljz">
-      The Bitcoin Standard: The Decentralized Alternative to Central Banking
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/0Q0J0Jg">
-      The Fiat Standard: The Debt Slavery Alternative to Human Civilization
-    </a>
-  </h3>
-
-  <br>
-  
-  <h3 style="text-align:center">
-    <a target="_blank" href="https://a.co/d/dP2WRdv">
-      Programming Bitcoin: Learn How to Program Bitcoin from Scratch
-    </a>
-  </h3>
-
-</details>
-
-<details>
-  <summary>
-    <h2 class="align-left" style="display: inline-block">
-      Apps
+      Podcasts
     </h2>
   </summary>
 
-<h2 style="text-align:center">
-  Yzer
-</h2>
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://bitcoinaudible.com">
+      Bitcoin Audible
+    </a>
+  </h3>
 
-<div style="text-align: center;">
-  <a target="_blank" href="https://apps.apple.com/us/app/yzer-learn-bitcoin-finance/id6443545393">
-    <img src="./App Store.png" width="150" alt="Description">
-  </a>
-</div>
+  <br>
 
-<div style="text-align: center;">
-  <a target="_blank" href="https://play.google.com/store/apps/details?id=io.wizzer.academy">
-    <img src="./Google Play.png" width="150" alt="Description">
-  </a>
-</div>
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://saifedean.com/podcast">
+      The Bitcoin Standard Podcast
+    </a>
+  </h3>
 
-<br>
+  <br>
 
-<h2 style="text-align:center">
-  Simple Bitcoin: Learn & Earn
-</h2>
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://whatismoneypodcast.com">
+      The What is Money Podcast
+    </a>
+  </h3>
 
-<div style="text-align: center;">
-  <a target="_blank" href="https://apps.apple.com/de/app/simple-crypto-bitcoin/id1487375777">
-    <img src="./App Store.png" width="150" alt="Description">
-  </a>
-</div>
+  <br>
 
-<div style="text-align: center;">
-  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.simplecrypto.applearning.cryptoapp">
-    <img src="./Google Play.png" width="150" alt="Description">
-  </a>
-</div>
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://creators.spotify.com/pod/profile/jimmysong">
+      Bitcoin Fixes This
+    </a>
+  </h3>
 
 </details>
 
@@ -501,6 +316,478 @@ details {
 </style>
 
 </div>
+
+</details>
+
+<div class="article">
+
+<details>
+  <summary>
+    <h2 class="align-left" style="display: inline-block">
+      Apps
+    </h2>
+  </summary>
+
+<h2 style="text-align:center">
+  Yzer
+</h2>
+
+<div style="text-align: center;">
+  <a target="_blank" href="https://apps.apple.com/us/app/yzer-learn-bitcoin-finance/id6443545393">
+    <img src="./App Store.png" width="150" alt="Description">
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a target="_blank" href="https://play.google.com/store/apps/details?id=io.wizzer.academy">
+    <img src="./Google Play.png" width="150" alt="Description">
+  </a>
+</div>
+
+<br>
+
+<h2 style="text-align:center">
+  Simple Bitcoin: Learn & Earn
+</h2>
+
+<div style="text-align: center;">
+  <a target="_blank" href="https://apps.apple.com/de/app/simple-crypto-bitcoin/id1487375777">
+    <img src="./App Store.png" width="150" alt="Description">
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.simplecrypto.applearning.cryptoapp">
+    <img src="./Google Play.png" width="150" alt="Description">
+  </a>
+</div>
+
+</details>
+
+<details>
+  <summary>
+    <h2 class="align-left" style="display: inline-block">
+      Websites
+    </h2>
+  </summary>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://Bitcoin.Rocks">
+      Bitcoin Rocks!
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.satsvsfiat.com">
+      What's the Problem?
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.hope.com">
+      Hope.com
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://River.com/learn">
+      Bitcoin Learning Center, by River Financial
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://Bitcoin.org/en/getting-started">
+      Unofficial-Official Bitcoin Website
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://bitcoin-resources.com">
+      Bitcoin Resources
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://LearnMeaBitcoin.com">
+      Learn Me a Bitcoin
+    </a>
+  </h3>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="[https://Bitcoin.org/en/getting-started](https://bitcoiner.guide)">
+      Bitcoiner Guide
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.nodeacademy.org">
+      Node Academy
+    </a>
+  </h3>
+
+</details>
+
+<details>
+  <summary>
+    <h2 class="align-left" style="display: inline-block">
+      Articles
+    </h2>
+  </summary>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad">
+      Why Bitcoin Matters
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1">
+      The Bullish Case for Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070">
+      Bicoin is Venice
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://endthefud.org">
+      End the FUD
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://bitcoinmagazine.com/culture/check-your-financial-privilege">
+      Check Your Financial Privilege
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.unchained.com/blog/dollar-crisis-to-bitcoin">
+      Gradually, Then Suddenly
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.unchained.com/blog/bitcoin-cannot-be-banned">
+      Bitcoin Cannot Be Banned
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.unchained.com/blog/bitcoin-cant-be-copied">
+      Bitcoin Can't Be Copied
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.unchained.com/blog/bitcoin-obsoletes-all-other-money">
+      Bitcoin Obsoletes All Other Money
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.unchained.com/blog/bitcoin-is-not-backed-by-nothing">
+      Bitcoin is Not Backed by Nothing
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f">
+      Masters and Slaves of Money
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://tomerstrolight.medium.com/the-legendary-treasure-of-satoshi-nakamoto-c3621c5b2106">
+      The Legendary Treasure of Satoshi Nakamoto
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6">
+      Bitcoin is a Decentralized Organism
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b">
+      The Number Zero and Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://nakamotoinstitute.org/library/shelling-out">
+      Shelling Out
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.uncerto.com/only-the-strong-survive">
+      Only the Strong Survive
+    </a>
+  </h3>
+  
+</details>
+
+<details>
+  <summary>
+    <h2 class="align-left" style="display: inline-block">
+      Books
+    </h2>
+  </summary>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/eIvLL1k">
+      Bitcoin Money: A Tale of Bitville Discovering Good Money
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://thesimplestbitcoinbook.net/">
+      The Simplest Bitcoin Book Ever Written
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/iDpYbmT">
+      21 Questions: The Beginners Guide to Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/75U6BHG">
+      Bitcoin Clarity
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://myfirstbitcoin.io/wp-content/uploads/2024/09/Bitcoin-Diploma-2024-PDF.pdf">
+      Bitcoin Diploma
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://21lessons.com">
+      21 Lessons: What I've Learned from Falling Down the Bitcoin Rabbit Hole
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/6vNpeOj">
+      Inventing Bitcoin
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/1ifsTGf">
+      Thank God for Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://amzn.eu/d/aWAAQYg">
+      The Bible and Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://amzn.eu/d/739Wr3t">
+      The Gospel According to Bitcoin
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/b4G6d3F">
+      The Little Bitcoin Book
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/6II7ZAk">
+      Magic Internet Money: A Book About Bitcoin
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://anilsaidso.gumroad.com/l/bitcoin?layout=profile">
+      The Bitcoin Handbook
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/cIPBfEv">
+      The Bullish Case for Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://www.amazon.com/dp/B0C2RM94BB">
+      Proof of Money: The Big Idea Behind Bitcoin <i>(What You Don't Know About Why You Need It)</i>
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/cOmGgcs">
+      History Echoes Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/030Ppir">
+      Bitcoin is Venice
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/7JPa6Ux">
+      Fiat Ruins Everything
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/19Slwmn">
+      Check Your Financial Privilege
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/13gbNXb">
+      Shells to Satoshi: The Story of Money and The Rise of Bitcoin
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/4Zz3jmd">
+      Bitcoin: Sovereignty Through Mathematics
+    </a>
+  </h3>
+
+  <br>
+
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://thebitcoinlayer.com/layeredmoney">
+      Layered Money
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/3VzrNFs">
+      Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/1ZKOljz">
+      The Bitcoin Standard: The Decentralized Alternative to Central Banking
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/0Q0J0Jg">
+      The Fiat Standard: The Debt Slavery Alternative to Human Civilization
+    </a>
+  </h3>
+
+  <br>
+  
+  <h3 style="text-align:center">
+    <a target="_blank" href="https://a.co/d/dP2WRdv">
+      Programming Bitcoin: Learn How to Program Bitcoin from Scratch
+    </a>
+  </h3>
 
 </details>
 
