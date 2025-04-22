@@ -93,7 +93,7 @@ This leads to a cycle of new highs, burnout, and cooldown, while usually remaini
 
 <br>
 
-At Bitcoin Chatt, our focus is only on Bitcoin (BTC), and here’s why: Bitcoin stands alone as the only money—crypto or otherwise—with everything you’d want in a currency (more on that in the following pages). There are millions of other “cryptos” designed to muddy the waters and prey on the unaware; they churn out tokens with no real value, ripe for insider trading and gambling. If that’s your thing, fine; it’s just not part of the purpose of Bitcoin Chatt.
+At Bitcoin Chatt, our focus is only on Bitcoin (BTC), and here’s why: Bitcoin stands alone as the only money—crypto or otherwise—with everything you’d want in a currency (more on that in the <a href="https://www.bitcoinchatt.org/new-to-bitcoin/table-of-contents/">following pages</a>). There are millions of other “cryptos” designed to muddy the waters and prey on the unaware; they churn out tokens with no real value, ripe for insider trading and gambling. If that’s your thing, fine; it’s just not part of the purpose of Bitcoin Chatt.
 
 <br>
 
@@ -103,11 +103,35 @@ At Bitcoin Chatt, our focus is only on Bitcoin (BTC), and here’s why: Bitcoin 
 
 <br>
 
-Bitcoin is different. It has no CEO, no headquarters, and no fancy foundation pulling strings. It’s owned and run by us—its users—built from the ground up to replace the broken banking system, not reinvent a worse version of it like cryptos do. Ben Perrin, the host of <a target="_blank" href="https://www.youtube.com/@BTCSessions">BTC Sessions</a>, explained it perfectly: “With fiat, only one entity can print money; with crypto, anyone can print money; with Bitcoin, <i>no one</i> can print money.” That’s the level of integrity that Bitcoin represents, which is why we’re laser-focused on it.
+Bitcoin is different. It has no CEO, no headquarters, and no fancy foundation pulling strings. It’s owned and run by us—its users—built from the ground up to replace the broken banking system, not reinvent a worse version of it like cryptos do. Phil Geiger,  <a target="_blank" href="https://www.unchained.com/">Unchained Capital</a>, summarized it perfectly: "<b>Fiat:</b> <i>only central bankers</i> can print money. <b>Crypto:</b> <i>everyone</i> can print money. <b>Bitcoin:</b> <i>nobody</i> can print money." That’s the level of integrity that Bitcoin represents, which is why we’re laser-focused on it.
 
 <br>
 
 <img class="mobile-banner" src="./Perception vs Reality.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
+If you still think that other cryptocurrencies have potential, here are some videos that dive deeper into this question:
+
+<h3 style="text-align:center">Why All Cryptos—Shitcoins—Will Fail</h3>
+<iframe width="700" height="394" src="https://youtu.be/TIkqBZnrKJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<h3 style="text-align:center">Bitcoin, Not Crypto — Part 1: In Search of a Finite Monetary Policy</h3>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/19LA7ReARCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<h3 style="text-align:center">Bitcoin, Not Crypto — Part 2: Bitcoin, Not Blockchain</h3>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/YroOIC8eDrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<h3 style="text-align:center">Bitcoin, Not Crypto — Part 3: Everything Else Will Be Built on Bitcoin</h3>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/ZsgZjAPjxDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
