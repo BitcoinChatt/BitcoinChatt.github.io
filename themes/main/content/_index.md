@@ -71,12 +71,17 @@ RSVP through our <a href="https://www.bitcoinchatt.org/calendar">Calendar</a>.
     <tr>
       <td>
         <a target="_blank" href="https://x.com/bitcoinchatt">
-          <img class="social-link" height="40rem" src="./images/Logos/Twitter-X-Logo.png" alt="Twitter/X logo"/>
+          <img class="social-link" height="40rem" src="./images/Logos/Twitter-X-Logo.png" alt="Twitter/X"/>
         </a>
       </td>
       <td>
         <a target="_blank" href="https://njump.me/npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779">
-          <img class="social-link" height="40rem" src="./images/Logos/Nostr-Logo.png" alt="Nostr logo"/>
+          <img class="social-link" height="40rem" src="./images/Logos/Nostr-Logo.png" alt="Nostr"/>
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://www.facebook.com/profile.php?id=61576076722319">
+          <img class="social-link" height="40rem" src="./images/Logos/Facebook-Logo.png" alt="Facebook"/>
         </a>
       </td>
     </tr>
