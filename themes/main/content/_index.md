@@ -47,6 +47,10 @@ draft = false
 
 <center>
 
+<b>May 6th:</b> Our <a target="_blank" href="https://geyser.fund/project/bitcoinchatt">Geyser page</a> is <i>live!</i> All your donations will go toward building the Bitcoin circular economy in the Chattanooga area, and we have lots of <a target="_blank" href="https://geyser.fund/project/bitcoinchatt/rewards">rewards</a> to show our appreciation for your support, from our <a target="_blank" href="https://badges.page/a/naddr1qqt5y6t5vdhkjm3dgd5xzar594fh2ursdae8getjqgsyku2f36lyrrsupzuqsjw4j5n85vzmk2nemvlq5lrk3n0pss89rmgrqsqqqafevxe8te">Nostr badge</a>, to books, to our Bitcoin Chatt t-shirt!
+
+<br>
+
 <b>May 3rd:</b> Bitcoin Chattanooga will have a booth at the Chattanooga Business Expo on Thursday, May 8th, from 11:30am–1pm! It will be located at the Waterhouse Pavilion, 850 Market Street, Chattanooga, TN, 37402. This expo is free and open to the public, so RSVP on our <a href="https://www.bitcoinchatt.org/calendar">Calendar</a> (that way, we'll know to expect you), and reserve your free ticket <a target="_blank" href="https://www.tickettailor.com/events/downtowncouncil/1661447">here</a>!
 
 Join us as we orange pill small business owners in the Chattanooga area!
