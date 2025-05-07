@@ -733,7 +733,7 @@ title = 'Join'
 </div>
               <input type="hidden" name="ml-submit" value="1">
               <div class="ml-form-embedSubmit">
-                  <button type="submit" class="primary">Subscribe</button>
+                  <button type="submit" class="primary">Join</button>
                 <button disabled="disabled" style="display: none;" type="button" class="loading">
                   <div class="ml-form-embedSubmitLoad"></div>
                   <span class="sr-only">Loading...</span>
