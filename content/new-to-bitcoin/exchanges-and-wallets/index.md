@@ -438,11 +438,13 @@ Here's our shortlist of what we believe are the best wallets, along with all the
 
 <br>
 
+<div class="article">
+
 <details>
 
 <summary>
 
-<h3 class="align-left" style="display: inline-block">Full List of Wallets</h3>
+<h3 class="align-left" style="display: inline-block">Full Wallet List</h3>
 
 </summary>
 
@@ -811,13 +813,13 @@ Here are <i>all</i> the Bitcoin-only wallets we could find that are available in
 
 </center>
 
-</details>
-
 <div class="article">
 
-<br>
-
 If you have any questions about these, or notice something we’re missing or a detail that’s incorrect, please <a href="https://www.BitcoinChatt.org/contact">let us know</a>, and we’ll take care of it ASAP!
+
+</details>
+
+<br>
 
 <h3 syle="text-align:left">Wallets to Avoid</h3>
 
