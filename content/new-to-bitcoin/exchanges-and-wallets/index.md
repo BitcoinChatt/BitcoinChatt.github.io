@@ -813,8 +813,6 @@ Here are <i>all</i> the Bitcoin-only wallets we could find that are available in
 
 <br>
 
-<div class="article">
-
 If you have any questions about these, or notice something we’re missing or a detail that’s incorrect, please <a href="https://www.BitcoinChatt.org/contact">let us know</a>, and we’ll take care of it ASAP!
 
 </details>
