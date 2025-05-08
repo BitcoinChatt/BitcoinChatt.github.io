@@ -452,6 +452,8 @@ Here are <i>all</i> the Bitcoin-only wallets we could find that are available in
 
 <br>
 
+</div>
+
 <center>
 
 <div style="overflow-x: auto;">
@@ -810,6 +812,8 @@ Here are <i>all</i> the Bitcoin-only wallets we could find that are available in
 </div>
 
 </center>
+
+<div class="article">
 
 <br>
 
