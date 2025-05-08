@@ -277,7 +277,7 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain & Lightning</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
@@ -483,7 +483,7 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
     </tr>
     <tr>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.nunchuk.io"><b>Nunchuk</b></a></td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
@@ -583,7 +583,7 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
     </tr>
     <tr>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.sparrowwallet.com"><b>Sparrow Wallet</b></a></td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
@@ -593,7 +593,7 @@ Here's a list of all the Bitcoin-only wallets we could find that are available i
     </tr>
     <tr>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://zeusln.app"><b>Zeus Wallet</b></a></td>
-      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Intermediate</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #FF9900;">Intermediate</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
