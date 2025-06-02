@@ -26,6 +26,18 @@ window.onload = function()
     console.log('This site is not mobile.');
   }
 
+  // Change these two variables and the image alignment should adjust automatically
+  var iconWidth = 30;
+  var iconHeight = 50;
+
+  var businessIcon = L.icon({
+    iconUrl: 'images/marker-icon-2x.png',
+    iconSize: [iconWidth, iconHeight],
+    iconAnchor: [iconWidth / 2, iconHeight],
+    popupAnchor: [0, -iconHeight],
+    tooltipAnchor: [0, -iconHeight],
+  });
+
   // setup map for map page
   var map = L.map('map', {
     zoomControl: true,
@@ -55,7 +67,7 @@ window.onload = function()
   }).addTo(map);
 
   // Pin 1: Divine Design Natural Health
-  L.marker([35.194250, -84.856933]).addTo(map)
+  L.marker([35.194250, -84.856933], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg" style="width: 100px;"><br>' +
               '<b>Divine Design Natural Health</b><br>' +
               '<b>Address:</b> 3800 Keith St NW, Cleveland, TN 37312<br>' +
@@ -64,7 +76,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://divinedesignnaturalhealth.com" target="_blank">DivineDesignNaturalHealth.com</a>');
 
   // Pin 2: The Agora
-  L.marker([35.150883, -85.201333]).addTo(map)
+  L.marker([35.150883, -85.201333], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/The Agora/The-Agora.png" style="width: 100px;"><br>' +
               '<b>The Agora</b><br>' +
               '<b>Address:</b> 6112 Hixson Pike, Hixson, TN 37343<br>' +
@@ -72,7 +84,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://theagorahub.com" target="_blank">TheAgoraHub.com</a>');
 
   // Pin 3: Same Day Septic
-  L.marker([35.002027, -85.204528]).addTo(map)
+  L.marker([35.002027, -85.204528], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;"><br>' +
               '<b>Same Day Septic</b><br>' +
               '<b>Address:</b> Chattanooga, TN<br>' +
@@ -81,7 +93,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://samedayseptic.co" target="_blank">SameDaySeptic.co</a>');
 
     // Pin 4: Steak 'n Shake (Fort Oglethorpe)
-  L.marker([34.951935, -85.244715]).addTo(map)
+  L.marker([34.951935, -85.244715], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png" style="width: 100px;"><br>' +
               '<b>Steak n Shake</b><br>' +
               '<b>Address:</b> 1182 Battlefield Pkwy, Fort Oglethorpe, GA 30742<br>' +
@@ -90,7 +102,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://www.steaknshake.com/locations/ga-ft-oglethorpe-battlefield-parkway/" target="_blank">SteaknShake.com</a>');
 
       // Pin 5: Steak 'n Shake (Dalton)
-  L.marker([34.759589, -84.989919]).addTo(map)
+  L.marker([34.759589, -84.989919], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png" style="width: 100px;"><br>' +
               '<b>Steak n Shake</b><br>' +
               '<b>Address:</b> 1250 W Walnut Ave, Dalton, GA 30720<br>' +
@@ -99,7 +111,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://www.steaknshake.com/locations/ga-dalton-w-walnut-avenue/" target="_blank">SteaknShake.com</a>');
 
         // Pin 6: Steak 'n Shake (Gunbarrel)
-  L.marker([35.039848, -85.149789]).addTo(map)
+  L.marker([35.039848, -85.149789], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png" style="width: 100px;"><br>' +
               '<b>Steak n Shake</b><br>' +
               '<b>Address:</b> 2296 Gunbarrel Rd, Chattanooga, TN 37421<br>' +
@@ -108,7 +120,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://www.steaknshake.com/locations/tn-chattanooga-gunbarrel-road/" target="_blank">SteaknShake.com</a>');
 
         // Pin 7: Steak 'n Shake (Cleveland)
-  L.marker([35.205077, -84.849458]).addTo(map)
+  L.marker([35.205077, -84.849458], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png" style="width: 100px;"><br>' +
               '<b>Steak n Shake</b><br>' +
               '<b>Address:</b> 220 Paul Huff Pkwy NW, Cleveland, TN 37312<br>' +
