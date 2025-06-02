@@ -53,14 +53,6 @@ draft = false
 
 <hr>
 
-<br>
-
-<b>April 26th:</b> Bitcoin Game Night is coming to <a target="_blank" href="https://maps.app.goo.gl/nodS1tdmSQmJzym96">Bargy's Cards and Board Games store</a> every Thursday evening from 7-9pm! We'll play Bitcoin-themed games like <a target="_blank" href="https://youtu.be/IXTH50ujYxM">SHAmory</a>, <a target="_blank" href="https://youtu.be/UbZIZiGplg8">Mission: Bitcoin</a>, <a target="_blank" href="https://youtu.be/ameWu17iD9E">Blockhunters</a>, and <a target="_blank" href="https://youtu.be/w8SLAomGqG4">Hodl Up</a>, so you can have fun while learning about Bitcoin!
-
-And the winner of each game will receive a prize of some free bitcoin, too! 😁
-
-RSVP through our <a href="https://www.bitcoinchatt.org/calendar">Calendar</a>.
-
 </center>
 
 </div>
