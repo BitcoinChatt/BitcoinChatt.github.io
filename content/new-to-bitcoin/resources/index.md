@@ -67,29 +67,17 @@ If you would like to recommend any resources that we didn't include, please <a h
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
+      <h3 class="iframe-title">What’s the Problem?</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/YtFOxNbmD38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><i>Description pending.</i></p>
+    </div>
+    <div class="video-item">
       <h3 class="iframe-title">
         Understanding Inflation and Bitcoin
       </h3>
       <div class="tweet-wrapper">
         <blockquote class="twitter-tweet" data-theme="dark" data-width="350">
           <a href="https://twitter.com/ProofOfMoney/status/1911441309132349706"></a>
-        </blockquote>
-      </div>
-      <p>An 8-and-a-half minute explanation of the problem with fiat and how Bitcoin solves it.</p>
-    </div>
-    <div class="video-item">
-      <h3 class="iframe-title">Jack Mallers Explains Bitcoin in Simple Terms</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/Fvd2rBTw6IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
-    </div>
-    <div class="video-item">
-      <h3 class="iframe-title">The Greatest Bitcoin Explanation of All Time</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/gCfA1lkmJo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
-    </div>
-    <div class="video-item">
-      <h3 class="iframe-title">Wences Casares Explains Bitcoin</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/IAFKJVLNVQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
@@ -119,11 +107,6 @@ If you would like to recommend any resources that we didn't include, please <a h
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
-      <h3 class="iframe-title"><b>99Bitcoins:</b> What is Bitcoin? Bitcoin Explained Simply</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/41JCpzvnn_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
-    </div>
-    <div class="video-item">
       <h3 class="iframe-title">The Great Reset and the Rise of Bitcoin</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/e0plyXEc1Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
@@ -149,13 +132,15 @@ If you would like to recommend any resources that we didn't include, please <a h
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
-      <h3 class="iframe-title">God Bless Bitcoin</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/oksraL7wN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <h3 class="iframe-title">The Jack Mallers Show</h3>
+            <a target="_blank" href="https://www.youtube.com/@thejackmallersshow">
+        <img src="Jack Mallers Show.png" style="margin: 0rem;" width="350" height="197" alt="The Jack Mallers Show">
+      </a>
       <p><i>Description pending.</i></p>
     </div>
     <div class="video-item">
-      <h3 class="iframe-title">What’s the Problem?</h3>
-      <iframe width="350" height="197" src="https://www.youtube.com/embed/YtFOxNbmD38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <h3 class="iframe-title">God Bless Bitcoin</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/oksraL7wN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p><i>Description pending.</i></p>
     </div>
   </div>
