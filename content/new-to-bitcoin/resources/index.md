@@ -79,6 +79,8 @@ If you would like to recommend any resources that we didn't include, please <a h
         <blockquote class="twitter-tweet" data-theme="dark" data-width="350">
           <a href="https://twitter.com/ProofOfMoney/status/1911441309132349706"></a>
       <p><i>Description pending.</i></p>
+        </blockquote>
+      </div>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">Bitcoin University YouTube Channel</h3>
