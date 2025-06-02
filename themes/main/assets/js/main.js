@@ -36,6 +36,8 @@ window.onload = function()
     iconAnchor: [iconWidth / 2, iconHeight],
     popupAnchor: [0, -iconHeight],
     tooltipAnchor: [0, -iconHeight],
+    shadowUrl: '/images/marker-shadow.png',
+    shadowSize: [iconWidth, iconHeight],
   });
 
   // setup map for map page
