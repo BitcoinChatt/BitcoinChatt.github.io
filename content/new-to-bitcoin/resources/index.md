@@ -49,27 +49,27 @@ If you would like to recommend any resources that we didn't include, please <a h
     <div class="video-item">
       <h3 class="iframe-title"><b>WeUseCoins:</b> What is Bitcoin?</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/Gc2en3nHxA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>Jump into a quick tour through Bitcoin’s inner workings, where animated coins and miners explain how this digital currency lets you send money globally, securely, and without banks!</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title"><b>Doodling Bitcoin #1:</b> What is Bitcoin?</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/mpHlBcDK-4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>A short answer to an all-important question, with plenty of visuals along the way.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title"><b>Doodling Bitcoin #2:</b> Who Runs Bitcoin?</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/UDIivWr2XUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>A short exploration into a vital question that everyone should ask when they first discover Bitcoin.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title"><b>Doodling Bitcoin #3:</b> Let’s Invent Bitcoin!</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/pwH3C6fQJQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>A short video that walks you through building Bitcoin from the ground up, to give you a non-technical overview of how it works.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">What’s the Problem?</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/YtFOxNbmD38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>What is the main problem that Bitcoin solves? In this video, Joe Bryan answers this question with a hypothetical scenario in which two societies, which are completely cut off from the rest of the world, have perfectly sound money—except one of them also has a "big red button" that can print more money from nothing, but it's only for emergencies. What's the worst that could happen?</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">
@@ -78,7 +78,7 @@ If you would like to recommend any resources that we didn't include, please <a h
       <div class="tweet-wrapper">
         <blockquote class="twitter-tweet" data-theme="dark" data-width="350">
           <a href="https://twitter.com/ProofOfMoney/status/1911441309132349706"></a>
-      <p><i>Description pending.</i></p>
+      <p>Follow <a target="_blank" href="https://x.com/ProofOfMoney">Terence Michael on Twitter/X</a>, as he uses a slice of pizza as an analogy to unravel the mystery of inflation, revealing how Bitcoin’s fixed supply stands as a beacon against the debasement of fiat money throughout history.</p>
         </blockquote>
       </div>
     </div>
@@ -87,63 +87,63 @@ If you would like to recommend any resources that we didn't include, please <a h
       <a target="_blank" href="https://www.youtube.com/@Bitcoin_University">
         <img src="Bitcoin University.png" style="margin: 0rem;" width="350" height="197" alt="Bitcoin University, by Matthew Kratter">
       </a>
-      <p><i>Description pending.</i></p>
+      <p>At Matthew Kratter's Bitcoin University, he demystifies Bitcoin and financial freedom through highly informative videos, covering everything from Bitcoin's basics to its role in a changing economic landscape.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">Ioni Appelberg YouTube Channel</h3>
       <a target="_blank" href="https://www.youtube.com/@IoniAppelberg">
         <img src="Ioni Appelberg.png" style="margin: 0rem;" width="350" height="197" alt="Ioni Appelberg YouTube Channel">
       </a>
-      <p><i>Description pending.</i></p>
+      <p>In Ioni Appelberg’s videos, he explains many concepts surrounding Bitcoin that many don't often consider, taking the viewer deeper down the Bitcoin Rabbit Hole than most have ever gone before.</p>
     </div>
         <div class="video-item">
       <h3 class="iframe-title">Get Based YouTube Channel</h3>
       <a target="_blank" href="https://www.youtube.com/@getbasedtv">
         <img src="Get Based.png" style="margin: 0rem;" width="350" height="197" alt="Ioni Appelberg YouTube Channel">
       </a>
-      <p><i>Description pending.</i></p>
+      <p>From Bitcoin education to commentary on recent events that affect Bitcoin, "Get Based" is full of valuable Bitcoin knowledge from a perspective that can only be described as <i>based</i>.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">Bitcoin: The biggest scam, or the best money to ever exist?</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/JHbnExgAkqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>In this video, Rajat Soni takes a hard look at this tough question.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">The Great Reset and the Rise of Bitcoin</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/e0plyXEc1Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>This documentary explores the current state of our economy and the impact that Bitcoin will likely have on the world.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">Bitcoin is a Decentralized Organism</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/uTgDQ56Su38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>In this unique take on the nature of Bitcoin, Brandon Quittem explores the parallels between Bitcoin and decentralized organisms like mycelium.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">The Rise and Rise of Bitcoin</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/A06qdTpOYcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>A documentary all about Bitcoin, and why it keeps rising and rising, despite its many detractors.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">This Machine Greens</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/b-7dMVcVWgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>The definitive documentary on how and why Bitcoin is not only not bad for the planet, its success is essential for a greener, cleaner, and more sustainable future.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">Bitcoin is Protecting Human Rights Around the World</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/xLYYh4aPXAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>Bitcoin is often called "freedom money", and this short video explains why it is that and so much more for those around the world who struggle the most.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">The Jack Mallers Show</h3>
             <a target="_blank" href="https://www.youtube.com/@thejackmallersshow">
         <img src="Jack Mallers Show.png" style="margin: 0rem;" width="350" height="197" alt="The Jack Mallers Show">
       </a>
-      <p><i>Description pending.</i></p>
+      <p>Formerly known as the Money Matters Podcast, in this show the CEO of Strike and Twenty-One Capital gives his off-the-cuff opinions and explanations about current economic events and how they relate to Bitcoin.</p>
     </div>
     <div class="video-item">
       <h3 class="iframe-title">God Bless Bitcoin</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/oksraL7wN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><i>Description pending.</i></p>
+      <p>Bitcoin does so much good, and the timing of its arrival on the world stage was so perfect, many have attributed it as a gift from God. This documentary explores that idea, as well as all the good that Bitcoin is doing to further religious causes and make things difficult for evil of all kinds to continue.</p>
     </div>
   </div>
 </details>
