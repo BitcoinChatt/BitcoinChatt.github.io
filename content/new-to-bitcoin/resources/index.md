@@ -78,8 +78,8 @@ If you would like to recommend any resources that we didn't include, please <a h
       <div class="tweet-wrapper">
         <blockquote class="twitter-tweet" data-theme="dark" data-width="350">
           <a href="https://twitter.com/ProofOfMoney/status/1911441309132349706"></a>
-      <p>Follow <a target="_blank" href="https://x.com/ProofOfMoney">Terence Michael on Twitter/X</a>, as he uses a slice of pizza as an analogy to unravel the mystery of inflation, revealing how Bitcoin’s fixed supply stands as a beacon against the debasement of fiat money throughout history.</p>
         </blockquote>
+      <p>Follow <a target="_blank" href="https://x.com/ProofOfMoney">Terence Michael on Twitter/X</a>, as he uses a slice of pizza as an analogy to unravel the mystery of inflation, revealing how Bitcoin’s fixed supply stands as a beacon against the debasement of fiat money throughout history.</p>
       </div>
     </div>
     <div class="video-item">
