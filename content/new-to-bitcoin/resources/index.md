@@ -108,6 +108,11 @@ If you would like to recommend any resources that we didn't include, please <a h
       <iframe width="350" height="197" src="https://www.youtube.com/embed/JHbnExgAkqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <p>In this video, Rajat Soni takes a hard look at this tough question.</p>
     </div>
+      <div class="video-item">
+      <h3 class="iframe-title">No More Inflation</h3>
+      <iframe width="350" height="197" src="https://www.youtube.com/embed/JYEOK9XxKyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p>This documentary expertly delves into the affects of long-term inflation, why it's making it so difficult for most people to live normal lives, and how Bitcoin fixes it.</p>
+    </div>
     <div class="video-item">
       <h3 class="iframe-title">The Great Reset and the Rise of Bitcoin</h3>
       <iframe width="350" height="197" src="https://www.youtube.com/embed/e0plyXEc1Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
