@@ -47,6 +47,12 @@ draft = false
 
 <center>
 
+<b>June 24th:</b> We'll be at the "Caps, Gowns & Crowns Fest" in Chattanooga this Saturday, the 28th, with our own booth! We'll be giving away Bitcoin educational materials, selling a couple Bitcoin books, and orange-pilling the vendors there! 😁 The event will run from <b>10AM to 5PM</b>, and it'll be located at <a target="_blank" href="https://maps.app.goo.gl/tXro3Vip8yhWh8jWA">3810 Brainerd Road in Chattanooga</a>. You can see all the details <a target="_blank" href="https://x.com/BitcoinChatt/status/1937339418789994743">here</a>.
+
+<br>
+
+<hr>
+
 <b>May 6th:</b> Our <a target="_blank" href="https://geyser.fund/project/bitcoinchatt">Geyser page</a> is <i>live!</i> All your donations will go toward building the Bitcoin circular economy in the Chattanooga area, and we have lots of <a target="_blank" href="https://geyser.fund/project/bitcoinchatt/rewards">rewards</a> to show our appreciation for your support, from our <a target="_blank" href="https://badges.page/a/naddr1qqt5y6t5vdhkjm3dgd5xzar594fh2ursdae8getjqgsyku2f36lyrrsupzuqsjw4j5n85vzmk2nemvlq5lrk3n0pss89rmgrqsqqqafevxe8te">Nostr badge</a>, to books, to our Bitcoin Chatt t-shirt!
 
 <br>
