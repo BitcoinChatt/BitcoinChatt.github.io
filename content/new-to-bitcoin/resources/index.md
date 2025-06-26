@@ -163,39 +163,15 @@ details {
   display: block;
 }
 
-.video-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-  justify-content: center;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
 .tweet-wrapper {
   width: 350px;
   height: 197px;
   overflow-y: scroll;
 }
 
-.video-item {
-  width: 350px;
-  box-sizing: border-box;
-}
-
 .iframe-title {
   text-align: center;
   margin: 0 0 10px 0;
-}
-
-.video-item p {
-  margin: 10px 0 0 0;
-  text-align: center;
-}
-
-.video-item img {
-  display: block;
 }
 </style>
 

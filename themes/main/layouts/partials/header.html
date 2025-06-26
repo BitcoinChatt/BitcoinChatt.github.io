@@ -22,4 +22,10 @@
   </div>
 {{- end }}
 
+{{- if and (strings.Contains .Path "newsletter") (not .Params.underConstruction) }}
+  <div style="text-align: center;">
+    <h3><a href="/new-to-bitcoin/table-of-contents">Table of Contents</a></h3>
+  </div>
+{{- end }}
+
 <!--{{ partial "menu.html" (dict "menuID" "main" "page" .) }}-->

@@ -1,6 +1,48 @@
 +++
 date = '2025-02-19T07:27:50-05:00'
 draft = false
-underConstruction = true
+underConstruction = false
 title = 'Blog'
 +++
+
+<div class="article">
+
+  <div class="blog-container">
+    <div class="blog-item">
+      <img src="/images/placeholder.png">
+      <h3>Issue #7</h3>
+      <p>Description</p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/placeholder.png">
+      <h3>Issue #6</h3>
+      <p>Description</p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/placeholder.png">
+      <h3>Issue #5</h3>
+      <p>Unnecessarily long description. This is to show that all boxes on a single row will grow to be the same height as the tallest one</p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/placeholder.png">
+      <h3>Issue #4</h3>
+      <p>Description</p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/placeholder.png">
+      <h3>Issue #3</h3>
+      <p>Description</p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/placeholder.png">
+      <h3>Issue #2</h3>
+      <p>Description</p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/placeholder.png">
+      <h3>Issue #1</h3>
+      <p>Description</p>
+    </div>
+  </div>
+
+</div>
