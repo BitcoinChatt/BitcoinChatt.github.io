@@ -7,6 +7,10 @@ title = 'Blog'
 
 <div class="article">
 
+  <h1 style="text-align: center">Blog</h1>
+
+  <h3 style="text-align: center">Welcome to the Bitcoin Chattanooga Blog! All our weekly email newsletters are archived here, approximately 1 month after they're sent. <a href="https://www.BitcoinChatt.org">Join us</a> to receive our newsletter in your inbox every Saturday morning, where you'll get recent news updates, Bitcoin knowledge, and even some free bitcoin to whoever finds it first!</h3>
+
   <div class="blog-container">
     <div class="blog-item">
       <img src="/images/placeholder.png">
