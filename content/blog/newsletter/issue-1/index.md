@@ -101,8 +101,6 @@ Not only will there only ever be just under 21 million coins, they are awarded t
 
 <img src="Bitcoin Issuance Chart.png">
 
-Were you expecting to get tipped *in* bitcoin? Well, you're in luck! In every newsletter, we'll include a link to where you can pick up some free sats! Each week, **there will only be *one* tip available**, so make sure you're the first to find it! Click [here](https://owrzlll.clicks.mlsend.com/ty/c/eyJ2Ijoie1wiYVwiOjE1MDI3NjMsXCJsXCI6MTU0MDMyMDcxNzQxODAxOTE5LFwiclwiOjE1NDAzMjEyMDk4ODE3NDMzM30iLCJzIjoiZTA0YzhjOTdlZDIxMDk4ZCJ9) to claim this week's tip, and follow the instructions given there to get 1000 sats for free (currently worth about $1).
-
 ---
 
 Recommended Resource
@@ -120,22 +118,6 @@ Meme of the Week
 ----------------
 
 <img src="We Don't Accept That Here.png">
-
----
-
-Recent Supporter
-----------------
-
-A big thank you and shout-out to the user known as [TNStacker](https://owrzlll.clicks.mlsend.com/ty/c/eyJ2Ijoie1wiYVwiOjE1MDI3NjMsXCJsXCI6MTU0MDMyMDcxNzU3NTMwNTYzLFwiclwiOjE1NDAzMjEyMDk4ODE3NDMzM30iLCJzIjoiYmRkYjA5MTUwYWEzMjgzNiJ9) for donating 1000 sats! 🙏 Every little bit helps, and we will forever appreciate our donors' generosity.
-
----
-
-Support Bitcoin Chatt
----------------------
-
-Want to see not only Bitcoin Chattanooga succeed, but also the businesses in Chattanooga that are accepting bitcoin? Consider donating to us through [Geyser](https://owrzlll.clicks.mlsend.com/ty/c/eyJ2Ijoie1wiYVwiOjE1MDI3NjMsXCJsXCI6MTU0MDMyMDcxNzYyNzczNDQ0LFwiclwiOjE1NDAzMjEyMDk4ODE3NDMzM30iLCJzIjoiNjQ1ZTI4M2NlZDQwNDlmZSJ9), so you can help make that happen. You can donate using either dollars or bitcoin, and special [rewards](https://owrzlll.clicks.mlsend.com/ty/c/eyJ2Ijoie1wiYVwiOjE1MDI3NjMsXCJsXCI6MTU0MDMyMDcxNzY4MDE2MzI1LFwiclwiOjE1NDAzMjEyMDk4ODE3NDMzM30iLCJzIjoiMDliMWQ2NzMxZDA5ZGI5OCJ9) are available to those who donate certain amounts.
-
-<a href="https://owrzlll.clicks.mlsend.com/ty/c/eyJ2Ijoie1wiYVwiOjE1MDI3NjMsXCJsXCI6MTU0MDMyMDcxNzczMjU5MjA3LFwiclwiOjE1NDAzMjEyMDk4ODE3NDMzM30iLCJzIjoiMmU3NzAyODk4ZTFjOGQ1NiJ9"><img src="../Geyser Banner.png"></a>
 
 ---
 
