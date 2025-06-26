@@ -39,9 +39,11 @@ title = 'Blog'
       <p>Description</p>
     </div>
     <div class="blog-item">
-      <img src="/images/placeholder.png">
-      <h3>Issue #1</h3>
-      <p>Description</p>
+      <a href="newsletter/issue-1">
+        <img src="/images/placeholder.png">
+        <h3>Issue #1</h3>
+        <p>Description</p>
+      </a>
     </div>
   </div>
 

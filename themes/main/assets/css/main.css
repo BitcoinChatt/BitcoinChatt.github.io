@@ -112,6 +112,10 @@ iframe, form, input, textarea, button, #map {
   padding: 0rem 36rem;
 }
 
+.justify-images img {
+  width: 100%;
+}
+
 .video-container {
   display: flex;
   flex-wrap: wrap;
