@@ -30,26 +30,6 @@ We're glad you're here to share in this historic moment with us. 🧡
 
 ---
 
-In This Issue
--------------
-
-Here's what to expect in this issue of The Bitcoin Chatt:
-
--   Local Bitcoin news
--   Global Bitcoin news
--   Local business spotlight
--   Your weekly Bitcoin tip
--   Recommended educational resource
--   Meme of the week
--   Recent supporter shoutout
--   How to support Bitcoin Chattanooga
--   Thoughts from Bitcoin Chattanooga's Founder
-    
-
-Have something you would like us to share in a future issue of this newsletter? [Let us know](https://owrzlll.clicks.mlsend.com/ty/c/eyJ2Ijoie1wiYVwiOjE1MDI3NjMsXCJsXCI6MTU0MDMyMDcxNjQwMDkwMDE4LFwiclwiOjE1NDAzMjEyMDk4ODE3NDMzM30iLCJzIjoiM2MyODM5NGM3MGE1YjFmNyJ9), and we'll look into including it next time!
-
----
-
 Local Bitcoin News
 ------------------
 
