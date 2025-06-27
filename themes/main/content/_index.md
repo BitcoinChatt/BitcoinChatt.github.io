@@ -53,11 +53,11 @@ draft = false
 
 <hr>
 
+<br>
+
 <b>May 6th:</b> Our <a target="_blank" href="https://geyser.fund/project/bitcoinchatt">Geyser page</a> is <i>live!</i> All your donations will go toward building the Bitcoin circular economy in the Chattanooga area, and we have lots of <a target="_blank" href="https://geyser.fund/project/bitcoinchatt/rewards">rewards</a> to show our appreciation for your support, from our <a target="_blank" href="https://badges.page/a/naddr1qqt5y6t5vdhkjm3dgd5xzar594fh2ursdae8getjqgsyku2f36lyrrsupzuqsjw4j5n85vzmk2nemvlq5lrk3n0pss89rmgrqsqqqafevxe8te">Nostr badge</a>, to books, to our Bitcoin Chatt t-shirt!
 
 <br>
-
-<hr>
 
 </center>
 
