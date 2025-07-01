@@ -16,12 +16,10 @@ title = 'Blog'
   <div class="blog-container">
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3>Issue 008</h3>
-      <br>
+      <h3 style="text-align: center">Issue 008</h3>
       <h4 style="text-align: center">28 June 2025<h4>
-        <br>
-        <br>
       <p style="text-align: center"><b>Coming soon!</b>
+        <br>
         <br>
         <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
       </p>
@@ -29,11 +27,8 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3>Issue 007</h3>
-      <br>
+      <h3 style="text-align: center">Issue 007</h3>
       <h4 style="text-align: center">21 June 2025<h4>
-        <br>
-        <br>
       <p style="text-align: center"><b>Coming soon!</b>
         <br>
         <br>
@@ -42,11 +37,8 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3>Issue 006</h3>
-      <br>
+      <h3 style="text-align: center">Issue 006</h3>
       <h4 style="text-align: center">14 June 2025<h4>
-        <br>
-        <br>
       <p style="text-align: center"><b>Coming soon!</b>
         <br>
         <br>
@@ -55,11 +47,8 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3>Issue 005</h3>
-      <br>
+      <h3 style="text-align: center">Issue 005</h3>
       <h4 style="text-align: center">7 June 2025<h4>
-        <br>
-        <br>
       <p style="text-align: center"><b>Coming soon!</b>
         <br>
         <br>
@@ -68,11 +57,8 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3>Issue 004</h3>
-      <br>
+      <h3 style="text-align: center">Issue 004</h3>
       <h4 style="text-align: center">31 May 2025<h4>
-        <br>
-        <br>
       <p style="text-align: center"><b>Coming soon!</b>
         <br>
         <br>
@@ -81,11 +67,8 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3>Issue 003</h3>
-      <br>
+      <h3 style="text-align: center">Issue 003</h3>
       <h4 style="text-align: center">24 May 2025<h4>
-        <br>
-        <br>
       <p style="text-align: center"><b>Coming soon!</b>
         <br>
         <br>
@@ -94,11 +77,8 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3>Issue 002</h3>
-      <br>
+      <h3 style="text-align: center">Issue 002</h3>
       <h4 style="text-align: center">17 May 2025<h4>
-        <br>
-        <br>
       <p style="text-align: center"><b>Coming soon!</b>
         <br>
         <br>
@@ -109,10 +89,7 @@ title = 'Blog'
       <a href="newsletter/issue-1">
         <img src="/content/blog/newsletter/issue-1/Chattanooga Expo.png">
         <h3 style="text-align: center">Issue 001</h3>
-        <br>
         <h4 style="text-align: center">10 May 2025</h4>
-        <br>
-        <br>
         <p style="text-align: center">
           <b>The "Genesis Block" of the Bitcoin Chatt Newsletter.</b>
           <br>
