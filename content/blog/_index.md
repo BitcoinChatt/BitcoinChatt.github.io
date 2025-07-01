@@ -55,7 +55,7 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-1">
-        <img src="issue-1/Chattanooga Expo.png">
+        <img src="/content/blog/newsletter/issue-1/Chattanooga Expo.png">
         <h3>Issue 001</h3>
         <p>The "Genesis Block" of the Bitcoin Chatt Newsletter! In this issue, you'll read about our presence at the Chattanooga Business Expo, the weekly Bitcoin Game Night, Steak'n Shake's big news, and so much more!</p>
       </a>
