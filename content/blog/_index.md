@@ -93,7 +93,12 @@ title = 'Blog'
           <b>The "Genesis Block" of the Bitcoin Chatt Newsletter.</b>
           <br>
           <br>
-          In this issue, you'll read about our presence at the Chattanooga Business Expo, the weekly Bitcoin Game Night, Steak'n Shake's big news, and so much more!
+          In this issue:
+          <ul>
+            <li>Our presence at the Chattanooga Business Expo</li>
+            <li>The weekly Bitcoin Game Night</li>
+            <li>Steak'n Shake's ₿ig News</li>
+            <li>And so much more!</li>
         </p>
       </a>
     </div>
