@@ -23,7 +23,6 @@ title = 'Blog'
         <br>
         <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
       </p>
-      <br>
     </div>
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
