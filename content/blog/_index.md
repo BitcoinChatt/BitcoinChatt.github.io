@@ -7,46 +7,57 @@ title = 'Blog'
 
 <div class="article">
 
-  <h1 style="text-align: center">Blog</h1>
+  <h1 style="text-align: center">Welcome to the Bitcoin Chattanooga Blog!</h1>
 
-  <h3 style="text-align: center">Welcome to the Bitcoin Chattanooga Blog! All our weekly email newsletters are archived here, approximately 1 month after they're sent. <a href="https://www.BitcoinChatt.org">Join us</a> to receive our newsletter in your inbox every Saturday morning, where you'll get recent news updates, Bitcoin knowledge, and even some free bitcoin to whoever finds it first!</h3>
+  <h3 style="text-align: center">This is the archive of our weekly email newsletters, which are added about 1 month after each email is sent.
+
+  <br>
+  
+  Want to receive these in your inbox when they're new? <a href="https://www.BitcoinChatt.org">Join us</a>, and you'll get the latest news, Bitcoin knowledge, and even some free bitcoin to whoever finds it first!</h3>
+
+  <br>
 
   <div class="blog-container">
     <div class="blog-item">
-      <img src="/images/placeholder.png">
-      <h3>Issue #7</h3>
-      <p>Description</p>
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3>Issue 008</h3>
+      <p>Coming soon! <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!</p>
     </div>
     <div class="blog-item">
-      <img src="/images/placeholder.png">
-      <h3>Issue #6</h3>
-      <p>Description</p>
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3>Issue 007</h3>
+      <p>Coming soon! <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!</p>
     </div>
     <div class="blog-item">
-      <img src="/images/placeholder.png">
-      <h3>Issue #5</h3>
-      <p>Unnecessarily long description. This is to show that all boxes on a single row will grow to be the same height as the tallest one</p>
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3>Issue 006</h3>
+      <p>Coming soon! <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!</p>
     </div>
     <div class="blog-item">
-      <img src="/images/placeholder.png">
-      <h3>Issue #4</h3>
-      <p>Description</p>
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3>Issue 005</h3>
+      <p>Coming soon! <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!</p>
     </div>
     <div class="blog-item">
-      <img src="/images/placeholder.png">
-      <h3>Issue #3</h3>
-      <p>Description</p>
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3>Issue 004</h3>
+      <p>Coming soon! <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!</p>
     </div>
     <div class="blog-item">
-      <img src="/images/placeholder.png">
-      <h3>Issue #2</h3>
-      <p>Description</p>
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3>Issue 003</h3>
+      <p>Coming soon! <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!</p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3>Issue 002</h3>
+      <p>Coming soon! <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!</p>
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-1">
-        <img src="/images/placeholder.png">
-        <h3>Issue #1</h3>
-        <p>Description</p>
+        <img src="issue-1/Chattanooga Expo.png">
+        <h3>Issue 001</h3>
+        <p>The "Genesis Block" of the Bitcoin Chatt Newsletter! In this issue, you'll read about our presence at the Chattanooga Business Expo, the weekly Bitcoin Game Night, Steak'n Shake's big news, and so much more!</p>
       </a>
     </div>
   </div>
