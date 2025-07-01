@@ -9,7 +9,11 @@ title = 'Blog'
 
   <h1 style="text-align: center">Welcome to the Bitcoin Chattanooga Blog!</h1>
 
+  <br>
+
   <h3 style="text-align: center">This is the archive of our weekly email newsletters, which are added about 1 month after each email is sent.
+
+  <br>
 
   <br>
   
