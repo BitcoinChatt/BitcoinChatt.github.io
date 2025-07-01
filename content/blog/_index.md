@@ -87,7 +87,7 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-1">
-        <img src="/content/blog/newsletter/issue-1/Chattanooga Expo.png">
+        <img src="newsletter/issue-1/Chattanooga Expo.png">
         <h3 style="text-align: center">Issue 001</h3>
         <h4 style="text-align: center">10 May 2025</h4>
         <p style="text-align: center">
