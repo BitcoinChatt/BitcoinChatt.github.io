@@ -16,6 +16,16 @@ title = 'Blog'
   <div class="blog-container">
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 009</h3>
+      <h4 style="text-align: center">5 July 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
       <h3 style="text-align: center">Issue 008</h3>
       <h4 style="text-align: center">28 June 2025<h4>
       <p style="text-align: center"><b>Coming soon!</b>
