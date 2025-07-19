@@ -342,6 +342,16 @@ Here's our shortlist of what we believe are the best wallets, along with all the
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Windows, macOS, Linux, Android</td>
     </tr>
     <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://mannabitcoin.com/"><b>Manna Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain, Liquid, & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
+    </tr>
+    <tr>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://www.muun.com"><b>Muun</b></a></td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Beginner</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
@@ -655,6 +665,16 @@ Here are <i>all</i> the Bitcoin-only wallets we could find that are available in
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Lightning & eCash</td>
       <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://mannabitcoin.com/"><b>Manna Wallet</b></a></td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Beginner</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">Software</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Noncustodial</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">Yes</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">On-chain, Liquid, & Lightning</td>
+      <td style="text-align: center; border: 1px solid white; border-collapse: collapse; background-color: #00BB00;">No</td>
+      <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;">iOS, Android</td>
     </tr>
     <tr>
       <td style="border: 1px solid white; border-collapse: collapse; background-color: #000000;"><a target="_blank" href="https://minibits.cash"><b>Minibits</b></a></td>
