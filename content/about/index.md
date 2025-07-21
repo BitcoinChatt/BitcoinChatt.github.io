@@ -44,8 +44,6 @@ We have a long way to go before this train reaches its destination, but by using
 
 <h2 id="jason-sellers">Who is Jason Sellers?</h2>
 
-<br>
-
 <img class="mobile-banner" src="./Jason%20Sellers%20at%20DDNH.jpg" style="width:20dvw;float:right;">
 
 <p style="margin-left: 2rem;">Bitcoin Chattanooga’s organizer, Jason Sellers, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while delivering packages in Soddy Daisy. In 2018, he began teaching others about Bitcoin through online groups he created and managed, and telling as many people about it as he could.</p>
