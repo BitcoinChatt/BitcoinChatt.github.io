@@ -22,7 +22,7 @@ It does this by providing:
 
 <p style="margin-left: 2rem;">From setting up Bitcoin Point of Sale systems to promoting your business to local Bitcoiners, Bitcoin Chattanooga has you covered!</p>
 
-<h3>White-glove support for All Your Bitcoin Needs</h3>
+<h3>White-Glove Support for All Your Bitcoin Needs</h3>
 
 <p style="margin-left: 2rem;">Have a general question about Bitcoin, or need help improving your Bitcoin security? Members enjoy 24/7 access to Jason's expertise, no matter what the issue is.</p>
 
