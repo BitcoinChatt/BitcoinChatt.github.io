@@ -46,12 +46,12 @@ We have a long way to go before this train reaches its destination, but by using
 
 <img class="mobile-banner" src="./Jason%20Sellers%20at%20DDNH.jpg" style="width:20dvw;float:right;">
 
-<p style="margin-left: 2rem;">Bitcoin Chattanooga’s organizer, Jason Sellers, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while delivering packages in Soddy Daisy. In 2018, he began teaching others about Bitcoin through online groups he created and managed, and telling as many people about it as he could.</p>
+Bitcoin Chattanooga’s organizer, Jason Sellers, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while delivering packages in Soddy Daisy. In 2018, he began teaching others about Bitcoin through online groups he created and managed, and telling as many people about it as he could.</p>
 
-<p style="margin-left: 2rem;">From 2022 to 2023, Jason led community growth at <a href="https://www.noah.com/">Noah</a>, a compnay that designed a wallet app for those in developing countries to use bitcoin. He was then the Community Manager at the Spirit of Satoshi, a Large Language Model built on all Bitcoin knowledge, making it the ultimate AI expert on the topic.</p>
+From 2022 to 2023, Jason led community growth at <a href="https://www.noah.com/">Noah</a>, a compnay that designed a wallet app for those in developing countries to use bitcoin. He was then the Community Manager at the Spirit of Satoshi, a Large Language Model built on all Bitcoin knowledge, making it the ultimate AI expert on the topic.</p>
 
-<p style="margin-left: 2rem;">In early 2024, Jason published <a href="https://a.co/d/0mcMtUC">"21 Questions: A Beginner's Guide to Bitcoin"</a>, a book that offers reliable answers to the top 21 Bitcoin-related questions from some of the most knowledgeable voices in the space. Following that, he worked as the Ambassador Concierge at <a href="https://www.satlantis.io/">Satlantis</a>, a Trip-Advicor-like social app. And then, in February 2025, he turned all his time and attention to turning the Chattanooga area into a circular economy.</p>
+In early 2024, Jason published <a href="https://a.co/d/0mcMtUC">"21 Questions: A Beginner's Guide to Bitcoin"</a>, a book that offers reliable answers to the top 21 Bitcoin-related questions from some of the most knowledgeable voices in the space. Following that, he worked as the Ambassador Concierge at <a href="https://www.satlantis.io/">Satlantis</a>, a Trip-Advicor-like social app. And then, in February 2025, he turned all his time and attention to turning the Chattanooga area into a circular economy.</p>
 
-<p style="margin-left: 2rem;">Jason and his wife Leigh Ann live in Rossville, Georgia, with their 6 homeschooled children. Follow him on <a href="https://www.x.com/geekigai">Twitter/X</a> and <a href="https://njump.me/npub1693220pmp0a4c04a0p7hkz874vsxkyfrvtk2yk4zjyj3e4c0ugjs3r4j0c">Nostr</a>.</p>
+Jason and his wife Leigh Ann live in Rossville, Georgia, with their 6 homeschooled children. Follow him on <a href="https://www.x.com/geekigai">Twitter/X</a> and <a href="https://njump.me/npub1693220pmp0a4c04a0p7hkz874vsxkyfrvtk2yk4zjyj3e4c0ugjs3r4j0c">Nostr</a>.</p>
 
 </div>
