@@ -32,7 +32,7 @@ Together, we’re onboarding Chattanooga to the future of money. <i>Nothing stop
 
 ## Bitcoin Chatt's Story
 
-<img class="mobile-banner" src="./Bitcoin-Chatt-at-Moxy-April-2022.jpeg" style="width:20dvw;float:left;">
+<img class="mobile-banner" src="./Bitcoin-Chatt-at-Edne-Building-Dec-2021.jpeg" style="width:20dvw;float:left;">
 
 <br>
 
