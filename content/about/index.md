@@ -14,7 +14,7 @@ Run by long-time Bitcoin educator, <a href="#jason-sellers">Jason Sellers</a>, B
 
 It does this by providing:
 
-<h3>Bitcoin Workshops for Business Teams and the Community</h3>
+<h3>Bitcoin Workshops for Businesses and Communities</h3>
 
 <p style="margin-left: 2rem;">Attend our in-person classes to learn about Bitcoin, ask all your questions, and start using the future of money.</p>
 
