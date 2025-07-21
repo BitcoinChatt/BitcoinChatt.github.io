@@ -8,6 +8,8 @@ title = 'About'
 
 <h1 style="text-align: center"><i>Welcome to Bitcoin Chattanooga!</i></h1>
 
+<br>
+
 <img class="desktop-only" src="/images/Logos/Bitcoin%20Chatt%20Logo.gif" style="width:16dvw;float:right;">
 
 Run by long-time Bitcoin educator, <a href="#jason-sellers">Jason Sellers</a>, Bitcoin Chattanooga (often called "Bitcoin Chatt") is turning the Chattanooga area into a Bitcoin circular economny by providing:
