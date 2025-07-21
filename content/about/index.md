@@ -6,7 +6,7 @@ title = 'About'
 
 <div class="article">
 
-<h1 class="align-center"><i>Welcome to Bitcoin Chattanooga!</i></h1>
+<h1 style="text-align: center"><i>Welcome to Bitcoin Chattanooga!</i></h1>
 
 <img class="desktop-only" src="/images/Logos/Bitcoin%20Chatt%20Logo.gif" style="width:16dvw;float:right;">
 
