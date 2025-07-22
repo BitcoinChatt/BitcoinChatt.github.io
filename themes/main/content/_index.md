@@ -47,7 +47,7 @@ draft = false
 
 <center>
 
-<b>July 18th:</b> Our Founder, Jason Sellers, will host an "Intro to Bitcoin" workshop at <a target="_blank" href="https://maps.app.goo.gl/bcLkLFozL6LHV82p9">the Chattery</a> on Monday, August 11th, from 6-8pm. If you're new to Bitcoin and want to learn how it works, this is the place to be! There are a limited number of seats available, so register <a target="_blank" href="https://thechattery.org/classes/introduction-to-bitcoin">here</a> before the class fills up!
+<b>July 18th:</b> Bitcoin Chatt's organizer, Jason Sellers, will host an "Intro to Bitcoin" workshop at <a target="_blank" href="https://maps.app.goo.gl/bcLkLFozL6LHV82p9">the Chattery</a> on Monday, August 11th, from 6-8pm. If you're new to Bitcoin and want to learn how it works, this is the place to be! There are a limited number of seats available, so register <a target="_blank" href="https://thechattery.org/classes/introduction-to-bitcoin">here</a> before the class fills up!
 
 <br>
 
