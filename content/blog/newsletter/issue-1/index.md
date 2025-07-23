@@ -37,7 +37,7 @@ Local Bitcoin News
 
 On Thursday, May 8th, the Founder of Bitcoin Chattanooga, Jason Sellers, and his son Jason Jr, managed a booth for Bitcoin Chattanooga at the Business Expo at the Waterhouse Pavilion downtown. Many of you reading this newsletter had the opportunity to meet them, subscribe to this newsletter, and even to win some free sats (short for satoshis—small pieces of bitcoin).
 
-<img src="Chattanooga Expo.png">
+<img class="mobile-banner" src="Chattanooga Expo.png" style="width:40dvw;display:block;margin:0 auto;">
 
 An essential part of Bitcoin Chattanooga's mission is not only educating business owners on why they should start accepting bitcoin as payment, but also promoting the businesses that choose to accept bitcoin, so the wider community of Bitcoiners, eager to bring the present closer to the future, can know where to spend their bitcoin. We look forward to working with many businesses in the area, to send them more customers and clients, and to help them save more with bitcoin.
 
