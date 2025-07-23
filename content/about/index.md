@@ -12,7 +12,7 @@ title = 'About'
 
 <img class="desktop-only" src="/images/Logos/Bitcoin%20Chatt%20Logo.gif" style="width:16dvw;float:right;">
 
-Run by long-time Bitcoin educator, <a href="#jason-sellers">Jason Sellers</a>, Bitcoin Chattanooga (often called "Bitcoin Chatt") is turning the Chattanooga area into a Bitcoin circular economny by providing:
+Run by long-time Bitcoin educator, <a href="#jason-sellers">Jason Sellers</a>, Bitcoin Chattanooga (often called "Bitcoin Chatt") is turning the Chattanooga area into a Bitcoin circular economy by providing:
 
 <h3>Bitcoin Workshops for Businesses and Communities</h3>
 
