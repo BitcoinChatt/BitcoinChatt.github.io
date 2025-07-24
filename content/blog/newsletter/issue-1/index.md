@@ -128,7 +128,7 @@ And that wraps up our very first newsletter! 🎉 This is an exciting time for
 
 Throughout history, societies have thrived or collapsed based on the quality of their money. Highly inflationary money always brings with it not only higher prices for goods and services, but also lower quality for those goods and services, to say nothing of the resulting survival mentality and constant quest for instant gratification among its users. On the other hand, societies built on hard money, like gold, have always led to lower prices, higher quality, a discovery mentality, and growing abilities to delay instant gratification for better rewards later. And bitcoin is *infinitely* harder than gold—we know its total supply and it can never be changed—so imagine what a world on the bitcoin standard might look like! 🤯
 
-<img class="mobile-banner" src="FTM FTW.gif" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="../FTM FTW.gif" style="width:30dvw;display:block;margin:0 auto;">
 
 Until that day comes, though, our focus needs to be on making that future a reality here in own town of Chattanooga.
 
