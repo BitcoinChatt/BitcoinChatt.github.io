@@ -5,6 +5,7 @@ underConstruction = false
 title = 'Join'
 +++
 
+<center>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -437,3 +438,4 @@ title = 'Join'
   </script>
 </body>
 </html>
+</center>
