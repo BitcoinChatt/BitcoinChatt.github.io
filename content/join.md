@@ -45,7 +45,7 @@ title = 'Join'
       100% { transform: rotate(360deg); }
     }
 
-  /* reCAPTCHA */
+   /* reCAPTCHA */
     .g-recaptcha {
       transform: scale(1);
       -webkit-transform: scale(1);
@@ -82,7 +82,7 @@ title = 'Join'
       border: 0;
     }
 
-  /* Form Container */
+   /* Form Container */
     #mlb2-25662429.ml-form-embedContainer {
       box-sizing: border-box;
       display: table;
@@ -140,7 +140,7 @@ title = 'Join'
       max-width: 100%;
     }
 
-  /* Form Content */
+   /* Form Content */
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody {
       padding: 20px;
@@ -213,7 +213,7 @@ title = 'Join'
       margin: 0;
     }
 
-  /* Form Fields */
+   /* Form Fields */
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody form {
       margin: 0;
       width: 100%;
@@ -319,7 +319,7 @@ title = 'Join'
       appearance: none;
     }
 
-  /* Checkboxes and Radios */
+   /* Checkboxes and Radios */
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before,
@@ -370,45 +370,30 @@ title = 'Join'
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::after,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::after,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::after {
-      top: 2px;
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before,
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before,
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before {
+      top: 4px;
+      left: 0;
       box-sizing: border-box;
     }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before,
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::after,
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::after,
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::after,
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::after,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before,
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::after,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
-      top: 0px !important;
-      box-sizing: border-box !important;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
-      top: 0px !important;
-      box-sizing: border-box !important;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::after {
-      top: 2px !important;
-      box-sizing: border-box !important;
-      position: absolute;
-      left: -1.5rem;
-      display: block;
-      width: 1rem;
-      height: 1rem;
-      content: "";
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before {
-      top: 2px !important;
+      top: 4px !important;
+      left: 0;
       box-sizing: border-box !important;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-control-label::before {
       position: absolute;
       top: 4px;
-      left: -1.5rem;
+      left: 0;
       display: block;
       width: 16px;
       height: 16px;
@@ -416,58 +401,16 @@ title = 'Join'
       content: "";
       background-color: #ffffff;
       border: #adb5bd solid 1px;
-      border-radius: 50%;
+      border-radius: 4px;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-control-label::after {
-      position: incomplete;
-      top: 2px !important;
-      left: -1.5rem;
+      position: absolute;
+      top: 4px !important;
+      left: 0;
       display: block;
       width: 1rem;
       height: 1rem;
       content: "";
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before {
-      position: absolute;
-      top: 4px;
-      left: -1.5rem;
-      display: block;
-      width: 16px;
-      height: 16px;
-      pointer-events: none;
-      content: "";
-      background-color: #ffffff;
-      border: #adb5bd solid 1px;
-      border-radius: 50%;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after {
-      position: absolute;
-      top: 0px !important;
-      left: -1.5rem;
-      display: block;
-      width: 1rem;
-      height: 1rem;
-      content: "";
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
-      position: absolute;
-      top: 0px !important;
-      left: -1.5rem;
-      display: block;
-      width: 1rem;
-      height: 1rem;
-      content: "";
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-radio .custom-control-label::after {
-      background: no-repeat 50%/50% 50%;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-checkbox .custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
-      background: no-repeat 50%/50% 50%;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-control,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-control {
@@ -485,6 +428,8 @@ title = 'Join'
       opacity: 0;
       box-sizing: border-box;
       padding: 0;
+      margin-top: 5px;
+      margin-left: 0;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label,
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label,
@@ -510,6 +455,7 @@ title = 'Join'
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox {
       margin: 0 0 10px 0;
       width: 100%;
+      text-align: left;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox.last-group {
       margin: 0;
@@ -552,7 +498,7 @@ title = 'Join'
       z-index: -1;
       opacity: 0;
       margin-top: 5px;
-      margin-left: -1.5rem;
+      margin-left: 0;
       overflow: visible;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type="checkbox"] {
@@ -562,7 +508,7 @@ title = 'Join'
       z-index: -1;
       opacity: 0;
       margin-top: 5px;
-      margin-left: -1.5rem;
+      margin-left: 0;
       overflow: visible;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description {
@@ -601,7 +547,7 @@ title = 'Join'
       margin: 0;
     }
 
-  /* Submit Button */
+   /* Submit Button */
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit {
       margin: 0 0 20px 0;
       float: left;
@@ -630,7 +576,7 @@ title = 'Join'
       background-color: #FFCE07 !important;
     }
 
-  /* Close Button */
+   /* Close Button */
     .ml-subscribe-close {
       width: 30px;
       height: 30px;
@@ -644,7 +590,7 @@ title = 'Join'
       right: 0;
     }
 
-  /* Error States */
+   /* Error States */
     .ml-error input,
     .ml-error textarea,
     .ml-error select {
@@ -666,7 +612,7 @@ title = 'Join'
       color: #ff0000 !important;
     }
 
-  /* Horizontal Form */
+   /* Horizontal Form */
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow {
       height: auto;
       width: 100%;
@@ -728,7 +674,7 @@ title = 'Join'
       border-color: #FFCE07 !important;
     }
 
-  @media only screen and (max-width: 600px) {
+   @media only screen and (max-width: 600px) {
       .ml-form-embedWrapper.embedDefault,
       .ml-form-embedWrapper.embedPopup {
         width: 100% !important;
@@ -805,4 +751,33 @@ title = 'Join'
             </div>
             <input type="hidden" name="ml-submit" value="1">
             <input type="hidden" name="anticsrf" value="true">
-            <div class="ml-form-embed
+            <div class="ml-form-embedSubmit">
+              <button type="submit" class="primary">Subscribe</button>
+              <button disabled="disabled" style="display: none;" type="button" class="loading">
+                <div class="ml-form-embedSubmitLoad"></div>
+                <span class="sr-only">Loading...</span>
+              </button>
+            </div>
+          </form>
+        </div>
+        <div class="ml-form-successBody row-success" style="display: none">
+          <div class="ml-form-successContent">
+            <h4>Welcome aboard!</h4>
+            <p><span style="font-size: 16px;">Expect our newsletter, <em>The Bitcoin Chatt</em>, every Saturday morning.</span></p>
+            <p><span style="font-size: 16px;">If you have any questions, please message us on our <a href="https://www.bitcoinchatt.org/contact/">Contact</a> page, and we'll do our best to reply within 24 hours.</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v176e10baa5e7ed80d35ae235be3d5024" type="text/javascript"></script>
+  <script>
+    function ml_webform_success_25662429() {
+      var $ = ml_jQuery || jQuery;
+      $('.ml-subscribe-form-25662429 .row-success').show();
+      $('.ml-subscribe-form-25662429 .row-form').hide();
+    }
+    fetch("https://assets.mailerlite.com/jsonp/1502763/forms/153678193931322867/takel");
+  </script>
+</body>
+</html>
