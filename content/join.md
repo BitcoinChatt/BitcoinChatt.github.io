@@ -5,7 +5,6 @@ underConstruction = false
 title = 'Join'
 +++
 
-<center>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,10 +12,20 @@ title = 'Join'
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style type="text/css">
     @import url("https://assets.mlcdn.com/fonts.css?version=1753872");
-    
+
   /* General Reset */
     * {
       box-sizing: border-box;
+    }
+
+  /* Center the entire form on the page */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      background-color: #f5f5f5; /* Optional: light background for visibility */
     }
 
   /* Loader Animation */
@@ -73,6 +82,7 @@ title = 'Join'
       display: table;
       margin: 0 auto;
       width: 100% !important;
+      max-width: 600px; /* Ensure form doesn't exceed intended width */
     }
     .ml-form-embedWrapper {
       background-color: #111213;
@@ -101,7 +111,7 @@ title = 'Join'
   /* Form Content */
     .ml-form-embedBody,
     .ml-form-successBody {
-      padding: 20px 20px 0;
+      padding: 20px;
     }
     .ml-form-embedContent,
     .ml-form-successContent {
@@ -156,6 +166,7 @@ title = 'Join'
       padding: 10px !important;
       width: 100% !important;
       margin: 0;
+      box-sizing: border-box; /* Ensure padding doesn't cause overflow */
     }
     .ml-form-fieldRow input::placeholder {
       color: #000;
@@ -183,12 +194,13 @@ title = 'Join'
     .ml-form-interestGroupsRowCheckbox .label-description {
       color: #FFF;
       font-family: 'Montserrat', sans-serif;
-      font-size: 12px;
+      font-size: 14px; /* Increased from 12px for better readability */
       line-height: 22px;
       font-weight: 700;
       position: relative;
       padding-left: 24px;
       margin: 0;
+      text-align: left; /* Left-justify checkbox labels */
     }
     .ml-form-interestGroupsRowCheckbox .description {
       color: #FFF;
@@ -197,6 +209,7 @@ title = 'Join'
       font-weight: 400;
       line-height: 16px;
       margin: 5px 0 0;
+      text-align: left;
     }
     .ml-form-checkboxRow label,
     .ml-form-interestGroupsRowCheckbox label {
@@ -352,8 +365,8 @@ title = 'Join'
             <h4>Join Bitcoin Chattanooga</h4>
             <p>
               <span style="font-size: 16px;">
-                Membership is <strong>free</strong>, and you'll get weekly (<em>at most</em>) 
-                <a href="https://www.bitcoinchatt.org/blog/">blog</a> posts, news, and announcements 
+                Membership is <strong>free</strong>, and you'll get weekly (<em>at most</em>)
+                <a href="https://www.bitcoinchatt.org/blog/">blog</a> posts, news, and announcements
                 straight to your email inbox.
               </span>
             </p>
@@ -416,8 +429,8 @@ title = 'Join'
             </p>
             <p>
               <span style="font-size: 16px;">
-                If you have any questions, please message us on our 
-                <a href="https://www.bitcoinchatt.org/contact/">Contact</a> page, 
+                If you have any questions, please message us on our
+                <a href="https://www.bitcoinchatt.org/contact/">Contact</a> page,
                 and we'll do our best to reply within 24 hours.
               </span>
             </p>
@@ -426,7 +439,6 @@ title = 'Join'
       </div>
     </div>
   </div>
-
   <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v176e10baa5e7ed80d35ae235be3d5024"></script>
   <script>
     function ml_webform_success_25662429() {
@@ -438,4 +450,3 @@ title = 'Join'
   </script>
 </body>
 </html>
-</center>
