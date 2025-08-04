@@ -205,6 +205,7 @@ title = 'Join'
       font-family: 'Montserrat', sans-serif;
       font-weight: bold;
       font-style: normal;
+      text-align: left;
       text-decoration: none;
       display: inline-block;
       line-height: 20px;
@@ -351,129 +352,29 @@ title = 'Join'
       left: 0;
       box-sizing: border-box;
     }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type=checkbox]:checked~.label-description::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox]:checked~.label-description::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input:checked~.custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input:checked~.custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]:checked~.label-description::after {
-      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-input:checked~.custom-control-label::after {
-      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='%23fff'/%3e%3c/svg%3e");
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-input:checked~.custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox]:checked~.label-description::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]:checked~.label-description::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type=checkbox]:checked~.label-description::before {
-      border-color: #FF9900 !important;
-      background-color: #000000 !important;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before {
-      top: 4px;
-      left: 0;
-      box-sizing: border-box;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::after,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::after {
-      top: 4px !important;
-      left: 0;
-      box-sizing: border-box !important;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-control-label::before {
-      position: absolute;
-      top: 4px;
-      left: 0;
-      display: block;
-      width: 16px;
-      height: 16px;
-      pointer-events: none;
-      content: "";
-      background-color: #ffffff;
-      border: #adb5bd solid 1px;
-      border-radius: 4px;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .custom-control-label::after {
-      position: absolute;
-      top: 4px !important;
-      left: 0;
-      display: block;
-      width: 1rem;
-      height: 1rem;
-      content: "";
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-control,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-control {
-      position: relative;
-      display: block;
-      min-height: 1.5rem;
-      padding-left: 1.5rem;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-input,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-input,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-input {
-      position: absolute;
-      z-index: -1;
-      opacity: 0;
-      box-sizing: border-box;
-      padding: 0;
-      margin-top: 5px;
-      margin-left: 0;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label,
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label {
-      color: #FFFFFF;
-      font-size: 14px !important;
-      font-family: 'Montserrat', sans-serif;
-      line-height: 22px;
-      margin-bottom: 0;
-      position: relative;
-      vertical-align: top;
-      font-style: normal;
-      font-weight: 700;
-      text-align: left;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow {
-      margin-bottom: 20px;
-      text-align: left;
-      float: left;
-      width: 100%;
-    }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox {
       margin: 0 0 10px 0;
       width: 100%;
       text-align: left;
       display: flex;
-      align-items: flex-start;
+      align-items: center;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox.last-group {
       margin: 0;
+    }
+    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type="checkbox"] {
+      margin-right: 10px;
+      flex-shrink: 0;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox label {
       font-weight: normal;
       margin: 0;
       padding: 0;
       position: relative;
-      display: block;
+      display: flex;
+      align-items: center;
       min-height: 24px;
-      padding-left: 24px;
+      padding-left: 0;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description {
       color: #FFFFFF;
@@ -496,16 +397,6 @@ title = 'Join'
       line-height: 16px;
       margin: 5px 0 0 0;
       text-align: left;
-    }
-    #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type="checkbox"] {
-      box-sizing: border-box;
-      padding: 0;
-      position: absolute;
-      z-index: -1;
-      opacity: 0;
-      margin-top: 5px;
-      margin-left: 0;
-      overflow: visible;
     }
     #mlb2-25662429.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type="checkbox"] {
       box-sizing: border-box;
