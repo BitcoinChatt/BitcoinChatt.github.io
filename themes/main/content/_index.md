@@ -47,6 +47,14 @@ draft = false
 
 <center>
 
+<b>August 7th:</b> Our next Bitcoin Chatt meetup on August 16th will <b>NOT</b> be at the Agora in Hixson, and will <b>NOT</b> go from 2-4pm. Instead, we will meet at the Brickyard, a tech VC business that's located at <a target="_blank" href="https://maps.app.goo.gl/SPtYx8pF17nuZZm36">917 E 16th Street in Chattanooga</a>, from noon-2pm. We will meet there, then carpool to a nearby Bitcoin mining facility that's only about 5-10 minutes away from there, for a special tour on a Bitcoin Chatt field trip! After the tour, we'll carpool back to the Brickyard, and <i>chatt</i> there for the rest of the meetup. See you thee!
+
+<br>
+
+<hr>
+
+<br>
+
 <b>July 18th:</b> Bitcoin Chatt's organizer, Jason Sellers, will host an "Intro to Bitcoin" workshop at <a target="_blank" href="https://maps.app.goo.gl/bcLkLFozL6LHV82p9">the Chattery</a> on Monday, August 11th, from 6-8pm. If you're new to Bitcoin and want to learn how it works, this is the place to be! There are a limited number of seats available, so register <a target="_blank" href="https://thechattery.org/classes/introduction-to-bitcoin">here</a> before the class fills up!
 
 <br>
