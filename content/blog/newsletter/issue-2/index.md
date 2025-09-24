@@ -19,76 +19,62 @@ Hello again!
 
 Has it been a whole week already? Time sure does fly!
 
-We left an easter egg for some **free sats** (small pieces of bitcoin) in our last email, but it can **only** be claimed by **one** reader, and it hasn't been claimed yet! Look for it in every issue (including somewhere in this one... 😏).
-
 ---
 
 Local Bitcoin News
 ------------------
 
-### Bitcoin Chattanooga at Steak 'n Shake
+### 4 New Locations Accepting Bitcoin for Payment!
 
-On Saturday, May 17th, Bitcoin Chattanooga hosted a meetup at the new Bitcoin-accepting Steak 'n Shake in Chattanooga. Attendees enjoyed paying with bitcoin for their meals and discussed the latest in Bitcoin adoption.
+As was reported last week, Steak 'n Shake is now accepting bitcoin for payments at all locations! We have 4 Steak 'n Shakes in our area: On Battlefield Pkwy in Fort Oglethorpe, on Gunbarrel Rd in Chattanooga, on W Walnut Ave in Dalton, and on Paul Huff Pkwy NW in Cleveland. Steak 'n Shake is taking a bold new step into the future of money, so let's support them with a steakburger and tallow fries, paid for with bitcoin!
 
 <a href="https://x.com/BitcoinMagazine/status/1923225678603784674" target="_blank"><img class="mobile-banner" src="Steak n Shake Bitcoin.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
-An essential part of Bitcoin Chattanooga's mission is promoting businesses that accept bitcoin. We look forward to more events like this.
-
-### Updated Bitcoin Businesses Map
-
-We've updated our map of local businesses accepting bitcoin, now including several new locations in southeast Tennessee.
+We also updated our [map](https://www.bitcoinchatt.com/map/) of businesses in the area that accept bitcoin, to reflect this change from Steak 'n Shake. Select the map below to interact with it and find relevant information for each business listed.
 
 <a href="https://www.bitcoinchatt.com/map/" target="_blank"><img class="mobile-banner" src="Bitcoin Businesses Map 1.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
-Check out the map on our [website](https://www.bitcoinchatt.com/map/) to find where to spend your bitcoin.
+Know of any other businesses in the area that accept bitcoin? [Let us know](https://www.bitcoinchatt.com/contact/), and we'll add them to our map!
 
 ---
 
 Global Bitcoin News
 -------------------
 
-### Coinbase CEO Issues $1 Million Bitcoin Price Prediction
+### Coinbase Customer Information Data Leak
 
-Coinbase CEO Brian Armstrong has predicted Bitcoin reaching $1 million, citing increasing institutional adoption and regulatory clarity.
+On May 15th, Coinbase disclosed that some of their overseas support agents were bribed by cybercriminals and leaked sensitive customer data like names, addresses, and IDs of approximately 97,000 users, which is less than 1% of its monthly users. This wasn’t a case of a system hack, as was initially reported, but of a betrayal of trust from a popular exchange. Coinbase is now facing between $180 million and $400 million in cleanup costs while promising to compensate affected users accordingly.
 
 <img class="mobile-banner" src="Coinbase.png" style="width:30dvw;display:block;margin:0 auto;">
 
-This comes as Bitcoin's price continues to climb, reflecting growing confidence in the asset.
+This leak is a perfect example of why you should avoid KYC (Know Your Customer)-compliant exchanges like Coinbase, when you can: they're honeypots of personal data and custodied bitcoin that's just asking for trouble like this. Stick to Bitcoin-only, non-KYC platforms like <a href="http://hodlhodl.com/" target="_blank">Hodl Hodl</a> or <a href="https://learn.robosats.org/" target="_blank">RoboSats</a>, and always move your bitcoin to a self-custodial wallet, which can be an app or device that gives you a set of 12 or 24 random words as your private key, and acts as a backup for your bitcoin. If you’re a Coinbase user, we recommend you turn on two-factor authentication, stay alert for phishing attempts, and consider switching to more private methods for acquiring bitcoin, for added security.
 
-### Bitcoin Pizza Day Approaching
+### 15th Anniversary of Bitcoin Pizza Day
 
-May 22 marks Bitcoin Pizza Day, commemorating the first real-world Bitcoin transaction for two pizzas in 2010.
+15 years ago this coming Thursday, May 22nd, a man named Laszlo Hanyecz bought 2 pizzas from Papa Johns for 10,000 bitcoin. That's worth a lot now (well over *$1 billion!*), but at the time, 1 bitcoin was barely worth anything, and nothing had ever been bought with it yet. In hindsight, it might seem like a colossal waste of money, but the first purchase had to happen sometime, and due to Bitcoin's fixed supply and ever-rising demand, everything bought with bitcoin will someday seem extremely expensive by future standards.
 
 <img class="mobile-banner" src="Bitcoin Pizza Day.png" style="width:30dvw;display:block;margin:0 auto;">
 
-Celebrations are planned worldwide, including local events in Chattanooga.
+For example, have you ever heard someone much older than you comment about how, when they were young, a can of soda cost 5¢? Or how candy bars used to be larger and only cost a dime? On an inflationary system like what we have today, goods and services gradually get more expensive, smaller, and lower quality with every passing year. But on a sound money standard like Bitcoin, the exact opposite occurs: just as we think it's crazy that someone paid 10,000 bitcoin for 2 pizzas, one day it will be seen as equally crazy to pay approximately 34,000 sats (0.00034 bitcoin) for 2 pizzas—which is roughly the current price, as of the writing of this newsletter.
 
-### Steak 'n Shake Update
-
-Following their announcement last week, Steak 'n Shake has successfully rolled out Bitcoin payments at all locations.
-
-<img class="mobile-banner" src="Steak n Sheak.png" style="width:30dvw;display:block;margin:0 auto;">
-
-Early reports show strong interest from the Bitcoin community.
+This is why many Bitcoiners choose to save as many sats as they can, and only buy things that they *really* need. It's just one way that Bitcoin is encouraging personal responsibility and deferring gratification, which improves quality of life for everyone, and is how civilization started in the first place.
 
 ---
 
-Local Business Spotlight
+### Local Business Spotlight
 ------------------------
 
-Every week, we shine a spotlight on a business in the area that accepts bitcoin for payments. This week's business is:
+Every week, we shine a spotlight on a business in the area that accepts bitcoin for payments. Given recent news, it should come as no surprise that this week's business is:
 
-### Pizza Place Chattanooga
+### Steak 'n Shake
 
-[Pizza Place Chattanooga](https://www.pizzaplacechatt.com/), located at [123 Main St in Chattanooga](https://maps.app.goo.gl/example), is a family-owned pizzeria offering delicious pizzas and accepting bitcoin.
+Steak 'n Shake, a classic American fast-food chain, is redefining dining convenience across its four Chattanooga-area locations in Fort Oglethorpe, Chattanooga (on Gunbarrel Road), Dalton, and Cleveland, serving up its iconic steakburgers and hand-dipped milkshakes while blazing a trail in the future of money. 
 
-Led by the owner, the business is committed to modern payment methods.
+Operated locally by the award-winning Debo’s Diners, these restaurants prioritize a sense of community, offering freshly prepared meals that have earned them a loyal following and national recognition. By accepting bitcoin for payments, Steak 'n Shake is empowering customers to use freedom money as it was always intended. If you're looking to support businesses that challenge conventional systems while enjoying a memorable dining experience, Steak 'n Shake should be your first choice.
 
-Find them on our [map](https://www.bitcoinchatt.com/map/).
+<img class="mobile-banner" src="Steak n Sheak.png" style="width:30dvw;display:block;margin:0 auto;">
 
-<a href="https://thelittlehodler.com/" target="_blank"><img class="mobile-banner" src="How it Feels.png" style="width:30dvw;display:block;margin:0 auto;"></a>
-
-Want your business featured? [Let us know](https://www.bitcoinchatt.com/contact/).
+Want *your* business in a future Spotlight? [Let us know](https://www.bitcoinchatt.com/contact/) if you already accept bitcoin, or if you would like us to get you set up, and we'll feature your business in an upcoming newsletter, as well as on our map!
 
 ---
 
@@ -97,22 +83,24 @@ Your Bitcoin Tip
 
 ### This Week's Essential Bitcoin Knowledge
 
-Self-custody is key to truly owning your bitcoin. Remember, not your keys, not your coins.
+As explained in the Coinbase news above, it's vital that you learn how to take custody of your own bitcoin, so you don't have to trust anyone else to hold it for you. That was one of the reasons why Satoshi Nakamoto created Bitcoin in the first place. He once said: *"The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but* ***the history of fiat currencies is full of breaches of that trust."*** Bitcoin solves this problem of trust by being money that's even better than gold, but doesn't require you to trust someone else to hold it for you.
 
 <img class="mobile-banner" src="What Self Custody Feels Like.png" style="width:30dvw;display:block;margin:0 auto;">
 
-Learn how to set up a wallet and secure your private keys.
+Bitcoin wallets can be sorted into two groups: custodial and noncustodial. A custodial wallet is typically an app or a website that holds bitcoin for you on your behalf. Like with fiat banks, custodial wallets require you to trust the owner of the app/website to take care of your bitcoin, not lose it, not run away with it, and allow you to use it when you want. The main perk for most custodial wallets is their ease of use, but since you never know when another breach of trust might occur, it's worth taking the time to learn how to self-custody your bitcoin.
+
+Noncustodial—or self-custodial—wallets can sometimes seem less convenient, and you'll have sole responsibility over your funds, but you can rest easy at night, knowing that no one else has the private key to your bitcoin, so your bitcoin can never be seized or stolen (provided you guard your private key well enough). A Bitcoin private key often looks like 12 or 24 random words from <a href="https://gist.github.com/DMeechan/9761fea1031c95f71c39ac2b80884bc5" target="_blank">this list</a>, and noncustodial wallets, whether software or hardware, typically walk you though the process of writing your words down on a piece of paper (not anywhere connected to the internet, so it can't be hacked). The learning curve is much less steep than it used to be, and controlling your own money is one of the reasons why Bitcoin exists, so it's absolutely worth the time required to learn everything you can about it.
 
 ---
 
 Recommended Resource
 --------------------
 
-Want to learn more about Bitcoin? Here's our suggested resource for this week:
+Want to learn more about Bitcoin, but are unsure where to begin? You can always complete our New to Bitcoin course, but if you're looking for something different, here's our suggested educational resource for this week:
 
 <a href="https://youtu.be/kunaljk_Psc" target="_blank"><img class="mobile-banner" src="Not Too Late.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
-*It's Not Too Late to Buy Bitcoin* - A guide for newcomers explaining why now is still a good time to get involved with Bitcoin.
+In the video above, Isabella (or just "Isa") gives her 5 reasons for saving in bitcoin, and why you should, too. Since fiat money is constantly draining you of purchasing power, it's increasingly evident that the only way to just get by is to invest in a host of assets, and hope for the best. But who has time for that? Bitcoin, on the other hand, continues to outperform ***everything else***, and since it's just money, using it like a savings account while you live well within your means is a great way to not only have enough to live on, but to simplify your life and thrive in every part of it!
 
 ---
 
