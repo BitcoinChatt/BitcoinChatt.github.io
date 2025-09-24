@@ -30,7 +30,7 @@ Local Bitcoin News
 
 On Saturday, May 17th, Bitcoin Chattanooga hosted a meetup at the new Bitcoin-accepting Steak 'n Shake in Chattanooga. Attendees enjoyed paying with bitcoin for their meals and discussed the latest in Bitcoin adoption.
 
-<img class="mobile-banner" src="Steak n Shake Bitcoin.png" style="width:30dvw;display:block;margin:0 auto;">
+<a href="https://x.com/BitcoinMagazine/status/1923225678603784674" target="_blank"><img class="mobile-banner" src="Steak n Shake Bitcoin.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
 An essential part of Bitcoin Chattanooga's mission is promoting businesses that accept bitcoin. We look forward to more events like this.
 
@@ -38,7 +38,7 @@ An essential part of Bitcoin Chattanooga's mission is promoting businesses tha
 
 We've updated our map of local businesses accepting bitcoin, now including several new locations in southeast Tennessee.
 
-<img class="mobile-banner" src="Bitcoin Businesses Map 1.png" style="width:30dvw;display:block;margin:0 auto;">
+<a href="https://www.bitcoinchatt.com/map/" target="_blank"><img class="mobile-banner" src="Bitcoin Businesses Map 1.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
 Check out the map on our [website](https://www.bitcoinchatt.com/map/) to find where to spend your bitcoin.
 
@@ -86,7 +86,7 @@ Led by the owner, the business is committed to modern payment methods.
 
 Find them on our [map](https://www.bitcoinchatt.com/map/).
 
-<img class="mobile-banner" src="How it Feels.png" style="width:30dvw;display:block;margin:0 auto;">
+<a href="https://thelittlehodler.com/" target="_blank"><img class="mobile-banner" src="How it Feels.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
 Want your business featured? [Let us know](https://www.bitcoinchatt.com/contact/).
 
@@ -110,7 +110,7 @@ Recommended Resource
 
 Want to learn more about Bitcoin? Here's our suggested resource for this week:
 
-<img class="mobile-banner" src="Not Too Late.png" style="width:30dvw;display:block;margin:0 auto;">
+<a href="https://youtu.be/kunaljk_Psc" target="_blank"><img class="mobile-banner" src="Not Too Late.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
 *It's Not Too Late to Buy Bitcoin* - A guide for newcomers explaining why now is still a good time to get involved with Bitcoin.
 
