@@ -12,7 +12,7 @@ title = 'Issue 1'
 The Bitcoin Chatt
 =================
 
-#### Your weekly newsletter on the Bitcoin scene in Chattanooga, TN
+#### The weekly newsletter on the Bitcoin scene in Chattanooga, TN
 
 Saturday, 10 May 2025
 ---------------------
