@@ -28,6 +28,8 @@ Our first-ever edition of *The Bitcoin Chatt* is now **live!** 🙌 What star
 
 We're glad you're here to share in this historic moment with us. 🧡
 
+<br>
+
 ---
 
 Local Bitcoin News
@@ -38,6 +40,8 @@ Local Bitcoin News
 On Thursday, May 8th, the Founder of Bitcoin Chattanooga, Jason Sellers, and his son Jason Jr, managed a booth for Bitcoin Chattanooga at the Business Expo at the Waterhouse Pavilion downtown. Many of you reading this newsletter had the opportunity to meet them, subscribe to this newsletter, and even to win some free sats (short for satoshis—small pieces of bitcoin).
 
 <img class="mobile-banner" src="Chattanooga Expo.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 An essential part of Bitcoin Chattanooga's mission is not only educating business owners on why they should start accepting bitcoin as payment, but also promoting the businesses that choose to accept bitcoin, so the wider community of Bitcoiners, eager to bring the present closer to the future, can know where to spend their bitcoin. We look forward to working with many businesses in the area, to send them more customers and clients, and to help them save more with bitcoin.
 
@@ -54,6 +58,8 @@ Here's a list of the games we might play, with links to videos on how to play ea
 
 <img class="mobile-banner" src="Mission Bitcoin.png" style="width:30dvw;display:block;margin:0 auto;">
 
+<br>
+
 *If you're interested in joining us to play any of these games, please RSVP on our [calendar](https://www.bitcoinchatt.com/calendar/), on [Meetup](https://www.meetup.com/bitcoin-chattanooga/events/307745399/), or on [Facebook](https://www.facebook.com/profile.php?id=61576076722319), so we'll know to expect you. If no one RSVPs, then we may have to cancel the event at the last minute.
 
 ---
@@ -65,6 +71,8 @@ Global Bitcoin News
 
 <img class="mobile-banner" src="Steak n Sheak Tweet.png" style="width:30dvw;display:block;margin:0 auto;">
 
+<br>
+
 On Thursday, May 8th, Steak 'n Shake [announced on X](https://x.com/SteaknShake/status/1920647356032139430) that they will begin accepting Bitcoin for payments at all their locations, starting on May 16th. They added that this "movement is just beginning," and they're absolutely right: as more businesses discover that bitcoin is better for spending and saving than anything else, they'll want to hop aboard the Bitcoin train, too, and reap all the benefits of using truly sound money.
 
 ### Bitcoin's Price Surpasses $100K Again
@@ -72,6 +80,8 @@ On Thursday, May 8th, Steak 'n Shake [announced on X](https://x.com/SteaknShake/
 As more individuals, business owners, and even leaders of nations [learn about Bitcoin](https://www.bitcoinchatt.com/new-to-bitcoin/), rising demand chases Bitcoin's absolutely fixed supply of just under 21 million coins. But even now, Bitcoin's price is still extremely low, as its entire market cap of roughly $2 trillion is only about 1/500th of the total amount of value in the world. So if you think this train has left the station without you, think again: Bitcoin's limited supply will continue to be exchanged for value without limits, so [it's going up forever](https://youtu.be/zTPoRDrtc0s) (even though there will be many bumps along the way).
 
 <img class="mobile-banner" src="Bitcoin Price.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 ---
 
@@ -88,6 +98,8 @@ Find Divine Design Natural Health on our [map](https://www.bitcoinchatt.com/map/
 
 <img class="mobile-banner" src="Divine Design Banner.png" style="width:40dvw;display:block;margin:0 auto;">
 
+<br>
+
 Want your business in a future Spotlight? [Let us know](https://www.bitcoinchatt.com/contact/) if you already accept bitcoin, or if you would like us to get you set up, and we'll feature your business in an upcoming newsletter, as well as on our [map](https://www.bitcoinchatt.com/map/)!
 
 ---
@@ -101,6 +113,8 @@ Not only will there only ever be just under 21 million coins, they are awarded t
 
 <img class="mobile-banner" src="Bitcoin Issuance Chart.png" style="width:30dvw;display:block;margin:0 auto;">
 
+<br>
+
 ---
 
 Recommended Resource
@@ -110,6 +124,8 @@ Want to learn more about Bitcoin, but are unsure where to begin? You can always 
 
 <img class="mobile-banner" src="Bitcoin Money.png" style="width:30dvw;display:block;margin:0 auto;">
 
+<br>
+
 *Bitcoin Money: A Tale of Bitville Discovering Good Money* might be a children's book, but it does a better job of explaining Bitcoin than most other books. If you're looking for a simple, "explain it like I'm 5" kind of book, then you've come to the right place! The author turned the book into a YouTube video, so click the image above to watch the whole thing.
 
 ---
@@ -118,6 +134,8 @@ Meme of the Week
 ----------------
 
 <img class="mobile-banner" src="We Don't Accept That Here.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 ---
 
@@ -129,6 +147,8 @@ And that wraps up our very first newsletter! 🎉 This is an exciting time for
 Throughout history, societies have thrived or collapsed based on the quality of their money. Highly inflationary money always brings with it not only higher prices for goods and services, but also lower quality for those goods and services, to say nothing of the resulting survival mentality and constant quest for instant gratification among its users. On the other hand, societies built on hard money, like gold, have always led to lower prices, higher quality, a discovery mentality, and growing abilities to delay instant gratification for better rewards later. And bitcoin is *infinitely* harder than gold—we know its total supply and it can never be changed—so imagine what a world on the bitcoin standard might look like! 🤯
 
 <img class="mobile-banner" src="../FTM FTW.gif" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 Until that day comes, though, our focus needs to be on making that future a reality here in own town of Chattanooga.
 
