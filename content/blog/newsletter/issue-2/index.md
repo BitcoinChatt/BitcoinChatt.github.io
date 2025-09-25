@@ -14,11 +14,6 @@ Saturday, 17 May 2025
 
 </div>
 
-Hello again!
--------------
-
-Has it been a whole week already? Time sure does fly!
-
 ---
 
 Local Bitcoin News
@@ -61,7 +56,8 @@ This is why many Bitcoiners choose to save as many sats as they can, and only bu
 
 ---
 
-### Local Business Spotlight
+Local Business Spotlight
+------------------
 
 Every week, we shine a spotlight on a business in the area that accepts bitcoin for payments. Given recent news, it should come as no surprise that this week's business is:
 
