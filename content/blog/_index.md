@@ -97,10 +97,18 @@ title = 'Blog'
       <p style="text-align: center"><b>Coming soon!</b></p>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 7</h3>
-      <h4 style="text-align: center">21 June 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-7">
+        <img src="newsletter/issue-7/Bitcoin Lock and Key.jpeg">
+        <h3 style="text-align: center">Issue 7</h3>
+        <h4 style="text-align: center">21 June 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>A <i>massive</i> data breach</li>
+            <li>U.S. debt reaches $37 <i>trillion</i></li>
+            <li>How can Bitcoin be unconfiscatable?</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-6">
