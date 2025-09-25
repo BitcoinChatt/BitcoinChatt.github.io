@@ -229,14 +229,10 @@ title = 'Blog'
         <img src="newsletter/issue-1/Chattanooga Expo.png">
         <h3 style="text-align: center">Issue 1</h3>
         <h4 style="text-align: center">10 May 2025</h4>
-        <p style="text-align: center">
-          <b>The "Genesis Block" of the Bitcoin Chatt Newsletter.</b>
-          <br>
-          <br>
-          In this issue:
+        <p style="text-align: center">In this issue:
           <ul>
+            <li>The Genesis Block of the Bitcoin Chatt Newsletter!</li>
             <li>Our presence at the Chattanooga Business Expo</li>
-            <li>The weekly Bitcoin Game Night</li>
             <li>Steak'n Shake's ₿ig News</li>
             <li>And so much more!</li>
         </p>
