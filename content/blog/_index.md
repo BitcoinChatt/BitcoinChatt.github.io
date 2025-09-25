@@ -14,6 +14,126 @@ title = 'Blog'
   <div class="blog-container">
     <div class="blog-item">
       <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 21</h3>
+      <h4 style="text-align: center">27 September 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 20</h3>
+      <h4 style="text-align: center">20 September 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 19</h3>
+      <h4 style="text-align: center">13 September 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 18</h3>
+      <h4 style="text-align: center">6 September 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 17</h3>
+      <h4 style="text-align: center">30 August 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 16</h3>
+      <h4 style="text-align: center">23 August 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 15</h3>
+      <h4 style="text-align: center">16 August 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 14</h3>
+      <h4 style="text-align: center">9 August 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 13</h3>
+      <h4 style="text-align: center">2 August 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 12</h3>
+      <h4 style="text-align: center">26 July 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 11</h3>
+      <h4 style="text-align: center">19 July 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <h3 style="text-align: center">Issue 10</h3>
+      <h4 style="text-align: center">12 July 2025<h4>
+      <p style="text-align: center"><b>Coming soon!</b>
+        <br>
+        <br>
+        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
+      </p>
+    </div>
+    <div class="blog-item">
+      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
       <h3 style="text-align: center">Issue 9</h3>
       <h4 style="text-align: center">5 July 2025<h4>
       <p style="text-align: center"><b>Coming soon!</b>
