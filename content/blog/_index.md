@@ -85,16 +85,32 @@ title = 'Blog'
       <p style="text-align: center"><b>Coming soon!</b></p>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 9</h3>
-      <h4 style="text-align: center">5 July 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-9">
+        <img src="newsletter/issue-9/Intro to Bitcoin.png">
+        <h3 style="text-align: center">Issue 9</h3>
+        <h4 style="text-align: center">5 July 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>Monthly Bitcoin workshops at the Chattery</li>
+            <li>Ledn goes all-in on Bitcoin</i></li>
+            <li>The simplest explanation of Bitcoin ever</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 8</h3>
-      <h4 style="text-align: center">28 June 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-8">
+        <img src="newsletter/issue-8/Take the Orange Pill.jpeg">
+        <h3 style="text-align: center">Issue 8</h3>
+        <h4 style="text-align: center">28 June 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>Using bitcoin to qualify for mortgages</li>
+            <li>How fiat money destroys society</i></li>
+            <li>The importance of having a low time preference</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-7">
