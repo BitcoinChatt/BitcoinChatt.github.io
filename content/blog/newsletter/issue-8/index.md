@@ -99,7 +99,7 @@ In this talk given at BTC Prague 2025, Strike CEO Jack Mallers makes a powerful 
 Meme of the Week
 ----------------
 
-<img class="mobile-banner" src="Because your dad understood Bitcoin.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="Because your dad understood Bitcoin.jpg" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
