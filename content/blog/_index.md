@@ -183,34 +183,46 @@ title = 'Blog'
       </p>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 4</h3>
-      <h4 style="text-align: center">31 May 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b>
-        <br>
-        <br>
-        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
-      </p>
+      <a href="newsletter/issue-4">
+        <img src="newsletter/issue-4/Bitcoin 2025.png">
+        <h3 style="text-align: center">Issue 4</h3>
+        <h4 style="text-align: center">31 May 2025</h4>
+        <p style="text-align: center">In this issue:
+          <ul>
+            <li>The Bitcoin 2025 Conference in Las Vegas</li>
+            <li>Square to accept bitcoin payments everywhere</li>
+            <li>Why Bitcoin, not crypto</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 003</h3>
-      <h4 style="text-align: center">24 May 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b>
-        <br>
-        <br>
-        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
-      </p>
+      <a href="newsletter/issue-3">
+        <img src="newsletter/issue-3/Stay Humble Stack Sats.gif">
+        <h3 style="text-align: center">Issue 3</h3>
+        <h4 style="text-align: center">24 May 2025</h4>
+        <p style="text-align: center">In this issue:
+          <ul>
+            <li>Bitcoin Chatt meetup update</li>
+            <li>New all-time high</li>
+            <li>How to send and receive bitcoin</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 2</h3>
-      <h4 style="text-align: center">17 May 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b>
-        <br>
-        <br>
-        <a href="https://www.bitcoinchatt.org/join/">Sign up</a> to get our up-to-date newsletter every Saturday morning!
-      </p>
+      <a href="newsletter/issue-2">
+        <img src="newsletter/issue-2/Bitcoin Sunrise.png">
+        <h3 style="text-align: center">Issue 2</h3>
+        <h4 style="text-align: center">17 May 2025</h4>
+        <p style="text-align: center">In this issue:
+          <ul>
+            <li>More businesses accepting bitcoin for payment</li>
+            <li>Coinbase data leak</li>
+            <li>Why you need to self-custody</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-1">
