@@ -118,23 +118,24 @@ As I'm writing these words, news is coming in about Israel bombing Iran, Iran re
 War is expensive; it always has been, and always will be. So where is Israel—not to mention the United States—getting the money to fund this conflict? If they had been attacked, it might be politically popular to tax the people to provide for their defense. But that's not what's happening here, nor has it been happening for a very long time. The writers of the Tuttle Twins' song <a href="https://www.youtube.com/watch?v=LuboVKBFnl0" target="_blank">"When Money is Controlled, Money is Corrupted,"</a> hit the nail on the head:
 
 <p style="text-align: center">
-Once upon a time,
-when a country went to war,
-they'd send the people a war tax
-if it was worth fighting for.
-If the fighting went on far too long
-the people would revolt:
-"I'm not paying for your stupid war,
-and you have lost my vote!"
-
-Well the government got sneaky,
-they knew just what they'd need,
-instead of taxing for the war,
-they'd print that money secretly!
-Then wars could last for decades
-and they could do just what they will,
-'cause it's funded through inflation,
-and you can foot the bill!
+Once upon a time,<br>
+when a country went to war,<br>
+they'd send the people a war tax<br>
+if it was worth fighting for.<br>
+If the fighting went on far too long<br>
+the people would revolt:<br>
+"I'm not paying for your stupid war,<br>
+and you have lost my vote!"<br>
+<br>
+Well the government got sneaky,<br>
+they knew just what they'd need,<br>
+instead of taxing for the war,<br>
+they'd print that money secretly!<br>
+Then wars could last for decades<br>
+and they could do just what they will,<br>
+'cause it's funded through inflation,<br>
+and you can foot the bill!<br>
+<br>
 </p>
 
 <a href="https://www.youtube.com/watch?v=LuboVKBFnl0" target="_blank"><img class="mobile-banner" src="When Money is Controlled.gif" style="width:30dvw;display:block;margin:0 auto;"></a>
