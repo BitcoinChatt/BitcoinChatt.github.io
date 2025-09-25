@@ -79,10 +79,18 @@ title = 'Blog'
       <p style="text-align: center"><b>Coming soon!</b></p>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 10</h3>
-      <h4 style="text-align: center">12 July 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-10">
+        <img src="newsletter/issue-10/New ATH.gif">
+        <h3 style="text-align: center">Issue 10</h3>
+        <h4 style="text-align: center">12 July 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>Bitcoin Chatt joins the Tennessee Bitcoin Alliance</li>
+            <li>Bitcoin hits new all-time highs...again!</i></li>
+            <li>What is the Liquid Network?</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-9">
