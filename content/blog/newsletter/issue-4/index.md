@@ -23,8 +23,6 @@ Chattanooga's <a href="https://www.npresourcecenter.org/" target="_blank">Nonpro
 
 <a href="https://www.npresourcecenter.org/" target="_blank"><img class="mobile-banner" src="Nonprofit Resource Center.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
-<br>
-
 Stay tuned for announcements on when we'll host seminars and other events there! 👀
 
 ### The Bitcoin Remnant Meetup
@@ -58,8 +56,6 @@ As we reported previously, Steak 'n Shake hopped aboard the Bitcoin train a coup
 
 <a href="https://youtu.be/lesvQb9MyU4" target="_blank"><img class="mobile-banner" src="Steak n Shake Bitcoin Story.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
-<br>
-
 When businesses accept bitcoin, everyone wins: Businesses save on fees, Bitcoiners are one step closer to living on bitcoin, and more new users join the network and leave the dying fiat system behind. And Steak 'n Shake is showing everyone how to get this done.
 
 ### Square to Enable Bitcoin Payments Everywhere
@@ -83,8 +79,6 @@ Serving the entire Chattanooga area, <a href="https://www.samedayseptic.co/" tar
 
 <a href="https://www.samedayseptic.co/" target="_blank"><img class="mobile-banner" src="Same Day Septic.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
-<br>
-
 A testament to their exceptional service is what the founder of Bitcoin Chattanooga, Jason, experienced first-hand when he urgently needed work done on his home's septic tank a few months ago. While Same Day Septic was servicing a neighbor’s property, Jason approached them, described his issue, and requested a quote. The owner, JT, mentioned that they accept “all forms of payment,” including cash, card, check, and Venmo. When Jason half-jokingly asked, “***All*** forms? Even bitcoin?” JT enthusiastically replied, “Actually, yes!” Thrilled, Jason scheduled the job—which was completed promptly and expertly—and when it was complete, he paid for it with bitcoin.
 
 Want us to feature *your* business? [Let us know](https://www.bitcoinchatt.com/contact/) if you already accept bitcoin, or if you would like us to get you set up, and we'll feature your business in an upcoming newsletter, as well as on our [map](https://www.bitcoinchatt.com/map)!
@@ -101,8 +95,6 @@ Bitcoin is not crypto. Many who are new to Bitcoin often treat them the same, or
 Bitcoin was created to separate money and state, to free us all from monetary control and corruption at the very highest levels of society. The identity of its pseudonymous creator, "Satoshi Nakamoto", is still unknown today, and he has neither used his roughly 1 million bitcoin nor broken his silence since his last verified message in early 2011. He gave humanity a great gift—an incorruptible and perfectly scarce means of storing and transferring your time and energy—and then disappeared without a trace.
 
 <a href="https://youtu.be/iIWViimqRMU" target="_blank"><img class="mobile-banner" src="Satoshi's Gift.png" style="width:30dvw;display:block;margin:0 auto;"></a>
-
-<br>
 
 After that, many saw Bitcoin's success and started replicating it with their own cryptographic "coins". But why? Once perfectly sound freedom money was available to all, reinventing it (and without the anonymity and altruistic disappearance of its creator) wouldn't do anything to further liberate humanity from oppressive regimes, so what's the point of making literally millions of copycats? To put it bluntly: with only a couple exceptions, **their purpose is to take money from new users who don't yet know any better.**
 
@@ -149,6 +141,8 @@ I often like to say that Bitcoin relies on 3 things: the laws of physics, math
 
 <img class="mobile-banner" src="Bitcoin 3 Legged Stool.png" style="width:30dvw;display:block;margin:0 auto;">
 
+<br>
+
 For example, there have been many internal wars and schisms between Bitcoiners over the years regarding protocol upgrades, how Bitcoin ought to be used, whether institutional involvement is a good or bad thing, and many other topics. Currently, there's concern over mining centralization, contention surrounding transaction spam and competing node implementations, and others pushing complex ideas on how Bitcoin can be improved. 
 
 But at the Bitcoin 2025 Conference this week, Ross Ulbricht—the creator of the Silk Road online merchant platform, who was given 2 life sentences plus 40 years without parole, until he was pardoned by President Trump earlier this year—gave a fantastic speech on the importance of 3 basic principles: **Freedom, Decentralization,** and **Unity.** I recommend you first listen to <a href="https://www.youtube.com/watch?v=1JMYLjI7RgY" target="_blank">his speech from the Bitcoin 2021 Conference</a> (which he gave from prison, and which he was later punished for), and then watch his presentation from this year's conference, before continuing with my rant:
@@ -160,6 +154,8 @@ The strength of this third leg that Bitcoin stands on, game theory, is entirely 
 Our differing values clash every time we interact, rubbing against others' values like sandpaper, and (hopefully) polishing us into better men and women. This can be very inconvenient in the short term, but fortunately, Bitcoin is not a democracy, waiting for a slim majority to agree on a change before it's imposed upon everyone else. Bitcoin is fundamentally anarchistic: you're free to run it the way you want to run it, and if you and I independently decide to run it similarly, great! But if not, that's fine, too. The market will show us who was right, and if we're humble enough (see last week's closing thoughts), then we'll change and unify over what we've discovered to be right.
 
 <img class="mobile-banner" src="Bitcoiner Enemies.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 For now, though, there isn't much unity among Bitcoiners (see above 😂). That should be expected from Bitcoin's rapid adoption over the last few years, but these kinds of growing pains can still be difficult to go through. My advice: *keep your eyes on the prize;* remember why Bitcoin is here, and remember what we're fighting for. Keep that in mind whenever controversies arise in this space, as they most certainly will. And then maybe, just maybe, we'll achieve the freedom, decentralization, and unity that Ross Ulbricht is calling for.
 
