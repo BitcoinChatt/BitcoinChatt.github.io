@@ -5,7 +5,7 @@
 The Bitcoin Chatt
 =================
 
-#### Your weekly newsletter on the Bitcoin scene in Chattanooga, TN
+#### The weekly newsletter on the Bitcoin scene in Chattanooga, TN
 
 Saturday, 24 May 2025
 ---------------------
@@ -13,8 +13,6 @@ Saturday, 24 May 2025
 ### *Issue 3*
 
 </div>
-
-<br>
 
 Local Bitcoin News
 ------------------
