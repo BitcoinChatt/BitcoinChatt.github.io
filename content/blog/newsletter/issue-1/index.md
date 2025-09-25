@@ -17,7 +17,7 @@ The Bitcoin Chatt
 Saturday, 10 May 2025
 ---------------------
 
-### *Issue 001*
+### *Issue 1*
 
 </div>
 
