@@ -59,6 +59,7 @@ Why does this keep happening, and why can't the government stop it? To put it si
 When the US government borrows freshly-printed dollars from the Federal Reserve (which is a private bank, not federal, and it has no reserves), the Federal Reserve also has two choices: raise interest rates and send us into a recession or even a depression, or lower interest rates and add to the inflation that's already eroding the livelihoods of millions domestically and billions globally.
 
 <img class="mobile-banner" src="Lower Interest Rates.jpg" style="width:30dvw;display:block;margin:0 auto;">
+<br>
 
 No politician or banker wants to be the one who destroys the very system that gives them their power, so the Federal Reserve continues to print and the US government continues to go ever deeper into its black hole of debt.
 
@@ -90,6 +91,7 @@ But what about the classic <a href="https://xkcd.com/538/" target="_blank">"$5 W
 In the end, no level of security can ever be perfect, and that shouldn't be the goal, anyway. Security needs to be a deterrent; it should force a would-be thief to do so much work to get your bitcoin, that they'll likely give up long before they find it. But if they do manage to access it, then they've truly earned it. On the other hand, be careful to not force yourself into a scavenger hunt every time you want to move some sats! Find a happy-medium that fits your own situation best.
 
 <img class="mobile-banner" src="X-Men Bitcoin Security Gif.gif" style="width:30dvw;display:block;margin:0 auto;">
+<br>
 
 ---
 
@@ -121,6 +123,7 @@ Closing Thoughts
 Anyone who knows me will tell you that I'm an idealist. I've repeatedly tested as an <a href="https://www.16personalities.com/infp-personality" target="_blank">INFP</a> on the <a href="https://www.16personalities.com/free-personality-test" target="_blank">Myers-Briggs Type Indicator</a>, which means (among other things) that when I have a vision for a better future, and I feel called upon to bring it into reality, I become driven, and hardly anything can stop me. The one thing that stops me most often, however, is myself.
 
 <img class="mobile-banner" src="INFP Contradicting Traits.jpg" style="width:30dvw;display:block;margin:0 auto;">
+<br>
 
 Like (almost) everyone else, I make plenty of mistakes. And like many people (but certainly not everyone), I get down on myself harshly for those mistakes, probably way more than I should. My slip-ups and slowness often lead me to wonder and worry about the future for Bitcoin Chattanooga—and especially my family!—as I frequently feel indescribably inadequate for everything that I need to do.
 
@@ -202,6 +205,7 @@ From this song, I realized these important truths:
 <li>Bitcoin keeps getting up after every dip, so why shouldn't we?
 <li>Just as Bitcoin adds another block every ~10 minutes, we just need to keep putting one foot in front of the other.
 <li>Bitcoin runs on proof of work, so our lives should, too.
+</ul>
 
 Beyond building a Bitcoin circular economy here, my hope is that we will all imbue more of Bitcoin' qualities into our own lives, or at least feel inspired when we consider everything that Bitcoin is. Let's try to remember these things, so we'll be all the more prepared next time we each go through our own "bear market".
 
