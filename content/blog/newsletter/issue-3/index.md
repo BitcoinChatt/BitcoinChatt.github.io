@@ -33,6 +33,8 @@ From there, we talked about a quote from "Utopia or Oblivion", by R. Buckminster
 
 <img class="mobile-banner" src="Henry Ford Energy Money.png" style="width:30dvw;display:block;margin:0 auto;">
 
+<br>
+
 Later, Jason was asked some very direct questions about how he's supporting his family while Bitcoin Chattanooga's [donations](https://www.bitcoinchatt.com/donate/) have been small and infrequent. Jason made it clear that he prefers to keep his own personal finances private, but he also intends to be very open and public about Bitcoin Chatt's finances. So he explained that he and his family are living off their savings for the time being, which are staying completely separate from Bitcoin Chatt's funds. He was asked regarding how long he can keep running this nonprofit before needing to return to a regular job, and while he declined to give a direct answer, Jason assured the attendees that he has a plan, whether Bitcoin Chattanooga starts bringing in regular revenue, or not. Until he needs to change course, though, he plans to keep pressing forward with the mission to create a Bitcoin circular economy in the Chattanooga area.
 
 The discussion then transitioned to bitcoin debit and credit cards, such as from <a href="https://use.foldapp.com/sign-up?referral=AFUAT9R3" target="_blank">Fold</a>, how government regulations could affect Bitcoin, both for good and bad, both in the present and their unintended repercussions in the future. And then the conversation wrapped-up by talking about the pros and cons of getting a loan with one's bitcoin as collateral.
@@ -57,6 +59,8 @@ On Wednesday, May 21st, Bitcoin's price surpassed its previous all-time high of 
 
 <img class="mobile-banner" src="Rookie Numbers.png" style="width:30dvw;display:block;margin:0 auto;">
 
+<br>
+
 ### Texas Legislature Passes Bitcoin Reserve Bill
 
 The Texas House of Representatives passed Senate Bill 21 (SB 21) with a 105-23 vote, advancing the creation of a state-managed Strategic Bitcoin Reserve. This makes Texas the third U.S. state to pursue such a measure, following New Hampshire and Arizona. The bill garnered bipartisan support, and is now awaiting a final Senate concurrence vote, before heading to Governor Greg Abbott to sign or veto it.
@@ -66,6 +70,8 @@ This legislative move aims to position Texas as a leader in Bitcoin adoption, wi
 It's only a matter of time before state legislatures in both Tennessee and Georgia follow in the footsteps of Texas, Arizona, and New Hampshire. If they're creating strategic bitcoin reserves, don't you think you should, too?
 
 <img class="mobile-banner" src="Strategic Bitcoin Reserves.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 ---
 
@@ -120,6 +126,8 @@ Meme of the Week
 
 <img class="mobile-banner" src="F This.png" style="width:30dvw;display:block;margin:0 auto;">
 
+<br>
+
 ---
 
 Closing Thoughts
@@ -128,6 +136,8 @@ Closing Thoughts
 Bitcoin is in all-time high territory again, which can sometimes lead to euphoria for both long-term hodlers and newbies alike. These times are the most important—and most difficult—times to remember to not get ahead of ourselves, and remember that while Bitcoin's rising price is nice, **it's the least important part of Bitcoin.** The mantra "Stay humble; stack sats" is often repeated during bull markets. The "stack sats" part is easy; it's the "stay humble" part that all of us struggle with.
 
 <img class="mobile-banner" src="Stay Humble Stack Sats.gif" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 What does it mean to stay humble? As I said above, remembering to not get ahead of ourselves is part of it, but that's more of a result of humility, not the essence of the quality itself. At its core, *humility is the ability to be taught,* whether by others or simply by life's experiences. It's an approach to the world with a child-like wonder, always interested in whatever might come next. It's closely related to having a low time preference (i.e., delaying gratification to a later time), but it's not exactly the same.
 
