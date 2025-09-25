@@ -104,7 +104,7 @@ title = 'Blog'
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-6">
-        <img src="newsletter/issue-6/">
+        <img src="newsletter/issue-6/God Bless Bitcoin.png">
         <h3 style="text-align: center">Issue 6</h3>
         <h4 style="text-align: center">14 June 2025</h4>
         <p style="text-align: center">In this issue:</p>
