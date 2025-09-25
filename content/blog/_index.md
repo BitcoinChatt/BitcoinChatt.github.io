@@ -109,10 +109,18 @@ title = 'Blog'
       <p style="text-align: center"><b>Coming soon!</b></p>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 5</h3>
-      <h4 style="text-align: center">7 June 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-5">
+        <img src="newsletter/issue-5/not your keys.gif">
+        <h3 style="text-align: center">Issue 5</h3>
+        <h4 style="text-align: center">7 June 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>Trump's "Truth Social" Files for a Bitcoin ETF</li>
+            <li>Bitcoin over 900,000...blocks</li>
+            <li>Not your keys, not your coins</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-4">
@@ -120,7 +128,6 @@ title = 'Blog'
         <h3 style="text-align: center">Issue 4</h3>
         <h4 style="text-align: center">31 May 2025</h4>
         <p style="text-align: center">In this issue:</p>
-        <p style="text align: left">
           <ul>
             <li>The Bitcoin 2025 Conference in Las Vegas</li>
             <li>Square to accept bitcoin payments everywhere</li>
@@ -135,7 +142,6 @@ title = 'Blog'
         <h3 style="text-align: center">Issue 3</h3>
         <h4 style="text-align: center">24 May 2025</h4>
         <p style="text-align: center">In this issue:</p>
-        <p style="text align: left">
           <ul>
             <li>Bitcoin Chatt meetup update</li>
             <li>New all-time high</li>
@@ -150,7 +156,6 @@ title = 'Blog'
         <h3 style="text-align: center">Issue 2</h3>
         <h4 style="text-align: center">17 May 2025</h4>
         <p style="text-align: center">In this issue:</p>
-        <p style="text align: left">
           <ul>
             <li>More businesses accepting bitcoin for payment</li>
             <li>Coinbase data leak</li>
@@ -165,7 +170,6 @@ title = 'Blog'
         <h3 style="text-align: center">Issue 1</h3>
         <h4 style="text-align: center">10 May 2025</h4>
         <p style="text-align: center">In this issue:</p>
-        <p style="text align: left">
           <ul>
             <li>The Genesis Block of the Bitcoin Chatt Newsletter!</li>
             <li>Our presence at the Chattanooga Business Expo</li>
