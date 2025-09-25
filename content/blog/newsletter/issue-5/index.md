@@ -25,8 +25,6 @@ Did you miss some of our earlier newsletters? No problem! We will be uploading o
 
 <a href="https://www.bitcoinchatt.com/blog/" target="_blank"><img class="mobile-banner" src="The Bitcoin Chatt.gif" style="width:30dvw;display:block;margin:0 auto;"></a>
 
-<br>
-
 Each issue of the newsletter will be archived on the blog approximately 1 month after it was initially sent to our subscribers. So while they'll be a good reference for news and other resources in the past, these newsletters will continue to be your best source of up-to-date information about Bitcoin and current events surrounding it, both locally and globally.
 
 ---
@@ -39,8 +37,6 @@ Global Bitcoin News
 Earlier this week, Federal Reserve Chairman, Jerome Powell, had this to say: *"The end of the Bretton Woods Era of the 1970s fundamentally changed the conduct of monetary policy, as policymakers had to understand the effects of potentially more volatile movements of the U.S. dollar on American families and businesses."* Watch more of this segment <a href="https://x.com/pete_rizzo_/status/1929591314636533795" target="_blank">here</a>.
 
 <a href="https://x.com/pete_rizzo_/status/1929591314636533795" target="_blank"><img class="mobile-banner" src="Jerome Powell.png" style="width:30dvw;display:block;margin:0 auto;"></a>
-
-<br>
 
 Why does this matter? As the CEO of Strike and Twenty One, Jack Mallers, put it, <a href="https://www.youtube.com/watch?v=dxcZwtsVaw4" target="_blank">"They're saying the quiet part out loud."</a> Bitcoiners—to say nothing of gold bugs and libertarians—have been talking about this for years, pointing out that ever since the United States' monetary system disconnected from gold in 1971, everything in our society has gotten much, much worse. But for decades, this has been a topic that Keynesians at all levels have swept under the rug or pretended didn't matter...until now. They've been saying that the iceberg won't sink this ship, but now as the bow gets submerged, they're changing their tune.
 
@@ -59,6 +55,8 @@ On June 3rd and again on the 5th, Trump Media and Technology Group—the company
 It cannot be stressed enough that these ETFs are merely IOUs. Satoshi created Bitcoin to be a bearer asset that you don't have to trust anyone to hold for you, but ETFs require trust by design. That may be a worthwhile risk to some people, but if you wish to be truly sovereign, then it's best to manage your own Bitcoin private key (12 or 24 random English words), ideally generated on a hardware device that is never connected to the internet. This ETF announcement, however, is still good news for Bitcoin, since it shows that wealthy players like President Trump are feeling the FOMO and gradually learning more about Bitcoin.
 
 <img class="mobile-banner" src="ETF IOU.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 For their sakes, we wish they would learn about self-custody instead of relying on old systems like ETFs, but some people have to touch the stove before they'll learn...
 
@@ -84,8 +82,6 @@ Every week, we shine a spotlight on a business in the area that accepts bitcoin 
 <a href="https://beecreektn.com/" target="_blank">Bee Creek Farm</a>, a regenerative farm located in Crossville, TN, is transforming sustainable agriculture in the Chattanooga area by offering grass-finished beef, forest-raised pork, pasture-raised chicken, and naturally grown apples, all produced with a commitment to restoring soil and ecosystems. This family-run farm operates on 240 acres and prioritizes ethical, chemical-free practices, delivering nutrient-rich foods through farmers' markets, on-farm pickups, and regional deliveries.
 
 <a href="https://beecreektn.com/" target="_blank"><img class="mobile-banner" src="Bee Creek Farm.png" style="width:30dvw;display:block;margin:0 auto;"></a>
-
-<br>
 
 A great example of their community focus is their presence at Chattanooga’s farmers' markets, where their high-quality meats and apples have earned a loyal following. Founded by three households united in their vision for multi-generational sustainability, Bee Creek Farm invites customers to join their mission through farm visits (<a href="https://beecreektn.com/#contact-us" target="_blank">by appointment only</a>), or their weekly newsletter for updates on products and events. By accepting bitcoin for payment, they offer a seamless way to challenge the status quo, and move our society into the future of both money and food.
 
@@ -118,8 +114,6 @@ Recommended Resource
 Want to learn more about Bitcoin, but are unsure where to begin? You can always complete our [New to Bitcoin](https://www.bitcoinchatt.com/new-to-bitcoin) course, but if you're looking for something different, here's our suggested educational resource for this week:
 
 <a href="https://www.youtube.com/@Bitcoin_University" target="_blank"><img class="mobile-banner" src="Bitcoin University.png" style="width:30dvw;display:block;margin:0 auto;"></a>
-
-<br>
 
 At the Bitcoin University YouTube channel, <a href="https://x.com/mattkratter" target="_blank">Matthew Kratter</a> explains Bitcoin and economics in ways that are easy to follow, without any frills or distractions. In his videos, Matthew Kratter also comments about recent news that's related to Bitcoin, and always from the perspective of one who understands why Bitcoin is the best money humanity has ever had, and why there is no second best. If you're looking for Bitcoin education that's high in signal and with low/no noise, look no further than <a href="https://www.youtube.com/@Bitcoin_University" target="_blank">Bitcoin University</a>.
 
