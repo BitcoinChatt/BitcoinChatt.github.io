@@ -80,7 +80,7 @@ Every week, we shine a spotlight on a business in the area that accepts bitcoin 
 
 By sourcing most of its products from farms within an hour’s radius, this unique club empowers members to support local producers through a convenient pick-up model featuring pre-orders, standing orders, or farmer’s market-style selections, all at prices competitive with organic grocery stores. Since it accepts bitcoin for payment, the Agora Food Club appeals to health-conscious individuals and freedom advocates alike, providing a pathway to nourish both the body and the community, while offering a way to opt-out of the accepted norms of a broken world.
 
-<a href="https://theagorafoodclub.com/" target="_blank"><img class="mobile-banner" src="The Agora" style="width:30dvw;display:block;margin:0 auto;"></a>
+<a href="https://theagorafoodclub.com/" target="_blank"><img class="mobile-banner" src="The Agora.png" style="width:30dvw;display:block;margin:0 auto;"></a>
 
 Want *your* business in a future Spotlight? [Let us know](https://www.bitcoinchatt.com/contact/) if you already accept bitcoin, or if you would like us to get you set up, and we'll feature your business in an upcoming newsletter, as well as on our [map](https://www.bitcoinchatt.com/map/)!
 
