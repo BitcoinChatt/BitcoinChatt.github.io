@@ -37,46 +37,102 @@ title = 'Blog'
       <p style="text-align: center"><b>Coming soon!</b></p>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 17</h3>
-      <h4 style="text-align: center">30 August 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-17">
+        <img src="newsletter/issue-17/DDNH Bitcoin Remnant.png">
+        <h3 style="text-align: center">Issue 17</h3>
+        <h4 style="text-align: center">30 August 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>The BitBit Wallet</li>
+            <li>Bitcoin IS the exit strategy</li>
+            <li>Why Bitcoin is our key to freedom</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 16</h3>
-      <h4 style="text-align: center">23 August 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-16">
+        <img src="newsletter/issue-16/Julian Figueroa.jpg">
+        <h3 style="text-align: center">Issue 16</h3>
+        <h4 style="text-align: center">23 August 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>The first U.S.-made Bitcoin mining ASIC</li>
+            <li>PricedInBitcoin21.com is reinstated</li>
+            <li>Living on a bitcoin standard</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 15</h3>
-      <h4 style="text-align: center">16 August 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-15">
+        <img src="newsletter/issue-15/Antonopoulos on 51 Attacks.png">
+        <h3 style="text-align: center">Issue 15</h3>
+        <h4 style="text-align: center">16 August 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>Google’s Bitcoin wallet U-turn</li>
+            <li>Scott Bessent's U-turn</li>
+            <li>How and why to run a node</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 14</h3>
-      <h4 style="text-align: center">9 August 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-14">
+        <img src="newsletter/issue-14/Bitcoin vs Dollar Inflation.png">
+        <h3 style="text-align: center">Issue 14</h3>
+        <h4 style="text-align: center">9 August 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>Intro to Bitcoin at the Chattery</li>
+            <li>Trump signs executive order for Bitcoin in 401(k)s</li>
+            <li>All about the Difficulty Adjustment</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 13</h3>
-      <h4 style="text-align: center">2 August 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-13">
+        <img src="newsletter/issue-13/PayPal Bitcoin.png">
+        <h3 style="text-align: center">Issue 13</h3>
+        <h4 style="text-align: center">2 August 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>PayPal merchants now accepting bitcoin payments/li>
+            <li>How Bitcoin mining works</li>
+            <li>How to become a Bitcoin genius</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 12</h3>
-      <h4 style="text-align: center">26 July 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-12">
+        <img src="newsletter/issue-12/Bitcoin Chatt Train.png">
+        <h3 style="text-align: center">Issue 12</h3>
+        <h4 style="text-align: center">26 July 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>Bitcoin Chattanooga is no longer a nonprofit/li>
+            <li>Western Union embrqaces Bitcoin</li>
+            <li>All about Bitcoin pivate keys</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 11</h3>
-      <h4 style="text-align: center">19 July 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-11">
+        <img src="newsletter/issue-11/Bitcoin Wins Forever.jpg">
+        <h3 style="text-align: center">Issue 11</h3>
+        <h4 style="text-align: center">19 July 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>GENIUS Act signed into law</li>
+            <li>The Lightning Network</li>
+            <li>Why Bitcoin wins forever</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-10">
