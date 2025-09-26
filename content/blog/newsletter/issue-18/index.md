@@ -14,8 +14,6 @@ Saturday, 6 September 2025
 
 </div>
 
----
-
 Local Bitcoin News
 ------------------
 
