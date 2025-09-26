@@ -8,7 +8,7 @@ title = 'Blog'
 <div class="article">
   <h1 style="text-align: center">Welcome to the Bitcoin Chattanooga Blog!</h1>
   <br>
-  <h3 style="text-align: center">This is the archive of our weekly email newsletters.
+  <h3 style="text-align: center">The archive of the 21 weekly email newsletters, from 10 May to 27 September 2025.
   <br>
   <br>
   <div class="blog-container">
