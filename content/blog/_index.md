@@ -19,22 +19,46 @@ title = 'Blog'
       <p style="text-align: center"><b>Coming soon!</b></p>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 20</h3>
-      <h4 style="text-align: center">20 September 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-20">
+        <img src="newsletter/issue-20/Bitcoin Solves Problems.png">
+        <h3 style="text-align: center">Issue 20</h3>
+        <h4 style="text-align: center">20 September 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>86 million Vietnamese bank accounts shut down</li>
+            <li>Fed lowers interest rates 0.25%</li>
+            <li>How to orange pill your friends and family</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 19</h3>
-      <h4 style="text-align: center">13 September 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-19">
+        <img src="newsletter/issue-19/Fix the Money Fix the World.gif">
+        <h3 style="text-align: center">Issue 19</h3>
+        <h4 style="text-align: center">13 September 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>NPM developer account compromised</li>
+            <li>US regulators propose flagging self-custody as suspicious</li>
+            <li>How and why Bitcoin changes you</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
-      <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
-      <h3 style="text-align: center">Issue 18</h3>
-      <h4 style="text-align: center">6 September 2025<h4>
-      <p style="text-align: center"><b>Coming soon!</b></p>
+      <a href="newsletter/issue-18">
+        <img src="newsletter/issue-18/bitcoin core vs knots.jpg">
+        <h3 style="text-align: center">Issue 18</h3>
+        <h4 style="text-align: center">6 September 2025</h4>
+        <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>Why businesses are adopting bitcoin</li>
+            <li>99% Odds of a Fed rate cut</li>
+            <li>How we know there will never be more than 21 million bitcoin</li>
+            <li>And so much more!</li>
+        </p>
+      </a>
     </div>
     <div class="blog-item">
       <a href="newsletter/issue-17">
