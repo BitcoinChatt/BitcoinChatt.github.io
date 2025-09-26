@@ -47,15 +47,7 @@ draft = false
 
 <center>
 
-<b>August 18th:</b> There will <b>NOT</b> be a Bitcoin Chatt meetup on September 20th, since Bitcoin's Chatt's organizer, Jason Sellers, will be attending the <a target="_blank" href="https://bitcoinpark.com/imagineif/index_imagineif.html">"Imagine IF"</a> summit in Nashville. Come to the <a target="_blank" href="https://www.meetup.com/bitcoin-chattanooga/events/310568018/?eventOrigin=group_upcoming_events">Bitcoin Remnant</a> meetup on September 6th, though, and <i>especially</i> on October 4th, when we'll be celebrating Bitcoin Chatt's 4th birthday!
-
-<br>
-
-<hr>
-
-<br>
-
-<b>August 11th:</b> Bitcoin Chatt's organizer, Jason Sellers, will host an "Intro to Bitcoin" workshop at <a target="_blank" href="https://maps.app.goo.gl/bcLkLFozL6LHV82p9">the Chattery</a> on Monday, September 8th, from 6-8pm. If you're new to Bitcoin and want to learn how it works, this is the place to be! There are a limited number of seats available, so register <a target="_blank" href="https://thechattery.org/classes/introduction-to-bitcoin-1">here</a> before the class fills up!
+<b>September 8thth:</b> Bitcoin Chatt's organizer, Jason Sellers, will host an "Intro to Bitcoin" workshop at <a target="_blank" href="https://maps.app.goo.gl/bcLkLFozL6LHV82p9">the Chattery</a> on Monday, October 13th, from 6-8pm. If you're new to Bitcoin and want to learn more about it, this workshop is for you! There are a limited number of seats available, so register <a target="_blank" href="https://thechattery.org/classes/introduction-to-bitcoin-2">here</a> before the class fills up!
 
 <br>
 
