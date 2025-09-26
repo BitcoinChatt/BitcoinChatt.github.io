@@ -8,7 +8,7 @@ title = 'Blog'
 <div class="article">
   <h1 style="text-align: center">Welcome to the Bitcoin Chattanooga Blog!</h1>
   <br>
-  <h3 style="text-align: center">The archive of the 21 weekly email newsletters, from 10 May to 27 September 2025.
+  <h3 style="text-align: center">The archive of the 21 weekly email newsletters, from 10 May to 27 September 2025.</h3>
   <br>
   <br>
   <div class="blog-container">
@@ -29,6 +29,7 @@ title = 'Blog'
             <li>Fed lowers interest rates 0.25%</li>
             <li>How to orange pill your friends and family</li>
             <li>And so much more!</li>
+          </ul>
         </p>
       </a>
     </div>
@@ -123,7 +124,7 @@ title = 'Blog'
         <h4 style="text-align: center">2 August 2025</h4>
         <p style="text-align: center">In this issue:</p>
           <ul>
-            <li>PayPal merchants now accepting bitcoin payments/li>
+            <li>PayPal merchants now accepting bitcoin payments</li>
             <li>How Bitcoin mining works</li>
             <li>How to become a Bitcoin genius</li>
             <li>And so much more!</li>
@@ -137,7 +138,7 @@ title = 'Blog'
         <h4 style="text-align: center">26 July 2025</h4>
         <p style="text-align: center">In this issue:</p>
           <ul>
-            <li>Bitcoin Chattanooga is no longer a nonprofit/li>
+            <li>Bitcoin Chattanooga is no longer a nonprofit</li>
             <li>Western Union embrqaces Bitcoin</li>
             <li>All about Bitcoin pivate keys</li>
             <li>And so much more!</li>

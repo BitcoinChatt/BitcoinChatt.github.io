@@ -141,20 +141,23 @@ iframe, form, input, textarea, button, #map {
 }
 
 .blog-container {
-  display: flex;
-  flex-wrap: wrap;
+  /*display: flex;*/
+  /*flex-wrap: wrap;*/
   gap: 1.5rem;
   justify-content: center;
-  max-width: 800px;
+  /*max-width: 800px;*/
   margin: 0 auto;
   padding: 20px;
+  /*position: relative;*/
 }
 
 .blog-item {
-  width: 30%;
+  /*width: 30%;*/
+  display: flow-root;
   box-sizing: border-box;
 
   padding: 1rem;
+  margin: 0.5rem;
 
   border-width: 4px;
   border-color: #FF9900;
@@ -162,15 +165,32 @@ iframe, form, input, textarea, button, #map {
   border-radius: 20px;
 }
 
-.blog-item h1 h2 h3 h4 h5 h6 p {
+.blog-item h1,
+.blog-item h2,
+.blog-item h3,
+.blog-item h4,
+.blog-item h5,
+.blog-item h6,
+.blog-item p {
   margin: 10px 0 0 0;
-  text-align: center;
+  /*text-align: center;*/
+  float: none;
+  /*position: absolute;
+  left: 0px;*/
+}
+
+.blog-item ul {
+  margin-top: 3rem;
 }
 
 .blog-item img {
-  display: flex;
-  max-width: 100%;
-  margin: 0;
+  /*display: flex;*/
+  /*max-height: 100%;*/
+  float: left;
+  max-width: 9rem;
+
+  margin-left: 0rem;
+  margin-right: -9rem;
 }
 
 .tight-margin {
