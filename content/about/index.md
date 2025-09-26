@@ -38,7 +38,7 @@ Bitcoin Chattanooga (a.k.a. "Bitcoin Chatt") began as a humble meetup on <a href
 
 We have a long way to go before this train reaches its destination, but by using Bitcoin, you can play an important role in building a future of liberty and personal responsibility, of savings and hope, and of peace and prosperity. Start today by [learning all about Bitcoin](/new-to-bitcoin), accepting bitcoin at your business—<i>we'll include you on our [map](/map) and tell Bitcoiners in the area to choose your business over others—</i>and by asking the businesses you visit to start accepting it.
 
-[Contact](/contact) Jason to schedule an in-person or virtual meeting. And [subscribe](/join) to the newsletter for announcements, education, and a chance to win free sats (tiny pieces of bitcoin) each week!
+[Contact](/contact) Jason to schedule an in-person or virtual meeting, and get ahead of the curve by getting on the Bitcoin standard!
 
 <br>
 
