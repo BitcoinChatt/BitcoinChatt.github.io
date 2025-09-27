@@ -13,12 +13,18 @@ title = 'Blog'
   <br>
   <div class="blog-container">
     <div class="blog-item">
-      <a id="lies_and_deceit">
-        <img src="/images/Logos/Bitcoin%20Chatt%20Avatar.png">
+      <a href="newsletter/issue-21">
+        <img src="newsletter/issue-21/Intro to Bitcoin Thumbnail.png">
         <div>
           <h3 style="text-align: center">Issue 21</h3>
           <h4 style="text-align: center">27 September 2025<h4>
-          <p style="text-align: center"><b>Coming soon!</b></p>
+          <p style="text-align: center">In this issue:</p>
+          <ul>
+            <li>This is the last issue of The Bitcoin Chatt newsletter</li>
+            <li>Macadamia Wallet enables iOS users to zap sats through text messages</li>
+            <li>What it really means to "stay humble"</li>
+            <li>And so much more!</li>
+          </ul>
         </div>
       </a>
     </div>
