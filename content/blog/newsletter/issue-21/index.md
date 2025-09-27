@@ -33,7 +33,7 @@ There are plans to create a static, 21-part educational email series, however. I
 
 As was mentioned in the last few newsletters, October 1st marks four years since Bitcoin Chatt started, and we're throwing a party next week, on October 4th, from 12-2 PM, at the Bitcoin Remnant meetup. Hosted at <a href="https://www.divinedesignnaturalhealth.com/" target="_blank">Divine Design Natural Health</a>, located at <a href="https://maps.app.goo.gl/CRXP4G9pMN2Qx8fEA" target="_blank">3800 Keith St NW in Cleveland</a>, the event will feature healthy food, a presentation about Bitcoin Chatt, and videos explaining Bitcoin. We'll even have some Bitcoin board games for whoever is interested.
 
-<img class="mobile-banner" src="DDNH Bitcoin Chatt 4th Birthday.jpg" style="width:30dvw;display:block;margin:0 auto;"
+<img class="mobile-banner" src="DDNH Bitcoin Chatt 4th Birthday.jpg" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -113,7 +113,7 @@ It's our final newsletter, so why not a little self-promotion? 😏 In this vide
 Meme of the Week
 ----------------
 
-<img class="mobile-banner" src="Buy the Dip.jprg" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="Buy the Dip.jpeg" style="width:30dvw;display:block;margin:0 auto;">
 
 <br>
 
