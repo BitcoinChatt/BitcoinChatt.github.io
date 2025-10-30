@@ -31,7 +31,7 @@ window.onload = function()
   var iconHeight = 50;
 
   var businessIcon = L.icon({
-    iconUrl: '/images/marker-icon-2x.png',
+    iconUrl: '/images/orange-marker-icon-2x.png',
     iconSize: [iconWidth, iconHeight],
     iconAnchor: [iconWidth / 2, iconHeight],
     popupAnchor: [0, -iconHeight],
