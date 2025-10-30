@@ -55,7 +55,7 @@ window.onload = function()
     map.setView(pos, 9.7);
   } else
   {
-    map.setView(pos, 11);
+    map.setView(pos, 12);
   }
   
 
@@ -77,13 +77,14 @@ window.onload = function()
               '<b>Hours:</b> Mon-Thurs, 10AM-6PM<br>' +
               '<b>Website:</b> <a href="https://divinedesignnaturalhealth.com" target="_blank">DivineDesignNaturalHealth.com</a>');
 
-  // Pin 2: The Agora
-  L.marker([35.150883, -85.201333], {icon: businessIcon}).addTo(map)
-    .bindPopup('<img src="/images/Bitcoin Businesses/The Agora/The-Agora.png" style="width: 100px;"><br>' +
-              '<b>The Agora</b><br>' +
-              '<b>Address:</b> 6112 Hixson Pike, Hixson, TN 37343<br>' +
-              '<b>Hours:</b> Mon & Sat, 10AM-7PM<br>' +
-              '<b>Website:</b> <a href="https://theagorahub.com" target="_blank">TheAgoraHub.com</a>');
+  // Pin 2: Calvary Chapel
+  L.marker([35.0157123, -85.3265773], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Calvary Chapel/Calvary Chapel.jpg" style="width: 100px;"><br>' +
+              '<b>Calvary Chapel Chattanooga</b><br>' +
+              '<b>Address:</b> 3415 Broad St, Chattanooga, TN 37409<br>' +
+              '<b>Phone:</b> 423-752-0004<br>' +
+              '<b>Hours:</b> Sat 3:30–8 PM, Sun 8:30 AM–2 PM<br>' +
+              '<b>Website:</b> <a href="http://www.calvarychatt.com" target="_blank">CalvaryChatt.com</a>');
 
   // Pin 3: Same Day Septic
   L.marker([35.002027, -85.204528], {icon: businessIcon}).addTo(map)
@@ -92,7 +93,7 @@ window.onload = function()
               '<b>Address:</b> Chattanooga, TN<br>' +
               '<b>Phone:</b> 423-834-4867<br>' +
               '<b>Hours:</b> Sun-Sat, 12AM-11:45PM<br>' +
-              '<b>Website:</b> <a href="https://samedayseptic.co" target="_blank">SameDaySeptic.co</a>');
+              '<b>Website:</b> <a href="https://samedayseptic.com" target="_blank">SameDaySeptic.co</a>');
 
     // Pin 4: Steak 'n Shake (Fort Oglethorpe)
   L.marker([34.951935, -85.244715], {icon: businessIcon}).addTo(map)
