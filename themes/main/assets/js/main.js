@@ -78,7 +78,7 @@ window.onload = function()
               '<b>Website:</b> <a href="https://divinedesignnaturalhealth.com" target="_blank">DivineDesignNaturalHealth.com</a>');
 
   // Pin 2: Calvary Chapel
-  L.marker([35.0157123, -85.3265773], {icon: businessIcon}).addTo(map)
+  L.marker([35.0157164, -85.3241693], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Calvary Chapel/Calvary Chapel.jpg" style="width: 100px;"><br>' +
               '<b>Calvary Chapel Chattanooga</b><br>' +
               '<b>Address:</b> 3415 Broad St, Chattanooga, TN 37409<br>' +
