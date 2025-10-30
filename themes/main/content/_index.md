@@ -47,7 +47,7 @@ draft = false
 
 <center>
 
-<b>September 8thth:</b> Bitcoin Chatt's organizer, Jason Sellers, will host an "Intro to Bitcoin" workshop at <a target="_blank" href="https://maps.app.goo.gl/bcLkLFozL6LHV82p9">the Chattery</a> on Monday, October 13th, from 6-8pm. If you're new to Bitcoin and want to learn more about it, this workshop is for you! There are a limited number of seats available, so register <a target="_blank" href="https://thechattery.org/classes/introduction-to-bitcoin-2">here</a> before the class fills up!
+<b>Octomber 30th:</b> Bitcoin Chatt's organizer, Jason Sellers, will host an "Intro to Bitcoin" workshop at <a target="_blank" href="https://maps.app.goo.gl/bcLkLFozL6LHV82p9">the Chattery</a> on Monday, November 10th, from 6-8pm. If you're new to Bitcoin and want to learn more about it, this workshop is for you! There are a limited number of seats available, so register <a target="_blank" href="https://thechattery.org/classes/introduction-to-bitcoin-2">here</a> before the class fills up!
 
 <br>
 
