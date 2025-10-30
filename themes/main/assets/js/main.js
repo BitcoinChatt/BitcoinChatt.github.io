@@ -55,7 +55,7 @@ window.onload = function()
     map.setView(pos, 9.7);
   } else
   {
-    map.setView(pos, 12);
+    map.setView(pos, 10);
   }
   
 
