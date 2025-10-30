@@ -76,4 +76,58 @@ window.onload = function()
               '<b>Phone:</b> 423-800-6800<br>' +
               '<b>Hours:</b> Mon-Thurs, 10AM-6PM<br>' +
               '<b>Website:</b> <a href="https://divinedesignnaturalhealth.com" target="_blank">DivineDesignNaturalHealth.com</a>');
+
+  // Pin 2: Calvary Chapel
+  L.marker([35.0157164, -85.3241693], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Calvary Chapel/Calvary Chapel.jpg" style="width: 100px;"><br>' +
+              '<b>Calvary Chapel Chattanooga</b><br>' +
+              '<b>Address:</b> 3415 Broad St, Chattanooga, TN 37409<br>' +
+              '<b>Phone:</b> 423-752-0004<br>' +
+              '<b>Hours:</b> Sat 3:30–8 PM, Sun 8:30 AM–2 PM<br>' +
+              '<b>Website:</b> <a href="http://www.calvarychatt.com" target="_blank">CalvaryChatt.com</a>');
+
+  // Pin 3: Same Day Septic
+  L.marker([35.002027, -85.204528], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png" style="width: 100px;"><br>' +
+              '<b>Same Day Septic</b><br>' +
+              '<b>Address:</b> Chattanooga, TN<br>' +
+              '<b>Phone:</b> 423-834-4867<br>' +
+              '<b>Hours:</b> Sun-Sat, 12AM-11:45PM<br>' +
+              '<b>Website:</b> <a href="https://samedayseptic.com" target="_blank">SameDaySeptic.co</a>');
+
+    // Pin 4: Steak 'n Shake (Fort Oglethorpe)
+  L.marker([34.951935, -85.244715], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png" style="width: 100px;"><br>' +
+              '<b>Steak n Shake</b><br>' +
+              '<b>Address:</b> 1182 Battlefield Pkwy, Fort Oglethorpe, GA 30742<br>' +
+              '<b>Phone:</b> 706-858-1919<br>' +
+              '<b>Hours:</b> Sun-Sat, 11AM-11PM<br>' +
+              '<b>Website:</b> <a href="https://www.steaknshake.com/locations/ga-ft-oglethorpe-battlefield-parkway/" target="_blank">SteaknShake.com</a>');
+
+      // Pin 5: Steak 'n Shake (Dalton)
+  L.marker([34.759589, -84.989919], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png" style="width: 100px;"><br>' +
+              '<b>Steak n Shake</b><br>' +
+              '<b>Address:</b> 1250 W Walnut Ave, Dalton, GA 30720<br>' +
+              '<b>Phone:</b> 706-272-3300<br>' +
+              '<b>Hours:</b> Sun-Sat, 11AM-12AM<br>' +
+              '<b>Website:</b> <a href="https://www.steaknshake.com/locations/ga-dalton-w-walnut-avenue/" target="_blank">SteaknShake.com</a>');
+
+        // Pin 6: Steak 'n Shake (Gunbarrel)
+  L.marker([35.039848, -85.149789], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png" style="width: 100px;"><br>' +
+              '<b>Steak n Shake</b><br>' +
+              '<b>Address:</b> 2296 Gunbarrel Rd, Chattanooga, TN 37421<br>' +
+              '<b>Phone:</b> 423-892-2993<br>' +
+              '<b>Hours:</b> Sun-Sat, 11AM-12AM<br>' +
+              '<b>Website:</b> <a href="https://www.steaknshake.com/locations/tn-chattanooga-gunbarrel-road/" target="_blank">SteaknShake.com</a>');
+
+        // Pin 7: Steak 'n Shake (Cleveland)
+  L.marker([35.205077, -84.849458], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png" style="width: 100px;"><br>' +
+              '<b>Steak n Shake</b><br>' +
+              '<b>Address:</b> 220 Paul Huff Pkwy NW, Cleveland, TN 37312<br>' +
+              '<b>Phone:</b> 423-614-7300<br>' +
+              '<b>Hours:</b> Sun-Sat, 11AM-12AM<br>' +
+              '<b>Website:</b> <a href="https://www.steaknshake.com/locations/tn-cleveland-paul-huff-parkway/" target="_blank">SteaknShake.com</a>');
 }
