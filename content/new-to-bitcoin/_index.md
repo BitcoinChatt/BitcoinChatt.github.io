@@ -22,6 +22,7 @@ title = 'New to Bitcoin?'
 
 <br>
 
+<body>
 <!-- Centered inline Cal.com calendar -->
 <div id="cal-container" style="max-width:850px; margin:0 auto; padding:20px;"></div>
 
@@ -73,6 +74,7 @@ title = 'New to Bitcoin?'
   }
   renderCal();
 </script>
+</body>
 
 <br>
 
