@@ -10,9 +10,7 @@ title = 'New to Bitcoin?'
 
 <h2 style="text-align:center">You’ve come to the right place!</h2>
 
-<h2 style="text-align:center">Start by watching this video:</h2>
-
-<br>
+<h3 style="text-align:center">Start by watching this video:</h3>
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/VeU0bwcIZJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
