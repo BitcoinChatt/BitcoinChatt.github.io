@@ -462,7 +462,7 @@ Bitcoin's price increasing with time also ties into a concept called <i>time pre
 
 <br>
 
-<img class="mobile-banner" src="./Bitcoin Chatt Full Avatar 2.0.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Bitcoin Chatt Full Avatar 2.0.png" style="width:20dvw;display:block;margin:0 auto;">
 
 <br>
 
