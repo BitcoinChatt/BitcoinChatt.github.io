@@ -18,7 +18,7 @@ title = 'New to Bitcoin?'
 
 <br>
 
-<h2 style="text-align:center">Schedule a 1-on-1 meeting with Jason, and get started with Bitcoin!</h2>
+<h2 style="text-align:center">Schedule a 1-on-1 meeting to get started with Bitcoin!</h2>
 
 <br>
 
