@@ -462,6 +462,12 @@ Bitcoin's price increasing with time also ties into a concept called <i>time pre
 
 <br>
 
+<img class="mobile-banner" src="./Bitcoin Chatt Full Avatar 2.0.png" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
+
+<br>
+
 Bitcoin runs on an open and widely copied and shared ledger, known as the timechain (or blockchain). Each "page" of this ledger is called a "block", and an encrypted version of each block is included in the one that follows it, which forms a chain. Even one small change to a previous block would completely change its encrypted form, and thereby change all the other blocks after it, so as new blocks are added, older blocks become more permanent. In fact, to say it would be "set in stone" would be a <i>massive</i> understatement!
 
 <br>
