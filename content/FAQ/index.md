@@ -458,7 +458,7 @@ Bitcoin's price increasing with time also ties into a concept called <i>time pre
 
 <br>
 
-"Est. 703,083" is a reference to Bitcoin's block height at the time when the first Bitcoin Chatt meetup began.
+"Est. 703,083" is a reference to Bitcoin's block height at the time when the first Bitcoin Chatt meetup began, at 6pm Eastern Time on October 1st, 2021.
 
 <br>
 
@@ -472,13 +472,13 @@ Bitcoin runs on an open and widely copied and shared ledger, known as the timech
 
 <br>
 
-<img class="mobile-banner" src="./Block 703083.png" style="width:20dvw;display:block;margin:0 auto;">
+<a target="_blank" href="https://timechaincalendar.com/en/block/703083"><img class="mobile-banner" src="./Block 703083.png" style="width:20dvw;display:block;margin:0 auto;"></a>
 
 <br>
 
 <br>
 
-This makes Bitcoin's timechain an extremely reliable method for marking significant moments in history. When Bitcoin Chattanooga's creator, Jason Sellers, started the first meeting in the Edney Building downtown, at 6pm on October 1st 2021, the most recent block was number 703,083. So this is a fun way to say when Bitcoin Chattanooga started, while simultaneously giving a nod to Bitcoin's timechain.
+This makes Bitcoin's timechain an extremely reliable method for marking significant moments in history. When Bitcoin Chattanooga's creator, Jason Sellers, started the first meeting in the Edney Building downtown, at 6pm on October 1st 2021, the most recent block was number <a target="_blank" href="https://mempool.space/block/00000000000000000004730cacd16909b9e2323eeceab1305c31edae2af07537">703,083</a>. So this is a fun way to say when Bitcoin Chattanooga started, while simultaneously giving a nod to Bitcoin's timechain.
 
 <br>
 
