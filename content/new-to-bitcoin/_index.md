@@ -38,7 +38,7 @@ Cal.ns.consultation("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#111213"},"d
 
 <br>
 
-<h2 style="text-align:center">Have questions? Check out our <a href="https://www.BitcoinChatt.com/faq">F.A.Q.s</a> !</h2>
+<h2 style="text-align:center">Have questions? Check out our <a href="https://www.BitcoinChatt.com/faq">F.A.Q.s</a>!</h2>
 
 <br>
 
