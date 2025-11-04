@@ -322,7 +322,7 @@ For anything to become money, it has to grow through 3 stages, and in this order
 
 <br>
 
-<img class="mobile-banner" src="./Freedom Money Loading Progress Bar.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Freedom Money Loading Progress Bar.png" style="width:40dvw;display:block;margin:0 auto;">
 
 <br>
 
@@ -472,7 +472,7 @@ Bitcoin runs on an open and widely copied and shared ledger, known as the timech
 
 <br>
 
-<img class="mobile-banner" src="./Block 703083.png" style="width:30dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Block 703083.png" style="width:20dvw;display:block;margin:0 auto;">
 
 <br>
 
