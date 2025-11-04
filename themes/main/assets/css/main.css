@@ -280,6 +280,13 @@ form {
   margin: 0rem 1rem
 }
 
+#my-cal-inline-consultation {
+  width: 200%;
+  height: 100%;
+  overflow: scroll;
+  margin: 0 -50%; 
+}
+
 #calendar-widget {
   min-width: 70%;
   max-width: 100%;
@@ -383,6 +390,11 @@ a:visited {
     width: 95dvw !important;
     margin: 0 auto;
     display: block;
+  }
+
+  #my-cal-inline-consultation {
+    width: 100%;
+    margin: 0; 
   }
 
   #calendar-widget {
