@@ -1,10 +1,10 @@
 <!--<p>Copyright {{ now.Year }}. All rights reserved.</p>-->
 
-{{- if and (and (strings.Contains .Path "new-to-bitcoin") (not .Params.underConstruction)) (not (strings.Contains .Path "table-of-contents")) }}
+<!--{{- if and (and (strings.Contains .Path "new-to-bitcoin") (not .Params.underConstruction)) (not (strings.Contains .Path "table-of-contents")) }}
   <div style="text-align: center;">
     <h3><a href="/new-to-bitcoin/table-of-contents">Table of Contents</a></h3>
   </div>
-{{- end }}
+{{- end }}-->
 
 {{- if and (strings.Contains .Path "newsletter") (not .Params.underConstruction) }}
   <div style="text-align: center;">
