@@ -609,7 +609,8 @@ title = 'Join'
         <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
           <div class="ml-form-embedContent">
             <h4>Join Bitcoin Chattanooga</h4>
-            <p><span style="font-size: 16px;">Membership is <strong>free</strong>, and you'll get weekly (<em>at most</em>) <a href="https://www.bitcoinchatt.org/blog/">blog</a> posts, news, and announcements straight to your email inbox.</span></p>
+            <p><span style="font-size: 16px;">Membership is <strong>free</strong>, and you'll get occasional (i.e., monthly or less often) news and announcements about the Bitcoin scene in the Chattanooga area, delivered straight to your inbox!</span></p>
+            <p><span style="font-size: 16px;">To read older issues of the Bitcoin Chatt newsletter, visit the <a href="https://www.bitcoinchatt.org/blog/">blog</a> page.</span></p>
           </div>
           <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/1502763/forms/153678193931322867/subscribe" data-code="" method="post" target="_blank">
             <div class="ml-form-formContent">
@@ -662,8 +663,9 @@ title = 'Join'
         <div class="ml-form-successBody row-success" style="display: none">
           <div class="ml-form-successContent">
             <h4>Welcome aboard!</h4>
-            <p><span style="font-size: 16px;">Expect our newsletter, <em>The Bitcoin Chatt</em>, every Saturday morning.</span></p>
-            <p><span style="font-size: 16px;">If you have any questions, please message us on our <a href="https://www.bitcoinchatt.org/contact/">Contact</a> page, and we'll do our best to reply within 24 hours.</span></p>
+            <p><span style="font-size: 16px;">Expect to receive the Bitcoin Chatt newsletter once in a while, whenever there's a significant Bitcoin-related development in the Chattanooiga area.</span></p>
+            <p><span style="font-size: 16px;">If you have any questions, please message Jason through the <a href="https://www.bitcoinchatt.org/contact/">Contact</a> page, and he'll do his best to reply within 24 hours.</span></p>
+            <p><span style="font-size: 16px;">And remember: <b><i>Nothing stops this train!</i></b></span></p>
           </div>
         </div>
       </div>
