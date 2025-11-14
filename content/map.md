@@ -24,7 +24,7 @@ title = 'Map'
 
 ### Own a business and want to start accepting bitcoin?
 
-### Make sure you complete our [New to Bitcoin](/new-to-bitcoin) series, and choose a Bitcoin Point of Sale Service from the list at the bottom of our [Exchanges and Wallets](/new-to-bitcoin/exchanges-and-wallets) page.
+### Make sure to check out the [New to Bitcoin](/new-to-bitcoin) page, and set up a time to meet with Bitcoin Chattanooga's organizer, Jason, so he can help you get started.
 
 <br>
 
