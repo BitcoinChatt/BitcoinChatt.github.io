@@ -148,7 +148,7 @@ function setupMap()
               '<b>Address:</b> 6725 Ringgold Rd, East Ridge, TN 374122<br>' +
               '<b>Phone:</b> 423-463-5997<br>' +
               '<b>Hours:</b> Mon-Thurs 10AM-9PM, Fri-Sat 10AM-10PM, Sun 11:30AM-8PM<br>' +
-              '<b>Website:</b> <a href="https://www.CitySmokesChattanooga.com" target="_blank">CitySmokesChattanooga.com</a>');
+              '<b>Website:</b> <a href="https://www.facebook.com/profile.php?id=61556971360123" target="_blank">Facebook Page</a>');
 
         // Pin 9: Anchor Barber Co.
   L.marker([35.066856, -85.308845], {icon: businessIcon}).addTo(map)
