@@ -140,4 +140,22 @@ function setupMap()
               '<b>Phone:</b> 423-614-7300<br>' +
               '<b>Hours:</b> Sun-Sat, 11AM-12AM<br>' +
               '<b>Website:</b> <a href="https://www.steaknshake.com/locations/tn-cleveland-paul-huff-parkway/" target="_blank">SteaknShake.com</a>');
+
+        // Pin 8: City Smokes
+  L.marker([34.9910443, -85.1995893], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/City Smokes/City Smokes.png" style="width: 100px;"><br>' +
+              '<b>City Smokes</b><br>' +
+              '<b>Address:</b> 6725 Ringgold Rd, East Ridge, TN 374122<br>' +
+              '<b>Phone:</b> 423-463-5997<br>' +
+              '<b>Hours:</b> Mon-Thurs 10AM-9PM, Fri-Sat 10AM-10PM, Sun 11:30AM-8PM<br>' +
+              '<b>Website:</b> <a href="https://www.CitySmokesChattanooga.com" target="_blank">CitySmokesChattanooga.com</a>');
+
+        // Pin 9: Anchor Barber Co.
+  L.marker([35.0668588, -85.3114319], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Anchor Barber Co/Anchor Barber Co.png" style="width: 100px;"><br>' +
+              '<b>Anchor Barber Co.</b><br>' +
+              '<b>Address:</b> 502 N Market St, Chattanooga, TN 37405<br>' +
+              '<b>Phone:</b> 423-690-7291<br>' +
+              '<b>Hours:</b> Mon 10AM-6PM, Tues-Thurs 10AM-7PM, Fri 10AM-6PM, Sat 10AM-4PM<br>' +
+              '<b>Website:</b> <a href="https://www.AnchorBarberCo.com" target="_blank">AnchorBarberCo.com</a>');
 }
