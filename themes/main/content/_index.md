@@ -47,7 +47,7 @@ draft = false
 
 <center>
 
-<b>November 11th:</b> Bitcoin Chatt will be meeting on Saturday, the 15th, from 12-2pm, at the Agora, located at 6112 Hixson Pike, in Hixson, TN. Come learn all about Bitcoin, and meet other Bitcoiners! RSVP on our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
+<b>November 19th:</b> The Bitcoin Remnant meetup will be on Saturday, December 6th, from 12-2pm, at Divine Design Natural Health, located at 3800 Keith St NW, in Cleveland, TN. Come learn all about Bitcoin, and meet other Bitcoiners! RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
 
 <br>
 
