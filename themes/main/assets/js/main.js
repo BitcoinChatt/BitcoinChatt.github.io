@@ -160,7 +160,7 @@ function setupMap()
               '<b>Website:</b> <a href="https://www.AnchorBarberCo.com" target="_blank">AnchorBarberCo.com</a>');
 
         // Pin 10: Gadget Mechanic
-  L.marker([34.785521,-85.0056598], {icon: businessIcon}).addTo(map)
+  L.marker([34.7855517, -85.003133], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Gadget Mechanic/Gadget Mechanic.png" style="width: 100px;"><br>' +
               '<b>Gadget Mechanic</b><br>' +
               '<b>Address:</b> 819 N. Tibbs Road, Dalton, GA 30720<br>' +
@@ -169,7 +169,7 @@ function setupMap()
               '<b>Website:</b> <a href="http://www.gadgetmechanic.us/" target="_blank">GadgetMechanic.us</a>');
 
         // Pin 11: Bespoke Barbershop
-  L.marker([35.0315297, -85.1535118], {icon: businessIcon}).addTo(map)
+  L.marker([35.0315116, -85.1509364], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Bespoke Barbershop/Bespoke Barbershop.png" style="width: 100px;"><br>' +
               '<b>Bespoke Barbershop</b><br>' +
               '<b>Address:</b> 2020 Gunbarrel Road 194, Suite #107, Chattanooga, TN 37421<br>' +
@@ -178,7 +178,7 @@ function setupMap()
               '<b>Website:</b> <a href="http://www.bespokebarbershop.co/" target="_blank">BespokeBarbershop.co</a>');
 
         // Pin 12: First Response Towing and Recovery
-  L.marker([35.0328603, -85.1966425], {icon: businessIcon}).addTo(map)
+  L.marker([35.0328476, -85.1940908], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/First Response Towing and Recovery/First Response Towing and Recovery.png" style="width: 100px;"><br>' +
               '<b>First Response Towing and Recovery</b><br>' +
               '<b>Address:</b> 980 Airport Road, Chattanooga, TN 37421<br>' +
@@ -187,7 +187,7 @@ function setupMap()
               '<b>Website:</b> <a href="https://www.firstresponsetowingandrecovery.com/" target="_blank">FirstResponseTowingAndRecovery.com</a>');
 
         // Pin 13: Standard Ink Tattoo Company
-  L.marker([35.0610424, -85.3062152], {icon: businessIcon}).addTo(map)
+  L.marker([35.0611373, -85.3036354], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Standard Ink Tattoo Company/Standard Ink Tattoo Company.png" style="width: 100px;"><br>' +
               '<b>Standard Ink Tattoo Company</b><br>' +
               '<b>Address:</b> 434 Frazier Avenue, Chattanooga, TN 37405<br>' +
@@ -196,8 +196,8 @@ function setupMap()
               '<b>Website:</b> <a href="https://www.facebook.com/standardink" target="_blank">Facebook Page</a>');
 
         // Pin 14: Organizational Change Solutions
-  L.marker([35.1971448, -84.8973122], {icon: businessIcon}).addTo(map)
+  L.marker([35.1971021, -84.8947589], {icon: businessIcon}).addTo(map)
     .bindPopup('<img src="/images/Bitcoin Businesses/Organizational Change Solutions/Organizational Change Solutions.png" style="width: 100px;"><br>' +
               '<b>Organizational Change Solutions</b><br>' +
-              '<b>Address:</b> 2250 Candies Lane NW, Suite A, Cleveland, TN 37312<br>');
+              '<b>Address:</b> 2250 Candies Lane NW, A, Cleveland, TN 37312<br>');
 }
