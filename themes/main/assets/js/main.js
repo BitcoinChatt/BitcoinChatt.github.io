@@ -166,7 +166,7 @@ function setupMap()
               '<b>Address:</b> 819 N. Tibbs Road, Dalton, GA 30720<br>' +
               '<b>Phone:</b> 706-671-5835<br>' +
               '<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 11AM-4PM<br>' +
-              '<b>Website:</b> <a href="http://www.gadgetmechanic.us/" target="_blank">GadgetMechanic.us</a>');
+              '<b>Website:</b> <a href="https://www.gadgetmechanic.us/" target="_blank">GadgetMechanic.us</a>');
 
         // Pin 11: Bespoke Barbershop
   L.marker([35.0315116, -85.1509364], {icon: businessIcon}).addTo(map)
@@ -175,7 +175,7 @@ function setupMap()
               '<b>Address:</b> 2020 Gunbarrel Road 194, Suite #107, Chattanooga, TN 37421<br>' +
               '<b>Phone:</b> 928-848-9368<br>' +
               '<b>Hours:</b> Tues-Sat 11 AM–7 PM<br>' +
-              '<b>Website:</b> <a href="http://www.bespokebarbershop.co/" target="_blank">BespokeBarbershop.co</a>');
+              '<b>Website:</b> <a href="https://www.bespokebarbershop.co/" target="_blank">BespokeBarbershop.co</a>');
 
         // Pin 12: First Response Towing and Recovery
   L.marker([35.0328476, -85.1940908], {icon: businessIcon}).addTo(map)
