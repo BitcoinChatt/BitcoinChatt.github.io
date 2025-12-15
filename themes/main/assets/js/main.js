@@ -200,4 +200,13 @@ function setupMap()
     .bindPopup('<img src="/images/Bitcoin Businesses/Organizational Change Solutions/Organizational Change Solutions.png" style="width: 100px;"><br>' +
               '<b>Organizational Change Solutions</b><br>' +
               '<b>Address:</b> 2250 Candies Lane NW, A, Cleveland, TN 37312<br>');
+
+        // Pin 15: Running Wild Inflatables
+  L.marker([35.2492368, -85.1857456], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Running Wild Inflatables/Running Wild Inflatables.png" style="width: 100px;"><br>' +
+              '<b>Running Wild Inflatables</b><br>' +
+              '<b>Address:</b> 9917 Dayton Pike, Soddy-Daisy, TN 37379<br>' +
+              '<b>Phone:</b> 423-401-8611<br>' +
+              '<b>Hours:</b> Sun-Sat 8AM-9PM<br>' +
+              '<b>Website:</b> <a href="http://www.runningwildinflatables.com/" target="_blank">RunningWildInflatables.com/</a>');
 }
