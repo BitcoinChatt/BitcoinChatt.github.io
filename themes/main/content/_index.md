@@ -53,6 +53,8 @@ draft = false
 
 <hr>
 
+<br>
+
 <b>December 13th:</b> The next Bitcoin Chatt meetup will be on Saturday, December 20th, from 12-2pm, at the Agora Food Club, located at 6112 Hixson Pike, in Hixson, TN. This month, we're doing an <b>Orange Honeybadger Gift Exchange</b> (it's like a White Elephant Gift Exchange, but with Bitcoin-related gifts). Come learn all about Bitcoin, get some fun Bitcoin gifts, and meet other Bitcoiners! RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
 
 <br>
