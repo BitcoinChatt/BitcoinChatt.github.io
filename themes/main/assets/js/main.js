@@ -208,5 +208,5 @@ function setupMap()
               '<b>Address:</b> 9917 Dayton Pike, Soddy-Daisy, TN 37379<br>' +
               '<b>Phone:</b> 423-401-8611<br>' +
               '<b>Hours:</b> Sun-Sat 8AM-9PM<br>' +
-              '<b>Website:</b> <a href="http://www.runningwildinflatables.com/" target="_blank">RunningWildInflatables.com/</a>');
+              '<b>Website:</b> <a href="http://www.runningwildinflatables.com/" target="_blank">RunningWildInflatables.com</a>');
 }
