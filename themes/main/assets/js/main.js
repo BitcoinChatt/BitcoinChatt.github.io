@@ -208,5 +208,14 @@ function setupMap()
               '<b>Address:</b> 9917 Dayton Pike, Soddy-Daisy, TN 37379<br>' +
               '<b>Phone:</b> 423-401-8611<br>' +
               '<b>Hours:</b> Sun-Sat 8AM-9PM<br>' +
-              '<b>Website:</b> <a href="http://www.runningwildinflatables.com/" target="_blank">RunningWildInflatables.com</a>');
+              '<b>Website:</b> <a href="https://www.runningwildinflatables.com/" target="_blank">RunningWildInflatables.com</a>');
+
+        // Pin 16: Noble Mediation and Notary
+  L.marker([35.1602695, -84.8750917], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Noble Mediation and Notary/Noble Mediation and Notary.png" style="width: 100px;"><br>' +
+              '<b>Noble Mediation and Notary</b><br>' +
+              '<b>Address:</b> 170 N Ocoee Street, #202, Cleveland, TN 37311<br>' +
+              '<b>Phone:</b> 423-458-4645<br>' +
+              '<b>Hours:</b> Wed 5:30-9PM, Fri 5:30-9PM, Sat-Sun 9AM-5PM<br>' +
+              '<b>Website:</b> <a href="https://www.noblemediationandnotary.com/" target="_blank">NobleMediationAndNotary.com/</a>');
 }
