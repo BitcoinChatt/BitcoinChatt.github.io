@@ -47,7 +47,7 @@ draft = false
 
 <center>
 
-<b>December 20th:</b> Starting <b>January 21st, 2026</b>, Bitcoin Chatt will meet from <b>6-8pm</b> at the <b>Common Table</b>, a restaurant that's part of <a target="_blank" href="https://www.calvarychatt.com/">"Calvary Chapel</a>, located at <b>3413 Broad Street in Chattanooga</b>.
+<b>December 20th:</b> Starting <b>January 21st, 2026</b>, Bitcoin Chatt will meet from <b>6-8pm</b> at the <b>Common Table</b>, a restaurant that's part of <a target="_blank" href="https://www.calvarychatt.com/">Calvary Chapel</a>, located at <b>3413 Broad Street</b> in Chattanooga.
 
 The first hour of each meeting will be a discussion on one of the lessons in the book <a target="_blank" href="https://thebibleandbitcoin.com/">"The Bible and Bitcoin"</a>.
 
