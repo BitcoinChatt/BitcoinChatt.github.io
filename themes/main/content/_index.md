@@ -47,7 +47,15 @@ draft = false
 
 <center>
 
-<b>December 15th:</b> Come to the Bitcoin Remnant meetup on Saturday, January 3rd, from 12-2pm, at Divine Design Natural Health, located at 3800 Keith St NW, in Cleveland, TN. Come learn all about Bitcoin, and meet other Bitcoiners! RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
+<b>December 20th:</b> Starting <b>January 21st, 2026</b>, Bitcoin Chatt will meet from <b>6-8pm</b> at the <b>Common Table</b>, a restaurant that's part of <a target="_blank" href="https://www.calvarychatt.com/">"Calvary Chapel</a>, located at <b>3413 Broad Street in Chattanooga</b>.
+
+The first hour of each meeting will be a discussion on one of the lessons in the book <a target="_blank" href="https://thebibleandbitcoin.com/">"The Bible and Bitcoin"</a>.
+
+The second hour will then be an open discussion about that lesson in the book, or Bitcoin in general, or other related topics.
+
+Come learn all about Bitcoin, meet other Bitcoiners in the area, and discover why Bitcoin is Godly money!
+
+RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
 
 <br>
 
@@ -55,7 +63,11 @@ draft = false
 
 <br>
 
-<b>December 13th:</b> The next Bitcoin Chatt meetup will be on Saturday, December 20th, from 12-2pm, at the Agora Food Club, located at 6112 Hixson Pike, in Hixson, TN. This month, we're doing an <b>Orange Honeybadger Gift Exchange</b> (it's like a White Elephant Gift Exchange, but with Bitcoin-related gifts). Come learn all about Bitcoin, get some fun Bitcoin gifts, and meet other Bitcoiners! RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
+<b>December 15th:</b> Come to the Bitcoin Remnant meetup on Saturday, January 3rd, from 12-2pm, at Divine Design Natural Health, located at 3800 Keith St NW, in Cleveland, TN.
+
+Come learn all about Bitcoin, and meet other Bitcoiners in the area!
+
+RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
 
 <br>
 
