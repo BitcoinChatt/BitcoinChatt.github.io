@@ -218,4 +218,13 @@ function setupMap()
               '<b>Phone:</b> 423-458-4645<br>' +
               '<b>Hours:</b> Wed 5:30-9PM, Fri 5:30-9PM, Sat-Sun 9AM-5PM<br>' +
               '<b>Website:</b> <a href="https://www.noblemediationandnotary.com/" target="_blank">NobleMediationAndNotary.com/</a>');
+
+        // Pin 17: North Cleveland Church of God
+  L.marker([35.1640222, -84.8678335], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/North Cleveland Church of God/North Cleveland Church of God.png" style="width: 100px;"><br>' +
+              '<b>North Cleveland Church of God</b><br>' +
+              '<b>Address:</b> 335 11th Street NE, Cleveland, TN 37311<br>' +
+              '<b>Phone:</b> 423-476-5513<br>' +
+              '<b>Hours:</b> Sun 10:30AM-12PM, Mon-Thurs 8AM-5PM<br>' +
+              '<b>Website:</b> <a href="https://www.nccog.com/" target="_blank">NCCOG.com</a>');
 }
