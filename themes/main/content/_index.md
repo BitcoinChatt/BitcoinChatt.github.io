@@ -61,18 +61,6 @@ RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
 
 <hr>
 
-<br>
-
-<b>December 15th:</b> Come to the Bitcoin Remnant meetup on Saturday, January 3rd, from 12-2pm, at Divine Design Natural Health, located at 3800 Keith St NW, in Cleveland, TN.
-
-Come learn all about Bitcoin, and meet other Bitcoiners in the area!
-
-RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
-
-<br>
-
-<hr>
-
 </center>
 
 </div>
