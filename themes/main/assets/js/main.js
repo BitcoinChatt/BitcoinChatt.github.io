@@ -241,4 +241,26 @@ function setupMap()
               '<b>Address:</b> 5902 Shallowford Road, Chattanooga, TN 37421<br>' +
               '<b>Phone:</b> 423-255-0436<br>' +
               '<b>Website:</b> <a href="https://www.facebook.com/profile.php?id=100063589031640" target="_blank">Facebook Page</a>');
+
+        // Pin 20: Chattanooga Crystal Store
+  L.marker([35.0301926, -85.2906239], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Chattanooga Crystal Store/Chattanooga Crystal Store.jpg" style="width: 100px;"><br>' +
+              '<b>Chattanooga Crystal Store</b><br>' +
+              '<b>Address:</b> 1155 E Main St, Chattanooga, TN 37408<br>' +
+              '<b>Phone:</b> 423-883-1864<br>' +
+              '<b>Website:</b> <a href="http://chattanoogacrystalstore.com/" target="_blank">ChattanoogaCrystalStore.com/</a>');
+
+        // Pin 21: Erica's Pristine Touch Cleaning Service
+  L.marker([35.0467664, -85.3113186], {icon: businessIcon}).addTo(map)
+  <br>' +
+              '<b>Erica's Pristine Touch Cleaning Service</b><br>' +
+              '<b>Address:</b> 808 Chestnut St, Chattanooga, TN 37402<br>' +
+
+        // Pin 22: Oh My Goodness Chef Chasty Seafood & More
+  L.marker([35.0317024, -85.170861], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Chef Chasty Seafood/Chef Chasty Seafood.jpg" style="width: 100px;"><br>' +
+              '<b>Oh My Goodness Chef Chasty Seafood & More</b><br>' +
+              '<b>Address:</b> 6838 Old Stage Rd, Chattanooga, TN 37421<br>' +
+              '<b>Phone:</b> 423-505-7488<br>' +
+              '<b>Website:</b> <a href="https://www.facebook.com/Chefchasty/" target="_blank">Facebook Page</a>');
 }
