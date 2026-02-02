@@ -253,7 +253,7 @@ function setupMap()
         // Pin 21: Erica's Pristine Touch Cleaning Service
   L.marker([35.0467664, -85.3113186], {icon: businessIcon}).addTo(map)
   .bindPopup('<br>' +
-              '<b>Erica's Pristine Touch Cleaning Service</b><br>' +
+              '<b>Erica\'s Pristine Touch Cleaning Service</b><br>' +
               '<b>Address:</b> 808 Chestnut St, Chattanooga, TN 37402<br>');
 
         // Pin 22: Oh My Goodness Chef Chasty Seafood & More
