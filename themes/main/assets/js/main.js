@@ -263,4 +263,13 @@ function setupMap()
               '<b>Address:</b> 6838 Old Stage Rd, Chattanooga, TN 37421<br>' +
               '<b>Phone:</b> 423-505-7488<br>' +
               '<b>Website:</b> <a href="https://www.facebook.com/Chefchasty/" target="_blank">Facebook Page</a>');
+
+        // Pin 23: Kelly's Restaurant
+  L.marker([34.7464956, -84.9716389], {icon: businessIcon}).addTo(map)
+    .bindPopup('<img src="/images/Bitcoin Businesses/Kelly's Restaurant/Kelly's Restaurant.jpg" style="width: 100px;"><br>' +
+              '<b>Kelly's Restaurant</b><br>' +
+              '<b>Address:</b> 1700 S. Dixie Hwy, Dalton, GA 30720<br>' +
+              '<b>Phone:</b> 706-275-6789<br>' +
+              '<b>Hours:</b> Sun 10:30AM-12PM, Mon-Fri 6AM-2PM<br>' +
+              '<b>Website:</b> <a href="https://kellys-restaurant.com/" target="_blank">Kellys-Restaurant.com</a>');
 }
