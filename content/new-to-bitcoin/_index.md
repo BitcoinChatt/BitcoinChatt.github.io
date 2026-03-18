@@ -20,7 +20,7 @@ title = 'New to Bitcoin?'
 
 <style>
   .shorts-carousel {
-    max-width: 450px;           /* slightly wider to comfortably show small slices of prev/next */
+    max-width: 450px;
     margin: 0 auto;
   }
   .swiper-slide {
@@ -31,8 +31,8 @@ title = 'New to Bitcoin?'
   .video-wrapper {
     position: relative;
     width: 100%;
-    max-width: 360px;           /* typical Short width */
-    padding-top: 177.78%;       /* 9:16 vertical ratio for Shorts */
+    max-width: 360px;
+    padding-top: 177.78%;
     height: 0;
     background: #000;
     border-radius: 12px;
@@ -47,11 +47,38 @@ title = 'New to Bitcoin?'
     height: 100%;
     border: none;
   }
+
+  /* FORCE NAVIGATION ARROWS TO BE VISIBLE */
+  .swiper-button-next,
+  .swiper-button-prev {
+    background-color: rgba(0, 0, 0, 0.65) !important;
+    color: #ffffff !important;
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+    top: 50% !important;
+    margin-top: -25px !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.4) !important;
+    z-index: 1 !important;           /* ← THIS IS THE FIX */
+  }
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    font-size: 28px !important;
+    color: #ffffff !important;
+  }
+
+  /* Prevent ANY part of the carousel (arrows, pagination, slides) from covering your fixed top banner */
+  .mySwiper,
+  .swiper-button-next,
+  .swiper-button-prev,
+  .swiper-pagination {
+    z-index: 1 !important;
+  }
 </style>
 
 <div class="shorts-carousel">
   <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
+    <div class="swiper-wrapper">      
       <!-- Video 1 (default / first one shown) -->
       <div class="swiper-slide">
         <div class="video-wrapper">
@@ -132,7 +159,7 @@ title = 'New to Bitcoin?'
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
-      </di
+      </div>
       <!-- Video 10 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
@@ -143,7 +170,7 @@ title = 'New to Bitcoin?'
         </div>
       </div>
     </div>
-    <!-- Navigation Arrows -->
+    <!-- Navigation arrows + pagination -->
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
     <div class="swiper-pagination"></div>
@@ -151,22 +178,24 @@ title = 'New to Bitcoin?'
 </div>
 
 <script>
-  const swiper = new Swiper('.mySwiper', {
-    slidesPerView: 1.2,        /* shows 1 full Short + small slice of prev/next on each side */
-    spaceBetween: 30,
-    loop: true,
-    centeredSlides: true,
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
-    },
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    }
+  document.addEventListener('DOMContentLoaded', function () {
+    const swiper = new Swiper('.mySwiper', {
+      slidesPerView: 1.2,
+      spaceBetween: 30,
+      loop: true,
+      centeredSlides: true,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      allowTouchMove: true
+    });
   });
 </script>
-
 
 <br>
 
