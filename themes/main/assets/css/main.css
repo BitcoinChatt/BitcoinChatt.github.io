@@ -79,7 +79,7 @@ iframe, form, input, textarea, button, #map {
   justify-content: center;
   align-items: center;
   text-align: center;
-  z-index: 1;
+  z-index: 21;
 }
 
 .header-element {
