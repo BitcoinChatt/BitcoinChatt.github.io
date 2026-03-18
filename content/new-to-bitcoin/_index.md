@@ -38,6 +38,10 @@ Cal.ns.consultation("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#111213"},"d
 
 <br>
 
+<a target="_blank" href="https://satsman.com?ref=geekigai"><img class="banner-element" src="content/new-to-bitcoin/Banner.png" alt="Satsman banner"/></a>
+
+<br>
+
 <h2 style="text-align:center">Have questions? Check out our <a href="https://www.BitcoinChatt.com/faq">F.A.Q.s</a>!</h2>
 
 <br>
