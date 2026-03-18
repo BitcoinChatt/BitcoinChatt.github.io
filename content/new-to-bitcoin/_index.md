@@ -18,10 +18,15 @@ title = 'New to Bitcoin?'
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
+<!-- YouTube Iframe API (needed for auto-pause on slide change) -->
+<script src="https://www.youtube.com/iframe_api"></script>
+
 <style>
   .shorts-carousel {
     max-width: 450px;
     margin: 0 auto;
+    position: relative;
+    z-index: 0 !important;           /* ← Forces whole carousel BEHIND your fixed banner */
   }
   .swiper-slide {
     display: flex;
@@ -48,7 +53,7 @@ title = 'New to Bitcoin?'
     border: none;
   }
 
-  /* FORCE NAVIGATION ARROWS TO BE VISIBLE */
+  /* FORCE NAVIGATION ARROWS TO BE VISIBLE + above the videos but still below banner */
   .swiper-button-next,
   .swiper-button-prev {
     background-color: rgba(0, 0, 0, 0.65) !important;
@@ -59,7 +64,7 @@ title = 'New to Bitcoin?'
     top: 50% !important;
     margin-top: -25px !important;
     box-shadow: 0 4px 15px rgba(0,0,0,0.4) !important;
-    z-index: 1 !important;           /* ← THIS IS THE FIX */
+    z-index: 2 !important;
   }
   .swiper-button-next:after,
   .swiper-button-prev:after {
@@ -67,22 +72,20 @@ title = 'New to Bitcoin?'
     color: #ffffff !important;
   }
 
-  /* Prevent ANY part of the carousel (arrows, pagination, slides) from covering your fixed top banner */
+  /* Everything else stays safely below the banner */
   .mySwiper,
-  .swiper-button-next,
-  .swiper-button-prev,
   .swiper-pagination {
-    z-index: 1 !important;
+    z-index: 0 !important;
   }
 </style>
 
 <div class="shorts-carousel">
   <div class="swiper mySwiper">
-    <div class="swiper-wrapper">      
-      <!-- Video 1 (default / first one shown) -->
+    <div class="swiper-wrapper">
+      <!-- Video 1 (default) -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/zv_4Qc3YnOY" 
+          <iframe id="ytplayer1" src="https://www.youtube.com/embed/zv_4Qc3YnOY" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -91,7 +94,7 @@ title = 'New to Bitcoin?'
       <!-- Video 2 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/pdxunE_-kLI" 
+          <iframe id="ytplayer2" src="https://www.youtube.com/embed/pdxunE_-kLI" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -100,7 +103,7 @@ title = 'New to Bitcoin?'
       <!-- Video 3 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/UM83VmFN0Hk" 
+          <iframe id="ytplayer3" src="https://www.youtube.com/embed/UM83VmFN0Hk" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -109,7 +112,7 @@ title = 'New to Bitcoin?'
       <!-- Video 4 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/5i6JXEWVxiY" 
+          <iframe id="ytplayer4" src="https://www.youtube.com/embed/5i6JXEWVxiY" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -118,7 +121,7 @@ title = 'New to Bitcoin?'
       <!-- Video 5 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/6d2WrRjlzSY" 
+          <iframe id="ytplayer5" src="https://www.youtube.com/embed/6d2WrRjlzSY" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -127,7 +130,7 @@ title = 'New to Bitcoin?'
       <!-- Video 6 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/4r7Ne6JxvkE" 
+          <iframe id="ytplayer6" src="https://www.youtube.com/embed/4r7Ne6JxvkE" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -136,7 +139,7 @@ title = 'New to Bitcoin?'
       <!-- Video 7 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/6G4T2HF1xaM" 
+          <iframe id="ytplayer7" src="https://www.youtube.com/embed/6G4T2HF1xaM" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -145,7 +148,7 @@ title = 'New to Bitcoin?'
       <!-- Video 8 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/LFuhHB_HTyU" 
+          <iframe id="ytplayer8" src="https://www.youtube.com/embed/LFuhHB_HTyU" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -154,7 +157,7 @@ title = 'New to Bitcoin?'
       <!-- Video 9 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/K_E_aNoj3TQ" 
+          <iframe id="ytplayer9" src="https://www.youtube.com/embed/K_E_aNoj3TQ" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -163,7 +166,7 @@ title = 'New to Bitcoin?'
       <!-- Video 10 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe src="https://www.youtube.com/embed/ABdN5u4JDKI" 
+          <iframe id="ytplayer10" src="https://www.youtube.com/embed/ABdN5u4JDKI" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -178,6 +181,21 @@ title = 'New to Bitcoin?'
 </div>
 
 <script>
+  let players = [];
+
+  // YouTube API ready callback (runs automatically once the API loads)
+  function onYouTubeIframeAPIReady() {
+    for (let i = 1; i <= 10; i++) {
+      players[i-1] = new YT.Player(`ytplayer${i}`, {
+        events: {
+          'onReady': function () {
+            // Do nothing – we never autoplay
+          }
+        }
+      });
+    }
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     const swiper = new Swiper('.mySwiper', {
       slidesPerView: 1.2,
@@ -192,7 +210,19 @@ title = 'New to Bitcoin?'
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
       },
-      allowTouchMove: true
+      allowTouchMove: true,
+
+      // Auto-pause EVERY video when you switch slides (arrows or swipe)
+      // This guarantees only the visible Short can possibly play
+      on: {
+        slideChange: function () {
+          players.forEach(player => {
+            if (player && typeof player.pauseVideo === 'function') {
+              player.pauseVideo();
+            }
+          });
+        }
+      }
     });
   });
 </script>
