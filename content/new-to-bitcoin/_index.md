@@ -214,10 +214,6 @@ title = 'New to Bitcoin?'
 
 <br>
 
-<a target="_blank" href="https://satsman.com?ref=geekigai"><img class="mobile-banner" src="/new-to-bitcoin/Banner.png" style="width:40dvw;display:block;margin:0 auto;"></a>
-
-<br>
-
 <h2 style="text-align:center">Schedule a 1-on-1 meeting to get started with Bitcoin!</h2>
 
 <br>
