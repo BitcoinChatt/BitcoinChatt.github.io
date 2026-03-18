@@ -74,7 +74,7 @@ title = 'New to Bitcoin?'
       <!-- Video 1 (default) -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt1" src="https://www.youtube.com/embed/zv_4Qc3YnOY" 
+          <iframe id="yt1" src="https://www.youtube.com/embed/zv_4Qc3YnOY?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -83,7 +83,7 @@ title = 'New to Bitcoin?'
       <!-- Video 2 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt2" src="https://www.youtube.com/embed/pdxunE_-kLI" 
+          <iframe id="yt2" src="https://www.youtube.com/embed/pdxunE_-kLI?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -92,7 +92,7 @@ title = 'New to Bitcoin?'
       <!-- Video 3 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt3" src="https://www.youtube.com/embed/UM83VmFN0Hk" 
+          <iframe id="yt3" src="https://www.youtube.com/embed/UM83VmFN0Hk?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -101,7 +101,7 @@ title = 'New to Bitcoin?'
       <!-- Video 4 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt4" src="https://www.youtube.com/embed/5i6JXEWVxiY" 
+          <iframe id="yt4" src="https://www.youtube.com/embed/5i6JXEWVxiY?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -110,7 +110,7 @@ title = 'New to Bitcoin?'
       <!-- Video 5 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt5" src="https://www.youtube.com/embed/6d2WrRjlzSY" 
+          <iframe id="yt5" src="https://www.youtube.com/embed/6d2WrRjlzSY?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -119,7 +119,7 @@ title = 'New to Bitcoin?'
       <!-- Video 6 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt6" src="https://www.youtube.com/embed/4r7Ne6JxvkE" 
+          <iframe id="yt6" src="https://www.youtube.com/embed/4r7Ne6JxvkE?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -128,7 +128,7 @@ title = 'New to Bitcoin?'
       <!-- Video 7 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt7" src="https://www.youtube.com/embed/6G4T2HF1xaM" 
+          <iframe id="yt7" src="https://www.youtube.com/embed/6G4T2HF1xaM?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -137,7 +137,7 @@ title = 'New to Bitcoin?'
       <!-- Video 8 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt8" src="https://www.youtube.com/embed/LFuhHB_HTyU" 
+          <iframe id="yt8" src="https://www.youtube.com/embed/LFuhHB_HTyU?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -146,7 +146,7 @@ title = 'New to Bitcoin?'
       <!-- Video 9 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt9" src="https://www.youtube.com/embed/K_E_aNoj3TQ" 
+          <iframe id="yt9" src="https://www.youtube.com/embed/K_E_aNoj3TQ?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -155,7 +155,7 @@ title = 'New to Bitcoin?'
       <!-- Video 10 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt10" src="https://www.youtube.com/embed/ABdN5u4JDKI" 
+          <iframe id="yt10" src="https://www.youtube.com/embed/ABdN5u4JDKI?enablejsapi=1" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -174,7 +174,6 @@ title = 'New to Bitcoin?'
     const swiper = new Swiper('.mySwiper', {
       slidesPerView: 1.2,
       spaceBetween: 30,
-      loop: true,
       centeredSlides: true,
       pagination: {
         el: '.swiper-pagination',
@@ -185,16 +184,17 @@ title = 'New to Bitcoin?'
         prevEl: '.swiper-button-prev',
       },
       allowTouchMove: true,
+      loop: false,           /* ← REQUIRED for true pause/resume */
+      rewind: true,          /* when you reach the end, next arrow jumps back to start smoothly */
 
-      // AUTO-PAUSE: only the currently visible Short can play.
-      // When you switch (arrow or swipe), the previous one is instantly paused.
-      // No two videos can ever play at the same time.
+      // TRUE AUTO-PAUSE: only the visible Short can play.
+      // Previous videos are paused (time position saved) when you switch.
+      // No resets, no two videos playing at once.
       on: {
         slideChange: function (swiperInstance) {
-          const currentIndex = swiperInstance.realIndex;   // works with loop: true
+          const currentIndex = swiperInstance.realIndex;
 
           document.querySelectorAll('.video-wrapper iframe').forEach((iframe, index) => {
-            // Only pause videos that are NOT the one now in the center
             if (index !== currentIndex && iframe.contentWindow) {
               iframe.contentWindow.postMessage(
                 JSON.stringify({
