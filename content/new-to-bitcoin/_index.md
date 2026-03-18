@@ -38,7 +38,7 @@ Cal.ns.consultation("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#111213"},"d
 
 <br>
 
-<a target="_blank" href="https://satsman.com?ref=geekigai"><img class="banner-element" src="/new-to-bitcoin/Banner.png" alt="Satsman banner"/></a>
+<a target="_blank" href="https://satsman.com?ref=geekigai"><img src="/new-to-bitcoin/Banner.png" alt="Satsman banner"/></a>
 
 <br>
 
