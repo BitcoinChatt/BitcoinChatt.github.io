@@ -10,7 +10,7 @@ title = 'New to Bitcoin?'
 
 <h2 style="text-align:center">You’ve come to the right place!</h2>
 
-<h3 style="text-align:center">Start by watching any of these video:</h3>
+<h3 style="text-align:center">Start by watching these videos:</h3>
 
 <br>
 
