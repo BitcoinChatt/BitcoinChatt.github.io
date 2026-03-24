@@ -140,4 +140,13 @@ function setupMap()
               "<b>Phone:</b> 423-614-7300<br>" +
               "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
               "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/tn-cleveland-paul-huff-parkway/\" target=\"_blank\">SteaknShake.com</a>");
+
+          // Pin 8: City Smokes
+  L.marker([34.990641, -85.196578], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/City Smokes/City Smokes.png\" style=\"width: 100px;\"><br>" +
+              "<b>City Smokes</b><br>" +
+              "<b>Address:</b> 6725 Ringgold Rd, East Ridge, TN 374122<br>" +
+              "<b>Phone:</b> 423-463-5997<br>" +
+              "<b>Hours:</b> Mon-Thurs 10AM-9PM, Fri-Sat 10AM-10PM, Sun 11:30AM-8PM<br>" +
+              "<b>Website:</b> <a href=\"https://www.facebook.com/profile.php?id=61556971360123\" target=\"_blank\">Facebook Page</a>");
 }
