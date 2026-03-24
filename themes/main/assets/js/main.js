@@ -255,4 +255,12 @@ function setupMap()
   .bindPopup("<br>" +
               "<b>Erica\'s Pristine Touch Cleaning Service</b><br>" +
               "<b>Address:</b> 808 Chestnut St, Chattanooga, TN 37402<br>");
+
+        // Pin 22: Oh My Goodness Chef Chasty Seafood & More
+  L.marker([35.0317024, -85.170861], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Chef Chasty Seafood/Chef Chasty Seafood.jpg\" style=\"width: 100px;\"><br>" +
+              "<b>Oh My Goodness Chef Chasty Seafood & More</b><br>" +
+              "<b>Address:</b> 6838 Old Stage Rd, Chattanooga, TN 37421<br>" +
+              "<b>Phone:</b> 423-505-7488<br>" +
+              "<b>Website:</b> <a href=\"https://www.facebook.com/Chefchasty/\" target=\"_blank\">Facebook Page</a>");
 }
