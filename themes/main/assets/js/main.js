@@ -281,4 +281,13 @@ function setupMap()
               "<b>Phone:</b> 423-463-4760<br>" +
               "<b>Hours:</b> Mon-Fri 8AM-5PM<br>" +
               "<b>Website:</b> <a href=\"http://www.topnotchcustomsllc.com\" target=\"_blank\">TopNotchCustomsLLC.com</a>");
+
+        // Pin 25: Augustine Life Solutions DBA Fred's Kettle Corn
+  L.marker([35.0800913, -85.0622878], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Augustine Life Solutions/Augustine Life Solutions.png\" style=\"width: 100px;\"><br>" +
+              "<b>Augustine Life Solutions DBA Fred's Kettle Corn</b><br>" +
+              "<b>Address:</b> 5829 Main Street, Collegedale, TN 37363<br>" +
+              "<b>Phone:</b> 919-452-7310<br>" +
+              "<b>Hours:</b> Mon-Fri 9AM-6PM<br>" +
+              "<b>Website:</b> <a href=\"https://augustinelifesolutions.com\" target=\"_blank\">AugustineLifeSolutions.com</a>");
 }
