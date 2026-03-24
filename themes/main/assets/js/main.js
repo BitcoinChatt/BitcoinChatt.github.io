@@ -86,4 +86,13 @@ function setupMap()
               "<b>Phone:</b> 423-800-6800<br>" +
               "<b>Hours:</b> Mon-Thurs, 10AM-6PM<br>" +
               "<b>Website:</b> <a href=\"https://divinedesignnaturalhealth.com\" target=\"_blank\">DivineDesignNaturalHealth.com</a>");
+
+        // Pin 2: Calvary Chapel
+  L.marker([35.0157164, -85.3241693], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Calvary Chapel/Calvary Chapel.jpg\" style=\"width: 100px;\"><br>" +
+              "<b>Calvary Chapel Chattanooga</b><br>" +
+              "<b>Address:</b> 3415 Broad St, Chattanooga, TN 37409<br>" +
+              "<b>Phone:</b> 423-752-0004<br>" +
+              "<b>Hours:</b> Sat 3:30–8 PM, Sun 8:30 AM–2 PM<br>" +
+              "<b>Website:</b> <a href=\"http://www.calvarychatt.com\" target=\"_blank\">CalvaryChatt.com</a>");
 }
