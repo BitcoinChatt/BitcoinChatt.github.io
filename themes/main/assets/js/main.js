@@ -104,4 +104,31 @@ function setupMap()
               "<b>Phone:</b> 423-834-4867<br>" +
               "<b>Hours:</b> Sun-Sat, 12AM-11:45PM<br>" +
               "<b>Website:</b> <a href=\"https://samedayseptic.com\" target=\"_blank\">SameDaySeptic.co</a>");
+
+          // Pin 4: Steak 'n Shake (Fort Oglethorpe)
+  L.marker([34.951935, -85.244715], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
+              "<b>Steak n Shake</b><br>" +
+              "<b>Address:</b> 1182 Battlefield Pkwy, Fort Oglethorpe, GA 30742<br>" +
+              "<b>Phone:</b> 706-858-1919<br>" +
+              "<b>Hours:</b> Sun-Sat, 11AM-11PM<br>" +
+              "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/ga-ft-oglethorpe-battlefield-parkway/\" target=\"_blank\">SteaknShake.com</a>");
+
+        // Pin 5: Steak 'n Shake (Dalton)
+  L.marker([34.759589, -84.989919], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
+              "<b>Steak n Shake</b><br>" +
+              "<b>Address:</b> 1250 W Walnut Ave, Dalton, GA 30720<br>" +
+              "<b>Phone:</b> 706-272-3300<br>" +
+              "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
+              "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/ga-dalton-w-walnut-avenue/\" target=\"_blank\">SteaknShake.com</a>");
+
+        // Pin 6: Steak 'n Shake (Gunbarrel)
+  L.marker([35.039848, -85.149789], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
+              "<b>Steak n Shake</b><br>" +
+              "<b>Address:</b> 2296 Gunbarrel Rd, Chattanooga, TN 37421<br>" +
+              "<b>Phone:</b> 423-892-2993<br>" +
+              "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
+              "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/tn-chattanooga-gunbarrel-road/\" target=\"_blank\">SteaknShake.com</a>");
 }
