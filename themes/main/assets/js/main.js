@@ -194,4 +194,10 @@ function setupMap()
               "<b>Phone:</b> 423-490-9819<br>" +
               "<b>Hours:</b> Sun 12-10PM, Mon-Thurs 12-9PM, Fri-Sat 12PM-12AM<br>" +
               "<b>Website:</b> <a href=\"https://www.facebook.com/standardink\" target=\"_blank\">Facebook Page</a>");
+
+        // Pin 14: Organizational Change Solutions
+  L.marker([35.1971021, -84.8947589], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Organizational Change Solutions/Organizational Change Solutions.png\" style=\"width: 100px;\"><br>" +
+              "<b>Organizational Change Solutions</b><br>" +
+              "<b>Address:</b> 2250 Candies Lane NW, A, Cleveland, TN 37312<br>");
 }
