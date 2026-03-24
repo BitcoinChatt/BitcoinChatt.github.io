@@ -176,4 +176,13 @@ function setupMap()
               "<b>Phone:</b> 928-848-9368<br>" +
               "<b>Hours:</b> Tues-Sat 11 AM–7 PM<br>" +
               "<b>Website:</b> <a href=\"https://www.bespokebarbershop.co/\" target=\"_blank\">BespokeBarbershop.co</a>");
+
+        // Pin 12: First Response Towing and Recovery
+  L.marker([35.0328476, -85.1940908], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/First Response Towing and Recovery/First Response Towing and Recovery.png\" style=\"width: 100px;\"><br>" +
+              "<b>First Response Towing and Recovery</b><br>" +
+              "<b>Address:</b> 980 Airport Road, Chattanooga, TN 37421<br>" +
+              "<b>Phone:</b> 423-702-5074<br>" +
+              "<b>Hours:</b> 24/7<br>" +
+              "<b>Website:</b> <a href=\"https://www.firstresponsetowingandrecovery.com/\" target=\"_blank\">FirstResponseTowingAndRecovery.com</a>");
 }
