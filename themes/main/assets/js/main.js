@@ -95,4 +95,13 @@ function setupMap()
               "<b>Phone:</b> 423-752-0004<br>" +
               "<b>Hours:</b> Sat 3:30–8 PM, Sun 8:30 AM–2 PM<br>" +
               "<b>Website:</b> <a href=\"http://www.calvarychatt.com\" target=\"_blank\">CalvaryChatt.com</a>");
+
+        // Pin 3: Same Day Septic
+  L.marker([35.002027, -85.204528], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png\" style=\"width: 100px;\"><br>" +
+              "<b>Same Day Septic</b><br>" +
+              "<b>Address:</b> Chattanooga, TN<br>" +
+              "<b>Phone:</b> 423-834-4867<br>" +
+              "<b>Hours:</b> Sun-Sat, 12AM-11:45PM<br>" +
+              "<b>Website:</b> <a href=\"https://samedayseptic.com\" target=\"_blank\">SameDaySeptic.co</a>");
 }
