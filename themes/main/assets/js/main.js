@@ -308,4 +308,13 @@ function setupMap()
               "<b>Phone:</b> 423-243-3346<br>" +
               "<b>Hours:</b> Mon-Sat 11AM-7PM<br>" +
               "<b>Website:</b> <a href=\"https://poweruppizzatruck.com\" target=\"_blank\">PowerUpPizzaTruck.com</a>");
+
+        // Pin 28: Laughing Koffin Tattoo
+  L.marker([35.0085833, -85.1520737], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Laughing Koffin Tattoo/Laughing Koffin Tattoo.png\" style=\"width: 100px;\"><br>" +
+              "<b>Laughing Koffin Tattoo</b><br>" +
+              "<b>Address:</b> 1414 Jenkins Road, Suite 121, Chattanooga, TN 37421<br>" +
+              "<b>Phone:</b> 423-206-9933<br>" +
+              "<b>Hours:</b> Tues-Sat 12-8PM<br>" +
+              "<b>Website:</b> <a href=\"https://laughingkoffintattoo.com\" target=\"_blank\">LaughingKoffinTattoo.com</a>");
 }
