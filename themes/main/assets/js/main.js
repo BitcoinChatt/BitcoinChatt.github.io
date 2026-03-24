@@ -227,4 +227,10 @@ function setupMap()
               "<b>Phone:</b> 423-476-5513<br>" +
               "<b>Hours:</b> Sun 10:30AM-12PM, Mon-Thurs 8AM-5PM<br>" +
               "<b>Website:</b> <a href=\"https://www.nccog.com/\" target=\"_blank\">NCCOG.com</a>");
+
+        // Pin 18: Toots Braids of Love
+  L.marker([35.0461207, -85.2616513], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Toots Braids of Love/Toots Braids of Love.png\" style=\"width: 100px;\"><br>" +
+              "<b>Toots Braids of Love</b><br>" +
+              "<b>Address:</b> 904 Arlington Avenue, Chattanooga, TN 37406<br>");
 }
