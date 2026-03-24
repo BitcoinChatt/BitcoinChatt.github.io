@@ -158,4 +158,13 @@ function setupMap()
               "<b>Phone:</b> 423-690-7291<br>" +
               "<b>Hours:</b> Mon 10AM-6PM, Tues-Thurs 10AM-7PM, Fri 10AM-6PM, Sat 10AM-4PM<br>" +
               "<b>Website:</b> <a href=\"https://www.AnchorBarberCo.com\" target=\"_blank\">AnchorBarberCo.com</a>");
+
+        // Pin 10: Gadget Mechanic
+  L.marker([34.7855517, -85.003133], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Gadget Mechanic/Gadget Mechanic.png\" style=\"width: 100px;\"><br>" +
+              "<b>Gadget Mechanic</b><br>" +
+              "<b>Address:</b> 819 N. Tibbs Road, Dalton, GA 30720<br>" +
+              "<b>Phone:</b> 706-671-5835<br>" +
+              "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 11AM-4PM<br>" +
+              "<b>Website:</b> <a href=\"https://www.gadgetmechanic.us/\" target=\"_blank\">GadgetMechanic.us</a>");
 }
