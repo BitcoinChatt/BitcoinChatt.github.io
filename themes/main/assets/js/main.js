@@ -317,4 +317,13 @@ function setupMap()
               "<b>Phone:</b> 423-206-9933<br>" +
               "<b>Hours:</b> Tues-Sat 12-8PM<br>" +
               "<b>Website:</b> <a href=\"https://laughingkoffintattoo.com\" target=\"_blank\">LaughingKoffinTattoo.com</a>");
+
+        // Pin 29: The Esthetics Shop by Myriam, LLC
+  L.marker([34.7568811,-84.9828673], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/The Esthetics Shop by Myriam/The Esthetics Shop by Myriam.jpg\" style=\"width: 100px;\"><br>" +
+              "<b>The Esthetics Shop by Myriam, LLC</b><br>" +
+              "<b>Address:</b> 1100 Lakemont Drive, Dalton, GA 30720<br>" +
+              "<b>Phone:</b> 706-229-1194<br>" +
+              "<b>Hours:</b> Wed-Thurs 4-7PM, Fri 9AM-6:30PM, Sat 8AM-1PM, Sun 12-4PM<br>" +
+              "<b>Website:</b> <a href=\"https://the-esthetics-shop-by-myriam-llc.square.site\" target=\"_blank\">The-Esthetics-Shop-by-Myriam-LLC.square.site</a>");
 }
