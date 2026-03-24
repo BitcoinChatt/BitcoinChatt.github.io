@@ -167,4 +167,13 @@ function setupMap()
               "<b>Phone:</b> 706-671-5835<br>" +
               "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 11AM-4PM<br>" +
               "<b>Website:</b> <a href=\"https://www.gadgetmechanic.us/\" target=\"_blank\">GadgetMechanic.us</a>");
+
+        // Pin 11: Bespoke Barbershop
+  L.marker([35.0315116, -85.1509364], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Bespoke Barbershop/Bespoke Barbershop.png\" style=\"width: 100px;\"><br>" +
+              "<b>Bespoke Barbershop</b><br>" +
+              "<b>Address:</b> 2020 Gunbarrel Road 194, Suite #107, Chattanooga, TN 37421<br>" +
+              "<b>Phone:</b> 928-848-9368<br>" +
+              "<b>Hours:</b> Tues-Sat 11 AM–7 PM<br>" +
+              "<b>Website:</b> <a href=\"https://www.bespokebarbershop.co/\" target=\"_blank\">BespokeBarbershop.co</a>");
 }
