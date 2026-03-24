@@ -185,4 +185,13 @@ function setupMap()
               "<b>Phone:</b> 423-702-5074<br>" +
               "<b>Hours:</b> 24/7<br>" +
               "<b>Website:</b> <a href=\"https://www.firstresponsetowingandrecovery.com/\" target=\"_blank\">FirstResponseTowingAndRecovery.com</a>");
+
+        // Pin 13: Standard Ink Tattoo Company
+  L.marker([35.0611373, -85.3036354], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Standard Ink Tattoo Company/Standard Ink Tattoo Company.png\" style=\"width: 100px;\"><br>" +
+              "<b>Standard Ink Tattoo Company</b><br>" +
+              "<b>Address:</b> 434 Frazier Avenue, Chattanooga, TN 37405<br>" +
+              "<b>Phone:</b> 423-490-9819<br>" +
+              "<b>Hours:</b> Sun 12-10PM, Mon-Thurs 12-9PM, Fri-Sat 12PM-12AM<br>" +
+              "<b>Website:</b> <a href=\"https://www.facebook.com/standardink\" target=\"_blank\">Facebook Page</a>");
 }
