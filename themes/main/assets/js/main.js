@@ -105,7 +105,7 @@ function setupMap()
               "<b>Hours:</b> Sun-Sat, 12AM-11:45PM<br>" +
               "<b>Website:</b> <a href=\"https://samedayseptic.com\" target=\"_blank\">SameDaySeptic.co</a>");
 
-          // Pin 4: Steak 'n Shake (Fort Oglethorpe)
+        // Pin 4: Steak 'n Shake (Fort Oglethorpe)
   L.marker([34.951935, -85.244715], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
               "<b>Steak n Shake</b><br>" +
@@ -141,7 +141,7 @@ function setupMap()
               "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
               "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/tn-cleveland-paul-huff-parkway/\" target=\"_blank\">SteaknShake.com</a>");
 
-          // Pin 8: City Smokes
+        // Pin 8: City Smokes
   L.marker([34.990641, -85.196578], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/City Smokes/City Smokes.png\" style=\"width: 100px;\"><br>" +
               "<b>City Smokes</b><br>" +
@@ -149,4 +149,13 @@ function setupMap()
               "<b>Phone:</b> 423-463-5997<br>" +
               "<b>Hours:</b> Mon-Thurs 10AM-9PM, Fri-Sat 10AM-10PM, Sun 11:30AM-8PM<br>" +
               "<b>Website:</b> <a href=\"https://www.facebook.com/profile.php?id=61556971360123\" target=\"_blank\">Facebook Page</a>");
+
+        // Pin 9: Anchor Barber Co.
+  L.marker([35.066856, -85.308845], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Anchor Barber Co/Anchor Barber Co.png\" style=\"width: 100px;\"><br>" +
+              "<b>Anchor Barber Co.</b><br>" +
+              "<b>Address:</b> 502 N Market St, Chattanooga, TN 37405<br>" +
+              "<b>Phone:</b> 423-690-7291<br>" +
+              "<b>Hours:</b> Mon 10AM-6PM, Tues-Thurs 10AM-7PM, Fri 10AM-6PM, Sat 10AM-4PM<br>" +
+              "<b>Website:</b> <a href=\"https://www.AnchorBarberCo.com\" target=\"_blank\">AnchorBarberCo.com</a>");
 }
