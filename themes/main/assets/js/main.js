@@ -131,4 +131,13 @@ function setupMap()
               "<b>Phone:</b> 423-892-2993<br>" +
               "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
               "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/tn-chattanooga-gunbarrel-road/\" target=\"_blank\">SteaknShake.com</a>");
+
+        // Pin 7: Steak 'n Shake (Cleveland)
+  L.marker([35.205077, -84.849458], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
+              "<b>Steak n Shake</b><br>" +
+              "<b>Address:</b> 220 Paul Huff Pkwy NW, Cleveland, TN 37312<br>" +
+              "<b>Phone:</b> 423-614-7300<br>" +
+              "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
+              "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/tn-cleveland-paul-huff-parkway/\" target=\"_blank\">SteaknShake.com</a>");
 }
