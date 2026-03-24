@@ -249,4 +249,10 @@ function setupMap()
               "<b>Address:</b> 1155 E Main St, Chattanooga, TN 37408<br>" +
               "<b>Phone:</b> 423-883-1864<br>" +
               "<b>Website:</b> <a href=\"http://chattanoogacrystalstore.com/\" target=\"_blank\">ChattanoogaCrystalStore.com/</a>");
+
+        // Pin 21: Erica's Pristine Touch Cleaning Service
+  L.marker([35.0467664, -85.3113186], {icon: businessIcon}).addTo(map)
+  .bindPopup("<br>" +
+              "<b>Erica\'s Pristine Touch Cleaning Service</b><br>" +
+              "<b>Address:</b> 808 Chestnut St, Chattanooga, TN 37402<br>");
 }
