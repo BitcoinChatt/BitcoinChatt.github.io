@@ -280,5 +280,5 @@ function setupMap()
               "<b>Address:</b> 134 Lake City Drive, Flintstone, GA 30725<br>" +
               "<b>Phone:</b> 423-463-4760<br>" +
               "<b>Hours:</b> Mon-Fri 8AM-5PM<br>" +
-              "<b>Website:</b> <a href=\"http://www.topnotchcustomsllc.com" target=\"_blank\">TopNotchCustomsLLC.com</a>");
+              "<b>Website:</b> <a href=\"http://www.topnotchcustomsllc.com\" target=\"_blank\">TopNotchCustomsLLC.com</a>");
 }
