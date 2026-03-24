@@ -233,4 +233,12 @@ function setupMap()
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Toots Braids of Love/Toots Braids of Love.png\" style=\"width: 100px;\"><br>" +
               "<b>Toots Braids of Love</b><br>" +
               "<b>Address:</b> 904 Arlington Avenue, Chattanooga, TN 37406<br>");
+
+        // Pin 19: CrabTrap Mobile Kitchen
+  L.marker([35.0549418, -85.1988804], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/CrabTrap Mobile Kitchen/CrabTrap Mobile Kitchen.png\" style=\"width: 100px;\"><br>" +
+              "<b>CrabTrap Mobile Kitchen</b><br>" +
+              "<b>Address:</b> 5902 Shallowford Road, Chattanooga, TN 37421<br>" +
+              "<b>Phone:</b> 423-255-0436<br>" +
+              "<b>Website:</b> <a href=\"https://www.facebook.com/profile.php?id=100063589031640\" target=\"_blank\">Facebook Page</a>");
 }
