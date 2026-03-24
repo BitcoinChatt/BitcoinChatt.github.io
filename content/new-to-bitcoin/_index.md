@@ -161,6 +161,15 @@ title = 'New to Bitcoin?'
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </div>
+      <!-- Video 11 -->
+      <div class="swiper-slide">
+        <div class="video-wrapper">
+          <iframe id="yt10" src="https://www.youtube.com/embed/JxSlfBaGymg?enablejsapi=1" 
+                  title="YouTube Short" frameborder="0" 
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
     </div>
     <!-- Navigation arrows + pagination -->
     <div class="swiper-button-next"></div>
