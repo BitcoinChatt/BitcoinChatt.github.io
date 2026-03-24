@@ -272,4 +272,13 @@ function setupMap()
               "<b>Phone:</b> 706-275-6789<br>" +
               "<b>Hours:</b> Sun 10:30AM-12PM, Mon-Fri 6AM-2PM<br>" +
               "<b>Website:</b> <a href=\"https://kellys-restaurant.com/\" target=\"_blank\">Kellys-Restaurant.com</a>");
+
+        // Pin 24: Top Notch Customs, LLC
+  L.marker([34.9328006, -85.3412157], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Top Notch Customs/Top Notch Customs.jpg" style=\"width: 100px;\"><br>" +
+              "<b>Top Notch Customs, LLC</b><br>" +
+              "<b>Address:</b> 134 Lake City Drive, Flintstone, GA 30725<br>" +
+              "<b>Phone:</b> 423-463-4760<br>" +
+              "<b>Hours:</b> Mon-Fri 8AM-5PM<br>" +
+              "<b>Website:</b> <a href=\"http://www.topnotchcustomsllc.com" target=\"_blank\">TopNotchCustomsLLC.com</a>");
 }
