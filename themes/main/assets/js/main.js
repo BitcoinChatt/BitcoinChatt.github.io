@@ -290,4 +290,22 @@ function setupMap()
               "<b>Phone:</b> 919-452-7310<br>" +
               "<b>Hours:</b> Mon-Fri 9AM-6PM<br>" +
               "<b>Website:</b> <a href=\"https://augustinelifesolutions.com\" target=\"_blank\">AugustineLifeSolutions.com</a>");
+
+        // Pin 26: Power-Up Pizza
+  L.marker([34.9565883, -85.2326928], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Power-Up Pizza/Power-Up Pizza.jpg\" style=\"width: 100px;\"><br>" +
+              "<b>Power-Up Pizza</b><br>" +
+              "<b>Address:</b> 1628 Cloud Springs Road, Rossville, GA 30741<br>" +
+              "<b>Phone:</b> 423-243-3346<br>" +
+              "<b>Hours:</b> Mon-Sat 11AM-7PM<br>" +
+              "<b>Website:</b> <a href=\"https://poweruppizzatruck.com\" target=\"_blank\">PowerUpPizzaTruck.com</a>");
+
+        // Pin 27: Power-Up Pizza Food Truck
+  L.marker([35.0074528, -85.2108077], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Power-Up Pizza/Power-Up Pizza.jpg\" style=\"width: 100px;\"><br>" +
+              "<b>Power-Up Pizza Food Truck</b><br>" +
+              "<b>Address:</b> 5704 Marlin Road, Chattanooga, TN 37411<br>" +
+              "<b>Phone:</b> 423-243-3346<br>" +
+              "<b>Hours:</b> Mon-Sat 11AM-7PM<br>" +
+              "<b>Website:</b> <a href=\"https://poweruppizzatruck.com\" target=\"_blank\">PowerUpPizzaTruck.com</a>");
 }
