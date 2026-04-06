@@ -329,7 +329,7 @@ function setupMap()
 
         // Pin 30: Backroad Cheesesteaks
   L.marker([34.9682497, -85.2568861], {icon: businessIcon}).addTo(map)
-              "<b>Backroad Cheesesteaks</b><br>" +
+    .bindPopup("<b>Backroad Cheesesteaks</b><br>" +
               "<b>Address:</b> 507 Chickamauga Avenue, Rossville, GA 30741<br>");
 
         // Pin 31: All About You Day Spa
