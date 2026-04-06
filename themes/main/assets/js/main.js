@@ -344,7 +344,7 @@ function setupMap()
         // Pin 32: Trading Post Food Store
   L.marker([35.064477, -85.0996096], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Trading Post Food Store/Trading Post Food Store.png\" style=\"width: 100px;\"><br>" +
-              "<b>Tradingpost</b><br>" +
+              "<b>Trading Post Food Store</b><br>" +
               "<b>Address:</b> 4896 Pattentown Road, Ooltewah, TN 37363<br>" +
               "<b>Phone:</b> 423-910-1887<br>" +
               "<b>Hours:</b> Mon-Sun 7AM-10PM<br>" +
