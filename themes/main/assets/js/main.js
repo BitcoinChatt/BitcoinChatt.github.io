@@ -326,4 +326,27 @@ function setupMap()
               "<b>Phone:</b> 706-229-1194<br>" +
               "<b>Hours:</b> Wed-Thurs 4-7PM, Fri 9AM-6:30PM, Sat 8AM-1PM, Sun 12-4PM<br>" +
               "<b>Website:</b> <a href=\"https://the-esthetics-shop-by-myriam-llc.square.site\" target=\"_blank\">The-Esthetics-Shop-by-Myriam-LLC.square.site</a>");
+
+        // Pin 30: Backroad Cheesesteaks
+  L.marker([34.9682497, -85.2568861], {icon: businessIcon}).addTo(map)
+              "<b>Backroad Cheesesteaks</b><br>" +
+              "<b>Address:</b> 507 Chickamauga Avenue, Rossville, GA 30741<br>");
+
+        // Pin 31: All About You Day Spa
+  L.marker([34.9891382, -85.1932672], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/All About You Day Spa/All About You Day Spa.png\" style=\"width: 100px;\"><br>" +
+              "<b>All About You Day Spa</b><br>" +
+              "<b>Address:</b> 6737 Ringgold Road, Suite B, Chattanooga, TN 37412<br>" +
+              "<b>Phone:</b> 423-991-0875<br>" +
+              "<b>Hours:</b> Tues, Thurs, & Fri 9AM-6PM, Sat 9AM-3PM, Sun 9AM-5PM<br>" +
+              "<b>Website:</b> <a href=\"https://elenadion-skincare.square.site" target=\"_blank\">Elenadion-Skincare.square.site</a>");
+
+        // Pin 32: Trading Post Food Store
+  L.marker([35.064477, -85.0996096], {icon: businessIcon}).addTo(map)
+    .bindPopup("<img src=\"/images/Bitcoin Businesses/Trading Post Food Store/Trading Post Food Store.png\" style=\"width: 100px;\"><br>" +
+              "<b>Tradingpost</b><br>" +
+              "<b>Address:</b> 4896 Pattentown Road, Ooltewah, TN 37363<br>" +
+              "<b>Phone:</b> 423-910-1887<br>" +
+              "<b>Hours:</b> Mon-Sun 7AM-10PM<br>" +
+              "<b>Website:</b> <a href=\"https://tradingpost-quick-stop.base44.app/" target=\"_blank\">TradingPost-Quick-Stop.base44.app/</a>");
 }
