@@ -339,7 +339,7 @@ function setupMap()
               "<b>Address:</b> 6737 Ringgold Road, Suite B, Chattanooga, TN 37412<br>" +
               "<b>Phone:</b> 423-991-0875<br>" +
               "<b>Hours:</b> Tues, Thurs, & Fri 9AM-6PM, Sat 9AM-3PM, Sun 9AM-5PM<br>" +
-              "<b>Website:</b> <a href=\"https://elenadion-skincare.square.site" target=\"_blank\">Elenadion-Skincare.square.site</a>");
+              "<b>Website:</b> <a href=\"https://elenadion-skincare.square.site\" target=\"_blank\">Elenadion-Skincare.square.site</a>");
 
         // Pin 32: Trading Post Food Store
   L.marker([35.064477, -85.0996096], {icon: businessIcon}).addTo(map)
@@ -348,5 +348,5 @@ function setupMap()
               "<b>Address:</b> 4896 Pattentown Road, Ooltewah, TN 37363<br>" +
               "<b>Phone:</b> 423-910-1887<br>" +
               "<b>Hours:</b> Mon-Sun 7AM-10PM<br>" +
-              "<b>Website:</b> <a href=\"https://tradingpost-quick-stop.base44.app/" target=\"_blank\">TradingPost-Quick-Stop.base44.app/</a>");
+              "<b>Website:</b> <a href=\"https://tradingpost-quick-stop.base44.app\" target=\"_blank\">TradingPost-Quick-Stop.base44.app</a>");
 }
