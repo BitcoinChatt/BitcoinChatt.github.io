@@ -45,17 +45,21 @@ draft = false
 
 <h2 style="text-align: center"><b>Latest News:</b></h2>
 
+<h3 style="text-align: center"><b>April 9th</b></h3>
+
 <center>
 
-<b>April 9th:</b> Join us at a <u>new location</u> on <b>Saturday April 18th!</b> We'll meet in the <b>North Building of Warehouse Row,</b> at <b>1110 Market Street in downtown Chattanooga, from 12-2PM.</b>
+Join us at a <a target="_blank" href="https://maps.app.goo.gl/Fx3ugMRZfAqGLxzE6">new location</a> on <b>Saturday April 18th!</b> We'll meet in the <b>North Building of Warehouse Row,</b> at <b>1110 Market Street in downtown Chattanooga, from 12-2PM.</b>
 
-If you use what3words.com, go to <a target="_blank" href="w3w.co/intend.sits.expert">w3w.co/intend.sits.expert</a>, and you should find us.
+If you use what3words.com, go to <a target="_blank" href="https://w3w.co/intend.sits.expert">w3w.co/intend.sits.expert</a>, and you should find us.
 
 If you're new to Bitcoin, we'll help you get started, and if you're a long-time Bitcoiner, you'll get to connect with other Bitcoiners. <b>We'll do a special giveaway at each meetup, and <i>even help you get some free sats (small pieces of bitcoin)!</i></b>
 
 Look for these tables and chairs outside Antropologie, where you'll also see Bitcoin Chatt signage.
 
-<img class="mobile-banner" src="https://npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779.blossom.band/986659934a22cab0536c461994c1530151821466b9e3e829751dc6d119be75dc.jpg" style="width:40dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="https://npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779.blossom.band/986659934a22cab0536c461994c1530151821466b9e3e829751dc6d119be75dc.jpg" style="width:30dvw;display:block;margin:0 auto;">
+
+<br>
 
 RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
 
