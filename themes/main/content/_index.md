@@ -47,15 +47,19 @@ draft = false
 
 <center>
 
-<b>December 20th:</b> Starting <b>January 21st, 2026</b>, Bitcoin Chatt will meet from <b>6-8pm</b> at the <b>Common Table</b>, a restaurant that's part of <a target="_blank" href="https://www.calvarychatt.com/">Calvary Chapel</a>, located at <b>3413 Broad Street</b> in Chattanooga.
+<b>April 9th:</b> Join us at a <u>new location</u> on <b>Saturday April 18th!</b> We'll meet in the <b>North Building of Warehouse Row,</b> at <b>1110 Market Street in downtown Chattanooga, from 12-2PM.</b>
 
-The first hour of each meeting will be a discussion on one of the lessons in the book <a target="_blank" href="https://thebibleandbitcoin.com/">"The Bible and Bitcoin"</a>.
+If you use what3words.com, go to <a target="_blank" href="w3w.co/intend.sits.expert">w3w.co/intend.sits.expert</a>, and you should find us.
 
-The second hour will then be an open discussion about that lesson in the book, or Bitcoin in general, or other related topics.
+If you're new to Bitcoin, we'll help you get started, and if you're a long-time Bitcoiner, you'll get to connect with other Bitcoiners. <b>We'll do a special giveaway at each meetup, and <i>even help you get some free sats (small pieces of bitcoin)!</i></b>
 
-Come learn all about Bitcoin, meet other Bitcoiners in the area, and discover why Bitcoin is Godly money!
+Look for these tables and chairs outside Antropologie, where you'll also see Bitcoin Chatt signage.
+
+<img class="mobile-banner" src="https://npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779.blossom.band/986659934a22cab0536c461994c1530151821466b9e3e829751dc6d119be75dc.jpg" style="width:40dvw;display:block;margin:0 auto;">
 
 RSVP through our <a href="https://www.bitcoinchatt.com/calendar/">Calendar</a>.
+
+See you there!
 
 <br>
 
