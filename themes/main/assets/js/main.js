@@ -354,6 +354,6 @@ function setupMap()
   L.marker([34.9763265, -85.2526557], {icon: businessIcon}).addTo(map)
     .bindPopup("<b>R2 Delivery Service, LLC</b><br>" +
               "<b>Address:</b> 190 Center Street, Rossville, GA 30741<br>" +
-              "<b>Phone:</b> -423-637-8062<br>" +
-              "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 10AM-2:30PM" +);
+              "<b>Phone:</b> 423-637-8062<br>" +
+              "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 10AM-2:30PM");
 }
