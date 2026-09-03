@@ -17,7 +17,7 @@ window.onload = function()
 
   setupCalendar();
 
-  setupMap();
+  setupMapPage();
 };
 
 function setupCalendar()
@@ -34,7 +34,7 @@ function setupCalendar()
   }
 }
 
-function setupMap()
+function setupMapPage()
 {
   // Change these two variables and the image alignment should adjust automatically
   var iconWidth = 30;
@@ -59,7 +59,7 @@ function setupMap()
     tapHold: true
   });
 
-  var pos = [35.056145, -85.121643/*35.037366, -85.056710*/];
+  var pos = [35.056145, -85.121643];
   if (isMobile())
   {
     map.setView(pos, 9.7);
@@ -67,354 +67,458 @@ function setupMap()
   {
     map.setView(pos, 10);
   }
-  
 
   while (document.getElementById("map") === null)
   {
     console.log("waiting for map");
   }
 
+  var markers = [
+    // Pin 1: Divine Design Natural Health
+    {
+      coords: [35.194250, -84.856933],
+      image: String.raw`/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg`,
+      name: String.raw`Divine Design Natural Health`,
+      address: String.raw`3800 Keith St NW, Cleveland, TN 37312`,
+      phone: String.raw`423-800-6800`,
+      hours: String.raw`Mon-Thurs, 10AM-6PM`,
+      websiteURL: String.raw`https://divinedesignnaturalhealth.com`,
+      websiteName: String.raw`DivineDesignNaturalHealth.com`,
+    },
+    // Pin 2: Calvary Chapel
+    {
+      coords: [35.0157164, -85.3241693],
+      image: String.raw`/images/Bitcoin Businesses/Calvary Chapel/Calvary Chapel.jpg`,
+      name: String.raw`Calvary Chapel Chattanooga`,
+      address: String.raw`3415 Broad St, Chattanooga, TN 37409`,
+      phone: String.raw`423-752-0004`,
+      hours: String.raw`Sat 3:30–8 PM, Sun 8:30 AM–2 PM`,
+      websiteURL: String.raw`http://www.calvarychatt.com`,
+      websiteName: String.raw`CalvaryChatt.com`,
+    },
+    // Pin 3: Same Day Septic
+    {
+      coords: [35.002027, -85.204528],
+      image: String.raw`/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png`,
+      name: String.raw`Same Day Septic`,
+      address: String.raw`Chattanooga, TN`,
+      phone: String.raw`423-834-4867`,
+      hours: String.raw`Sun-Sat, 12AM-11:45PM`,
+      websiteURL: String.raw`https://samedayseptic.com`,
+      websiteName: String.raw`SameDaySeptic.co`,
+    },
+    // Pin 4: Steak 'n Shake (Fort Oglethorpe)
+    {
+      coords: [34.951935, -85.244715],
+      image: String.raw`/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png`,
+      name: String.raw`Steak n Shake`,
+      address: String.raw`1182 Battlefield Pkwy, Fort Oglethorpe, GA 30742`,
+      phone: String.raw`706-858-1919`,
+      hours: String.raw`Sun-Sat, 11AM-11PM`,
+      websiteURL: String.raw`https://www.steaknshake.com/locations/ga-ft-oglethorpe-battlefield-parkway/`,
+      websiteName: String.raw`SteaknShake.com`,
+    },
+    // Pin 5: Steak 'n Shake (Dalton)
+    {
+      coords: [34.759589, -84.989919],
+      image: String.raw`/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png`,
+      name: String.raw`Steak n Shake`,
+      address: String.raw`1250 W Walnut Ave, Dalton, GA 30720`,
+      phone: String.raw`706-272-3300`,
+      hours: String.raw`Sun-Sat, 11AM-12AM`,
+      websiteURL: String.raw`https://www.steaknshake.com/locations/ga-dalton-w-walnut-avenue/`,
+      websiteName: String.raw`SteaknShake.com`,
+    },
+    // Pin 6: Steak 'n Shake (Gunbarrel)
+    {
+      coords: [35.039848, -85.149789],
+      image: String.raw`/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png`,
+      name: String.raw`Steak n Shake`,
+      address: String.raw`2296 Gunbarrel Rd, Chattanooga, TN 37421`,
+      phone: String.raw`423-892-2993`,
+      hours: String.raw`Sun-Sat, 11AM-12AM`,
+      websiteURL: String.raw`https://www.steaknshake.com/locations/tn-chattanooga-gunbarrel-road/`,
+      websiteName: String.raw`SteaknShake.com`,
+    },
+    // Pin 7: Steak 'n Shake (Cleveland)
+    {
+      coords: [35.205077, -84.849458],
+      image: String.raw`/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png`,
+      name: String.raw`Steak n Shake`,
+      address: String.raw`220 Paul Huff Pkwy NW, Cleveland, TN 37312`,
+      phone: String.raw`423-614-7300`,
+      hours: String.raw`Sun-Sat, 11AM-12AM`,
+      websiteURL: String.raw`https://www.steaknshake.com/locations/tn-cleveland-paul-huff-parkway/`,
+      websiteName: String.raw`SteaknShake.com`,
+    },
+    // Pin 8: City Collectibles
+    {
+      coords: [34.990641, -85.196578],
+      image: String.raw`/images/Bitcoin Businesses/City Collectibles/City Collectibles.jpg`,
+      name: String.raw`City Collectibles`,
+      address: String.raw`6725 Ringgold Rd, Ste 137, Chattanooga, TN 37412`,
+      phone: String.raw`423-486-1025`,
+      hours: String.raw`Sun 12-6PM, Tues-Thurs 12-8PM, Fri 12-9PM, Sat 11AM-9PM`,
+    },
+    // Pin 9: Anchor Barber Co.
+    {
+      coords: [35.066856, -85.308845],
+      image: String.raw`/images/Bitcoin Businesses/Anchor Barber Co/Anchor Barber Co.png`,
+      name: String.raw`Anchor Barber Co.`,
+      address: String.raw`502 N Market St, Chattanooga, TN 37405`,
+      phone: String.raw`423-690-7291`,
+      hours: String.raw`Mon 10AM-6PM, Tues-Thurs 10AM-7PM, Fri 10AM-6PM, Sat 10AM-4PM`,
+      websiteURL: String.raw`https://www.AnchorBarberCo.com`,
+      websiteName: String.raw`AnchorBarberCo.com`,
+    },
+    // Pin 10: Gadget Mechanic
+    {
+      coords: [34.7855517, -85.003133],
+      image: String.raw`/images/Bitcoin Businesses/Gadget Mechanic/Gadget Mechanic.png`,
+      name: String.raw`Gadget Mechanic`,
+      address: String.raw`819 N. Tibbs Road, Dalton, GA 30720`,
+      phone: String.raw`706-671-5835`,
+      hours: String.raw`Mon-Fri 10AM-6PM, Sat 11AM-4PM`,
+      websiteURL: String.raw`https://www.gadgetmechanic.us/`,
+      websiteName: String.raw`GadgetMechanic.us`,
+    },
+    // Pin 11: Bespoke Barbershop
+    {
+      coords: [35.0315116, -85.1509364],
+      image: String.raw`/images/Bitcoin Businesses/Bespoke Barbershop/Bespoke Barbershop.png`,
+      name: String.raw`Bespoke Barbershop`,
+      address: String.raw`2020 Gunbarrel Road 194, Suite #107, Chattanooga, TN 37421`,
+      phone: String.raw`928-848-9368`,
+      hours: String.raw`Tues-Sat 11 AM–7 PM`,
+      websiteURL: String.raw`https://www.bespokebarbershop.co/`,
+      websiteName: String.raw`BespokeBarbershop.co`,
+    },
+    // Pin 12: First Response Towing and Recovery
+    {
+      coords: [35.0328476, -85.1940908],
+      image: String.raw`/images/Bitcoin Businesses/First Response Towing and Recovery/First Response Towing and Recovery.png`,
+      name: String.raw`First Response Towing and Recovery`,
+      address: String.raw`980 Airport Road, Chattanooga, TN 37421`,
+      phone: String.raw`423-702-5074`,
+      hours: String.raw`24/7`,
+      websiteURL: String.raw`https://www.firstresponsetowingandrecovery.com/`,
+      websiteName: String.raw`FirstResponseTowingAndRecovery.com`,
+    },
+    // Pin 13: Standard Ink Tattoo Company
+    {
+      coords: [35.0611373, -85.3036354],
+      image: String.raw`/images/Bitcoin Businesses/Standard Ink Tattoo Company/Standard Ink Tattoo Company.png`,
+      name: String.raw`Standard Ink Tattoo Company`,
+      address: String.raw`434 Frazier Avenue, Chattanooga, TN 37405`,
+      phone: String.raw`423-490-9819`,
+      hours: String.raw`Sun 12-10PM, Mon-Thurs 12-9PM, Fri-Sat 12PM-12AM`,
+      websiteURL: String.raw`https://www.facebook.com/standardink`,
+      websiteName: String.raw`Facebook Page`,
+    },
+    // Pin 14: Organizational Change Solutions
+    {
+      coords: [35.1971021, -84.8947589],
+      image: String.raw`/images/Bitcoin Businesses/Organizational Change Solutions/Organizational Change Solutions.png`,
+      name: String.raw`Organizational Change Solutions`,
+      address: String.raw`2250 Candies Lane NW, A, Cleveland, TN 37312`,
+    },
+    // Pin 15: Running Wild Inflatables
+    {
+      coords: [35.2492368, -85.1857456],
+      image: String.raw`/images/Bitcoin Businesses/Running Wild Inflatables/Running Wild Inflatables.png`,
+      name: String.raw`Running Wild Inflatables`,
+      address: String.raw`9917 Dayton Pike, Soddy-Daisy, TN 37379`,
+      phone: String.raw`423-401-8611`,
+      hours: String.raw`Sun-Sat 8AM-9PM`,
+      websiteURL: String.raw`https://www.runningwildinflatables.com/`,
+      websiteName: String.raw`RunningWildInflatables.com`,
+    },
+    // Pin 16: Noble Mediation and Notary
+    {
+      coords: [35.1602695, -84.8750917],
+      image: String.raw`/images/Bitcoin Businesses/Noble Mediation and Notary/Noble Mediation and Notary.png`,
+      name: String.raw`Noble Mediation and Notary`,
+      address: String.raw`170 N Ocoee Street, #202, Cleveland, TN 37311`,
+      phone: String.raw`423-458-4645`,
+      hours: String.raw`Wed 5:30-9PM, Fri 5:30-9PM, Sat-Sun 9AM-5PM`,
+      websiteURL: String.raw`https://www.noblemediationandnotary.com/`,
+      websiteName: String.raw`NobleMediationAndNotary.com/`,
+    },
+    // Pin 17: North Cleveland Church of God
+    {
+      coords: [35.1640222, -84.8678335],
+      image: String.raw`/images/Bitcoin Businesses/North Cleveland Church of God/North Cleveland Church of God.png`,
+      name: String.raw`North Cleveland Church of God`,
+      address: String.raw`335 11th Street NE, Cleveland, TN 37311`,
+      phone: String.raw`423-476-5513`,
+      hours: String.raw`Sun 10:30AM-12PM, Mon-Thurs 8AM-5PM`,
+      websiteURL: String.raw`https://www.nccog.com/`,
+      websiteName: String.raw`NCCOG.com`,
+    },
+    // Pin 18: Toots Braids of Love
+    {
+      coords: [35.0461207, -85.2616513],
+      image: String.raw`/images/Bitcoin Businesses/Toots Braids of Love/Toots Braids of Love.png`,
+      name: String.raw`Toots Braids of Love`,
+      address: String.raw`904 Arlington Avenue, Chattanooga, TN 37406`,
+    },
+    // Pin 19: CrabTrap Mobile Kitchen
+    {
+      coords: [35.0549418, -85.1988804],
+      image: String.raw`/images/Bitcoin Businesses/CrabTrap Mobile Kitchen/CrabTrap Mobile Kitchen.png`,
+      name: String.raw`CrabTrap Mobile Kitchen`,
+      address: String.raw`5902 Shallowford Road, Chattanooga, TN 37421`,
+      phone: String.raw`423-255-0436`,
+      websiteURL: String.raw`https://www.facebook.com/profile.php?id=100063589031640`,
+      websiteName: String.raw`Facebook Page`,
+    },
+    // Pin 20: Chattanooga Crystal Store
+    {
+      coords: [35.0301926, -85.2906239],
+      image: String.raw`/images/Bitcoin Businesses/Chattanooga Crystal Store/Chattanooga Crystal Store.jpg`,
+      name: String.raw`Chattanooga Crystal Store`,
+      address: String.raw`1155 E Main St, Chattanooga, TN 37408`,
+      phone: String.raw`423-883-1864`,
+      websiteURL: String.raw`http://chattanoogacrystalstore.com/`,
+      websiteName: String.raw`ChattanoogaCrystalStore.com/`,
+    },
+    // Pin 21: Erica's Pristine Touch Cleaning Service
+    {
+      coords: [35.0467664, -85.3113186],
+      name: String.raw`Erica's Pristine Touch Cleaning Service`,
+      address: String.raw`808 Chestnut St, Chattanooga, TN 37402`,
+    },
+    // Pin 22: Oh My Goodness Chef Chasty Seafood & More
+    {
+      coords: [35.0317024, -85.170861],
+      image: String.raw`/images/Bitcoin Businesses/Chef Chasty Seafood/Chef Chasty Seafood.jpg`,
+      name: String.raw`Oh My Goodness Chef Chasty Seafood & More`,
+      address: String.raw`6838 Old Stage Rd, Chattanooga, TN 37421`,
+      phone: String.raw`423-505-7488`,
+      websiteURL: String.raw`https://www.facebook.com/Chefchasty/`,
+      websiteName: String.raw`Facebook Page`,
+    },
+    // Pin 23: Kelly's Restaurant
+    {
+      coords: [34.7464956, -84.9716389],
+      image: String.raw`/images/Bitcoin Businesses/Kelly's Restaurant/Kelly's Restaurant.jpg`,
+      name: String.raw`Kelly's Restaurant`,
+      address: String.raw`1700 S. Dixie Hwy, Dalton, GA 30720`,
+      phone: String.raw`706-275-6789`,
+      hours: String.raw`Sun 10:30AM-12PM, Mon-Fri 6AM-2PM`,
+      websiteURL: String.raw`https://kellys-restaurant.com/`,
+      websiteName: String.raw`Kellys-Restaurant.com`,
+    },
+    // Pin 24: Top Notch Customs, LLC
+    {
+      coords: [34.9328006, -85.3412157],
+      image: String.raw`/images/Bitcoin Businesses/Top Notch Customs/Top Notch Customs.jpg`,
+      name: String.raw`Top Notch Customs, LLC`,
+      address: String.raw`134 Lake City Drive, Flintstone, GA 30725`,
+      phone: String.raw`423-463-4760`,
+      hours: String.raw`Mon-Fri 8AM-5PM`,
+      websiteURL: String.raw`http://www.topnotchcustomsllc.com`,
+      websiteName: String.raw`TopNotchCustomsLLC.com`,
+    },
+    // Pin 25: Augustine Life Solutions DBA Fred's Kettle Corn
+    {
+      coords: [35.0800913, -85.0622878],
+      image: String.raw`/images/Bitcoin Businesses/Augustine Life Solutions/Augustine Life Solutions.png`,
+      name: String.raw`Augustine Life Solutions DBA Fred's Kettle Corn`,
+      address: String.raw`5829 Main Street, Collegedale, TN 37363`,
+      phone: String.raw`919-452-7310`,
+      hours: String.raw`Mon-Fri 9AM-6PM`,
+      websiteURL: String.raw`https://augustinelifesolutions.com`,
+      websiteName: String.raw`AugustineLifeSolutions.com`,
+    },
+    // Pin 26: Power-Up Pizza
+    {
+      coords: [34.9565883, -85.2326928],
+      image: String.raw`/images/Bitcoin Businesses/Power-Up Pizza/Power-Up Pizza.jpg`,
+      name: String.raw`Power-Up Pizza`,
+      address: String.raw`1628 Cloud Springs Road, Rossville, GA 30741`,
+      phone: String.raw`423-243-3346`,
+      hours: String.raw`Mon-Sat 11AM-7PM`,
+      websiteURL: String.raw`https://poweruppizzatruck.com`,
+      websiteName: String.raw`PowerUpPizzaTruck.com`,
+    },
+    // Pin 27: Power-Up Pizza Food Truck
+    {
+      coords: [35.0074528, -85.2108077],
+      image: String.raw`/images/Bitcoin Businesses/Power-Up Pizza/Power-Up Pizza.jpg`,
+      name: String.raw`Power-Up Pizza Food Truck`,
+      address: String.raw`5704 Marlin Road, Chattanooga, TN 37411`,
+      phone: String.raw`423-243-3346`,
+      hours: String.raw`Mon-Sat 11AM-7PM`,
+      websiteURL: String.raw`https://poweruppizzatruck.com`,
+      websiteName: String.raw`PowerUpPizzaTruck.com`,
+    },
+    // Pin 28: Laughing Koffin Tattoo
+    {
+      coords: [35.0085833, -85.1520737],
+      image: String.raw`/images/Bitcoin Businesses/Laughing Koffin Tattoo/Laughing Koffin Tattoo.png`,
+      name: String.raw`Laughing Koffin Tattoo`,
+      address: String.raw`1414 Jenkins Road, Suite 121, Chattanooga, TN 37421`,
+      phone: String.raw`423-206-9933`,
+      hours: String.raw`Tues-Sat 12-8PM`,
+      websiteURL: String.raw`https://laughingkoffintattoo.com`,
+      websiteName: String.raw`LaughingKoffinTattoo.com`,
+    },
+    // Pin 29: The Esthetics Shop by Myriam, LLC
+    {
+      coords: [34.7568811,-84.9828673],
+      image: String.raw`/images/Bitcoin Businesses/The Esthetics Shop by Myriam/The Esthetics Shop by Myriam.jpg`,
+      name: String.raw`The Esthetics Shop by Myriam, LLC`,
+      address: String.raw`1100 Lakemont Drive, Dalton, GA 30720`,
+      phone: String.raw`706-229-1194`,
+      hours: String.raw`Wed-Thurs 4-7PM, Fri 9AM-6:30PM, Sat 8AM-1PM, Sun 12-4PM`,
+      websiteURL: String.raw`https://the-esthetics-shop-by-myriam-llc.square.site`,
+      websiteName: String.raw`The-Esthetics-Shop-by-Myriam-LLC.square.site`,
+    },
+    // Pin 30: Backroad Cheesesteaks
+    {
+      coords: [34.9682497, -85.2568861],
+      name: String.raw`Backroad Cheesesteaks`,
+      address: String.raw`507 Chickamauga Avenue, Rossville, GA 30741`,
+    },
+    // Pin 31: All About You Day Spa
+    {
+      coords: [34.9891382, -85.1932672],
+      image: String.raw`/images/Bitcoin Businesses/All About You Day Spa/All About You Day Spa.png`,
+      name: String.raw`All About You Day Spa`,
+      address: String.raw`6737 Ringgold Road, Suite B, Chattanooga, TN 37412`,
+      phone: String.raw`423-991-0875`,
+      hours: String.raw`Tues, Thurs, & Fri 9AM-6PM, Sat 9AM-3PM, Sun 9AM-5PM`,
+      websiteURL: String.raw`https://elenadion-skincare.square.site`,
+      websiteName: String.raw`Elenadion-Skincare.square.site`,
+    },
+    // Pin 32: Trading Post Food Store
+    {
+      coords: [35.064477, -85.0996096],
+      image: String.raw`/images/Bitcoin Businesses/Trading Post Food Store/Trading Post Food Store.png`,
+      name: String.raw`Trading Post Food Store`,
+      address: String.raw`4896 Pattentown Road, Ooltewah, TN 37363`,
+      phone: String.raw`423-910-1887`,
+      hours: String.raw`Mon-Sun 7AM-10PM`,
+      websiteURL: String.raw`https://tradingpost-quick-stop.base44.app`,
+      websiteName: String.raw`TradingPost-Quick-Stop.base44.app`,
+    },
+    // Pin 33: R2 Delivery Service, LLC
+    {
+      coords: [34.9763265, -85.2526557],
+      name: `R2 Delivery Service, LLC`,
+      address: String.raw`190 Center Street, Rossville, GA 30741`,
+      phone: String.raw`423-637-8062`,
+      hours: String.raw`Mon-Fri 10AM-6PM, Sat 10AM-2:30PM`,
+    },
+    // Pin 34: Georgia Dragonfly
+    {
+      coords: [34.8052939, -85.2750261],
+      image: String.raw`/images/Bitcoin Businesses/Georgia Dragonfly/Georgia Dragonfly.jpg`,
+      name: String.raw`Georgia Dragonfly`,
+      address: String.raw`681 Taylor Smith Rd, Rock Spring, GA 30739`,
+      phone: String.raw`404-663-4984`,
+      hours: String.raw`Sun-Sat, 9AM-5PM<br>`,
+      websiteURL: String.raw`https://www.georgiadragonfly.com/`,
+      websiteName: String.raw`GeorgiaDragonfly.com`,
+    },
+    // Pin 35: Skiles Services
+    {
+      coords: [34.9624146, -85.2271333],
+      image: String.raw`/images/Bitcoin Businesses/Skiles Services/Skiles Services.png`,
+      name: String.raw`Skiles Services`,
+      address: String.raw`3235 Lakeview Dr, Rossville, GA 30741`,
+      phone: String.raw`423-602-3104`,
+      hours: String.raw`Sun 12-4PM, Mon-Fri 8AM-6PM, Sat 9AM-5PM`,
+      websiteURL: String.raw`https://skiles.services/`,
+      websiteName: String.raw`Skiles.services`,
+    },
+    // Pin 36: Off the Grill by Chef Q
+    {
+      coords: [35.1282873, -85.2460754],
+      image: String.raw`/images/Bitcoin Businesses/Off the Grill/Off the Grill.jpg`,
+      name: String.raw`Off the Grill by Chef Q`,
+      address: String.raw`4848 Hixson Pike, Hixson, TN 37348`,
+      phone: String.raw`423-541-7329`,
+      hours: String.raw`Tues-Sat 11AM-7PM`,
+      websiteURL: String.raw`https://www.offthegrillbychefq.com/`,
+      websiteName: String.raw`OffTheGrillByChefQ.com`,
+    },
+    // Pin 37: Playing Hookey Antiques and Estates
+    {
+      coords: [35.22393798828125, -85.21839904785156],
+      image: String.raw`/images/Bitcoin Businesses/Playing Hookey Antiques and Estates/Playing Hookey Antiques and Estates.jpg`,
+      name: String.raw`Playing Hookey Antiques and Estates`,
+      address: String.raw`8959 Dayton Pike, Soddy-Daisy, TN 37379`,
+      hours: String.raw`Sun 10AM-5PM, Mon 10AM-6PM, Tues-Thurs 10AM-5PM, Fri-Sat 10AM-6PM`,
+      websiteURL: String.raw`https://www.facebook.com/profile.php?id=61555409485553`,
+      websiteName: String.raw`Facebook Page`,
+    },
+    // Pin 38: Paniagua Auto Sales III Inc.
+    {
+      coords: [34.7784422, -84.9649083],
+      image: String.raw`/images/Bitcoin Businesses/Paniagua Auto Sales/Paniagua Auto Sales.jpg`,
+      name: String.raw`Paniagua Auto Sales III Inc.`,
+      address: String.raw`527 N Glenwood Ave, Dalton, GA 30721`,
+      phone: String.raw`706-529-6412`,
+      hours: String.raw`Mon-Fri 10AM-6PM, Sat 10AM-4PM`,
+      websiteURL: String.raw`http://www.paniaguausedcars.com/`,
+      websiteName: String.raw`PaniaguaUsedCars.com`,
+    },
+    // Pin 39: Clipped by Richyurr
+    {
+      coords: [34.9194847, -85.1274633],
+      name: String.raw`Clipped by Richyurr`,
+      address: String.raw`6702 US-41, Ringgold, GA 30736`,
+    },
+    // Pin 40: Cherrybark Rental
+    {
+      coords: [35.120227, -85.060369],
+      name: String.raw`Cherrybark Rental`,
+      address: String.raw`9070 Knolling Loop, Ooltewah, TN 37363`,
+    },
+    // Pin 41: We R Booth Co
+    {
+      coords: [35.599914, -86.004036],
+      name: String.raw`We R Booth Co`,
+      address: String.raw`8432 Cherrybark Ln, Ooltewah, TN 37363`,
+    },
+  ];
+
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "© OpenStreetMap contributors"
   }).addTo(map);
 
-        // Pin 1: Divine Design Natural Health
-  L.marker([35.194250, -84.856933], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Divine Design Natural Health</b><br>" +
-              "<b>Address:</b> 3800 Keith St NW, Cleveland, TN 37312<br>" +
-              "<b>Phone:</b> 423-800-6800<br>" +
-              "<b>Hours:</b> Mon-Thurs, 10AM-6PM<br>" +
-              "<b>Website:</b> <a href=\"https://divinedesignnaturalhealth.com\" target=\"_blank\">DivineDesignNaturalHealth.com</a>");
+  console.log("Generating " + markers.length + " markers");
+  for (var m = 0; m < markers.length; m++)
+  {
+    var markerString = "";
 
-        // Pin 2: Calvary Chapel
-  L.marker([35.0157164, -85.3241693], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Calvary Chapel/Calvary Chapel.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Calvary Chapel Chattanooga</b><br>" +
-              "<b>Address:</b> 3415 Broad St, Chattanooga, TN 37409<br>" +
-              "<b>Phone:</b> 423-752-0004<br>" +
-              "<b>Hours:</b> Sat 3:30–8 PM, Sun 8:30 AM–2 PM<br>" +
-              "<b>Website:</b> <a href=\"http://www.calvarychatt.com\" target=\"_blank\">CalvaryChatt.com</a>");
+    if (markers[m].image !== undefined)
+    {
+      markerString += String.raw`<img src="${markers[m].image}" style="width: 100px;"><br>`
+    }
+    if (markers[m].name !== undefined)
+    {
+      markerString += String.raw`<b>${markers[m].name}</b><br>`;
+    }
+    if (markers[m].address !== undefined)
+    {
+      markerString += String.raw`<b>Address:</b> ${markers[m].address}<br>`;
+    }
+    if (markers[m].phone !== undefined)
+    {
+      markerString += String.raw`<b>Phone:</b> ${markers[m].phone}<br>`;
+    }
+    if (markers[m].hours !== undefined)
+    {
+      markerString += String.raw`<b>Hours:</b> ${markers[m].hours}<br>`;
+    }
+    if (markers[m].websiteURL !== undefined && markers[m].websiteName !== undefined)
+    {
+      markerString += String.raw`<b>Website:</b> <a href="${markers[m].websiteURL}" target="_blank">${markers[m].websiteName}</a>`;
+    }
 
-        // Pin 3: Same Day Septic
-  L.marker([35.002027, -85.204528], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png\" style=\"width: 100px;\"><br>" +
-              "<b>Same Day Septic</b><br>" +
-              "<b>Address:</b> Chattanooga, TN<br>" +
-              "<b>Phone:</b> 423-834-4867<br>" +
-              "<b>Hours:</b> Sun-Sat, 12AM-11:45PM<br>" +
-              "<b>Website:</b> <a href=\"https://samedayseptic.com\" target=\"_blank\">SameDaySeptic.co</a>");
-
-        // Pin 4: Steak 'n Shake (Fort Oglethorpe)
-  L.marker([34.951935, -85.244715], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
-              "<b>Steak n Shake</b><br>" +
-              "<b>Address:</b> 1182 Battlefield Pkwy, Fort Oglethorpe, GA 30742<br>" +
-              "<b>Phone:</b> 706-858-1919<br>" +
-              "<b>Hours:</b> Sun-Sat, 11AM-11PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/ga-ft-oglethorpe-battlefield-parkway/\" target=\"_blank\">SteaknShake.com</a>");
-
-        // Pin 5: Steak 'n Shake (Dalton)
-  L.marker([34.759589, -84.989919], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
-              "<b>Steak n Shake</b><br>" +
-              "<b>Address:</b> 1250 W Walnut Ave, Dalton, GA 30720<br>" +
-              "<b>Phone:</b> 706-272-3300<br>" +
-              "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
-              "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/ga-dalton-w-walnut-avenue/\" target=\"_blank\">SteaknShake.com</a>");
-
-        // Pin 6: Steak 'n Shake (Gunbarrel)
-  L.marker([35.039848, -85.149789], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
-              "<b>Steak n Shake</b><br>" +
-              "<b>Address:</b> 2296 Gunbarrel Rd, Chattanooga, TN 37421<br>" +
-              "<b>Phone:</b> 423-892-2993<br>" +
-              "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
-              "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/tn-chattanooga-gunbarrel-road/\" target=\"_blank\">SteaknShake.com</a>");
-
-        // Pin 7: Steak 'n Shake (Cleveland)
-  L.marker([35.205077, -84.849458], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png\" style=\"width: 100px;\"><br>" +
-              "<b>Steak n Shake</b><br>" +
-              "<b>Address:</b> 220 Paul Huff Pkwy NW, Cleveland, TN 37312<br>" +
-              "<b>Phone:</b> 423-614-7300<br>" +
-              "<b>Hours:</b> Sun-Sat, 11AM-12AM<br>" +
-              "<b>Website:</b> <a href=\"https://www.steaknshake.com/locations/tn-cleveland-paul-huff-parkway/\" target=\"_blank\">SteaknShake.com</a>");
-
-        // Pin 8: City Collectibles
-  L.marker([34.990641, -85.196578], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/City Collectibles/City Collectibles.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>City Collectibles</b><br>" +
-              "<b>Address:</b> 6725 Ringgold Rd, Ste 137, Chattanooga, TN 37412<br>" +
-              "<b>Phone:</b> 423-486-1025<br>" +
-              "<b>Hours:</b> Sun 12-6PM, Tues-Thurs 12-8PM, Fri 12-9PM, Sat 11AM-9PM<br>");
-
-        // Pin 9: Anchor Barber Co.
-  L.marker([35.066856, -85.308845], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Anchor Barber Co/Anchor Barber Co.png\" style=\"width: 100px;\"><br>" +
-              "<b>Anchor Barber Co.</b><br>" +
-              "<b>Address:</b> 502 N Market St, Chattanooga, TN 37405<br>" +
-              "<b>Phone:</b> 423-690-7291<br>" +
-              "<b>Hours:</b> Mon 10AM-6PM, Tues-Thurs 10AM-7PM, Fri 10AM-6PM, Sat 10AM-4PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.AnchorBarberCo.com\" target=\"_blank\">AnchorBarberCo.com</a>");
-
-        // Pin 10: Gadget Mechanic
-  L.marker([34.7855517, -85.003133], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Gadget Mechanic/Gadget Mechanic.png\" style=\"width: 100px;\"><br>" +
-              "<b>Gadget Mechanic</b><br>" +
-              "<b>Address:</b> 819 N. Tibbs Road, Dalton, GA 30720<br>" +
-              "<b>Phone:</b> 706-671-5835<br>" +
-              "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 11AM-4PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.gadgetmechanic.us/\" target=\"_blank\">GadgetMechanic.us</a>");
-
-        // Pin 11: Bespoke Barbershop
-  L.marker([35.0315116, -85.1509364], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Bespoke Barbershop/Bespoke Barbershop.png\" style=\"width: 100px;\"><br>" +
-              "<b>Bespoke Barbershop</b><br>" +
-              "<b>Address:</b> 2020 Gunbarrel Road 194, Suite #107, Chattanooga, TN 37421<br>" +
-              "<b>Phone:</b> 928-848-9368<br>" +
-              "<b>Hours:</b> Tues-Sat 11 AM–7 PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.bespokebarbershop.co/\" target=\"_blank\">BespokeBarbershop.co</a>");
-
-        // Pin 12: First Response Towing and Recovery
-  L.marker([35.0328476, -85.1940908], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/First Response Towing and Recovery/First Response Towing and Recovery.png\" style=\"width: 100px;\"><br>" +
-              "<b>First Response Towing and Recovery</b><br>" +
-              "<b>Address:</b> 980 Airport Road, Chattanooga, TN 37421<br>" +
-              "<b>Phone:</b> 423-702-5074<br>" +
-              "<b>Hours:</b> 24/7<br>" +
-              "<b>Website:</b> <a href=\"https://www.firstresponsetowingandrecovery.com/\" target=\"_blank\">FirstResponseTowingAndRecovery.com</a>");
-
-        // Pin 13: Standard Ink Tattoo Company
-  L.marker([35.0611373, -85.3036354], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Standard Ink Tattoo Company/Standard Ink Tattoo Company.png\" style=\"width: 100px;\"><br>" +
-              "<b>Standard Ink Tattoo Company</b><br>" +
-              "<b>Address:</b> 434 Frazier Avenue, Chattanooga, TN 37405<br>" +
-              "<b>Phone:</b> 423-490-9819<br>" +
-              "<b>Hours:</b> Sun 12-10PM, Mon-Thurs 12-9PM, Fri-Sat 12PM-12AM<br>" +
-              "<b>Website:</b> <a href=\"https://www.facebook.com/standardink\" target=\"_blank\">Facebook Page</a>");
-
-        // Pin 14: Organizational Change Solutions
-  L.marker([35.1971021, -84.8947589], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Organizational Change Solutions/Organizational Change Solutions.png\" style=\"width: 100px;\"><br>" +
-              "<b>Organizational Change Solutions</b><br>" +
-              "<b>Address:</b> 2250 Candies Lane NW, A, Cleveland, TN 37312<br>");
-
-        // Pin 15: Running Wild Inflatables
-  L.marker([35.2492368, -85.1857456], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Running Wild Inflatables/Running Wild Inflatables.png\" style=\"width: 100px;\"><br>" +
-              "<b>Running Wild Inflatables</b><br>" +
-              "<b>Address:</b> 9917 Dayton Pike, Soddy-Daisy, TN 37379<br>" +
-              "<b>Phone:</b> 423-401-8611<br>" +
-              "<b>Hours:</b> Sun-Sat 8AM-9PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.runningwildinflatables.com/\" target=\"_blank\">RunningWildInflatables.com</a>");
-
-        // Pin 16: Noble Mediation and Notary
-  L.marker([35.1602695, -84.8750917], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Noble Mediation and Notary/Noble Mediation and Notary.png\" style=\"width: 100px;\"><br>" +
-              "<b>Noble Mediation and Notary</b><br>" +
-              "<b>Address:</b> 170 N Ocoee Street, #202, Cleveland, TN 37311<br>" +
-              "<b>Phone:</b> 423-458-4645<br>" +
-              "<b>Hours:</b> Wed 5:30-9PM, Fri 5:30-9PM, Sat-Sun 9AM-5PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.noblemediationandnotary.com/\" target=\"_blank\">NobleMediationAndNotary.com/</a>");
-
-        // Pin 17: North Cleveland Church of God
-  L.marker([35.1640222, -84.8678335], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/North Cleveland Church of God/North Cleveland Church of God.png\" style=\"width: 100px;\"><br>" +
-              "<b>North Cleveland Church of God</b><br>" +
-              "<b>Address:</b> 335 11th Street NE, Cleveland, TN 37311<br>" +
-              "<b>Phone:</b> 423-476-5513<br>" +
-              "<b>Hours:</b> Sun 10:30AM-12PM, Mon-Thurs 8AM-5PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.nccog.com/\" target=\"_blank\">NCCOG.com</a>");
-
-        // Pin 18: Toots Braids of Love
-  L.marker([35.0461207, -85.2616513], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Toots Braids of Love/Toots Braids of Love.png\" style=\"width: 100px;\"><br>" +
-              "<b>Toots Braids of Love</b><br>" +
-              "<b>Address:</b> 904 Arlington Avenue, Chattanooga, TN 37406<br>");
-
-        // Pin 19: CrabTrap Mobile Kitchen
-  L.marker([35.0549418, -85.1988804], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/CrabTrap Mobile Kitchen/CrabTrap Mobile Kitchen.png\" style=\"width: 100px;\"><br>" +
-              "<b>CrabTrap Mobile Kitchen</b><br>" +
-              "<b>Address:</b> 5902 Shallowford Road, Chattanooga, TN 37421<br>" +
-              "<b>Phone:</b> 423-255-0436<br>" +
-              "<b>Website:</b> <a href=\"https://www.facebook.com/profile.php?id=100063589031640\" target=\"_blank\">Facebook Page</a>");
-
-        // Pin 20: Chattanooga Crystal Store
-  L.marker([35.0301926, -85.2906239], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Chattanooga Crystal Store/Chattanooga Crystal Store.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Chattanooga Crystal Store</b><br>" +
-              "<b>Address:</b> 1155 E Main St, Chattanooga, TN 37408<br>" +
-              "<b>Phone:</b> 423-883-1864<br>" +
-              "<b>Website:</b> <a href=\"http://chattanoogacrystalstore.com/\" target=\"_blank\">ChattanoogaCrystalStore.com/</a>");
-
-        // Pin 21: Erica's Pristine Touch Cleaning Service
-  L.marker([35.0467664, -85.3113186], {icon: businessIcon}).addTo(map)
-  .bindPopup("<br>" +
-              "<b>Erica\'s Pristine Touch Cleaning Service</b><br>" +
-              "<b>Address:</b> 808 Chestnut St, Chattanooga, TN 37402<br>");
-
-        // Pin 22: Oh My Goodness Chef Chasty Seafood & More
-  L.marker([35.0317024, -85.170861], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Chef Chasty Seafood/Chef Chasty Seafood.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Oh My Goodness Chef Chasty Seafood & More</b><br>" +
-              "<b>Address:</b> 6838 Old Stage Rd, Chattanooga, TN 37421<br>" +
-              "<b>Phone:</b> 423-505-7488<br>" +
-              "<b>Website:</b> <a href=\"https://www.facebook.com/Chefchasty/\" target=\"_blank\">Facebook Page</a>");
-
-        // Pin 23: Kelly's Restaurant
-  L.marker([34.7464956, -84.9716389], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Kelly\'s Restaurant/Kelly\'s Restaurant.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Kelly\'s Restaurant</b><br>" +
-              "<b>Address:</b> 1700 S. Dixie Hwy, Dalton, GA 30720<br>" +
-              "<b>Phone:</b> 706-275-6789<br>" +
-              "<b>Hours:</b> Sun 10:30AM-12PM, Mon-Fri 6AM-2PM<br>" +
-              "<b>Website:</b> <a href=\"https://kellys-restaurant.com/\" target=\"_blank\">Kellys-Restaurant.com</a>");
-
-        // Pin 24: Top Notch Customs, LLC
-  L.marker([34.9328006, -85.3412157], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Top Notch Customs/Top Notch Customs.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Top Notch Customs, LLC</b><br>" +
-              "<b>Address:</b> 134 Lake City Drive, Flintstone, GA 30725<br>" +
-              "<b>Phone:</b> 423-463-4760<br>" +
-              "<b>Hours:</b> Mon-Fri 8AM-5PM<br>" +
-              "<b>Website:</b> <a href=\"http://www.topnotchcustomsllc.com\" target=\"_blank\">TopNotchCustomsLLC.com</a>");
-
-        // Pin 25: Augustine Life Solutions DBA Fred's Kettle Corn
-  L.marker([35.0800913, -85.0622878], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Augustine Life Solutions/Augustine Life Solutions.png\" style=\"width: 100px;\"><br>" +
-              "<b>Augustine Life Solutions DBA Fred's Kettle Corn</b><br>" +
-              "<b>Address:</b> 5829 Main Street, Collegedale, TN 37363<br>" +
-              "<b>Phone:</b> 919-452-7310<br>" +
-              "<b>Hours:</b> Mon-Fri 9AM-6PM<br>" +
-              "<b>Website:</b> <a href=\"https://augustinelifesolutions.com\" target=\"_blank\">AugustineLifeSolutions.com</a>");
-
-        // Pin 26: Power-Up Pizza
-  L.marker([34.9565883, -85.2326928], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Power-Up Pizza/Power-Up Pizza.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Power-Up Pizza</b><br>" +
-              "<b>Address:</b> 1628 Cloud Springs Road, Rossville, GA 30741<br>" +
-              "<b>Phone:</b> 423-243-3346<br>" +
-              "<b>Hours:</b> Mon-Sat 11AM-7PM<br>" +
-              "<b>Website:</b> <a href=\"https://poweruppizzatruck.com\" target=\"_blank\">PowerUpPizzaTruck.com</a>");
-
-        // Pin 27: Power-Up Pizza Food Truck
-  L.marker([35.0074528, -85.2108077], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Power-Up Pizza/Power-Up Pizza.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Power-Up Pizza Food Truck</b><br>" +
-              "<b>Address:</b> 5704 Marlin Road, Chattanooga, TN 37411<br>" +
-              "<b>Phone:</b> 423-243-3346<br>" +
-              "<b>Hours:</b> Mon-Sat 11AM-7PM<br>" +
-              "<b>Website:</b> <a href=\"https://poweruppizzatruck.com\" target=\"_blank\">PowerUpPizzaTruck.com</a>");
-
-        // Pin 28: Laughing Koffin Tattoo
-  L.marker([35.0085833, -85.1520737], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Laughing Koffin Tattoo/Laughing Koffin Tattoo.png\" style=\"width: 100px;\"><br>" +
-              "<b>Laughing Koffin Tattoo</b><br>" +
-              "<b>Address:</b> 1414 Jenkins Road, Suite 121, Chattanooga, TN 37421<br>" +
-              "<b>Phone:</b> 423-206-9933<br>" +
-              "<b>Hours:</b> Tues-Sat 12-8PM<br>" +
-              "<b>Website:</b> <a href=\"https://laughingkoffintattoo.com\" target=\"_blank\">LaughingKoffinTattoo.com</a>");
-
-        // Pin 29: The Esthetics Shop by Myriam, LLC
-  L.marker([34.7568811,-84.9828673], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/The Esthetics Shop by Myriam/The Esthetics Shop by Myriam.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>The Esthetics Shop by Myriam, LLC</b><br>" +
-              "<b>Address:</b> 1100 Lakemont Drive, Dalton, GA 30720<br>" +
-              "<b>Phone:</b> 706-229-1194<br>" +
-              "<b>Hours:</b> Wed-Thurs 4-7PM, Fri 9AM-6:30PM, Sat 8AM-1PM, Sun 12-4PM<br>" +
-              "<b>Website:</b> <a href=\"https://the-esthetics-shop-by-myriam-llc.square.site\" target=\"_blank\">The-Esthetics-Shop-by-Myriam-LLC.square.site</a>");
-
-        // Pin 30: Backroad Cheesesteaks
-  L.marker([34.9682497, -85.2568861], {icon: businessIcon}).addTo(map)
-    .bindPopup("<b>Backroad Cheesesteaks</b><br>" +
-              "<b>Address:</b> 507 Chickamauga Avenue, Rossville, GA 30741<br>");
-
-        // Pin 31: All About You Day Spa
-  L.marker([34.9891382, -85.1932672], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/All About You Day Spa/All About You Day Spa.png\" style=\"width: 100px;\"><br>" +
-              "<b>All About You Day Spa</b><br>" +
-              "<b>Address:</b> 6737 Ringgold Road, Suite B, Chattanooga, TN 37412<br>" +
-              "<b>Phone:</b> 423-991-0875<br>" +
-              "<b>Hours:</b> Tues, Thurs, & Fri 9AM-6PM, Sat 9AM-3PM, Sun 9AM-5PM<br>" +
-              "<b>Website:</b> <a href=\"https://elenadion-skincare.square.site\" target=\"_blank\">Elenadion-Skincare.square.site</a>");
-
-        // Pin 32: Trading Post Food Store
-  L.marker([35.064477, -85.0996096], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Trading Post Food Store/Trading Post Food Store.png\" style=\"width: 100px;\"><br>" +
-              "<b>Trading Post Food Store</b><br>" +
-              "<b>Address:</b> 4896 Pattentown Road, Ooltewah, TN 37363<br>" +
-              "<b>Phone:</b> 423-910-1887<br>" +
-              "<b>Hours:</b> Mon-Sun 7AM-10PM<br>" +
-              "<b>Website:</b> <a href=\"https://tradingpost-quick-stop.base44.app\" target=\"_blank\">TradingPost-Quick-Stop.base44.app</a>");
-  
-        // Pin 33: R2 Delivery Service, LLC
-  L.marker([34.9763265, -85.2526557], {icon: businessIcon}).addTo(map)
-    .bindPopup("<b>R2 Delivery Service, LLC</b><br>" +
-              "<b>Address:</b> 190 Center Street, Rossville, GA 30741<br>" +
-              "<b>Phone:</b> 423-637-8062<br>" +
-              "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 10AM-2:30PM");
-
-        // Pin 34: Georgia Dragonfly
-  L.marker([34.8052939, -85.2750261], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Georgia Dragonfly/Georgia Dragonfly.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Georgia Dragonfly</b><br>" +
-              "<b>Address:</b> 681 Taylor Smith Rd, Rock Spring, GA 30739<br>" +
-              "<b>Phone:</b> 404-663-4984<br>" +
-              "<b>Hours:</b> Sun-Sat, 9AM-5PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.georgiadragonfly.com/\" target=\"_blank\">GeorgiaDragonfly.com</a>");
-
-        // Pin 35: Skiles Services
-  L.marker([34.9624146, -85.2271333], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Skiles Services/Skiles Services.png\" style=\"width: 100px;\"><br>" +
-              "<b>Skiles Services</b><br>" +
-              "<b>Address:</b> 3235 Lakeview Dr, Rossville, GA 30741<br>" +
-              "<b>Phone:</b> 423-602-3104<br>" +
-              "<b>Hours:</b> Sun 12-4PM, Mon-Fri 8AM-6PM, Sat 9AM-5PM<br>" +
-              "<b>Website:</b> <a href=\"https://skiles.services/\" target=\"_blank\">Skiles.services</a>");
-
-        // Pin 36: Off the Grill by Chef Q
-  L.marker([35.1282873, -85.2460754], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Off the Grill/Off the Grill.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Off the Grill by Chef Q</b><br>" +
-              "<b>Address:</b> 4848 Hixson Pike, Hixson, TN 37348<br>" +
-              "<b>Phone:</b> 423-541-7329<br>" +
-              "<b>Hours:</b> Tues-Sat 11AM-7PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.offthegrillbychefq.com/\" target=\"_blank\">OffTheGrillByChefQ.com</a>");
-
-        // Pin 37: Playing Hookey Antiques and Estates
-  L.marker([35.22393798828125, -85.21839904785156], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Playing Hookey Antiques and Estates/Playing Hookey Antiques and Estates.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Playing Hookey Antiques and Estates</b><br>" +
-              "<b>Address:</b> 8959 Dayton Pike, Soddy-Daisy, TN 37379<br>" +
-              "<b>Hours:</b> Sun 10AM-5PM, Mon 10AM-6PM, Tues-Thurs 10AM-5PM, Fri-Sat 10AM-6PM<br>" +
-              "<b>Website:</b> <a href=\"https://www.facebook.com/profile.php?id=61555409485553\" target=\"_blank\">Facebook</a>");
-
-        // Pin 38: Paniagua Auto Sales III Inc.
-  L.marker([34.7784422, -84.9649083], {icon: businessIcon}).addTo(map)
-    .bindPopup("<img src=\"/images/Bitcoin Businesses/Paniagua Auto Sales/Paniagua Auto Sales.jpg\" style=\"width: 100px;\"><br>" +
-              "<b>Paniagua Auto Sales III Inc.</b><br>" +
-              "<b>Address:</b> 527 N Glenwood Ave, Dalton, GA 30721<br>" +
-              "<b>Phone:</b> 706-529-6412<br>" +
-              "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 10AM-4PM<br>" +
-              "<b>Website:</b> <a href=\"http://www.paniaguausedcars.com/\" target=\"_blank\">PaniaguaUsedCars.com</a>");
-
-        // Pin 39: Clipped by Richyurr
-  L.marker([34.9194847, -85.1274633], {icon: businessIcon}).addTo(map)
-    .bindPopup("<br>" +
-              "<b>Clipped by Richyurr</b><br>" +
-              "<b>Address:</b> 6702 US-41, Ringgold, GA 30736<br>");
-
-        // Pin 40: Cherrybark Rental
-  L.marker([35.120227, -85.060369], {icon: businessIcon}).addTo(map)
-    .bindPopup("<br>" +
-              "<b>Cherrybark Rental</b><br>" +
-              "<b>Address:</b> 9070 Knolling Loop, Ooltewah, TN 37363<br>");
-
-        // Pin 41: We R Booth Co
-  L.marker([35.599914, -86.004036], {icon: businessIcon}).addTo(map)
-    .bindPopup("<br>" +
-              "<b>We R Booth Co</b><br>" +
-              "<b>Address:</b> 8432 Cherrybark Ln, Ooltewah, TN 37363<br>");
+    L.marker(markers[m].coords, {icon: businessIcon}).addTo(map).bindPopup(markerString);
+  }
 }
