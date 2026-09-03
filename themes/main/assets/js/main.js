@@ -343,13 +343,20 @@ function setupMap()
         // Pin 32: Trading Post Food Store
   L.marker([35.064477, -85.0996096], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Trading Post Food Store/Trading Post Food Store.png\" style=\"width: 100px;\"><br>" +
-              "<b>Tradingpost</b><br>" +
+              "<b>Trading Post Food Store</b><br>" +
               "<b>Address:</b> 4896 Pattentown Road, Ooltewah, TN 37363<br>" +
               "<b>Phone:</b> 423-910-1887<br>" +
               "<b>Hours:</b> Mon-Sun 7AM-10PM<br>" +
               "<b>Website:</b> <a href=\"https://tradingpost-quick-stop.base44.app\" target=\"_blank\">TradingPost-Quick-Stop.base44.app</a>");
+  
+        // Pin 33: R2 Delivery Service, LLC
+  L.marker([34.9763265, -85.2526557], {icon: businessIcon}).addTo(map)
+    .bindPopup("<b>R2 Delivery Service, LLC</b><br>" +
+              "<b>Address:</b> 190 Center Street, Rossville, GA 30741<br>" +
+              "<b>Phone:</b> 423-637-8062<br>" +
+              "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 10AM-2:30PM");
 
-        // Pin 33: Georgia Dragonfly
+        // Pin 34: Georgia Dragonfly
   L.marker([34.8052939, -85.2750261], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Georgia Dragonfly/Georgia Dragonfly.jpg\" style=\"width: 100px;\"><br>" +
               "<b>Georgia Dragonfly</b><br>" +
@@ -358,7 +365,7 @@ function setupMap()
               "<b>Hours:</b> Sun-Sat, 9AM-5PM<br>" +
               "<b>Website:</b> <a href=\"https://www.georgiadragonfly.com/\" target=\"_blank\">GeorgiaDragonfly.com</a>");
 
-        // Pin 34: Skiles Services
+        // Pin 35: Skiles Services
   L.marker([34.9624146, -85.2271333], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Skiles Services/Skiles Services.png\" style=\"width: 100px;\"><br>" +
               "<b>Skiles Services</b><br>" +
@@ -367,7 +374,7 @@ function setupMap()
               "<b>Hours:</b> Sun 12-4PM, Mon-Fri 8AM-6PM, Sat 9AM-5PM<br>" +
               "<b>Website:</b> <a href=\"https://skiles.services/\" target=\"_blank\">Skiles.services</a>");
 
-        // Pin 35: Off the Grill by Chef Q
+        // Pin 36: Off the Grill by Chef Q
   L.marker([35.1282873, -85.2460754], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Off the Grill/Off the Grill.jpg\" style=\"width: 100px;\"><br>" +
               "<b>Off the Grill by Chef Q</b><br>" +
@@ -376,7 +383,7 @@ function setupMap()
               "<b>Hours:</b> Tues-Sat 11AM-7PM<br>" +
               "<b>Website:</b> <a href=\"https://www.offthegrillbychefq.com/\" target=\"_blank\">OffTheGrillByChefQ.com</a>");
 
-        // Pin 36: Playing Hookey Antiques and Estates
+        // Pin 37: Playing Hookey Antiques and Estates
   L.marker([35.22393798828125, -85.21839904785156], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Playing Hookey Antiques and Estates/Playing Hookey Antiques and Estates.jpg\" style=\"width: 100px;\"><br>" +
               "<b>Playing Hookey Antiques and Estates</b><br>" +
@@ -384,7 +391,7 @@ function setupMap()
               "<b>Hours:</b> Sun 10AM-5PM, Mon 10AM-6PM, Tues-Thurs 10AM-5PM, Fri-Sat 10AM-6PM<br>" +
               "<b>Website:</b> <a href=\"https://www.facebook.com/profile.php?id=61555409485553\" target=\"_blank\">Facebook</a>");
 
-        // Pin 37: Paniagua Auto Sales III Inc.
+        // Pin 38: Paniagua Auto Sales III Inc.
   L.marker([34.7784422, -84.9649083], {icon: businessIcon}).addTo(map)
     .bindPopup("<img src=\"/images/Bitcoin Businesses/Paniagua Auto Sales/Paniagua Auto Sales.jpg\" style=\"width: 100px;\"><br>" +
               "<b>Paniagua Auto Sales III Inc.</b><br>" +
@@ -393,19 +400,19 @@ function setupMap()
               "<b>Hours:</b> Mon-Fri 10AM-6PM, Sat 10AM-4PM<br>" +
               "<b>Website:</b> <a href=\"http://www.paniaguausedcars.com/\" target=\"_blank\">PaniaguaUsedCars.com</a>");
 
-        // Pin 38: Clipped by Richyurr
+        // Pin 39: Clipped by Richyurr
   L.marker([34.9194847, -85.1274633], {icon: businessIcon}).addTo(map)
     .bindPopup("<br>" +
               "<b>Clipped by Richyurr</b><br>" +
               "<b>Address:</b> 6702 US-41, Ringgold, GA 30736<br>");
 
-        // Pin 39: Cherrybark Rental
+        // Pin 40: Cherrybark Rental
   L.marker([35.120227, -85.060369], {icon: businessIcon}).addTo(map)
     .bindPopup("<br>" +
               "<b>Cherrybark Rental</b><br>" +
               "<b>Address:</b> 9070 Knolling Loop, Ooltewah, TN 37363<br>");
 
-        // Pin 40: We R Booth Co
+        // Pin 41: We R Booth Co
   L.marker([35.599914, -86.004036], {icon: businessIcon}).addTo(map)
     .bindPopup("<br>" +
               "<b>We R Booth Co</b><br>" +
