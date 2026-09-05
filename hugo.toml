@@ -1,4 +1,4 @@
-baseURL = 'https://bitcoinchatt.org/'
+baseURL = 'https://www.bitcoinchatt.com/'
 languageCode = 'en-us'
 title = 'Bitcoin Chatt'
 theme = 'main'
