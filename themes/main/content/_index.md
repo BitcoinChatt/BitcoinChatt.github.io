@@ -45,8 +45,6 @@ draft = false
 
 <h2 style="text-align: center"><b>Latest News:</b></h2>
 
-<h3 style="text-align: center"><b>April 9th</b></h3>
-
 <center>
 
 Join us in the <b>North Building of Warehouse Row,</b> at <b><a target="_blank" href="https://maps.app.goo.gl/FrULBRyQ1wwJpmPt8">1110 Market Street</a> in downtown Chattanooga,</b> on the 3rd Saturday of each month, from <b>12-2PM.</b>
