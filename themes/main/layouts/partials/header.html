@@ -5,16 +5,9 @@
   <div id="header-list">
     <h3 class="header-element"><a href="/about">About</a></h3>
     <h3 class="header-element"><a href="/join">Join</a></h3>
-    <h3 class="header-element"><a href="/blog">Blog</a></h3>
     <h3 class="header-element"><a href="/contact">Contact</a></h3>
   </div>
   <img id="hamburger" src="/images/hamburger.png" onclick="toggleHeaderMenu()">
 </div>
 
 <div style="padding: 2rem;"></div>
-
-{{- if and (strings.Contains .Path "newsletter") (not .Params.underConstruction) }}
-  <div style="text-align: center;">
-    <h3><a href="/blog">Table of Contents</a></h3>
-  </div>
-{{- end }}
