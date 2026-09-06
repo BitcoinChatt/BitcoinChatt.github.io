@@ -1,5 +1,5 @@
 html {
-  background-color: #141419;
+  background-color: #121212;
   scroll-behavior: smooth;
 }
 
@@ -17,7 +17,7 @@ body {
   left: 50%;
   top: 0%;
   transform: translate(-50%, 0%);
-  background-color: #141419;
+  background-color: #121212;
   display: flex;
   width: 100dvw;
   justify-content: center;
