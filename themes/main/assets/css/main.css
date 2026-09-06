@@ -10,6 +10,12 @@ body {
   line-height: 1.5;
   min-height: 100dvh;
   text-align: justify;
+
+  background-image: url("/images/Logos/bitcoin-chatt-logo_outline-only_light-background.png");
+  background-size: 100dvh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .header {
