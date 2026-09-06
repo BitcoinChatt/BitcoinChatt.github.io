@@ -211,11 +211,20 @@ form {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 1.75rem;
+  margin: 2rem 0 3rem;
   text-align: center;
 }
 
 .social-link {
-  margin: 0 1rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  transition: opacity 0.2s ease;
+}
+
+.social-link:hover {
+  opacity: 0.8;
 }
 
 #my-cal-inline-consultation {
