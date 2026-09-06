@@ -23,7 +23,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  z-index: 21;
+  z-index: 10000; /* high enough to sit above Leaflet map panes */
 }
 
 h1 {
@@ -279,6 +279,7 @@ a:visited {
     grid-template-rows: 4rem 4rem 4rem 4rem 4rem;
     justify-items: left;
     height: 3.5rem;
+    z-index: 10000;
   }
 
   #header-list {
@@ -290,6 +291,7 @@ a:visited {
     grid-column-end: 2;
     grid-row-start: 2;
     grid-row-end: 6;
+    z-index: 10001; /* make the open menu sit above everything */
   }
 
   .header-element {
