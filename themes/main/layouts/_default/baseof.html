@@ -3,7 +3,7 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body>
+<body{{ if not .IsHome }} class="has-bg-logo"{{ end }}>
   <header>
     {{ partial "header.html" . }}
   </header>
