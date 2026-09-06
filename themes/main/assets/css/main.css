@@ -1,4 +1,3 @@
-/* force rebuild */
 html {
   background-color: #121212;
   scroll-behavior: smooth;
@@ -20,27 +19,77 @@ body.has-bg-logo {
   background-position: center;
 }
 
+/* ========== HEADER ========== */
 .header {
-  padding: 0.5rem;
+  padding: 0.75rem 1.5rem;
   position: fixed;
   left: 50%;
-  top: 0%;
-  transform: translate(-50%, 0%);
+  top: 0;
+  transform: translateX(-50%);
   background-color: #121212;
   display: flex;
-  width: 100dvw;
+  width: 100%;
+  max-width: 100vw;
   justify-content: center;
   align-items: center;
   text-align: center;
-  z-index: 10000; /* high enough to sit above Leaflet map panes */
+  z-index: 10000;
 }
 
+.icon {
+  height: 2.75rem;
+}
+
+.header-element {
+  display: inline-block;
+  margin-left: 2.5rem;
+  padding: 0;
+  height: auto;
+}
+
+#hamburger {
+  display: none;
+}
+
+/* Spacer under fixed header */
+.header + div {
+  padding: 1.5rem;
+}
+
+/* ========== LAYOUT / CONTAINERS ========== */
+.article,
+.table-of-contents,
+.tight-margin,
+.tighter-margin {
+  max-width: 780px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.article {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}
+
+/* Wider container for map, forms, etc. when needed */
+.wide-container {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* ========== TYPOGRAPHY & BASIC ELEMENTS ========== */
 h1 {
   display: block;
+  margin: 0 0 1rem 0;
 }
 
 h1, h3 {
-  margin: 0rem;
+  margin-top: 0;
 }
 
 .align-left {
@@ -48,11 +97,14 @@ h1, h3 {
 }
 
 p {
-  margin-top: 0rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 img {
-  margin: 0rem 1rem;
+  margin: 0 1rem;
+  max-width: 100%;
+  height: auto;
 }
 
 time {
@@ -62,30 +114,20 @@ time {
 
 iframe, form, input, textarea, button, #map {
   display: block;
-  margin: 0rem auto;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 95dvw;
 }
 
 #map {
-  width: 70%;
-  padding-bottom: 39.375%;
+  width: 100%;
+  max-width: 900px;
+  height: 500px;
+  padding-bottom: 0;
+  border-radius: 8px;
 }
 
-.icon {
-  height: 3rem;
-}
-
-.header-element {
-  display: inline-block;
-  margin-left: 3rem;
-  padding: 0rem;
-  height: 3rem;
-}
-
-#hamburger {
-  display: none;
-}
-
+/* ========== OTHER EXISTING COMPONENTS ========== */
 .banner {
   height: 20rem;
   display: flex;
@@ -95,14 +137,6 @@ iframe, form, input, textarea, button, #map {
 
 .banner-element {
   height: 20rem;
-}
-
-.article {
-  padding: 0rem 30rem;
-}
-
-.table-of-contents {
-  padding: 0rem 36rem;
 }
 
 .justify-images img {
@@ -131,74 +165,6 @@ iframe, form, input, textarea, button, #map {
 
 .video-item img {
   display: block;
-}
-
-.blog-container {
-  gap: 1.5rem;
-  justify-content: center;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.blog-item {
-  display: flow-root;
-  box-sizing: border-box;
-  padding: 1rem;
-  margin: 0.5rem;
-  border-width: 4px;
-  border-color: #FF9900;
-  border-style: solid;
-  border-radius: 20px;
-  background-color: rgba(0, 0, 0, 0.5);
-}
-
-.blog-item h1,
-.blog-item h2,
-.blog-item h3,
-.blog-item h4,
-.blog-item h5,
-.blog-item h6,
-.blog-item p {
-  margin: 10px 0 0 0;
-  font-size: 1.25rem;
-}
-
-.blog-item h3 {
-  font-size: 1.4rem;
-}
-
-.blog-item div {
-  grid-column-start: 2;
-  grid-row-start: 1;
-  grid-row-end: 4;
-}
-
-.blog-item a {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr auto 1fr;
-}
-
-.blog-item ul {
-  text-align: left;
-  margin-bottom: 0;
-}
-
-.blog-item img {
-  float: left;
-  width: 100%;
-  grid-row-start: 2;
-  margin: 0 0 0 0;
-}
-
-.tight-margin {
-  text-align: left;
-  padding: 0rem 39rem;
-}
-
-.tighter-margin {
-  text-align: left;
-  padding: 0rem 42rem;
 }
 
 .mobile-icon {
@@ -234,7 +200,7 @@ form {
 
 .nav-box {
   width: 17rem;
-  margin: 3rem 0rem;
+  margin: 3rem 0;
 }
 
 .nav-element {
@@ -249,7 +215,7 @@ form {
 }
 
 .social-link {
-  margin: 0rem 1rem;
+  margin: 0 1rem;
 }
 
 #my-cal-inline-consultation {
@@ -277,79 +243,73 @@ a:visited {
   color: #ffce07;
 }
 
-@media only screen and (max-device-width: 1440px) {
-  .icon {
-    height: 3rem;
-  }
-
+/* ========== MOBILE ========== */
+@media only screen and (max-width: 900px) {
   .header {
     display: grid;
-    grid-template-columns: 15rem 6rem;
-    grid-template-rows: 4rem 4rem 4rem 4rem 4rem;
-    justify-items: left;
-    height: 3.5rem;
-    z-index: 10000;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto;
+    justify-items: start;
+    align-items: center;
+    height: auto;
+    padding: 0.6rem 1rem;
+  }
+
+  .icon {
+    height: 2.5rem;
   }
 
   #header-list {
     display: none;
-    background-color: black;
+    background-color: #121212;
     justify-content: right;
-    justify-self: right;
-    grid-column-start: 2;
-    grid-column-end: 2;
-    grid-row-start: 2;
-    grid-row-end: 6;
-    z-index: 10001; /* make the open menu sit above everything */
+    justify-self: end;
+    grid-column: 1 / -1;
+    grid-row: 2;
+    width: 100%;
+    padding: 1rem 0;
+    z-index: 10001;
   }
 
   .header-element {
     display: block;
-    margin: 0.5rem 1rem;
+    margin: 0.75rem 1.25rem;
+    font-size: 1.1rem;
   }
 
   #hamburger {
-    display: flex;
-    height: 3rem;
-    justify-self: right;
+    display: block;
+    height: 2.25rem;
+    justify-self: end;
+    cursor: pointer;
+  }
+
+  .article,
+  .table-of-contents,
+  .tight-margin,
+  .tighter-margin {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
 
   #map {
-    width: 90dvw;
-    height: 60dvh;
-    padding-bottom: 0%;
+    width: 100%;
+    height: 55dvh;
   }
 
   .desktop-only {
     display: none;
   }
 
-  .article {
-    display: block;
-    padding: 0rem 0rem;
-  }
-
   .article img:not(.mobile-icon) {
-    width: 85dvw !important;
-  }
-
-  .table-of-contents {
-    padding: 0rem;
-  }
-
-  .tight-margin {
-    padding: 0rem;
-  }
-
-  .tighter-margin {
-    padding: 0rem;
+    width: 100% !important;
   }
 
   .mobile-icon {
     float: none;
     display: block;
-    margin: 0rem auto;
-    width: 25%;
+    margin: 0 auto 1rem;
+    width: 30%;
   }
 
   .article-banner {
@@ -373,9 +333,6 @@ a:visited {
 
   .form-button, .form-control {
     width: 90dvw;
-    min-height: 4dvh;
-    border-radius: 8px;
-    margin: 1rem auto;
   }
 
   .nav {
