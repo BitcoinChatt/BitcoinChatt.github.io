@@ -71,29 +71,15 @@ See you there!
 
 <br>
 
-<br>
-
 <h3 class="social-links">Follow Bitcoin Chatt</h3>
 <div class="social-links">
-  <table>
-    <tr>
-      <td>
-        <a target="_blank" href="https://x.com/bitcoinchatt">
-          <img class="social-link" height="40rem" src="./images/Logos/Twitter-X-Logo.png" alt="Twitter/X"/>
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://njump.me/npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779">
-          <img class="social-link" height="40rem" src="./images/Logos/Nostr-Logo.png" alt="Nostr"/>
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://www.facebook.com/profile.php?id=61576076722319">
-          <img class="social-link" height="40rem" src="./images/Logos/Facebook-Logo.png" alt="Facebook"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-<br>
-<br>
+  <a target="_blank" href="https://x.com/bitcoinchatt">
+    <img class="social-link" src="/images/Logos/Twitter-X-Logo.png" alt="Twitter/X">
+  </a>
+  <a target="_blank" href="https://njump.me/npub1fdc5nr47gx8pcz9cppyat9fx0gc9hv48nke7pf78drx7rpqw28ksqgx779">
+    <img class="social-link" src="/images/Logos/Nostr-Logo.png" alt="Nostr">
+  </a>
+  <a target="_blank" href="https://www.facebook.com/profile.php?id=61576076722319">
+    <img class="social-link" src="/images/Logos/Facebook-Logo.png" alt="Facebook">
+  </a>
 </div>
