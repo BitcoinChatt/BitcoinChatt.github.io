@@ -463,7 +463,7 @@ function setupMapPage() {
     },
     // Pin 41: We R Booth Co
     {
-      coords: [35.599914, -86.004036],
+      coords: [35.1356679, -85.0550129],
       name: String.raw`We R Booth Co`,
       address: String.raw`8432 Cherrybark Ln, Ooltewah, TN 37363`,
     },
