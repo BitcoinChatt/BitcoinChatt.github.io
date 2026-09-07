@@ -2,12 +2,12 @@ function isMobile() {
   return window.innerWidth <= 900;
 }
 
-function toggleHeaderMenu() {
+window.toggleHeaderMenu = function () {
   const menu = document.getElementById("header-list");
   if (menu) {
     menu.classList.toggle("open");
   }
-}
+};
 
 window.onload = function () {
   setupCalendar();
