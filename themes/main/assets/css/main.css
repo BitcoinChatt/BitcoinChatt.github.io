@@ -315,8 +315,11 @@ a:visited {
 
   /* Show it when the .open class is present */
   #header-list.open {
-    display: flex !important;
-  }
+  display: flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  height: auto !important;
+}
 
   .header-element {
     display: block;
