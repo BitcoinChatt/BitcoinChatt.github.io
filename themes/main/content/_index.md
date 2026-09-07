@@ -20,13 +20,6 @@ draft = false
       <h3>New to Bitcoin?</h3>
     </a>
   </div>
-  <!--
-  <div class="nav-box">
-    <a href="./coming_soon">
-      <img class="nav-element" src="./images/placeholder.png" alt="Placeholder image"/>
-      <h3>Blog</h3>
-    </a>
-  </div>-->
   <div class="nav-box">
     <a href="./calendar">
       <img class="nav-element" src="./images/calendar.png" alt="Calendar vector art"/>
@@ -47,7 +40,7 @@ draft = false
 
 <center>
 
-Join us in the <b>North Building of Warehouse Row,</b> at <b><a target="_blank" href="https://maps.app.goo.gl/FrULBRyQ1wwJpmPt8">1110 Market Street</a> in downtown Chattanooga,</b> on the 3rd Saturday of each month, from <b>12-2PM.</b>
+Join us in the <b>North Building of Warehouse Row,</b> at <b><a target="_blank" href="https://maps.app.goo.gl/FrULBRyQ1wwJpmPt8">1110 Market Street</a> in downtown Chattanooga,</b> on the <b>3rd Saturday</b> of each month, from <b>12-2PM.</b>
 
 If you're new to Bitcoin, we'll help you get started, and if you're a long-time Bitcoiner, come connect with other Bitcoiners! <b>We'll do a special giveaway at each meetup, and <i>even help you get some free sats (small pieces of bitcoin)!</i></b>
 
