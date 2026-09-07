@@ -69,8 +69,6 @@ See you there!
 
 </div>
 
-<br>
-
 <h3 class="social-links">Follow Bitcoin Chatt</h3>
 <div class="social-links">
   <a target="_blank" href="https://x.com/bitcoinchatt">
