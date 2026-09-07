@@ -293,29 +293,27 @@ a:visited {
 
   .header {
     padding: 0.7rem 1.1rem;
+    flex-wrap: wrap;          /* allows the menu to sit under the logo row */
   }
 
   .icon {
     height: 2.35rem;
   }
 
+  /* Hide the menu by default on mobile */
   #header-list {
     display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
+    width: 100%;
     flex-direction: column;
     align-items: stretch;
     gap: 0;
     background-color: rgba(18, 18, 18, 0.98);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-    padding: 0.5rem 0 1rem;
-    z-index: 10001;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 0.5rem 0 0.75rem;
+    order: 3;                 /* forces it below the logo + hamburger */
   }
 
+  /* Show it when the .open class is present */
   #header-list.open {
     display: flex !important;
   }
@@ -333,6 +331,7 @@ a:visited {
 
   #hamburger {
     display: block;
+    margin-left: auto;
   }
 
   .header-spacer {
