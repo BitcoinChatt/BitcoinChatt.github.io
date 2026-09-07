@@ -10,6 +10,7 @@ body {
   line-height: 1.65;
   min-height: 100dvh;
   text-align: left;
+  margin: 0;
 }
 
 body.has-bg-logo {
@@ -31,7 +32,7 @@ body.has-bg-logo {
   align-items: center;
   justify-content: space-between;
   padding: 0.85rem 2rem;
-  background-color: rgba(18, 18, 18, 0.92);
+  background-color: rgba(18, 18, 18, 0.95);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
@@ -75,7 +76,7 @@ body.has-bg-logo {
 }
 
 .header-spacer {
-  height: 4.5rem; /* matches the taller header */
+  height: 4.5rem;
 }
 
 /* ========== LAYOUT ========== */
@@ -93,14 +94,6 @@ body.has-bg-logo {
 .article {
   padding-top: 1rem;
   padding-bottom: 3rem;
-}
-
-.wide-container {
-  max-width: 1100px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
 }
 
 /* ========== TYPOGRAPHY ========== */
@@ -128,43 +121,79 @@ h3 {
   color: #F1F5F9;
 }
 
-h4, h5, h6 {
-  font-weight: 600;
-  margin: 1.25rem 0 0.5rem 0;
-  color: #F1F5F9;
-}
-
 p {
   margin-top: 0;
   margin-bottom: 1.1rem;
 }
 
-.align-left {
-  text-align: left;
-}
-
-/* ========== BASIC ELEMENTS ========== */
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-time {
-  display: block;
+/* ========== FORMS (Contact page) ========== */
+form {
+  max-width: 560px;
+  margin: 2rem auto 3rem;
+  padding: 0 1.5rem;
   text-align: center;
 }
 
-iframe, form, input, textarea, button, #map {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 95dvw;
+.form-group {
+  margin-bottom: 1.25rem;
 }
 
+.form-control,
+.textarea {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  padding: 0.85rem 1rem;
+  margin: 0 auto 0.75rem;
+  font-size: 1rem;
+  font-family: inherit;
+  color: #F1F5F9;
+  background-color: #1e1e1e;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.form-control:focus,
+.textarea:focus {
+  outline: none;
+  border-color: #ff9416;
+}
+
+.textarea {
+  min-height: 160px;
+  resize: vertical;
+}
+
+.form-button {
+  display: inline-block;
+  padding: 0.85rem 2.5rem;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  color: #121212;
+  background-color: #ff9416;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.form-button:hover {
+  background-color: #ffa94d;
+}
+
+.form-button:active {
+  transform: scale(0.98);
+}
+
+/* ========== MAP ========== */
 #map {
   width: 100%;
   max-width: 900px;
   height: 500px;
+  margin: 0 auto;
   border-radius: 8px;
 }
 
@@ -178,30 +207,6 @@ iframe, form, input, textarea, button, #map {
 
 .banner-element {
   height: 20rem;
-}
-
-.justify-images img {
-  width: 100%;
-}
-
-.video-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-  justify-content: center;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.video-item {
-  width: 350px;
-  box-sizing: border-box;
-}
-
-.video-item p {
-  margin: 10px 0 0 0;
-  text-align: center;
 }
 
 .nav {
@@ -243,13 +248,6 @@ iframe, form, input, textarea, button, #map {
   opacity: 0.8;
 }
 
-#my-cal-inline-consultation {
-  width: 200%;
-  height: 100%;
-  overflow: scroll;
-  margin: 0 -50%;
-}
-
 #calendar-widget {
   min-width: 70%;
   max-width: 100%;
@@ -286,6 +284,7 @@ a:visited {
     height: 2.35rem;
   }
 
+  /* Mobile menu – this is the key part */
   #header-list {
     display: none;
     position: absolute;
@@ -295,11 +294,11 @@ a:visited {
     flex-direction: column;
     align-items: stretch;
     gap: 0;
-    background-color: rgba(18, 18, 18, 0.97);
+    background-color: rgba(18, 18, 18, 0.98);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-    padding: 0.75rem 0 1rem;
+    padding: 0.5rem 0 1rem;
     z-index: 10001;
   }
 
@@ -309,9 +308,9 @@ a:visited {
 
   .header-element {
     display: block;
-    padding: 0.9rem 1.5rem;
+    padding: 1rem 1.5rem;
     font-size: 1.15rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
   }
 
   .header-element:last-child {
@@ -339,44 +338,6 @@ a:visited {
     height: 55dvh;
   }
 
-  .desktop-only {
-    display: none;
-  }
-
-  .article img:not(.mobile-icon) {
-    width: 100% !important;
-  }
-
-  .mobile-icon {
-    float: none;
-    display: block;
-    margin: 0 auto 1rem;
-    width: 30%;
-  }
-
-  .article-banner {
-    width: 90dvw;
-  }
-
-  .mobile-banner {
-    width: 95dvw !important;
-    margin: 0 auto;
-    display: block;
-  }
-
-  #my-cal-inline-consultation {
-    width: 100%;
-    margin: 0;
-  }
-
-  #calendar-widget {
-    height: 70dvh;
-  }
-
-  .form-button, .form-control {
-    width: 90dvw;
-  }
-
   .nav {
     display: grid;
   }
@@ -385,5 +346,19 @@ a:visited {
     width: 100%;
     max-width: 280px;
     margin: 1.5rem auto;
+  }
+
+  form {
+    padding: 0 1rem;
+  }
+
+  .form-control,
+  .textarea {
+    font-size: 1rem;
+  }
+
+  .form-button {
+    width: 100%;
+    max-width: 280px;
   }
 }
