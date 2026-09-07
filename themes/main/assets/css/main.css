@@ -321,12 +321,13 @@ a:visited {
   height: auto !important;
 }
 
-  .header-element {
-    display: block;
-    padding: 1rem 1.5rem;
-    font-size: 1.15rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-  }
+.header-element {
+  display: block;
+  padding: 1rem 1.5rem;
+  font-size: 1.15rem;
+  text-align: center;          /* ← added */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
 
   .header-element:last-child {
     border-bottom: none;
