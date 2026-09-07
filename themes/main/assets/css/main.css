@@ -281,6 +281,35 @@ a:visited {
   color: #ffce07;
 }
 
+/* About page images */
+.about-logo {
+  float: right;
+  width: 180px;
+  margin: 0 0 1.5rem 1.5rem;
+  border-radius: 8px;
+}
+
+.about-photo {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+}
+
+/* Center the calendar */
+#calendar-widget {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 70%;
+  max-width: 100%;
+  height: 800px;
+  border-radius: 8px;
+}
+
 /* ========== MOBILE ========== */
 @media only screen and (max-width: 900px) {
   body {
@@ -348,6 +377,22 @@ a:visited {
   .tighter-margin {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
+  }
+
+    .about-logo {
+    display: none; /* hide the floating logo on mobile – the big banner already shows branding */
+  }
+
+  .about-photo {
+    width: 100%;
+    max-width: 100%;
+    margin: 1.75rem auto;
+    border-radius: 10px;
+  }
+
+  #calendar-widget {
+    width: 100%;
+    height: 70dvh;
   }
 
   #map {
