@@ -285,18 +285,39 @@ a:visited {
 .about-logo {
   float: right;
   width: 180px;
-  margin: 0 0 1.5rem 1.5rem;
+  margin: 0 0 1.25rem 1.5rem;
   border-radius: 8px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.3);
 }
 
 .about-photo {
-  display: block;
-  max-width: 100%;
+  max-width: 280px;
   width: 100%;
   height: auto;
-  margin: 1.5rem auto;
   border-radius: 10px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+  margin-bottom: 1rem;
+}
+
+.about-photo-left {
+  float: left;
+  margin: 0.25rem 1.5rem 1rem 0;
+}
+
+.about-photo-right {
+  float: right;
+  margin: 0.25rem 0 1rem 1.5rem;
+}
+
+/* Make sure calendar is centered */
+#calendar-widget {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 70%;
+  max-width: 100%;
+  height: 800px;
+  border-radius: 8px;
 }
 
 /* Center the calendar */
@@ -327,6 +348,28 @@ a:visited {
 
   .icon {
     height: 2.35rem;
+  }
+
+    .about-logo {
+    display: block;
+    float: none;
+    width: 140px;
+    margin: 0 auto 1.5rem;
+  }
+
+  .about-photo,
+  .about-photo-left,
+  .about-photo-right {
+    float: none;
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    margin: 1.5rem auto;
+  }
+
+  #calendar-widget {
+    width: 100%;
+    height: 70dvh;
   }
 
   /* Hide the menu by default on mobile */
