@@ -20,6 +20,29 @@ title = 'Map'
 
 ### These are all the businesses in the Chattanooga area that accept bitcoin. Select any of them for details.
 
+</div>
+
+<!-- The table will be generated here by JavaScript -->
+<div class="business-table-wrapper">
+  <table id="business-table">
+    <thead>
+      <tr>
+        <th data-sort="name">Name</th>
+        <th data-sort="type">Type</th>
+        <th>Address</th>
+        <th>Phone</th>
+        <th>Hours</th>
+        <th>Website</th>
+      </tr>
+    </thead>
+    <tbody id="business-table-body">
+      <!-- Rows are inserted by JavaScript -->
+    </tbody>
+  </table>
+</div>
+
+<div class="article" style="text-align:center;">
+
 <br>
 
 ### Own a business and want to start accepting bitcoin?
