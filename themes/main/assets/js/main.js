@@ -566,4 +566,61 @@ function setupMapPage() {
 
   // Keep a reference to the map itself
   window.bitcoinMap = map;
+
+  // Build the business table from the same data
+  buildBusinessTable();
+}
+
+function buildBusinessTable() {
+  var tbody = document.getElementById("business-table-body");
+  if (!tbody || !window.businessData) return;
+
+  tbody.innerHTML = "";
+
+  window.businessData.forEach(function (biz, index) {
+    var tr = document.createElement("tr");
+
+    // Name (will become clickable in Step 3)
+    var nameTd = document.createElement("td");
+    var nameLink = document.createElement("span");
+    nameLink.className = "business-name-link";
+    nameLink.textContent = biz.name || "";
+    nameLink.dataset.index = index; // store the index for later popup opening
+    nameTd.appendChild(nameLink);
+    tr.appendChild(nameTd);
+
+    // Type
+    var typeTd = document.createElement("td");
+    typeTd.textContent = biz.type || "";
+    tr.appendChild(typeTd);
+
+    // Address
+    var addrTd = document.createElement("td");
+    addrTd.textContent = biz.address || "";
+    tr.appendChild(addrTd);
+
+    // Phone
+    var phoneTd = document.createElement("td");
+    phoneTd.textContent = biz.phone || "";
+    tr.appendChild(phoneTd);
+
+    // Hours
+    var hoursTd = document.createElement("td");
+    hoursTd.textContent = biz.hours || "";
+    tr.appendChild(hoursTd);
+
+    // Website
+    var webTd = document.createElement("td");
+    if (biz.websiteURL && biz.websiteName) {
+      var a = document.createElement("a");
+      a.href = biz.websiteURL;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = biz.websiteName;
+      webTd.appendChild(a);
+    }
+    tr.appendChild(webTd);
+
+    tbody.appendChild(tr);
+  });
 }
