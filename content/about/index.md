@@ -10,7 +10,7 @@ title = 'About'
 
 <br>
 
-<img class="desktop-only about-logo" src="/images/Logos/Bitcoin%20Chatt%20Logo.gif" alt="Bitcoin Chatt logo">
+<img class="about-logo desktop-only" src="/images/Logos/Bitcoin%20Chatt%20Logo.gif" alt="Bitcoin Chatt logo">
 
 Run by long-time Bitcoin educator, <a href="#jason-sellers">Jason Sellers</a>, Bitcoin Chattanooga is turning the Scenic City into a Bitcoin circular economy by providing:
 
@@ -32,7 +32,7 @@ Together, we’re onboarding Chattanooga to the future of money. <i>Nothing stop
 
 <h2>Bitcoin Chatt's Story</h2>
 
-<img class="about-photo" src="./Bitcoin-Chatt-at-Edne-Building-Dec-2021.jpeg" alt="Bitcoin Chatt at Edne Building, December 2021">
+<img class="about-photo about-photo-left" src="./Bitcoin-Chatt-at-Edne-Building-Dec-2021.jpeg" alt="Bitcoin Chatt at Edne Building, December 2021">
 
 Bitcoin Chattanooga (a.k.a. "Bitcoin Chatt") began as a humble meetup on <a href="https://mempool.space/block/00000000000000000004730cacd16909b9e2323eeceab1305c31edae2af07537">October 1, 2021</a>, when its organizer, Jason Sellers, saw a need for local Bitcoiners to connect and educate new Bitcoiners who visit. In January 2025, Jason visited El Salvador—the first nation to officially adopt bitcoin as money—and saw the hope that Bitcoin brought to the people there. This hope turned into a movement that spread from a small beach town, to become a national phenomenon. Inspired by this, and by those who were continuing this peaceful revolution in their own countries, he returned to the US to replicate that transformation.
 
@@ -44,7 +44,7 @@ We have a long way to go before this train reaches its destination, but by using
 
 <h2 id="jason-sellers">Who is Jason Sellers?</h2>
 
-<img class="about-photo" src="./Jason%20Sellers%20at%20DDNH.jpg" alt="Jason Sellers at Divine Design Natural Health">
+<img class="about-photo about-photo-right" src="./Jason%20Sellers%20at%20DDNH.jpg" alt="Jason Sellers at Divine Design Natural Health">
 
 Bitcoin Chattanooga’s organizer, Jason Sellers, discovered Bitcoin in 2015, and spent years learning about it through audiobooks and podcasts while delivering packages in Soddy Daisy. In 2018, he began teaching others about Bitcoin through online groups he created and managed, and telling as many people about it as he could.
 
