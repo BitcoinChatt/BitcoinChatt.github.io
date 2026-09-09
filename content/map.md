@@ -104,7 +104,7 @@ title = 'Map'
 </form>
 
 <div class="article" style="text-align:center;">
-  <p style="font-size: 0.9rem; opacity: 0.8; margin-top: 1rem;">
-    <i>After submitting, you may be asked to complete a CAPTCHA.</i>
+  <p class="form-helper-text">
+    Fields marked with * are required. After submitting, you may be asked to complete a CAPTCHA.
   </p>
 </div>
