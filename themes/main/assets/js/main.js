@@ -575,17 +575,49 @@ function buildBusinessTable() {
   var tbody = document.getElementById("business-table-body");
   if (!tbody || !window.businessData) return;
 
+  // Keep a working copy so we can re-sort without losing the original order
+  if (!window.sortedBusinessData) {
+    window.sortedBusinessData = window.businessData.slice();
+  }
+
+  renderTableRows(window.sortedBusinessData);
+
+  // Attach sorting handlers (only once)
+  if (!window.tableSortAttached) {
+    var headers = document.querySelectorAll("#business-table th[data-sort]");
+    headers.forEach(function (th) {
+      th.addEventListener("click", function () {
+        var key = th.getAttribute("data-sort");
+        sortBusinessTable(key);
+      });
+    });
+    window.tableSortAttached = true;
+  }
+}
+
+function renderTableRows(data) {
+  var tbody = document.getElementById("business-table-body");
+  if (!tbody) return;
+
   tbody.innerHTML = "";
 
-  window.businessData.forEach(function (biz, index) {
+  data.forEach(function (biz, index) {
+    // Find the original index so we can open the correct map marker
+    var originalIndex = window.businessData.findIndex(function (b) {
+      return b.name === biz.name && b.address === biz.address;
+    });
+
     var tr = document.createElement("tr");
 
-    // Name (will become clickable in Step 3)
+    // Name (clickable)
     var nameTd = document.createElement("td");
     var nameLink = document.createElement("span");
     nameLink.className = "business-name-link";
     nameLink.textContent = biz.name || "";
-    nameLink.dataset.index = index; // store the index for later popup opening
+    nameLink.dataset.index = originalIndex;
+    nameLink.addEventListener("click", function () {
+      openMapMarker(originalIndex);
+    });
     nameTd.appendChild(nameLink);
     tr.appendChild(nameTd);
 
@@ -623,4 +655,53 @@ function buildBusinessTable() {
 
     tbody.appendChild(tr);
   });
+}
+
+function sortBusinessTable(key) {
+  if (!window.sortedBusinessData) return;
+
+  // Toggle direction
+  if (window.currentSortKey === key) {
+    window.sortAscending = !window.sortAscending;
+  } else {
+    window.currentSortKey = key;
+    window.sortAscending = true;
+  }
+
+  window.sortedBusinessData.sort(function (a, b) {
+    var valA = (a[key] || "").toString().toLowerCase();
+    var valB = (b[key] || "").toString().toLowerCase();
+
+    if (valA < valB) return window.sortAscending ? -1 : 1;
+    if (valA > valB) return window.sortAscending ? 1 : -1;
+    return 0;
+  });
+
+  renderTableRows(window.sortedBusinessData);
+}
+
+function openMapMarker(index) {
+  if (
+    !window.mapMarkers ||
+    !window.bitcoinMap ||
+    index < 0 ||
+    index >= window.mapMarkers.length
+  ) {
+    return;
+  }
+
+  var marker = window.mapMarkers[index];
+
+  // Scroll the map into view
+  var mapEl = document.getElementById("map");
+  if (mapEl) {
+    mapEl.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+
+  // Open the popup after a short delay so the scroll can finish
+  setTimeout(function () {
+    marker.openPopup();
+    // Optional: gently pan to the marker
+    window.bitcoinMap.panTo(marker.getLatLng());
+  }, 350);
 }
