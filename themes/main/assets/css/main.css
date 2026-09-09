@@ -203,10 +203,10 @@ form {
   transform: scale(0.98);
 }
 
-/* Business submission form extras */
+/* Business submission form */
 .business-form {
   max-width: 560px;
-  margin: 1.5rem auto 2.5rem;
+  margin: 1rem auto 1.5rem;
   padding: 0 1.5rem;
   text-align: center;
 }
@@ -245,11 +245,23 @@ form {
   background-color: #ffa94d;
 }
 
-/* Keep consistent spacing on mobile */
+.form-helper-text {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin: 0.5rem auto 2.5rem;
+  max-width: 560px;
+  padding: 0 1.5rem;
+}
+
 @media only screen and (max-width: 900px) {
   .business-form {
     padding: 0 1rem;
-    margin: 1.25rem auto 2rem;
+    margin: 0.75rem auto 1.25rem;
+  }
+
+  .form-helper-text {
+    padding: 0 1rem;
+    margin-bottom: 2rem;
   }
 }
 
