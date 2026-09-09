@@ -643,12 +643,12 @@ function renderTableRows(data) {
 
     // Website
     var webTd = document.createElement("td");
-    if (biz.websiteURL && biz.websiteName) {
+    if (biz.websiteURL) {
       var a = document.createElement("a");
       a.href = biz.websiteURL;
       a.target = "_blank";
       a.rel = "noopener";
-      a.textContent = biz.websiteName;
+      a.textContent = "Link";
       webTd.appendChild(a);
     }
     tr.appendChild(webTd);
