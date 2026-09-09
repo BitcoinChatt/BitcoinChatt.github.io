@@ -759,26 +759,31 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     }
 
-    var code = "// Pin (add next number)\n";
-    code += "{\n";
-    code += "  coords: [0, 0], // ← replace with real coordinates\n";
-    if (imageLine) {
-      code += imageLine;
+    var code = "    // Pin (add next number)\n";
+    code += "    {\n";
+    code += "      coords: [0, 0], // ← replace with real coordinates\n";
+    if (hasPhoto) {
+      code +=
+        '      image: "/images/Bitcoin Businesses/' +
+        safeName +
+        "/" +
+        safeName +
+        '.jpg",\n';
     }
-    code += '  name: "' + name.replace(/"/g, '\\"') + '",\n';
-    code += '  type: "' + type.replace(/"/g, '\\"') + '",\n';
-    code += '  address: "' + address.replace(/"/g, '\\"') + '",\n';
+    code += '      name: "' + name.replace(/"/g, '\\"') + '",\n';
+    code += '      type: "' + type.replace(/"/g, '\\"') + '",\n';
+    code += '      address: "' + address.replace(/"/g, '\\"') + '",\n';
     if (phone) {
-      code += '  phone: "' + phone.replace(/"/g, '\\"') + '",\n';
+      code += '      phone: "' + phone.replace(/"/g, '\\"') + '",\n';
     }
     if (hours) {
-      code += '  hours: "' + hours.replace(/"/g, '\\"') + '",\n';
+      code += '      hours: "' + hours.replace(/"/g, '\\"') + '",\n';
     }
     if (website) {
-      code += '  websiteURL: "' + website.replace(/"/g, '\\"') + '",\n';
-      code += '  websiteName: "' + websiteName.replace(/"/g, '\\"') + '",\n';
+      code += '      websiteURL: "' + website.replace(/"/g, '\\"') + '",\n';
+      code += '      websiteName: "' + websiteName.replace(/"/g, '\\"') + '",\n';
     }
-    code += "},";
+    code += "    },";
 
     // Put the generated code into the hidden field
     document.getElementById("ready-to-paste-code").value = code;
