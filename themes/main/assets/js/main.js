@@ -668,6 +668,22 @@ function sortBusinessTable(key) {
     window.sortAscending = true;
   }
 
+  // Update the arrow indicators in the headers
+  var nameHeader = document.querySelector('#business-table th[data-sort="name"]');
+  var typeHeader = document.querySelector('#business-table th[data-sort="type"]');
+
+  if (nameHeader) {
+    nameHeader.textContent = "Name " + (window.currentSortKey === "name"
+      ? (window.sortAscending ? "▼" : "▲")
+      : "▼");
+  }
+  if (typeHeader) {
+    typeHeader.textContent = "Type " + (window.currentSortKey === "type"
+      ? (window.sortAscending ? "▼" : "▲")
+      : "▼");
+  }
+
+  // Perform the sort
   window.sortedBusinessData.sort(function (a, b) {
     var valA = (a[key] || "").toString().toLowerCase();
     var valB = (b[key] || "").toString().toLowerCase();
