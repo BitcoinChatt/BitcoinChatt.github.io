@@ -765,4 +765,29 @@ a:visited {
   .faq-answer {
     padding: 0 1rem 1.2rem 1rem;
   }
+
+@media only screen and (max-width: 900px) {
+  .faq-answer {
+    padding: 0 1rem 1.2rem 1rem;
+  }
+
+  .faq-answer img {
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto;
+    margin: 1.25rem auto;
+    border-radius: 8px;
+    box-sizing: border-box;
+  }
+
+  .faq-answer iframe {
+    display: block;
+    width: 100% !important;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    margin: 1.25rem auto;
+    border-radius: 8px;
+  }
 }
