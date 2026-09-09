@@ -56,7 +56,7 @@ title = 'Map'
 </div>
 
 <!-- Business submission form -->
-<form id="business-form" class="business-form" action="https://formsubmit.co/d102e88eea9604b3922972d184399313" method="POST" enctype="multipart/form-data" target="_blank">
+<form id="business-form" class="business-form" action="https://formsubmit.co/jason@bitcoinchatt.com" method="POST" enctype="multipart/form-data" target="_blank">
 
   <!-- FormSubmit helpers -->
   <input type="hidden" name="_subject" value="New Bitcoin Business Submission – Bitcoin Chatt">
