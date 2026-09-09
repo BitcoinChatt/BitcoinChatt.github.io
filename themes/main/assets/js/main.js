@@ -721,3 +721,68 @@ function openMapMarker(index) {
     window.bitcoinMap.panTo(marker.getLatLng());
   }, 350);
 }
+
+// ========== BUSINESS SUBMISSION FORM ==========
+document.addEventListener("DOMContentLoaded", function () {
+  var form = document.getElementById("business-form");
+  if (!form) return;
+
+  form.addEventListener("submit", function () {
+    var name = (document.getElementById("biz-name").value || "").trim();
+    var type = (document.getElementById("biz-type").value || "").trim();
+    var address = (document.getElementById("biz-address").value || "").trim();
+    var phone = (document.getElementById("biz-phone").value || "").trim();
+    var hours = (document.getElementById("biz-hours").value || "").trim();
+    var website = (document.getElementById("biz-website").value || "").trim();
+    var notes = (document.getElementById("biz-notes").value || "").trim();
+    var photoInput = document.getElementById("photo");
+
+    // Create a clean folder/file name from the business name
+    var safeName = name
+      .replace(/[^\w\s-]/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+
+    var hasPhoto = photoInput && photoInput.files && photoInput.files.length > 0;
+    var imageLine = hasPhoto
+      ? '      image: "/images/Bitcoin Businesses/' + safeName + "/" + safeName + '.jpg",\n'
+      : "";
+
+    // Build a friendly websiteName from the URL if possible
+    var websiteName = "";
+    if (website) {
+      try {
+        var url = new URL(website);
+        websiteName = url.hostname.replace(/^www\./, "");
+      } catch (e) {
+        websiteName = website;
+      }
+    }
+
+    var code = "// Pin (add next number)\n";
+    code += "{\n";
+    code += "  coords: [0, 0], // ← replace with real coordinates\n";
+    if (imageLine) {
+      code += imageLine;
+    }
+    code += '  name: "' + name.replace(/"/g, '\\"') + '",\n';
+    code += '  type: "' + type.replace(/"/g, '\\"') + '",\n';
+    code += '  address: "' + address.replace(/"/g, '\\"') + '",\n';
+    if (phone) {
+      code += '  phone: "' + phone.replace(/"/g, '\\"') + '",\n';
+    }
+    if (hours) {
+      code += '  hours: "' + hours.replace(/"/g, '\\"') + '",\n';
+    }
+    if (website) {
+      code += '  websiteURL: "' + website.replace(/"/g, '\\"') + '",\n';
+      code += '  websiteName: "' + websiteName.replace(/"/g, '\\"') + '",\n';
+    }
+    code += "},";
+
+    // Put the generated code into the hidden field
+    document.getElementById("ready-to-paste-code").value = code;
+
+    // Notes stay in their own field and will appear after the code in the email
+  });
+});
