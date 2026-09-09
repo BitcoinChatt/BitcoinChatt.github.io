@@ -51,8 +51,55 @@ title = 'Map'
 
 <br>
 
-### If you own a business and already accept bitcoin, [let us know](/contact), and we'll add your location to our map, and recommend you to all Bitcoiners in the area!
+### If you own a business and already accept bitcoin, fill out this form and we'll add your business to the map!
 
-<br><br>
+</div>
 
+<!-- Business submission form -->
+<form class="business-form" action="https://formsubmit.co/d102e88eea9604b3922972d184399313" method="POST" enctype="multipart/form-data" target="_blank">
+
+  <!-- Optional: tells FormSubmit what the email subject should be -->
+  <input type="hidden" name="_subject" value="New Bitcoin Business Submission – Bitcoin Chatt">
+
+  <div class="form-group">
+    <input type="text" name="business_name" class="form-control" placeholder="Business Name *" required>
+  </div>
+
+  <div class="form-group">
+    <input type="text" name="type" class="form-control" placeholder="Type (e.g. Restaurant, Barbershop, Retail Store) *" required>
+  </div>
+
+  <div class="form-group">
+    <input type="text" name="address" class="form-control" placeholder="Address *" required>
+  </div>
+
+  <div class="form-group">
+    <input type="text" name="phone" class="form-control" placeholder="Phone">
+  </div>
+
+  <div class="form-group">
+    <input type="text" name="hours" class="form-control" placeholder="Hours">
+  </div>
+
+  <div class="form-group">
+    <input type="url" name="website" class="form-control" placeholder="Website (https://...)">
+  </div>
+
+  <div class="form-group">
+    <label for="photo" class="form-label">Upload Photo (optional)</label>
+    <input type="file" name="photo" id="photo" class="form-control form-file" accept="image/*">
+  </div>
+
+  <div class="form-group">
+    <textarea name="notes" class="form-control textarea" placeholder="Notes / Message (optional)" rows="5"></textarea>
+  </div>
+
+  <button type="submit" class="form-button">Submit Business</button>
+
+</form>
+
+<div class="article" style="text-align:center;">
+  <p style="font-size: 0.9rem; opacity: 0.8; margin-top: 1rem;">
+    <i>After submitting, you may be asked to complete a CAPTCHA.</i>
+  </p>
 </div>
