@@ -49,10 +49,10 @@ title = 'Map'
 
 ### Make sure to check out the [New to Bitcoin](/new-to-bitcoin) page, and set up a time to meet with Bitcoin Chattanooga's organizer, Jason, so he can help you get started.
 
-<br>
+</div>
 
+<div class="article form-intro" style="text-align:center;">
 ### If you own a business and already accept bitcoin, fill out this form and we'll add your business to the map!
-
 </div>
 
 <!-- Business submission form -->
