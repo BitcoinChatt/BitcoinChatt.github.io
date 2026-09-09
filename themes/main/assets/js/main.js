@@ -513,6 +513,18 @@ function setupMapPage() {
       type: "Photography",
       address: "8432 Cherrybark Ln, Ooltewah, TN 37363",
     },
+    // Pin 42
+    {
+      coords: [35.034713854466546, -85.3041327537031], //
+      image: "/images/Bitcoin Businesses/Bitcoin Chatt/Bitcoin Chatt.jpg",
+      name: "Bitcoin Chatt",
+      type: "Consulting Firm",
+      address: "123 Main Street, Chattanooga, TN",
+      phone: "423-521-1737",
+      hours: "Sun-Sat 9AM-8PM",
+      websiteURL: "https://www.BitcoinChatt.com",
+      websiteName: "Website",
+    },
   ];
 
   // Make the data available globally so the table can use it later
