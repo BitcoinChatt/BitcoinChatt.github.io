@@ -39,6 +39,7 @@ title = 'FAQs'
   <br>
 <p>Why 4 years? Bitcoin’s supply is capped at 21 million coins (each one divisible to a hundred-millionth, or even smaller if needed), while demand keeps rising as education spreads. When increasing demand meets Bitcoin’s unchangeable limit, prices trend up and to the right—though not without a few dips along the way. Every 4 years or so, the rate of new bitcoin being mined is cut in half, so the same (or rising) demand must then chase after half the amount of new coins.</p>
 <img class="mobile-banner" src="./Bitcoin Issuance Schedule.png" style="width:30dvw;display:block;margin:0 auto;">
+  <br>
 <p>This leads to a cycle of new highs, burnout, and cooldown, while usually remaining higher than the peaks of the previous round. So don’t think of Bitcoin as a way to get more dollars, but as a way to escape rising prices in the dollar system, and the ultimate savings vehicle. We’re still <i>incredibly</i> early in Bitcoin’s overall adoption—roughly only 3% of the world’s population has adopted it—so it has plenty of room to grow to the upside!</p>
 <img class="mobile-banner" src="./Bitcoin's Adoption.png" style="width:30dvw;display:block;margin:0 auto;">
 </div>
@@ -185,6 +186,7 @@ title = 'FAQs'
   <br>
 <p>Bitcoin runs on an open and widely copied and shared ledger, known as the timechain (or blockchain). Each "page" of this ledger is called a "block", and an encrypted version of each block is included in the one that follows it, which forms a chain. Even one small change to a previous block would completely change its encrypted form, and thereby change all the other blocks after it, so as new blocks are added, older blocks become more permanent. In fact, to say it would be "set in stone" would be a <i>massive</i> understatement!</p>
 <a target="_blank" href="https://timechaincalendar.com/en/block/703083"><img class="mobile-banner" src="./Block 703083.png" style="width:20dvw;display:block;margin:0 auto;"></a>
+  <br>
 <p>This makes Bitcoin's timechain an extremely reliable method for marking significant moments in history. When Bitcoin Chattanooga's creator, Jason Sellers, started the first meeting in the Edney Building downtown, at 6pm on October 1st 2021, the most recent block was number <a target="_blank" href="https://mempool.space/block/00000000000000000004730cacd16909b9e2323eeceab1305c31edae2af07537">703,083</a>. So this is a fun way to say when Bitcoin Chattanooga started, while simultaneously giving a nod to Bitcoin's timechain.</p>
 </div>
 </details>
