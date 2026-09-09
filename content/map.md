@@ -52,7 +52,7 @@ title = 'Map'
 </div>
 
 <div class="article form-intro" style="text-align:center;">
-### If you own a business and already accept bitcoin, fill out this form and we'll add your business to the map!
+  <h3>If you own a business and already accept bitcoin, fill out this form and we'll add your business to the map!</h3>
 </div>
 
 <!-- Business submission form -->
