@@ -790,4 +790,23 @@ a:visited {
     margin: 1.25rem auto;
     border-radius: 8px;
   }
+  .faq-section-title {
+  max-width: 780px;
+  margin: 2.5rem auto 1rem;
+  padding: 0 1.5rem;
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: #ff9416;
+  text-align: left;
+}
+
+.faq-section-title:first-of-type {
+  margin-top: 1rem;
+}
+
+@media only screen and (max-width: 900px) {
+  .faq-section-title {
+    padding: 0 1rem;
+    font-size: 1.25rem;
+  }
 }
