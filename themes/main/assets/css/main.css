@@ -203,6 +203,56 @@ form {
   transform: scale(0.98);
 }
 
+/* Business submission form extras */
+.business-form {
+  max-width: 560px;
+  margin: 1.5rem auto 2.5rem;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+
+.form-label {
+  display: block;
+  text-align: left;
+  font-size: 0.95rem;
+  color: #F1F5F9;
+  margin-bottom: 0.4rem;
+  opacity: 0.9;
+}
+
+.form-file {
+  padding: 0.65rem 1rem;
+  cursor: pointer;
+  color: #F1F5F9;
+  background-color: #1e1e1e;
+}
+
+.form-file::file-selector-button {
+  margin-right: 1rem;
+  padding: 0.45rem 1rem;
+  border: none;
+  border-radius: 6px;
+  background-color: #ff9416;
+  color: #121212;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.form-file::file-selector-button:hover {
+  background-color: #ffa94d;
+}
+
+/* Keep consistent spacing on mobile */
+@media only screen and (max-width: 900px) {
+  .business-form {
+    padding: 0 1rem;
+    margin: 1.25rem auto 2rem;
+  }
+}
+
 /* ========== MAP ========== */
 #map {
   width: 100%;
