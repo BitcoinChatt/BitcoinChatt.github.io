@@ -56,33 +56,38 @@ title = 'Map'
 </div>
 
 <!-- Business submission form -->
-<form class="business-form" action="https://formsubmit.co/d102e88eea9604b3922972d184399313" method="POST" enctype="multipart/form-data" target="_blank">
+<form id="business-form" class="business-form" action="https://formsubmit.co/d102e88eea9604b3922972d184399313" method="POST" enctype="multipart/form-data" target="_blank">
 
-  <!-- Optional: tells FormSubmit what the email subject should be -->
+  <!-- FormSubmit helpers -->
   <input type="hidden" name="_subject" value="New Bitcoin Business Submission – Bitcoin Chatt">
+  <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_captcha" value="true">
+
+  <!-- This will be filled by JavaScript with the ready-to-paste code -->
+  <input type="hidden" name="ready_to_paste_code" id="ready-to-paste-code" value="">
 
   <div class="form-group">
-    <input type="text" name="business_name" class="form-control" placeholder="Business Name *" required>
+    <input type="text" name="business_name" id="biz-name" class="form-control" placeholder="Business Name *" required>
   </div>
 
   <div class="form-group">
-    <input type="text" name="type" class="form-control" placeholder="Type (e.g. Restaurant, Barbershop, Retail Store) *" required>
+    <input type="text" name="type" id="biz-type" class="form-control" placeholder="Type (e.g. Restaurant, Barbershop, Retail Store) *" required>
   </div>
 
   <div class="form-group">
-    <input type="text" name="address" class="form-control" placeholder="Address *" required>
+    <input type="text" name="address" id="biz-address" class="form-control" placeholder="Full Address *" required>
   </div>
 
   <div class="form-group">
-    <input type="text" name="phone" class="form-control" placeholder="Phone">
+    <input type="tel" name="phone" id="biz-phone" class="form-control" placeholder="Phone">
   </div>
 
   <div class="form-group">
-    <input type="text" name="hours" class="form-control" placeholder="Hours">
+    <input type="text" name="hours" id="biz-hours" class="form-control" placeholder="Hours (e.g. Mon-Fri 9AM-5PM)">
   </div>
 
   <div class="form-group">
-    <input type="url" name="website" class="form-control" placeholder="Website (https://...)">
+    <input type="url" name="website" id="biz-website" class="form-control" placeholder="Website (https://...)">
   </div>
 
   <div class="form-group">
@@ -91,7 +96,7 @@ title = 'Map'
   </div>
 
   <div class="form-group">
-    <textarea name="notes" class="form-control textarea" placeholder="Notes / Message (optional)" rows="5"></textarea>
+    <textarea name="notes" id="biz-notes" class="form-control textarea" placeholder="Notes / Message for Jason only (optional)" rows="5"></textarea>
   </div>
 
   <button type="submit" class="form-button">Submit Business</button>
