@@ -27,8 +27,8 @@ title = 'Map'
   <table id="business-table">
     <thead>
       <tr>
-        <th data-sort="name">Name</th>
-        <th data-sort="type">Type</th>
+        <th data-sort="name">Name ▼</th>
+        <th data-sort="type">Type ▼</th>
         <th>Address</th>
         <th>Phone</th>
         <th>Hours</th>
