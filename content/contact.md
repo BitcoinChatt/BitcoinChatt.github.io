@@ -5,7 +5,7 @@ underConstruction = false
 title = 'Contact'
 +++
 
-<form target="_blank" action="https://formsubmit.co/d102e88eea9604b3922972d184399313" method="POST">
+<form target="_blank" action="https://formsubmit.co/jason@bitcoinchatt.com" method="POST">
 
 ## We'd love to hear from you!
 
