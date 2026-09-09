@@ -87,7 +87,7 @@ title = 'FAQs'
 </div>
 </details>
 
-<h2 class="faq-section-title">Bitcoin FUD <i>(Fear, Uncertainty, and Doubt)</i></h2>
+<h2 class="faq-section-title">Common Bitcoin Objections</h2>
 
 <details>
 <summary>Is Bitcoin Bad for the Environment?</summary>
@@ -158,7 +158,7 @@ title = 'FAQs'
 </div>
 </details>
 
-<h2 class="faq-section-title">Questions About Bitcoin Chatt</h2>
+<h2 class="faq-section-title">Bitcoin Chatt Questions</h2>
 
 <details>
 <summary>What Does "Est. 703,083" on Bitcoin Chattanooga's Logo Mean?</summary>
