@@ -203,10 +203,20 @@ form {
   transform: scale(0.98);
 }
 
-/* Business submission form */
+.form-intro {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.form-intro h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
 .business-form {
   max-width: 560px;
-  margin: 0.25rem auto 1.5rem;
+  margin: 0 auto 1.5rem;
   padding: 0 1.5rem;
   text-align: center;
 }
