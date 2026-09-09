@@ -465,12 +465,12 @@ a:visited {
 
 /* ========== BUSINESS TABLE ========== */
 .business-table-wrapper {
-  max-width: 900px;          /* same as the map */
+  max-width: 900px;
   width: 100%;
-  margin: 2rem auto 3rem;
+  margin: 0.75rem auto 1.25rem;   /* less space above and below */
   padding: 0;
-  height: 500px;             /* same height as the map on desktop */
-  overflow: auto;            /* independent scrollbars */
+  height: 500px;
+  overflow: auto;
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   background-color: #1a1a1a;
@@ -481,7 +481,7 @@ a:visited {
   border-collapse: collapse;
   font-size: 0.92rem;
   color: #F1F5F9;
-  table-layout: fixed;       /* allows us to control column widths */
+  table-layout: fixed;
 }
 
 #business-table thead {
@@ -517,35 +517,17 @@ a:visited {
 
 /* Column widths */
 #business-table th:nth-child(1),
-#business-table td:nth-child(1) {  /* Name */
-  width: 22%;
-}
-
+#business-table td:nth-child(1) { width: 22%; }   /* Name */
 #business-table th:nth-child(2),
-#business-table td:nth-child(2) {  /* Type */
-  width: 13%;
-}
-
+#business-table td:nth-child(2) { width: 13%; }   /* Type */
 #business-table th:nth-child(3),
-#business-table td:nth-child(3) {  /* Address */
-  width: 28%;
-}
-
+#business-table td:nth-child(3) { width: 28%; }   /* Address */
 #business-table th:nth-child(4),
-#business-table td:nth-child(4) {  /* Phone */
-  width: 14%;
-  white-space: nowrap;
-}
-
+#business-table td:nth-child(4) { width: 14%; white-space: nowrap; } /* Phone */
 #business-table th:nth-child(5),
-#business-table td:nth-child(5) {  /* Hours */
-  width: 15%;
-}
-
+#business-table td:nth-child(5) { width: 15%; }   /* Hours */
 #business-table th:nth-child(6),
-#business-table td:nth-child(6) {  /* Website */
-  width: 8%;
-}
+#business-table td:nth-child(6) { width: 8%; }    /* Website */
 
 #business-table tbody tr:nth-child(odd) {
   background-color: #1e1e1e;
@@ -569,7 +551,7 @@ a:visited {
 
 .business-name-link {
   color: #F1F5F9;
-  font-weight: 500;
+  font-weight: 700;          /* bold names */
   cursor: pointer;
 }
 
@@ -579,8 +561,8 @@ a:visited {
 
 @media only screen and (max-width: 900px) {
   .business-table-wrapper {
-    height: 55dvh;           /* match the map height on mobile */
-    margin: 1.5rem auto 2.5rem;
+    height: 55dvh;
+    margin: 0.75rem auto 1.25rem;
     border-radius: 8px;
   }
 
