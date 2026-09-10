@@ -16,7 +16,7 @@ title = 'Glossary'
 <details id="51-percent-attack">
 <summary>51% Attack</summary>
 <div class="faq-answer">
-<p>A 51% attack is when one miner or group controls more than half of the network’s <a href="#hashrate">hashrate</a> and uses that power to rewrite recent history—for example by <a href="#double-spending">double-spending</a> or blocking other people’s transactions. On Bitcoin this is extremely expensive and difficult because the total hashrate is so large, and even then older <a href="#block">blocks</a> remain effectively permanent.</p>
+<p>A 51% attack is when one miner or group controls more than half of the network’s <a href="#hashrate">hashrate</a> and uses that power to rewrite recent history. For example, by <a href="#double-spending">double-spending</a> or blocking other people’s transactions. On Bitcoin this is extremely expensive and difficult because the total hashrate is so large, and even then older <a href="#block">blocks</a> remain effectively permanent.</p>
 </div>
 </details>
 
@@ -37,14 +37,14 @@ title = 'Glossary'
 <details id="asic">
 <summary>ASIC</summary>
 <div class="faq-answer">
-<p>An ASIC (Application-Specific Integrated Circuit) is a computer chip built to do one job extremely well. In Bitcoin, ASICs are designed only for <a href="#mining">mining</a>—running <a href="#sha-256">SHA-256</a> hashes as fast and efficiently as possible. General-purpose computers can still mine in theory, but ASICs dominate because they are far more powerful per watt.</p>
+<p>An ASIC (Application-Specific Integrated Circuit) is a computer chip built to do one job extremely well. In Bitcoin, ASICs are designed only for <a href="#mining">mining</a>, running <a href="#sha-256">SHA-256</a> hashes as fast and efficiently as possible. General-purpose computers can still mine in theory, but ASICs dominate because they are far more powerful per watt.</p>
 </div>
 </details>
 
 <details id="bip">
 <summary>BIP</summary>
 <div class="faq-answer">
-<p>A BIP is a <b>Bitcoin Improvement Proposal</b>: a public document that suggests a change or standard for Bitcoin, such as a new address format or wallet feature. BIPs are discussed openly; nothing becomes part of Bitcoin just because a BIP exists—users and <a href="#node">node</a> operators decide what to adopt.</p>
+<p>A BIP is a <b>Bitcoin Improvement Proposal</b>: a public document that suggests a change or standard for Bitcoin, such as a new address format or wallet feature. BIPs are discussed openly; nothing becomes part of Bitcoin just because a BIP exists. Users and <a href="#node">node</a> operators decide what to adopt.</p>
 </div>
 </details>
 
@@ -65,14 +65,14 @@ title = 'Glossary'
 <details id="blind-signatures">
 <summary>Blind Signatures</summary>
 <div class="faq-answer">
-<p>Invented by David Chaum in the 1980s, blind signatures are a <a href="#cryptography">cryptographic</a> technique for signing a message without seeing its contents—like signing a sealed envelope. In systems like <a href="#ecash">eCash</a> built on Bitcoin, this allows payments that stay private from the signer while remaining verifiable.</p>
+<p>Invented by David Chaum in the 1980s, blind signatures are a <a href="#cryptography">cryptographic</a> technique for signing a message without seeing its contents, like signing a sealed envelope. In systems like <a href="#ecash">eCash</a> built on Bitcoin, this allows payments that stay private from the signer while remaining verifiable.</p>
 </div>
 </details>
 
 <details id="block">
 <summary>Block</summary>
 <div class="faq-answer">
-<p>A block is a batch of Bitcoin transactions bundled together—like one page in a massively copied, permanent digital ledger—added to the <a href="#timechain">Timechain</a> roughly every 10 minutes by <a href="#mining">miners</a>.</p>
+<p>A block is a batch of Bitcoin transactions bundled together, like one page in a massively copied, permanent digital ledger. A new one is added to the <a href="#timechain">Timechain</a> roughly every 10 minutes by <a href="#mining">miners</a>.</p>
 </div>
 </details>
 
@@ -156,7 +156,7 @@ title = 'Glossary'
 <details id="consensus">
 <summary>Consensus</summary>
 <div class="faq-answer">
-<p>Consensus is the agreement Bitcoin <a href="#node">nodes</a> reach—roughly every 10 minutes—on the current state of the <a href="#timechain">Timechain</a> while enforcing Bitcoin’s rules. It keeps everyone’s copy of the ledger in sync without a central coordinator.</p>
+<p>Consensus is the agreement Bitcoin <a href="#node">nodes</a> reach roughly every 10 minutes, on the current state of the <a href="#timechain">Timechain</a> while enforcing Bitcoin’s rules. It keeps everyone’s copy of the ledger in sync without a central coordinator.</p>
 </div>
 </details>
 
@@ -177,7 +177,7 @@ title = 'Glossary'
 <details id="cryptography">
 <summary>Cryptography</summary>
 <div class="faq-answer">
-<p>Cryptography is a branch of mathematics that uses one-way functions: easy to verify when you have the right inputs, extremely hard to reverse when you don’t. That makes it possible to protect information—from a short message to a Bitcoin <a href="#private-key">private key</a>—so it can’t practically be decoded without the secret.</p>
+<p>Cryptography is a branch of mathematics that uses one-way functions: easy to verify when you have the right inputs, extremely hard to reverse when you don’t. That makes it possible to protect information, from a short message to a Bitcoin <a href="#private-key">private key</a>, so it can’t practically be decoded without the secret.</p>
 </div>
 </details>
 
@@ -185,13 +185,6 @@ title = 'Glossary'
 <summary>Custodial Wallet</summary>
 <div class="faq-answer">
 <p>A custodial wallet is an app or website (often an exchange) that holds your <a href="#private-key">private key</a> for you. It’s convenient and can reduce the risk of you losing a key yourself, but you must trust the custodian. Those services can still be hacked, mismanaged, or pressured by governments.</p>
-</div>
-</details>
-
-<details id="dca">
-<summary>DCA</summary>
-<div class="faq-answer">
-<p>DCA means <b>Dollar Cost Averaging</b>: buying a fixed dollar amount of bitcoin on a regular schedule (for example, $100 every week), regardless of price. Over time this averages your purchase price and avoids trying to time the market—something most people can’t do consistently. <a target="_blank" href="https://canyoubeatbitcoin.com/">This game</a> is a useful demonstration.</p>
 </div>
 </details>
 
@@ -216,6 +209,13 @@ title = 'Glossary'
 </div>
 </details>
 
+<details id="dca">
+<summary>Dollar Cost Averaging (DCA)</summary>
+<div class="faq-answer">
+<p>Dollar Cost Averaging, or DCA, is buying a fixed dollar amount of bitcoin on a regular schedule (for example, $100 every week), regardless of price. Over time this averages your purchase price and avoids trying to time the market, something most people can’t do consistently. <a target="_blank" href="https://canyoubeatbitcoin.com/">This game</a> is a useful demonstration.</p>
+</div>
+</details>
+
 <details id="dont-trust-verify">
 <summary>Don’t Trust, Verify</summary>
 <div class="faq-answer">
@@ -233,7 +233,7 @@ title = 'Glossary'
 <details id="dust">
 <summary>Dust</summary>
 <div class="faq-answer">
-<p>Dust is a <a href="#utxo">UTXO</a> so small that the fee to spend it can be worth as much as—or more than—the output itself. Wallets and the network treat very tiny outputs carefully so the <a href="#utxo-set">UTXO set</a> doesn’t fill up with uneconomical leftovers.</p>
+<p>Dust is a <a href="#utxo">UTXO</a> so small that the fee to spend it can be worth as much or more than the output itself. Wallets and the network treat very tiny outputs carefully so the <a href="#utxo-set">UTXO set</a> doesn’t fill up with uneconomical leftovers.</p>
 </div>
 </details>
 
@@ -247,7 +247,7 @@ title = 'Glossary'
 <details id="electrum-server">
 <summary>Electrum Server</summary>
 <div class="faq-answer">
-<p>An Electrum server is software that indexes the <a href="#timechain">Timechain</a> and answers wallet queries—balances, transaction history, and broadcast requests—without the wallet storing the full chain itself. Lightweight wallets often connect to one; running your own keeps that query private.</p>
+<p>An Electrum server is software that indexes the <a href="#timechain">Timechain</a> and answers wallet queries, such as balances, transaction history, and broadcast requests, without the wallet storing the full chain itself. Lightweight wallets often connect to one; running your own keeps that query private.</p>
 </div>
 </details>
 
@@ -255,6 +255,20 @@ title = 'Glossary'
 <summary>Epoch</summary>
 <div class="faq-answer">
 <p>An epoch is the period between <a href="#halving">halvings</a>. The first ran from 3 January 2009 to 28 November 2012, with a 50-bitcoin <a href="#block-reward">block reward</a>. We are now in the fifth epoch, with a reward of 3.125 new bitcoin per <a href="#block">block</a> (plus <a href="#transaction-fee">fees</a>).</p>
+</div>
+</details>
+
+<details id="fomo">
+<summary>Fear Of Missing Out (FOMO)</summary>
+<div class="faq-answer">
+<p>Fear Of Missing Out, or FOMO, is the urge to buy when price is spiking. It’s usually a poor strategy because it’s emotional. A better approach is a plan to <a href="#dca">DCA</a> into bitcoin before drama hits, so price moves are less likely to control you.</p>
+</div>
+</details>
+
+<details id="fud">
+<summary>Fear, Uncertainty, and Doubt (FUD)</summary>
+<div class="faq-answer">
+<p>Fear, Uncertainty, and Doubt, or FUD, refers to negative information (often one-sided, incomplete, and/or false) meant to cast Bitcoin or something else in a bad light.</p>
 </div>
 </details>
 
@@ -279,13 +293,6 @@ title = 'Glossary'
 </div>
 </details>
 
-<details id="fomo">
-<summary>FOMO</summary>
-<div class="faq-answer">
-<p>FOMO means <b>Fear Of Missing Out</b>—the urge to buy when price is spiking. It’s usually a poor strategy because it’s emotional. A better approach is a plan to <a href="#dca">DCA</a> into bitcoin before drama hits, so price moves are less likely to control you.</p>
-</div>
-</details>
-
 <details id="hard-fork">
 <summary>Fork, Hard</summary>
 <div class="faq-answer">
@@ -297,13 +304,6 @@ title = 'Glossary'
 <summary>Fork, Soft</summary>
 <div class="faq-answer">
 <p>A soft fork tightens rules in a way that stays compatible with older software. Unless a radical change is needed, this is the usual path for Bitcoin upgrades.</p>
-</div>
-</details>
-
-<details id="fud">
-<summary>FUD</summary>
-<div class="faq-answer">
-<p>FUD means <b>Fear, Uncertainty, and Doubt</b>—negative information (often one-sided, incomplete, or false) meant to cast Bitcoin or something else in a bad light.</p>
 </div>
 </details>
 
@@ -324,7 +324,7 @@ title = 'Glossary'
 <details id="get-off-zero">
 <summary>Get Off Zero</summary>
 <div class="faq-answer">
-<p>“Get Off Zero” means stop having zero bitcoin and acquire your first <a href="#satoshi">sats</a>—the start of using this new form of money.</p>
+<p>“Get Off Zero” means stop having zero bitcoin and acquire your first <a href="#satoshi">sats</a>. It marks the beginning of using this new form of money.</p>
 </div>
 </details>
 
@@ -338,7 +338,7 @@ title = 'Glossary'
 <details id="halving">
 <summary>Halving</summary>
 <div class="faq-answer">
-<p>A halving happens every 210,000 <a href="#block">blocks</a> (~every 4 years), when the new-bitcoin reward per block is cut in half. It started at 50, then 25, 12.5, 6.25, and is now 3.125. This continues until only 1 <a href="#satoshi">satoshi</a> is issued per block, and eventually no new bitcoin at all—capping supply at just under 21 million.</p>
+<p>A halving happens every 210,000 <a href="#block">blocks</a> (~every 4 years), when the new-bitcoin reward per block is cut in half. It started at 50, then 25, 12.5, 6.25, and is now 3.125. This continues until only 1 <a href="#satoshi">satoshi</a> is issued per block, and eventually no new bitcoin at all, thereby capping the supply at just under 21 million.</p>
 </div>
 </details>
 
@@ -364,9 +364,9 @@ title = 'Glossary'
 </details>
 
 <details id="hfsp">
-<summary>HFSP</summary>
+<summary>Have Fun Staying Poor (HFSP)</summary>
 <div class="faq-answer">
-<p>HFSP means <b>Have Fun Staying Poor</b>—a blunt phrase some Bitcoiners use when they conclude a <a href="#nocoiner">nocoiner</a> won’t engage in good faith. It’s rude by design; treat it as internet slang, not a model for conversation.</p>
+<p>Have Fun Staying Poor, or HFSP, is a blunt phrase some Bitcoiners use when they conclude a <a href="#nocoiner">nocoiner</a> won’t engage in good faith. It’s rude by design; treat it as internet slang, not a model for conversation.</p>
 <iframe width="700" height="394" src="https://www.youtube.com/embed/k8ukx0LKJRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </details>
@@ -374,7 +374,7 @@ title = 'Glossary'
 <details id="hodl">
 <summary>Hodl</summary>
 <div class="faq-answer">
-<p>“Hodl” began as a typo for “hold” on a <a target="_blank" href="https://bitcointalk.org/index.php?topic=375643.0">Bitcointalk post</a> and became a meme for long-term conviction—resisting the urge to sell into fiat. Some later treated it as “Hold On for Dear Life,” but the typo came first.</p>
+<p>“Hodl” began as a typo for “hold” on a <a target="_blank" href="https://bitcointalk.org/index.php?topic=375643.0">Bitcointalk post</a> and became a meme for long-term conviction and resisting the urge to sell into fiat. Some later treated it as “Hold On for Dear Life,” but the typo came first.</p>
 </div>
 </details>
 
@@ -407,9 +407,9 @@ title = 'Glossary'
 </details>
 
 <details id="kyc">
-<summary>KYC</summary>
+<summary>Know your Customer (KYC)</summary>
 <div class="faq-answer">
-<p>KYC means <b>Know Your Customer</b>—rules that force many exchanges to collect personal data before you can use them. The stated goal is stopping illicit finance; in practice it also creates large data honeypots. Non-KYC options include earning bitcoin, selling goods for it, or using peer-to-peer platforms such as <a target="_blank" href="https://hodlhodl.com/join/QPXV">Hodl Hodl</a>.</p>
+<p>Know Your Customer, or KYC, refers to laaws and regulations that force many exchanges to collect personal data before you can use them. The stated goal is stopping illicit finance; in practice it also creates large data honeypots. Non-KYC options include earning bitcoin, selling goods for it, or using peer-to-peer platforms such as <a target="_blank" href="https://hodlhodl.com/join/QPXV">Hodl Hodl</a>.</p>
 </div>
 </details>
 
@@ -465,14 +465,14 @@ title = 'Glossary'
 <details id="liquid-network">
 <summary>Liquid Network</summary>
 <div class="faq-answer">
-<p>Liquid is a sidechain linked to Bitcoin’s <a href="#timechain">Timechain</a>. It can be faster, cheaper, and more private for some uses, but it is operated by a federation of businesses, so it requires a small amount of trust—though those operators are strongly incentivized to protect users.</p>
+<p>Liquid is a sidechain linked to Bitcoin’s <a href="#timechain">Timechain</a>. It can be faster, cheaper, and more private for some uses, but it is operated by a federation of businesses, so it requires a small amount of trust, though those operators are strongly incentivized to protect users.</p>
 </div>
 </details>
 
 <details id="lightning-routing">
 <summary>Lightning Routing</summary>
 <div class="faq-answer">
-<p>Lightning routing is how a payment finds a path across multiple <a href="#lightning-channel">channels</a>—for example Alice pays Bob, who forwards to Charlie. Each hop may charge a small fee. You don’t need a direct channel with the final recipient if a route exists.</p>
+<p>Lightning routing is how a payment finds a path across multiple <a href="#lightning-channel">channels</a>. For example, Alice pays Bob, who forwards it to Charlie. Each hop may charge a small fee. You don’t need a direct channel with the final recipient if a route exists.</p>
 </div>
 </details>
 
@@ -486,7 +486,7 @@ title = 'Glossary'
 <details id="mempool">
 <summary>Mempool</summary>
 <div class="faq-answer">
-<p>A mempool is a <a href="#node">node</a>’s list of pending on-chain transactions, typically ordered by fee rate (<a href="#satoshi">sats</a> per <a href="#vbyte">vByte</a>). There is no single global mempool—each node has its own view of unconfirmed transactions until they land in a <a href="#block">block</a>.</p>
+<p>A mempool is a <a href="#node">node</a>’s list of pending on-chain transactions, typically ordered by fee rate (<a href="#satoshi">sats</a> per <a href="#vbyte">vByte</a>). There is no single global mempool; each node has its own view of unconfirmed transactions until they land in a <a href="#block">block</a>.</p>
 </div>
 </details>
 
@@ -514,14 +514,14 @@ title = 'Glossary'
 <details id="multisig">
 <summary>Multisig</summary>
 <div class="faq-answer">
-<p>Multisig (multi-signature) means more than one key is required to spend bitcoin—for example 2-of-3, where any two of three keys can authorize a transaction. It’s widely used for shared custody, business funds, and stronger personal security setups.</p>
+<p>Multisig (multi-signature) means more than one key is required to spend bitcoin. For example, 2-of-3, where any two of three keys can authorize a transaction. It’s widely used for shared custody, business funds, and stronger personal security setups.</p>
 </div>
 </details>
 
 <details id="newcoiner">
 <summary>Newcoiner</summary>
 <div class="faq-answer">
-<p>A newcoiner is someone newly into Bitcoin who has just started <a href="#stack-sats">stacking sats</a>—a shorter label than “Bitcoin beginner.”</p>
+<p>A newcoiner is someone newly into Bitcoin who has just started <a href="#stack-sats">stacking sats</a>. It's a shorter way of referring to someone who is a Bitcoin beginner.</p>
 </div>
 </details>
 
@@ -549,14 +549,14 @@ title = 'Glossary'
 <details id="noncustodial-wallet">
 <summary>Noncustodial Wallet</summary>
 <div class="faq-answer">
-<p>A noncustodial wallet is an app or device where <i>you</i> hold the <a href="#private-key">private key</a>. You control the funds fully—and you are fully responsible. Lose the key (and backups), and the bitcoin is gone with no recovery desk to call.</p>
+<p>A noncustodial wallet is an app or device where <i>you</i> hold the <a href="#private-key">private key</a>. You control the funds fully, and you are fully responsible. Lose the key (and backups), and the bitcoin is gone with no recovery desk to call.</p>
 </div>
 </details>
 
 <details id="not-your-keys-not-your-bitcoin">
 <summary>Not Your Keys, Not Your Bitcoin</summary>
 <div class="faq-answer">
-<p>This mantra means: if someone else holds your <a href="#private-key">private keys</a>, you don’t truly hold the bitcoin—you hold an IOU. Exchange hacks, seizures, and failures made the phrase stick.</p>
+<p>This mantra means: if someone else holds your <a href="#private-key">private keys</a>, you don’t truly hold the bitcoin; you hold an IOU. Exchange hacks, seizures, and failures made the phrase stick.</p>
 </div>
 </details>
 
@@ -612,7 +612,7 @@ title = 'Glossary'
 <details id="proof-of-work">
 <summary>Proof of Work</summary>
 <div class="faq-answer">
-<p>Proof of Work is the process of <a href="#mining">miners</a> searching for a <a href="#nonce">nonce</a> that produces a valid <a href="#hash">hash</a> so a new <a href="#block">block</a> can be added to the <a href="#timechain">Timechain</a>. Finding it is expensive; verifying it is cheap—so it proves real work was done.</p>
+<p>Proof of Work is the process of <a href="#mining">miners</a> searching for a <a href="#nonce">nonce</a> that produces a valid <a href="#hash">hash</a> so a new <a href="#block">block</a> can be added to the <a href="#timechain">Timechain</a>. Finding it is expensive; verifying it is cheap, so it proves real work was done.</p>
 </div>
 </details>
 
@@ -668,7 +668,7 @@ title = 'Glossary'
 <details id="self-custody">
 <summary>Self-Custody</summary>
 <div class="faq-answer">
-<p>Self-custody means you hold your own <a href="#private-key">private keys</a>—usually in a <a href="#noncustodial-wallet">noncustodial wallet</a> or <a href="#hardware-wallet">hardware wallet</a>—instead of trusting an exchange or other third party. It comes with more responsibility, and with the core benefit summed up by <a href="#not-your-keys-not-your-bitcoin">“Not Your Keys, Not Your Bitcoin.”</a></p>
+<p>Self-custody means you hold your own <a href="#private-key">private keys</a>, usually in a <a href="#noncustodial-wallet">noncustodial wallet</a> or <a href="#hardware-wallet">hardware wallet</a>, instead of trusting an exchange or other third party. It comes with more responsibility, and with the core benefit summed up by <a href="#not-your-keys-not-your-bitcoin">“Not Your Keys, Not Your Bitcoin.”</a></p>
 </div>
 </details>
 
@@ -689,7 +689,7 @@ title = 'Glossary'
 <details id="shitcoin">
 <summary>Shitcoin</summary>
 <div class="faq-answer">
-<p>Among Bitcoiners, “shitcoin” is a blunt term for other <a href="#cryptocurrency">cryptocurrencies</a>—viewed as centralized, low-integrity, or scammy compared with Bitcoin.</p>
+<p>Among Bitcoiners, “shitcoin” is a blunt term for other <a href="#cryptocurrency">cryptocurrencies</a>, which are viewed as centralized, low-integrity, or scammy compared with Bitcoin.</p>
 </div>
 </details>
 
@@ -710,14 +710,14 @@ title = 'Glossary'
 <details id="sound-money">
 <summary>Sound Money</summary>
 <div class="faq-answer">
-<p>Sound money is money that holds value well over time because its supply is hard to debase. Bitcoiners use the term for bitcoin’s fixed supply, predictable issuance, and resistance to political manipulation—contrasted with expandable <a href="#fiat">fiat</a> currencies.</p>
+<p>Sound money is money that holds value well over time because its supply is hard to debase. Bitcoiners use the term for bitcoin’s fixed supply, predictable issuance, and resistance to political manipulation, contrasted with expandable <a href="#fiat">fiat</a> currencies.</p>
 </div>
 </details>
 
 <details id="stack-sats">
 <summary>Stack Sats</summary>
 <div class="faq-answer">
-<p>“Stack sats” means keep accumulating bitcoin steadily—especially via ongoing buys—without obsessing over short-term price. Often paired with “stay humble.”</p>
+<p>“Stack sats” means keep accumulating bitcoin steadily, especially via ongoing buys, without obsessing over short-term price. Often paired with “stay humble.”</p>
 </div>
 </details>
 
@@ -738,7 +738,7 @@ title = 'Glossary'
 <details id="timechain">
 <summary>Timechain</summary>
 <div class="faq-answer">
-<p>The Timechain—commonly called a “blockchain”—is the shared ledger of all on-chain bitcoin transactions since 3 January 2009. Each <a href="#block">block</a> proves a set of transactions and a moment in time. Bitcoin Chattanooga’s first meetup is marked at <a target="_blank" href="https://mempool.space/block/00000000000000000004730cacd16909b9e2323eeceab1305c31edae2af07537">block 703,083</a>.</p>
+<p>The Timechain, commonly called a “blockchain”, is the shared ledger of all on-chain bitcoin transactions since 3 January 2009. Each <a href="#block">block</a> proves a set of transactions and a moment in time. Bitcoin Chattanooga’s first meetup is marked at <a target="_blank" href="https://mempool.space/block/00000000000000000004730cacd16909b9e2323eeceab1305c31edae2af07537">block 703,083</a>.</p>
 </div>
 </details>
 
