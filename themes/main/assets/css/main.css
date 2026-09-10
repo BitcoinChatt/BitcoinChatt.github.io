@@ -529,12 +529,11 @@ a:visited {
     padding: 0 1rem;
   }
 
-  .form-button {
+.form-button {
     width: 100%;
     max-width: 280px;
   }
 
-  @media only screen and (max-width: 900px) {
   .satsman-banner {
     width: 100% !important;
     max-width: 100% !important;
