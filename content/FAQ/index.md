@@ -189,7 +189,7 @@ title = 'FAQs'
 </details>
 
 <details>
-<summary>Who is <s> John Galt </s> Jason Sellers?</summary>
+<summary>Who is <s>John Galt</s> Jason Sellers?</summary>
 <div class="faq-answer">
 <p>Jason Sellers is Bitcoin Chattanooga’s organizer and a long-time Bitcoin educator. He discovered Bitcoin in 2015 and spent years learning about it through audiobooks and podcasts while delivering packages in Soddy Daisy. In 2018, he began teaching others through online groups he created and managed.</p>
 <img class="mobile-banner" src="content/about/Jason Sellers at DDNH.jpg" style="width:20dvw;display:block;margin:0 auto;">
