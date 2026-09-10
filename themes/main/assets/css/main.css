@@ -545,7 +545,27 @@ a:visited {
 }
 
 /* ========== BUSINESS TABLE ========== */
-.business-table-wrapper {
+#business-table-window {
+  display: block !important;
+  box-sizing: border-box !important;
+  max-width: 900px !important;
+  width: 100% !important;
+  height: 500px !important;
+  margin: 0.75rem auto 1.25rem !important;
+  padding: 0 !important;
+  overflow: auto !important;
+  border-radius: 8px !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  background-color: #1a1a1a !important;
+}
+
+#business-table-window #business-table {
+  width: 100%;
+  max-width: 100%;
+  table-layout: fixed;
+}
+  
+  .business-table-wrapper {
   display: block;
   box-sizing: border-box;
   max-width: 900px;
