@@ -23,7 +23,7 @@ title = 'Map'
 </div>
 
 <!-- The table will be generated here by JavaScript -->
-<div class="business-table-wrapper">
+<div id="business-table-window" class="business-table-wrapper" style="max-width:900px;width:100%;height:500px;overflow:auto;margin:0.75rem auto 1.25rem;border-radius:8px;border:1px solid rgba(255,255,255,0.1);background-color:#1a1a1a;box-sizing:border-box;">
   <table id="business-table">
     <thead>
       <tr>
