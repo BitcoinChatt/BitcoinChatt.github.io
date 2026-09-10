@@ -179,7 +179,7 @@ title = 'FAQs'
 <h2 class="faq-section-title">Bitcoin Chatt Questions</h2>
 
 <details>
-<summary>What is Bitcoin Chat?</summary>
+<summary>What is Bitcoin Chatt?</summary>
 <div class="faq-answer">
 <p>Bitcoin Chattanooga (a.k.a. “Bitcoin Chatt”) is a local effort, run by long-time Bitcoin educator Jason Sellers, that’s turning the Scenic City into a Bitcoin circular economy. It began as a humble meetup on October 1, 2021, when Jason saw the need for local Bitcoiners to connect and educate newcomers. Inspired by the hope Bitcoin brought to people in El Salvador—the first nation to adopt it as money—he returned determined to replicate that peaceful transformation here.</p>
 <img class="mobile-banner" src="./Bitcoin Chatt Full Avatar 2.0.png" style="width:20dvw;display:block;margin:0 auto;">
