@@ -24,25 +24,31 @@ title = 'Glossary'
   >
   <datalist id="glossary-suggestions"></datalist>
 
-  <p id="glossary-no-results" style="display:none; text-align:center; margin:0.75rem 0 0; color:#aaa; font-size:0.95rem;">
+  <p id="glossary-no-results" style="display:none; text-align:center; margin:0.6rem 0 0; color:#aaa; font-size:0.95rem;">
     No matching terms found.
   </p>
 </div>
 
 <style>
+  /* Reduce the gap after the intro text */
+  .article {
+    margin-bottom: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+  }
+
   /* Search bar container – same width as the glossary term boxes */
   #glossary-search-wrapper {
     max-width: 780px;
-    margin: 1.5rem auto 1.75rem;
+    margin: 0.5rem auto 1.25rem;   /* much tighter top margin */
     padding: 0 1.5rem;
     position: sticky;
-    top: 4.5rem;          /* sits just under the fixed header */
+    top: 4.5rem;                    /* sits just under the fixed header */
     z-index: 90;
     background: rgba(18, 18, 18, 0.92);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
   }
 
   /* Make the input full width of its container and match form styling */
@@ -56,26 +62,28 @@ title = 'Glossary'
   /* Mobile adjustments */
   @media only screen and (max-width: 900px) {
     #glossary-search-wrapper {
-      top: 4rem;           /* matches the smaller mobile header spacer */
+      top: 4rem;
       padding-left: 1.25rem;
       padding-right: 1.25rem;
-      margin: 1.25rem auto 1.5rem;
+      margin: 0.4rem auto 1rem;
     }
   }
 </style>
 
 <script>
-(function () {
+document.addEventListener('DOMContentLoaded', function () {
   const input = document.getElementById('glossary-search');
   const datalist = document.getElementById('glossary-suggestions');
   const noResults = document.getElementById('glossary-no-results');
   const wrapper = document.getElementById('glossary-search-wrapper');
+
   if (!input || !datalist || !wrapper) return;
 
-  // All glossary entries
-  const entries = Array.from(document.querySelectorAll('.faq-list details'));
+  // Grab every <details> that is a glossary term
+  // (works whether they are direct children of .faq-list or nested)
+  const entries = Array.from(document.querySelectorAll('.faq-list details, details[id]'));
 
-  // Build a quick lookup: term text → details element
+  // Build a map: lowercase term name → the <details> element
   const termMap = new Map();
   entries.forEach(details => {
     const summary = details.querySelector('summary');
@@ -89,7 +97,7 @@ title = 'Glossary'
     const query = input.value.trim().toLowerCase();
     let visibleCount = 0;
 
-    // Clear previous suggestions
+    // Clear old suggestions
     datalist.innerHTML = '';
 
     entries.forEach(details => {
@@ -101,7 +109,7 @@ title = 'Glossary'
       if (match) {
         visibleCount++;
 
-        // Add matching term names to the datalist for suggestions
+        // Add the term name to the suggestion list
         const summary = details.querySelector('summary');
         if (summary && query) {
           const option = document.createElement('option');
@@ -109,15 +117,15 @@ title = 'Glossary'
           datalist.appendChild(option);
         }
       } else {
-        details.open = false; // close any previously opened non-matches
+        details.open = false;
       }
     });
 
-    // Show / hide “no results” message
+    // Show / hide the “no results” message
     noResults.style.display = (query && visibleCount === 0) ? 'block' : 'none';
   }
 
-  // When the user selects a suggestion (or presses Enter on an exact match)
+  // Jump to a term only when the user actually selects it
   function goToSelectedTerm() {
     const selected = input.value.trim();
     if (!selected) return;
@@ -125,13 +133,13 @@ title = 'Glossary'
     const details = termMap.get(selected.toLowerCase());
     if (!details) return;
 
-    // Make sure it’s visible and open it
+    // Make sure it is visible and open it
     details.style.display = '';
     details.open = true;
 
     // Scroll so the term sits just under the sticky search bar
     requestAnimationFrame(() => {
-      const headerOffset = wrapper.offsetHeight + 16;
+      const headerOffset = wrapper.offsetHeight + 12;
       const elementPosition = details.getBoundingClientRect().top + window.pageYOffset;
       const offsetPosition = elementPosition - headerOffset;
 
@@ -142,26 +150,25 @@ title = 'Glossary'
     });
   }
 
-  // Live filter while typing
+  // Live filtering while typing
   input.addEventListener('input', filterGlossary);
 
-  // Trigger when a suggestion is chosen from the dropdown
+  // When a suggestion is chosen from the dropdown
   input.addEventListener('change', goToSelectedTerm);
 
-  // Also allow pressing Enter to jump to an exact match
-  input.addEventListener('keydown', e => {
+  // Also allow pressing Enter
+  input.addEventListener('keydown', function (e) {
     if (e.key === 'Enter') {
       e.preventDefault();
       goToSelectedTerm();
     }
-    // Clear on Escape
     if (e.key === 'Escape') {
       input.value = '';
       filterGlossary();
       input.blur();
     }
   });
-})();
+});
 </script>
 
 <div class="faq-list">
