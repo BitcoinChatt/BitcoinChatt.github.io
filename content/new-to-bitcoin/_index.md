@@ -225,6 +225,8 @@ title = 'New to Bitcoin?'
 
 <h2 style="text-align:center">Confused by new Bitcoin jargon? Check out our <a href="https://www.bitcoinchatt.com/new-to-bitcoin/glossary/">Glossary</a> of common Bitcoin terms!</h2>
 
+<a target="_blank" href="https://satsman.com?ref=geekigai"><img class="mobile-banner" src="/new-to-bitcoin/Banner.png" style="width:40dvw;display:block;margin:0 auto;"></a>
+
 <br>
 
 <h2 style="text-align:center">Schedule a 1-on-1 meeting to get started with Bitcoin!</h2>
@@ -244,9 +246,4 @@ calLink: "bitcoinchatt/consultation",
 Cal.ns.consultation("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#111213"},"dark":{"cal-brand":"#ff9900"}},"hideEventTypeDetails":false,"layout":"month_view"});
 </script>
   <!-- Cal inline embed code ends -->
-
-<br>
-
-<a target="_blank" href="https://satsman.com?ref=geekigai"><img class="mobile-banner" src="/new-to-bitcoin/Banner.png" style="width:40dvw;display:block;margin:0 auto;"></a>
-
 </div>
