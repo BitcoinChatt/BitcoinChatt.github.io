@@ -8,6 +8,168 @@ title = 'FAQs'
 <h1 style="text-align:center">Frequently Asked Questions</h1>
 </div>
 
+<!-- Sticky FAQ Search -->
+<div id="glossary-search-wrapper">
+  <input
+    type="search"
+    id="glossary-search"
+    class="form-control"
+    list="glossary-suggestions"
+    placeholder="Search FAQs…"
+    aria-label="Search FAQs"
+    autocomplete="off"
+  >
+  <datalist id="glossary-suggestions"></datalist>
+
+  <p id="glossary-no-results" style="display:none; text-align:center; margin:0.6rem 0 0; color:#aaa; font-size:0.95rem;">
+    No matching questions found.
+  </p>
+</div>
+
+<style>
+  /* Reduce the gap after the title (same spacing as Glossary page) */
+  .article {
+    margin-bottom: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+  }
+
+  /* Search bar container – same width & sticky behavior as Glossary */
+  #glossary-search-wrapper {
+    max-width: 780px;
+    margin: 0.5rem auto 1.25rem;
+    padding: 0 1.5rem;
+    position: sticky;
+    top: 4.5rem;
+    z-index: 90;
+    background: rgba(18, 18, 18, 0.92);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+  }
+
+  #glossary-search {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  @media only screen and (max-width: 900px) {
+    #glossary-search-wrapper {
+      top: 4rem;
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+      margin: 0.4rem auto 1rem;
+    }
+  }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const input = document.getElementById('glossary-search');
+  const datalist = document.getElementById('glossary-suggestions');
+  const noResults = document.getElementById('glossary-no-results');
+  const wrapper = document.getElementById('glossary-search-wrapper');
+
+  if (!input || !datalist || !wrapper) return;
+
+  // Only the FAQ questions on this page
+  const entries = Array.from(document.querySelectorAll('.faq-list details'));
+
+  // Map: lowercase question text → the <details> element
+  const termMap = new Map();
+  entries.forEach(details => {
+    const summary = details.querySelector('summary');
+    if (summary) {
+      const term = summary.textContent.trim();
+      termMap.set(term.toLowerCase(), details);
+    }
+  });
+
+  function filterGlossary() {
+    const query = input.value.trim().toLowerCase();
+    let visibleCount = 0;
+
+    datalist.innerHTML = '';
+
+    entries.forEach(details => {
+      const text = details.textContent.toLowerCase();
+      const match = !query || text.includes(query);
+
+      details.style.display = match ? '' : 'none';
+
+      if (match) {
+        visibleCount++;
+
+        const summary = details.querySelector('summary');
+        if (summary && query) {
+          const option = document.createElement('option');
+          option.value = summary.textContent.trim();
+          datalist.appendChild(option);
+        }
+      } else {
+        details.open = false;
+      }
+    });
+
+    // Also hide section titles when no questions under them are visible
+    document.querySelectorAll('.faq-section-title').forEach(title => {
+      let next = title.nextElementSibling;
+      let hasVisible = false;
+      while (next && !next.classList.contains('faq-section-title')) {
+        if (next.tagName === 'DETAILS' && next.style.display !== 'none') {
+          hasVisible = true;
+          break;
+        }
+        next = next.nextElementSibling;
+      }
+      title.style.display = (query && !hasVisible) ? 'none' : '';
+    });
+
+    noResults.style.display = (query && visibleCount === 0) ? 'block' : 'none';
+  }
+
+  function goToSelectedTerm() {
+    const selected = input.value.trim();
+    if (!selected) return;
+
+    const details = termMap.get(selected.toLowerCase());
+    if (!details) return;
+
+    details.style.display = '';
+    details.open = true;
+
+    requestAnimationFrame(() => {
+      const headerOffset = wrapper.offsetHeight + 12;
+      const elementPosition = details.getBoundingClientRect().top + window.pageYOffset;
+      const offsetPosition = elementPosition - headerOffset;
+
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+    });
+  }
+
+  input.addEventListener('input', filterGlossary);
+
+  input.addEventListener('change', goToSelectedTerm);
+
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      goToSelectedTerm();
+    }
+    if (e.key === 'Escape') {
+      input.value = '';
+      filterGlossary();
+      input.blur();
+    }
+  });
+});
+</script>
+
 <div class="faq-list">
 
 <h2 class="faq-section-title">General Bitcoin Questions</h2>
