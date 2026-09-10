@@ -192,7 +192,7 @@ title = 'FAQs'
 <summary>Who is <s>John Galt</s> Jason Sellers?</summary>
 <div class="faq-answer">
 <p>Jason Sellers is Bitcoin Chattanooga’s organizer and a long-time Bitcoin educator. He discovered Bitcoin in 2015 and spent years learning about it through audiobooks and podcasts while delivering packages in Soddy Daisy. In 2018, he began teaching others through online groups he created and managed.</p>
-<img class="mobile-banner" src="content/about/Jason Sellers at DDNH.jpg" style="width:20dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="https://raw.githubusercontent.com/BitcoinChatt/BitcoinChatt.github.io/refs/heads/main/content/about/Jason%20Sellers%20at%20DDNH.jpg" style="width:20dvw;display:block;margin:0 auto;">
   <br>
 <p>From 2022 to 2023, he led community growth at <a target="_blank" href="https://www.noah.com/">Noah</a>, a bitcoin wallet app for developing countries, then served as Community Manager at the Spirit of Satoshi, an AI built on Bitcoin knowledge. In 2024, he published <a target="_blank" href="https://a.co/d/0mcMtUC">"21 Questions: A Beginner's Guide to Bitcoin"</a>, later worked as Ambassador Concierge at <a target="_blank" href="https://www.satlantis.io/">Satlantis</a>, and in February 2025 turned his full attention to building a Bitcoin circular economy in the Chattanooga area.</p>
 <p>Jason and his wife Leigh Ann live in Rossville, Georgia, with their 6 homeschooled children.</p>
@@ -216,9 +216,9 @@ title = 'FAQs'
 <summary>How Can I Meet Other Bitcoiners in the Chattanooga Area?</summary>
 <div class="faq-answer">
 <p>The best way to meet other Bitcoiners locally is by attending Bitcoin Chatt’s regular meetups, workshops, and events. Check the Calendar page on this website for the full list of upcoming gatherings—select any event and hit “Signup” to RSVP. You’ll also find the same events listed on the Bitcoin Chattanooga page at Meetup.com, where the group has grown to over 200 members, and on Satlantis.io.</p>
-<img class="mobile-banner" src="./Bitcoin_Remnant.png" style="width:20dvw;display:block;margin:0 auto;">
+<img class="mobile-banner" src="./Bitcoin_Remnant.png" style="width:30dvw;display:block;margin:0 auto;">
   <br>
-<p>Current recurring events include the Bitcoin Remnant meetup on the 1st Saturday of the month and the main Bitcoin Chatt meetup on the 3rd Saturday, along with monthly Intro to Bitcoin classes. Whether you’re brand new or a long-time hodler, these are open discussions where you can ask questions, learn, share insights, and connect face-to-face. Special giveaways, free sats, stickers, and a Bitcoin book library are often part of the experience. Full details on dates, times, and locations are always available on the Calendar, <a target="_blank" href="https://www.meetup.com/bitcoin-chattanooga/">Meetup.com</a>, and <a target="_blank" href="https://www.satlantis.io/c/98/bitcoin-chatt">Satlantis</a>.</p>
+<p>Current recurring events include the Bitcoin Remnant meetup on the 1st Saturday of the month and the main Bitcoin Chatt meetup on the 3rd Saturday, along with monthly Intro to Bitcoin classes. Whether you’re brand new or a long-time hodler, these are open discussions where you can ask questions, learn, share insights, and connect face-to-face. Special giveaways, free sats, stickers, and a Bitcoin book library are often part of the experience. Full details on dates, times, and locations are always available on the [Calendar](/calendar), <a target="_blank" href="https://www.meetup.com/bitcoin-chattanooga/">Meetup.com</a>, and <a target="_blank" href="https://www.satlantis.io/c/98/bitcoin-chatt">Satlantis</a>.</p>
 <p>For ongoing daily conversation with local Bitcoiners between meetups, join the community Telegram group (details available via the Meetup page or by asking at an event).</p>
 <p>Show up, introduce yourself, and start building connections with like-minded Bitcoiners from all over the Chattanooga area!</p>
 </div>
