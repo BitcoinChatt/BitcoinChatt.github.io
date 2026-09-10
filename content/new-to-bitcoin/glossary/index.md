@@ -11,6 +11,159 @@ title = 'Glossary'
 <p style="text-align:center">If you can't find what you're looking for, <a href="/contact">let us know</a>, and we'll add it to this list!</p>
 </div>
 
+<!-- Sticky Glossary Search -->
+<div id="glossary-search-wrapper">
+  <input
+    type="search"
+    id="glossary-search"
+    class="form-control"
+    list="glossary-suggestions"
+    placeholder="Search glossary terms…"
+    aria-label="Search glossary terms"
+    autocomplete="off"
+  >
+  <datalist id="glossary-suggestions"></datalist>
+
+  <p id="glossary-no-results" style="display:none; text-align:center; margin:0.75rem 0 0; color:#aaa; font-size:0.95rem;">
+    No matching terms found.
+  </p>
+</div>
+
+<style>
+  /* Search bar container – same width as the glossary term boxes */
+  #glossary-search-wrapper {
+    max-width: 780px;
+    margin: 1.5rem auto 1.75rem;
+    padding: 0 1.5rem;
+    position: sticky;
+    top: 4.5rem;          /* sits just under the fixed header */
+    z-index: 90;
+    background: rgba(18, 18, 18, 0.92);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+
+  /* Make the input full width of its container and match form styling */
+  #glossary-search {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  /* Mobile adjustments */
+  @media only screen and (max-width: 900px) {
+    #glossary-search-wrapper {
+      top: 4rem;           /* matches the smaller mobile header spacer */
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+      margin: 1.25rem auto 1.5rem;
+    }
+  }
+</style>
+
+<script>
+(function () {
+  const input = document.getElementById('glossary-search');
+  const datalist = document.getElementById('glossary-suggestions');
+  const noResults = document.getElementById('glossary-no-results');
+  const wrapper = document.getElementById('glossary-search-wrapper');
+  if (!input || !datalist || !wrapper) return;
+
+  // All glossary entries
+  const entries = Array.from(document.querySelectorAll('.faq-list details'));
+
+  // Build a quick lookup: term text → details element
+  const termMap = new Map();
+  entries.forEach(details => {
+    const summary = details.querySelector('summary');
+    if (summary) {
+      const term = summary.textContent.trim();
+      termMap.set(term.toLowerCase(), details);
+    }
+  });
+
+  function filterGlossary() {
+    const query = input.value.trim().toLowerCase();
+    let visibleCount = 0;
+
+    // Clear previous suggestions
+    datalist.innerHTML = '';
+
+    entries.forEach(details => {
+      const text = details.textContent.toLowerCase();
+      const match = !query || text.includes(query);
+
+      details.style.display = match ? '' : 'none';
+
+      if (match) {
+        visibleCount++;
+
+        // Add matching term names to the datalist for suggestions
+        const summary = details.querySelector('summary');
+        if (summary && query) {
+          const option = document.createElement('option');
+          option.value = summary.textContent.trim();
+          datalist.appendChild(option);
+        }
+      } else {
+        details.open = false; // close any previously opened non-matches
+      }
+    });
+
+    // Show / hide “no results” message
+    noResults.style.display = (query && visibleCount === 0) ? 'block' : 'none';
+  }
+
+  // When the user selects a suggestion (or presses Enter on an exact match)
+  function goToSelectedTerm() {
+    const selected = input.value.trim();
+    if (!selected) return;
+
+    const details = termMap.get(selected.toLowerCase());
+    if (!details) return;
+
+    // Make sure it’s visible and open it
+    details.style.display = '';
+    details.open = true;
+
+    // Scroll so the term sits just under the sticky search bar
+    requestAnimationFrame(() => {
+      const headerOffset = wrapper.offsetHeight + 16;
+      const elementPosition = details.getBoundingClientRect().top + window.pageYOffset;
+      const offsetPosition = elementPosition - headerOffset;
+
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+    });
+  }
+
+  // Live filter while typing
+  input.addEventListener('input', filterGlossary);
+
+  // Trigger when a suggestion is chosen from the dropdown
+  input.addEventListener('change', goToSelectedTerm);
+
+  // Also allow pressing Enter to jump to an exact match
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      goToSelectedTerm();
+    }
+    // Clear on Escape
+    if (e.key === 'Escape') {
+      input.value = '';
+      filterGlossary();
+      input.blur();
+    }
+  });
+})();
+</script>
+
 <div class="faq-list">
 
 <details id="51-percent-attack">
