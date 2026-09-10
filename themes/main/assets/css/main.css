@@ -545,7 +545,10 @@ a:visited {
 }
 
 /* ========== BUSINESS TABLE ========== */
-#business-table-window {
+
+/* The scrolling window – matches the map on desktop */
+#business-table-window,
+.business-table-wrapper {
   display: block !important;
   box-sizing: border-box !important;
   max-width: 900px !important;
@@ -559,34 +562,17 @@ a:visited {
   background-color: #1a1a1a !important;
 }
 
-#business-table-window #business-table {
-  width: 100%;
-  max-width: 100%;
-  table-layout: fixed;
-}
-  
-  .business-table-wrapper {
-  display: block;
-  box-sizing: border-box;
-  max-width: 900px;
-  width: 100%;
-  height: 500px;
-  margin: 0.75rem auto 1.25rem;
-  padding: 0;
-  overflow: auto;
-  border-radius: 8px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  background-color: #1a1a1a;
-}
-
+#business-table-window #business-table,
 #business-table {
   width: 100%;
+  max-width: 100%;
   border-collapse: collapse;
-  font-size: 0.88rem;
+  font-size: 0.88rem;              /* smaller text so columns fit */
   color: #F1F5F9;
   table-layout: fixed;
 }
 
+#business-table-window #business-table thead,
 #business-table thead {
   background-color: #161616;
   position: sticky;
@@ -594,23 +580,28 @@ a:visited {
   z-index: 2;
 }
 
+#business-table-window #business-table th,
 #business-table th {
   padding: 0.8rem 0.65rem;
   text-align: left;
   font-weight: 600;
-  border-bottom: 2px solid rgba(255, 148, 22, 0.4);
+  border-bottom: 2px solid rgba(255, 148, 22, 0.4); /* orange separator */
   white-space: nowrap;
+  background-color: #161616;       /* needed for sticky header */
 }
 
+#business-table-window #business-table th[data-sort],
 #business-table th[data-sort] {
   cursor: pointer;
   user-select: none;
 }
 
+#business-table-window #business-table th[data-sort]:hover,
 #business-table th[data-sort]:hover {
   color: #ff9416;
 }
 
+#business-table-window #business-table td,
 #business-table td {
   padding: 0.65rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.06);
@@ -619,61 +610,90 @@ a:visited {
 }
 
 /* Column widths – desktop */
+#business-table-window #business-table th:nth-child(1),
+#business-table-window #business-table td:nth-child(1),
 #business-table th:nth-child(1),
-#business-table td:nth-child(1) { width: 22%; } /* Name */
+#business-table td:nth-child(1) { width: 22%; }
 
+#business-table-window #business-table th:nth-child(2),
+#business-table-window #business-table td:nth-child(2),
 #business-table th:nth-child(2),
-#business-table td:nth-child(2) { width: 13%; } /* Type */
+#business-table td:nth-child(2) { width: 13%; }
 
+#business-table-window #business-table th:nth-child(3),
+#business-table-window #business-table td:nth-child(3),
 #business-table th:nth-child(3),
-#business-table td:nth-child(3) { width: 27%; } /* Address */
+#business-table td:nth-child(3) { width: 27%; }
 
+#business-table-window #business-table th:nth-child(4),
+#business-table-window #business-table td:nth-child(4),
 #business-table th:nth-child(4),
-#business-table td:nth-child(4) { width: 14%; } /* Phone */
+#business-table td:nth-child(4) { width: 14%; }
 
+#business-table-window #business-table th:nth-child(5),
+#business-table-window #business-table td:nth-child(5),
 #business-table th:nth-child(5),
-#business-table td:nth-child(5) { width: 16%; } /* Hours */
+#business-table td:nth-child(5) { width: 16%; }
 
+#business-table-window #business-table th:nth-child(6),
+#business-table-window #business-table td:nth-child(6),
 #business-table th:nth-child(6),
-#business-table td:nth-child(6) { width: 8%; }  /* Website */
+#business-table td:nth-child(6) { width: 8%; }
 
+/* Alternating row shades */
+#business-table-window #business-table tbody tr:nth-child(odd),
 #business-table tbody tr:nth-child(odd) {
   background-color: #1e1e1e;
 }
 
+#business-table-window #business-table tbody tr:nth-child(even),
 #business-table tbody tr:nth-child(even) {
   background-color: #2a2a2a;
 }
 
+#business-table-window #business-table tbody tr:hover,
 #business-table tbody tr:hover {
   background-color: #333333;
 }
 
+/* Website links */
+#business-table-window #business-table a,
 #business-table a {
   color: #ff9416;
 }
 
+#business-table-window #business-table a:hover,
 #business-table a:hover {
   text-decoration: underline;
 }
 
+/* Clickable business names – bold + clear hover */
+#business-table-window .business-name-link,
 .business-name-link {
   color: #F1F5F9;
   font-weight: 700;
   cursor: pointer;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
 }
 
+#business-table-window .business-name-link:hover,
 .business-name-link:hover {
   color: #ff9416;
+  border-bottom-color: #ff9416;
 }
 
+/* Mobile – keep the horizontal scroll behavior you already liked */
 @media only screen and (max-width: 900px) {
+  #business-table-window,
   .business-table-wrapper {
-    height: 55dvh;
-    margin: 0.75rem auto 1.25rem;
-    overflow: auto;
+    height: 55dvh !important;
+    margin: 0.75rem auto 1.25rem !important;
+    overflow: auto !important;
   }
 
+  #business-table-window #business-table,
   #business-table {
     font-size: 0.78rem;
     width: 720px;
@@ -681,30 +701,44 @@ a:visited {
     table-layout: fixed;
   }
 
+  #business-table-window #business-table th,
+  #business-table-window #business-table td,
   #business-table th,
   #business-table td {
     padding: 0.55rem 0.5rem;
   }
 
+  #business-table-window #business-table th:nth-child(1),
+  #business-table-window #business-table td:nth-child(1),
   #business-table th:nth-child(1),
   #business-table td:nth-child(1) { width: 150px; }
 
+  #business-table-window #business-table th:nth-child(2),
+  #business-table-window #business-table td:nth-child(2),
   #business-table th:nth-child(2),
   #business-table td:nth-child(2) { width: 95px; }
 
+  #business-table-window #business-table th:nth-child(3),
+  #business-table-window #business-table td:nth-child(3),
   #business-table th:nth-child(3),
   #business-table td:nth-child(3) { width: 180px; }
 
+  #business-table-window #business-table th:nth-child(4),
+  #business-table-window #business-table td:nth-child(4),
   #business-table th:nth-child(4),
   #business-table td:nth-child(4) { width: 110px; }
 
+  #business-table-window #business-table th:nth-child(5),
+  #business-table-window #business-table td:nth-child(5),
   #business-table th:nth-child(5),
   #business-table td:nth-child(5) { width: 130px; }
 
+  #business-table-window #business-table th:nth-child(6),
+  #business-table-window #business-table td:nth-child(6),
   #business-table th:nth-child(6),
   #business-table td:nth-child(6) { width: 55px; }
 }
-
+  
 /* ========== FAQ ACCORDION ========== */
 .faq-list {
   max-width: 780px;
