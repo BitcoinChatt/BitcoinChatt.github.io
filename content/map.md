@@ -22,8 +22,133 @@ title = 'Map'
 
 </div>
 
-<!-- The table will be generated here by JavaScript -->
-<div id="business-table-window" class="business-table-wrapper" style="max-width:900px;width:100%;height:500px;overflow:auto;margin:0.75rem auto 1.25rem;border-radius:8px;border:1px solid rgba(255,255,255,0.1);background-color:#1a1a1a;box-sizing:border-box;">
+<style>
+  /* Map-page table styles – scoped and high-priority for desktop */
+  #business-table-window {
+    display: block !important;
+    box-sizing: border-box !important;
+    max-width: 900px !important;
+    width: 100% !important;
+    height: 500px !important;
+    margin: 0.75rem auto 1.25rem !important;
+    padding: 0 !important;
+    overflow: auto !important;
+    border-radius: 8px !important;
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    background-color: #1a1a1a !important;
+  }
+
+  #business-table-window #business-table {
+    width: 100% !important;
+    max-width: 100% !important;
+    border-collapse: separate !important; /* required for sticky header */
+    border-spacing: 0 !important;
+    font-size: 0.88rem !important;
+    color: #F1F5F9 !important;
+    table-layout: fixed !important;
+  }
+
+  #business-table-window #business-table thead th {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 5 !important;
+    background-color: #161616 !important;
+    padding: 0.8rem 0.65rem !important;
+    text-align: left !important;
+    font-weight: 600 !important;
+    border-bottom: 2px solid rgba(255, 148, 22, 0.55) !important;
+    white-space: nowrap !important;
+  }
+
+  #business-table-window #business-table th[data-sort] {
+    cursor: pointer !important;
+    user-select: none !important;
+  }
+
+  #business-table-window #business-table th[data-sort]:hover {
+    color: #ff9416 !important;
+  }
+
+  #business-table-window #business-table td {
+    padding: 0.65rem !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
+    vertical-align: top !important;
+    word-wrap: break-word !important;
+  }
+
+  /* Column widths */
+  #business-table-window #business-table th:nth-child(1),
+  #business-table-window #business-table td:nth-child(1) { width: 22% !important; }
+  #business-table-window #business-table th:nth-child(2),
+  #business-table-window #business-table td:nth-child(2) { width: 13% !important; }
+  #business-table-window #business-table th:nth-child(3),
+  #business-table-window #business-table td:nth-child(3) { width: 27% !important; }
+  #business-table-window #business-table th:nth-child(4),
+  #business-table-window #business-table td:nth-child(4) { width: 14% !important; }
+  #business-table-window #business-table th:nth-child(5),
+  #business-table-window #business-table td:nth-child(5) { width: 16% !important; }
+  #business-table-window #business-table th:nth-child(6),
+  #business-table-window #business-table td:nth-child(6) { width: 8% !important; }
+
+  /* Alternating rows – color the cells so it always shows */
+  #business-table-window #business-table tbody tr:nth-child(odd) td {
+    background-color: #1e1e1e !important;
+  }
+  #business-table-window #business-table tbody tr:nth-child(even) td {
+    background-color: #2a2a2a !important;
+  }
+  #business-table-window #business-table tbody tr:hover td {
+    background-color: #333333 !important;
+  }
+
+  /* Website links */
+  #business-table-window #business-table a {
+    color: #ff9416 !important;
+  }
+  #business-table-window #business-table a:hover {
+    text-decoration: underline !important;
+  }
+
+  /* Clickable business names */
+  #business-table-window .business-name-link {
+    color: #F1F5F9 !important;
+    font-weight: 700 !important;
+    cursor: pointer !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid transparent;
+    transition: color 0.15s ease, border-color 0.15s ease;
+  }
+  #business-table-window .business-name-link:hover {
+    color: #ff9416 !important;
+    border-bottom-color: #ff9416 !important;
+  }
+
+  /* Mobile adjustments */
+  @media only screen and (max-width: 900px) {
+    #business-table-window {
+      height: 55dvh !important;
+    }
+    #business-table-window #business-table {
+      font-size: 0.78rem !important;
+      width: 720px !important;
+      min-width: 720px !important;
+    }
+    #business-table-window #business-table th:nth-child(1),
+    #business-table-window #business-table td:nth-child(1) { width: 150px !important; }
+    #business-table-window #business-table th:nth-child(2),
+    #business-table-window #business-table td:nth-child(2) { width: 95px !important; }
+    #business-table-window #business-table th:nth-child(3),
+    #business-table-window #business-table td:nth-child(3) { width: 180px !important; }
+    #business-table-window #business-table th:nth-child(4),
+    #business-table-window #business-table td:nth-child(4) { width: 110px !important; }
+    #business-table-window #business-table th:nth-child(5),
+    #business-table-window #business-table td:nth-child(5) { width: 130px !important; }
+    #business-table-window #business-table th:nth-child(6),
+    #business-table-window #business-table td:nth-child(6) { width: 55px !important; }
+  }
+</style>
+
+<div id="business-table-window" class="business-table-wrapper">
   <table id="business-table">
     <thead>
       <tr>
