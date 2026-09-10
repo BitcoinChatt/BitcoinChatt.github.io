@@ -533,6 +533,15 @@ a:visited {
     width: 100%;
     max-width: 280px;
   }
+
+  @media only screen and (max-width: 900px) {
+  .satsman-banner {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 /* ========== BUSINESS TABLE ========== */
