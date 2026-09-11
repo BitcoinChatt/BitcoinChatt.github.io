@@ -77,7 +77,7 @@ function setupMapPage() {
     {
       coords: [35.00391290033336, -85.21372223445907], // ← replace with real coordinates
       name: "Bitcoin Chatt",
-      type: "Consulting Firm",
+      type: "Consulting",
       address: "Chattanooga, TN",
       phone: "423-521-1737",
       websiteURL: "https://www.bitcoinchatt.com/",
