@@ -68,17 +68,22 @@ body.has-bg-logo {
   color: #ff9416;
 }
 
-/* Force the Kit Subscribe link to look identical to the other menu items */
+/* Force the Kit Subscribe link to match the exact same colors as the other menu items */
+
+/* Unvisited = orange (same as About, FAQs, Contact) */
 .header-element.convertkit-button,
 a.convertkit-button.header-element,
-a[data-commerce].header-element {
+a[data-commerce].header-element,
+.header-element.convertkit-button:link,
+a.convertkit-button.header-element:link,
+a[data-commerce].header-element:link {
   background: none !important;
   background-color: transparent !important;
   border: none !important;
   box-shadow: none !important;
   border-radius: 0 !important;
   padding: 0.35rem 0.25rem !important;
-  color: #F1F5F9 !important;          /* same light color as About / FAQs / Contact */
+  color: #ff9416 !important;          /* ← orange, same as the other links */
   font-size: 1rem !important;
   font-weight: 500 !important;
   text-decoration: none !important;
@@ -91,20 +96,20 @@ a[data-commerce].header-element {
   margin: 0 !important;
 }
 
-/* Hover – same orange as the others */
+/* Visited = yellow (same as the other links after they’ve been clicked) */
+.header-element.convertkit-button:visited,
+a.convertkit-button.header-element:visited,
+a[data-commerce].header-element:visited {
+  color: #ffce07 !important;          /* ← yellow */
+}
+
+/* Hover = brighter orange (already working, but keep it explicit) */
 .header-element.convertkit-button:hover,
 a.convertkit-button.header-element:hover,
 a[data-commerce].header-element:hover {
   color: #ff9416 !important;
   background: none !important;
   background-color: transparent !important;
-}
-
-/* Visited state – keep it the same light color (or yellow if you prefer) */
-.header-element.convertkit-button:visited,
-a.convertkit-button.header-element:visited,
-a[data-commerce].header-element:visited {
-  color: #F1F5F9 !important;
 }
 
 /* Mobile – keep the same full-width stacked look as the other links */
@@ -116,7 +121,7 @@ a[data-commerce].header-element:visited {
     width: 100% !important;
     padding: 1rem 1.5rem !important;
     font-size: 1.15rem !important;
-    text-align: center !important;     /* force center like the other items */
+    text-align: center !important;
     border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
     margin: 0 !important;
     box-sizing: border-box !important;
