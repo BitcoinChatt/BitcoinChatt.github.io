@@ -9,6 +9,16 @@ window.toggleHeaderMenu = function () {
   }
 };
 
+document.addEventListener("DOMContentLoaded", function () {
+  var subscribeLinks = document.querySelectorAll('a[data-commerce]');
+  subscribeLinks.forEach(function (link) {
+    link.addEventListener("click", function () {
+      var menu = document.getElementById("header-list");
+      if (menu) menu.classList.remove("open");
+    });
+  });
+});
+
 window.onload = function () {
   setupCalendar();
   setupMapPage();
