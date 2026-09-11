@@ -73,6 +73,16 @@ function setupMapPage() {
   // Both the map markers and the future table will use this array.
   // Type is included here but is NEVER shown in the map popups.
   var markers = [
+    // Pin 0
+    {
+      coords: [35.00391290033336, -85.21372223445907], // ← replace with real coordinates
+      name: "Bitcoin Chatt",
+      type: "Consulting Firm",
+      address: "Chattanooga, TN",
+      phone: "423-521-1737",
+      websiteURL: "https://www.bitcoinchatt.com/",
+      websiteName: "BitcoinChatt.com",
+    },
     // Pin 1
     {
       coords: [35.19425, -84.856933],
