@@ -68,7 +68,7 @@ body.has-bg-logo {
   color: #ff9416;
 }
 
-/* Force the Kit Subscribe link to look like a normal menu item */
+/* Force the Kit Subscribe link to look identical to the other menu items */
 .header-element.convertkit-button,
 a.convertkit-button.header-element,
 a[data-commerce].header-element {
@@ -77,18 +77,21 @@ a[data-commerce].header-element {
   border: none !important;
   box-shadow: none !important;
   border-radius: 0 !important;
-  padding: 0.35rem 0.25rem !important;   /* match other menu items */
-  color: #F1F5F9 !important;
+  padding: 0.35rem 0.25rem !important;
+  color: #F1F5F9 !important;          /* same light color as About / FAQs / Contact */
   font-size: 1rem !important;
   font-weight: 500 !important;
   text-decoration: none !important;
-  display: inline !important;             /* keep it inline like the others */
+  display: inline !important;
   line-height: inherit !important;
   height: auto !important;
   min-height: 0 !important;
   width: auto !important;
+  text-align: inherit !important;
+  margin: 0 !important;
 }
 
+/* Hover – same orange as the others */
 .header-element.convertkit-button:hover,
 a.convertkit-button.header-element:hover,
 a[data-commerce].header-element:hover {
@@ -97,17 +100,26 @@ a[data-commerce].header-element:hover {
   background-color: transparent !important;
 }
 
+/* Visited state – keep it the same light color (or yellow if you prefer) */
+.header-element.convertkit-button:visited,
+a.convertkit-button.header-element:visited,
+a[data-commerce].header-element:visited {
+  color: #F1F5F9 !important;
+}
+
 /* Mobile – keep the same full-width stacked look as the other links */
 @media only screen and (max-width: 900px) {
   .header-element.convertkit-button,
   a.convertkit-button.header-element,
   a[data-commerce].header-element {
     display: block !important;
+    width: 100% !important;
     padding: 1rem 1.5rem !important;
     font-size: 1.15rem !important;
-    text-align: center !important;
+    text-align: center !important;     /* force center like the other items */
     border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
-    width: 100% !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
   }
 }
 
