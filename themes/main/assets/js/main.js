@@ -201,18 +201,6 @@ function setupMapPage() {
       websiteURL: "https://www.gadgetmechanic.us/",
       websiteName: "GadgetMechanic.us",
     },
-    // Pin 11
-    {
-      coords: [35.0315116, -85.1509364],
-      image: "/images/Bitcoin Businesses/Bespoke Barbershop/Bespoke Barbershop.png",
-      name: "Bespoke Barbershop",
-      type: "Barbershop",
-      address: "2020 Gunbarrel Road 194, Suite #107, Chattanooga, TN 37421",
-      phone: "928-848-9368",
-      hours: "Tues-Sat 11 AM–7 PM",
-      websiteURL: "https://www.bespokebarbershop.co/",
-      websiteName: "BespokeBarbershop.co",
-    },
     // Pin 12
     {
       coords: [35.0328476, -85.1940908],
@@ -373,7 +361,7 @@ function setupMapPage() {
       type: "Restaurant",
       address: "1628 Cloud Springs Road, Rossville, GA 30741",
       phone: "423-243-3346",
-      hours: "Mon-Sat 11AM-7PM",
+      hours: "Mon-Sat 4PM-8PM",
       websiteURL: "https://poweruppizzatruck.com",
       websiteName: "PowerUpPizzaTruck.com",
     },
