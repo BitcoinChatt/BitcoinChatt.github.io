@@ -533,6 +533,18 @@ function setupMapPage() {
       type: "Photography",
       address: "8432 Cherrybark Ln, Ooltewah, TN 37363",
     },
+    // Pin 42
+    {
+      coords: [35.0308043, -85.1858024], // ← replace with real coordinates
+      image: "/images/Bitcoin Businesses/BrainWerx/brainwerx.png",
+      name: "BrainWerx",
+      type: "Therapy",
+      address: "6209 Lee Hwy, Ste 110, Chattanooga, TN 37421",
+      phone: "762-325-9797",
+      hours: "Sun 12-6PM, Mon-Thurs 11AM-6PM",
+      websiteURL: "https://www.brainwerx.us/",
+      websiteName: "Website",
+    },
   ];
 
   // Make the data available globally so the table can use it later
