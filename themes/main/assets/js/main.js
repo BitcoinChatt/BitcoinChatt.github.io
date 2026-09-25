@@ -73,7 +73,7 @@ function setupMapPage() {
   // Both the map markers and the future table will use this array.
   // Type is included here but is NEVER shown in the map popups.
   var markers = [
-    // Pin 0
+    // Pin 1
     {
       coords: [35.00391290033336, -85.21372223445907], // ← replace with real coordinates
       name: "Bitcoin Chatt",
@@ -83,7 +83,7 @@ function setupMapPage() {
       websiteURL: "https://www.bitcoinchatt.com/",
       websiteName: "BitcoinChatt.com",
     },
-    // Pin 1
+    // Pin 2
     {
       coords: [35.19425, -84.856933],
       image: "/images/Bitcoin Businesses/DDNH/Divine Design Natural Health.jpg",
@@ -95,7 +95,7 @@ function setupMapPage() {
       websiteURL: "https://divinedesignnaturalhealth.com",
       websiteName: "DivineDesignNaturalHealth.com",
     },
-    // Pin 2
+    // Pin 3
     {
       coords: [35.0157164, -85.3241693],
       image: "/images/Bitcoin Businesses/Calvary Chapel/Calvary Chapel.jpg",
@@ -107,7 +107,7 @@ function setupMapPage() {
       websiteURL: "http://www.calvarychatt.com",
       websiteName: "CalvaryChatt.com",
     },
-    // Pin 3
+    // Pin 4
     {
       coords: [35.002027, -85.204528],
       image: "/images/Bitcoin Businesses/Same Day Septic/Same Day Septic.png",
@@ -119,7 +119,7 @@ function setupMapPage() {
       websiteURL: "https://samedayseptic.com",
       websiteName: "SameDaySeptic.co",
     },
-    // Pin 4
+    // Pin 5
     {
       coords: [34.951935, -85.244715],
       image: "/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png",
@@ -131,7 +131,7 @@ function setupMapPage() {
       websiteURL: "https://www.steaknshake.com/locations/ga-ft-oglethorpe-battlefield-parkway/",
       websiteName: "SteaknShake.com",
     },
-    // Pin 5
+    // Pin 6
     {
       coords: [34.759589, -84.989919],
       image: "/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png",
@@ -143,7 +143,7 @@ function setupMapPage() {
       websiteURL: "https://www.steaknshake.com/locations/ga-dalton-w-walnut-avenue/",
       websiteName: "SteaknShake.com",
     },
-    // Pin 6
+    // Pin 7
     {
       coords: [35.039848, -85.149789],
       image: "/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png",
@@ -155,7 +155,7 @@ function setupMapPage() {
       websiteURL: "https://www.steaknshake.com/locations/tn-chattanooga-gunbarrel-road/",
       websiteName: "SteaknShake.com",
     },
-    // Pin 7
+    // Pin 8
     {
       coords: [35.205077, -84.849458],
       image: "/images/Bitcoin Businesses/Steak n Shake/Steak-n-Shake.png",
@@ -167,7 +167,7 @@ function setupMapPage() {
       websiteURL: "https://www.steaknshake.com/locations/tn-cleveland-paul-huff-parkway/",
       websiteName: "SteaknShake.com",
     },
-    // Pin 8
+    // Pin 9
     {
       coords: [34.990641, -85.196578],
       image: "/images/Bitcoin Businesses/City Collectibles/City Collectibles.jpg",
@@ -177,7 +177,7 @@ function setupMapPage() {
       phone: "423-486-1025",
       hours: "Sun 12-6PM, Tues-Thurs 12-8PM, Fri 12-9PM, Sat 11AM-9PM",
     },
-    // Pin 9
+    // Pin 10
     {
       coords: [35.066856, -85.308845],
       image: "/images/Bitcoin Businesses/Anchor Barber Co/Anchor Barber Co.png",
@@ -189,7 +189,7 @@ function setupMapPage() {
       websiteURL: "https://www.AnchorBarberCo.com",
       websiteName: "AnchorBarberCo.com",
     },
-    // Pin 10
+    // Pin 11
     {
       coords: [34.7855517, -85.003133],
       image: "/images/Bitcoin Businesses/Gadget Mechanic/Gadget Mechanic.png",
@@ -227,14 +227,6 @@ function setupMapPage() {
     },
     // Pin 14
     {
-      coords: [35.1971021, -84.8947589],
-      image: "/images/Bitcoin Businesses/Organizational Change Solutions/Organizational Change Solutions.png",
-      name: "Organizational Change Solutions",
-      type: "Consulting",
-      address: "2250 Candies Lane NW, A, Cleveland, TN 37312",
-    },
-    // Pin 15
-    {
       coords: [35.2492368, -85.1857456],
       image: "/images/Bitcoin Businesses/Running Wild Inflatables/Running Wild Inflatables.png",
       name: "Running Wild Inflatables",
@@ -245,7 +237,7 @@ function setupMapPage() {
       websiteURL: "https://www.runningwildinflatables.com/",
       websiteName: "RunningWildInflatables.com",
     },
-    // Pin 16
+    // Pin 15
     {
       coords: [35.1602695, -84.8750917],
       image: "/images/Bitcoin Businesses/Noble Mediation and Notary/Noble Mediation and Notary.png",
@@ -257,7 +249,7 @@ function setupMapPage() {
       websiteURL: "https://www.noblemediationandnotary.com/",
       websiteName: "NobleMediationAndNotary.com",
     },
-    // Pin 17
+    // Pin 16
     {
       coords: [35.1640222, -84.8678335],
       image: "/images/Bitcoin Businesses/North Cleveland Church of God/North Cleveland Church of God.png",
@@ -269,15 +261,7 @@ function setupMapPage() {
       websiteURL: "https://www.nccog.com/",
       websiteName: "NCCOG.com",
     },
-    // Pin 18
-    {
-      coords: [35.0461207, -85.2616513],
-      image: "/images/Bitcoin Businesses/Toots Braids of Love/Toots Braids of Love.png",
-      name: "Toots Braids of Love",
-      type: "Beauty",
-      address: "904 Arlington Avenue, Chattanooga, TN 37406",
-    },
-    // Pin 19
+    // Pin 17
     {
       coords: [35.0549418, -85.1988804],
       image: "/images/Bitcoin Businesses/CrabTrap Mobile Kitchen/CrabTrap Mobile Kitchen.png",
@@ -288,7 +272,7 @@ function setupMapPage() {
       websiteURL: "https://www.facebook.com/profile.php?id=100063589031640",
       websiteName: "Facebook Page",
     },
-    // Pin 20
+    // Pin 18
     {
       coords: [35.0301926, -85.2906239],
       image: "/images/Bitcoin Businesses/Chattanooga Crystal Store/Chattanooga Crystal Store.jpg",
@@ -299,14 +283,7 @@ function setupMapPage() {
       websiteURL: "http://chattanoogacrystalstore.com/",
       websiteName: "ChattanoogaCrystalStore.com",
     },
-    // Pin 21
-    {
-      coords: [35.0467664, -85.3113186],
-      name: "Erica's Pristine Touch Cleaning Service",
-      type: "Cleaning",
-      address: "808 Chestnut St, Chattanooga, TN 37402",
-    },
-    // Pin 22
+    // Pin 19
     {
       coords: [35.0317024, -85.170861],
       image: "/images/Bitcoin Businesses/Chef Chasty Seafood/Chef Chasty Seafood.jpg",
@@ -317,7 +294,7 @@ function setupMapPage() {
       websiteURL: "https://www.facebook.com/Chefchasty/",
       websiteName: "Facebook Page",
     },
-    // Pin 23
+    // Pin 20
     {
       coords: [34.7464956, -84.9716389],
       image: "/images/Bitcoin Businesses/Kelly's Restaurant/Kelly's Restaurant.jpg",
@@ -329,7 +306,7 @@ function setupMapPage() {
       websiteURL: "https://kellys-restaurant.com/",
       websiteName: "Kellys-Restaurant.com",
     },
-    // Pin 24
+    // Pin 21
     {
       coords: [34.9328006, -85.3412157],
       image: "/images/Bitcoin Businesses/Top Notch Customs/Top Notch Customs.jpg",
@@ -341,7 +318,7 @@ function setupMapPage() {
       websiteURL: "http://www.topnotchcustomsllc.com",
       websiteName: "TopNotchCustomsLLC.com",
     },
-    // Pin 25
+    // Pin 22
     {
       coords: [35.0800913, -85.0622878],
       image: "/images/Bitcoin Businesses/Augustine Life Solutions/Augustine Life Solutions.png",
@@ -353,7 +330,7 @@ function setupMapPage() {
       websiteURL: "https://augustinelifesolutions.com",
       websiteName: "AugustineLifeSolutions.com",
     },
-    // Pin 26
+    // Pin 23
     {
       coords: [34.9565883, -85.2326928],
       image: "/images/Bitcoin Businesses/Power-Up Pizza/Power-Up Pizza.jpg",
@@ -365,7 +342,7 @@ function setupMapPage() {
       websiteURL: "https://poweruppizzatruck.com",
       websiteName: "PowerUpPizzaTruck.com",
     },
-    // Pin 27
+    // Pin 24
     {
       coords: [35.0074528, -85.2108077],
       image: "/images/Bitcoin Businesses/Power-Up Pizza/Power-Up Pizza.jpg",
@@ -377,7 +354,7 @@ function setupMapPage() {
       websiteURL: "https://poweruppizzatruck.com",
       websiteName: "PowerUpPizzaTruck.com",
     },
-    // Pin 28
+    // Pin 25
     {
       coords: [35.0085833, -85.1520737],
       image: "/images/Bitcoin Businesses/Laughing Koffin Tattoo/Laughing Koffin Tattoo.png",
@@ -389,7 +366,7 @@ function setupMapPage() {
       websiteURL: "https://laughingkoffintattoo.com",
       websiteName: "LaughingKoffinTattoo.com",
     },
-    // Pin 29
+    // Pin 26
     {
       coords: [34.7568811, -84.9828673],
       image: "/images/Bitcoin Businesses/The Esthetics Shop by Myriam/The Esthetics Shop by Myriam.jpg",
@@ -401,14 +378,7 @@ function setupMapPage() {
       websiteURL: "https://the-esthetics-shop-by-myriam-llc.square.site",
       websiteName: "The-Esthetics-Shop-by-Myriam-LLC.square.site",
     },
-    // Pin 30
-    {
-      coords: [34.9682497, -85.2568861],
-      name: "Backroad Cheesesteaks",
-      type: "Restaurant",
-      address: "507 Chickamauga Avenue, Rossville, GA 30741",
-    },
-    // Pin 31
+    // Pin 27
     {
       coords: [34.9891382, -85.1932672],
       image: "/images/Bitcoin Businesses/All About You Day Spa/All About You Day Spa.png",
@@ -420,7 +390,7 @@ function setupMapPage() {
       websiteURL: "https://elenadion-skincare.square.site",
       websiteName: "Elenadion-Skincare.square.site",
     },
-    // Pin 32
+    // Pin 28
     {
       coords: [35.064477, -85.0996096],
       image: "/images/Bitcoin Businesses/Trading Post Food Store/Trading Post Food Store.png",
@@ -432,16 +402,7 @@ function setupMapPage() {
       websiteURL: "https://tradingpost-quick-stop.base44.app",
       websiteName: "TradingPost-Quick-Stop.base44.app",
     },
-    // Pin 33
-    {
-      coords: [34.9763265, -85.2526557],
-      name: "R2 Delivery Service, LLC",
-      type: "Delivery",
-      address: "190 Center Street, Rossville, GA 30741",
-      phone: "423-637-8062",
-      hours: "Mon-Fri 10AM-6PM, Sat 10AM-2:30PM",
-    },
-    // Pin 34
+    // Pin 29
     {
       coords: [34.8052939, -85.2750261],
       image: "/images/Bitcoin Businesses/Georgia Dragonfly/Georgia Dragonfly.jpg",
@@ -453,7 +414,7 @@ function setupMapPage() {
       websiteURL: "https://www.georgiadragonfly.com/",
       websiteName: "GeorgiaDragonfly.com",
     },
-    // Pin 35
+    // Pin 30
     {
       coords: [34.9624146, -85.2271333],
       image: "/images/Bitcoin Businesses/Skiles Services/Skiles Services.png",
@@ -465,7 +426,7 @@ function setupMapPage() {
       websiteURL: "https://skiles.services/",
       websiteName: "Skiles.services",
     },
-    // Pin 36
+    // Pin 31
     {
       coords: [35.1282873, -85.2460754],
       image: "/images/Bitcoin Businesses/Off the Grill/Off the Grill.jpg",
@@ -477,7 +438,7 @@ function setupMapPage() {
       websiteURL: "https://www.offthegrillbychefq.com/",
       websiteName: "OffTheGrillByChefQ.com",
     },
-    // Pin 37
+    // Pin 32
     {
       coords: [35.22393798828125, -85.21839904785156],
       image: "/images/Bitcoin Businesses/Playing Hookey Antiques and Estates/Playing Hookey Antiques and Estates.jpg",
@@ -488,7 +449,7 @@ function setupMapPage() {
       websiteURL: "https://www.facebook.com/profile.php?id=61555409485553",
       websiteName: "Facebook Page",
     },
-    // Pin 38
+    // Pin 33
     {
       coords: [34.7784422, -84.9649083],
       image: "/images/Bitcoin Businesses/Paniagua Auto Sales/Paniagua Auto Sales.jpg",
@@ -500,28 +461,7 @@ function setupMapPage() {
       websiteURL: "http://www.paniaguausedcars.com/",
       websiteName: "PaniaguaUsedCars.com",
     },
-    // Pin 39
-    {
-      coords: [34.9194847, -85.1274633],
-      name: "Clipped by Richyurr",
-      type: "Barbershop",
-      address: "6702 US-41, Ringgold, GA 30736",
-    },
-    // Pin 40
-    {
-      coords: [35.120227, -85.060369],
-      name: "Cherrybark Rental",
-      type: "Truck Rental",
-      address: "9070 Knolling Loop, Ooltewah, TN 37363",
-    },
-    // Pin 41
-    {
-      coords: [35.1356679, -85.0550129],
-      name: "We R Booth Co",
-      type: "Photography",
-      address: "8432 Cherrybark Ln, Ooltewah, TN 37363",
-    },
-    // Pin 42
+    // Pin 34
     {
       coords: [35.0308043, -85.1858024], // ← replace with real coordinates
       image: "/images/Bitcoin Businesses/BrainWerx/brainwerx.png",
