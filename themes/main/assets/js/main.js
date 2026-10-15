@@ -463,7 +463,7 @@ function setupMapPage() {
     },
     // Pin 34
     {
-      coords: [35.0308043, -85.1858024], // ← replace with real coordinates
+      coords: [35.0308043, -85.1858024],
       image: "/images/Bitcoin Businesses/BrainWerx/brainwerx.png",
       name: "BrainWerx",
       type: "Therapy",
@@ -472,6 +472,30 @@ function setupMapPage() {
       hours: "Sun 12-6PM, Mon-Thurs 11AM-6PM",
       websiteURL: "https://www.brainwerx.us/",
       websiteName: "Website",
+    },
+    // Pin 35
+    {
+      coords: [34.9194628, -85.1274867],
+      image: "/images/Bitcoin Businesses/Cuts Glory Barber Co/Cuts Glory Barber Co.jpg",
+      name: "Cuts & Glory Barber Co.",
+      type: "Barbershop",
+      address: "6702 US-41, Ringgold, GA 30736",
+      phone: "706-952-1939",
+      hours: "Sun 10AM-12PM & 1-5PM, Mon 10AM-3PM, Tues 10AM-12PM & 1-4PM, Wed-Fri 10AM-12PM & 1-6PM, Sat 10AM-4PM",
+      websiteURL: "https://www.cutsandglorybarberco.com/",
+      websiteName: "CutsAndGloryBarberCo.com",
+    },
+    // Pin 36
+    {
+      coords: [35.0303081, -85.186327],
+      image: "/images/Bitcoin Businesses/Mountain Home Birth Midwifery/Mountain Home Birth Midwifery.jpg",
+      name: "Mountain Home Birth & Midwifery",
+      type: "Midwife",
+      address: "6245 Vance Rd, Ste A, Chattanooga, TN 37421",
+      phone: "770-421-5927",
+      hours: "Tues 9:30AM-2:30PM",
+      websiteURL: "https://www.mountainhomebirth.com/",
+      websiteName: "MountainHomeBirth.com",
     },
   ];
 
