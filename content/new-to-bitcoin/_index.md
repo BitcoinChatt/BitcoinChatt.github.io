@@ -20,11 +20,10 @@ title = 'New to Bitcoin?'
 
 <style>
   .shorts-carousel {
-    max-width: 380px;
+    max-width: 450px;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    padding: 10px 0;
   }
   .swiper {
     width: 100%;
@@ -35,13 +34,11 @@ title = 'New to Bitcoin?'
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 240px !important;
-    transition: transform 0.3s ease;
   }
   .video-wrapper {
     position: relative;
     width: 100%;
-    max-width: 240px;
+    max-width: 320px; /* Restores the original narrow size for tiny side slivers */
     padding-top: 177.78%;
     height: 0;
     background: #000;
@@ -61,19 +58,19 @@ title = 'New to Bitcoin?'
   /* FORCE NAVIGATION ARROWS TO BE VISIBLE AND CLICKABLE */
   .swiper-button-next,
   .swiper-button-prev {
-    background-color: rgba(0, 0, 0, 0.85) !important;
+    background-color: rgba(0, 0, 0, 0.8) !important;
     color: #ffffff !important;
-    width: 40px !important;
-    height: 40px !important;
+    width: 45px !important;
+    height: 45px !important;
     border-radius: 50% !important;
     top: 50% !important;
-    margin-top: -20px !important;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.5) !important;
-    z-index: 20 !important;
+    margin-top: -22px !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.4) !important;
+    z-index: 10 !important;
   }
   .swiper-button-next:after,
   .swiper-button-prev:after {
-    font-size: 18px !important;
+    font-size: 22px !important;
     font-weight: bold;
     color: #ffffff !important;
   }
@@ -197,9 +194,9 @@ title = 'New to Bitcoin?'
         return;
       }
       const swiper = new Swiper('.mySwiper', {
-        slidesPerView: 'auto',
+        slidesPerView: 1.2,
         centeredSlides: true,
-        spaceBetween: 15,
+        spaceBetween: 20,
         pagination: {
           el: '.swiper-pagination',
           clickable: true,
@@ -212,8 +209,11 @@ title = 'New to Bitcoin?'
         loop: false,
         rewind: true,
         on: {
-          init: function(s) {
-            s.update();
+          init: function (s) {
+            // Automatically simulates your manual click fix by updating layout on init
+            setTimeout(() => {
+              s.update();
+            }, 250);
           },
           slideChange: function (swiperInstance) {
             const currentIndex = swiperInstance.realIndex;
@@ -232,7 +232,15 @@ title = 'New to Bitcoin?'
           }
         }
       });
+
+      // Secondary safety trigger matching the window load lifecycle
+      window.addEventListener('load', () => {
+        setTimeout(() => {
+          swiper.update();
+        }, 300);
+      });
     }
+
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', initShortsCarousel);
     } else {
