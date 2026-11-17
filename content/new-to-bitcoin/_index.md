@@ -20,7 +20,7 @@ title = 'New to Bitcoin?'
 
 <style>
   .shorts-carousel {
-    max-width: 450px;
+    max-width: 380px;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
@@ -28,7 +28,6 @@ title = 'New to Bitcoin?'
   .swiper {
     width: 100%;
     height: 100%;
-    overflow: visible !important;
   }
   .swiper-slide {
     display: flex;
@@ -38,7 +37,7 @@ title = 'New to Bitcoin?'
   .video-wrapper {
     position: relative;
     width: 100%;
-    max-width: 320px; /* Restores the original narrow size for tiny side slivers */
+    max-width: 360px;
     padding-top: 177.78%;
     height: 0;
     background: #000;
@@ -55,9 +54,12 @@ title = 'New to Bitcoin?'
     border: none;
   }
 
-  /* FORCE NAVIGATION ARROWS TO BE VISIBLE AND CLICKABLE */
+  /* PERMANENTLY LOCK NAVIGATION ARROWS IN PLACE SO THEY CANNOT DISAPPEAR */
   .swiper-button-next,
   .swiper-button-prev {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
     background-color: rgba(0, 0, 0, 0.8) !important;
     color: #ffffff !important;
     width: 45px !important;
@@ -66,7 +68,7 @@ title = 'New to Bitcoin?'
     top: 50% !important;
     margin-top: -22px !important;
     box-shadow: 0 4px 15px rgba(0,0,0,0.4) !important;
-    z-index: 10 !important;
+    z-index: 9999 !important;
   }
   .swiper-button-next:after,
   .swiper-button-prev:after {
@@ -194,9 +196,9 @@ title = 'New to Bitcoin?'
         return;
       }
       const swiper = new Swiper('.mySwiper', {
-        slidesPerView: 1.2,
+        slidesPerView: 1,
         centeredSlides: true,
-        spaceBetween: 20,
+        spaceBetween: 0,
         pagination: {
           el: '.swiper-pagination',
           clickable: true,
@@ -210,10 +212,13 @@ title = 'New to Bitcoin?'
         rewind: true,
         on: {
           init: function (s) {
-            // Automatically simulates your manual click fix by updating layout on init
+            // Automatically simulates your rapid clicking fix on load to prevent iframe errors
             setTimeout(() => {
               s.update();
-            }, 250);
+              if (s.navigation) {
+                s.navigation.update();
+              }
+            }, 300);
           },
           slideChange: function (swiperInstance) {
             const currentIndex = swiperInstance.realIndex;
@@ -233,11 +238,14 @@ title = 'New to Bitcoin?'
         }
       });
 
-      // Secondary safety trigger matching the window load lifecycle
+      // Secondary automated layout kick to eliminate race conditions entirely
       window.addEventListener('load', () => {
         setTimeout(() => {
           swiper.update();
-        }, 300);
+          if (swiper.navigation) {
+            swiper.navigation.update();
+          }
+        }, 400);
       });
     }
 
