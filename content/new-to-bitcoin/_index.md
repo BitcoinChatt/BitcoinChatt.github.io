@@ -20,7 +20,7 @@ title = 'New to Bitcoin?'
 
 <style>
   .shorts-carousel {
-    max-width: 450px;
+    max-width: 380px;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
@@ -28,7 +28,6 @@ title = 'New to Bitcoin?'
   .swiper {
     width: 100%;
     height: 100%;
-    overflow: visible !important;
   }
   .swiper-slide {
     display: flex;
@@ -38,13 +37,15 @@ title = 'New to Bitcoin?'
   .video-wrapper {
     position: relative;
     width: 100%;
-    max-width: 320px; /* Restores the original narrow size for tiny side slivers */
+    max-width: 360px;
     padding-top: 177.78%;
     height: 0;
-    background: #000;
+    background-size: cover;
+    background-position: center;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    cursor: pointer;
   }
   .video-wrapper iframe {
     position: absolute;
@@ -54,10 +55,37 @@ title = 'New to Bitcoin?'
     height: 100%;
     border: none;
   }
+  .play-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 65px;
+    height: 65px;
+    background: rgba(0, 0, 0, 0.75);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    pointer-events: none;
+  }
+  .play-overlay::after {
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-left: 20px solid #fff;
+    margin-left: 4px;
+  }
 
-  /* FORCE NAVIGATION ARROWS TO BE VISIBLE AND CLICKABLE */
+  /* PERMANENTLY LOCK NAVIGATION ARROWS IN PLACE */
   .swiper-button-next,
   .swiper-button-prev {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
     background-color: rgba(0, 0, 0, 0.8) !important;
     color: #ffffff !important;
     width: 45px !important;
@@ -66,7 +94,7 @@ title = 'New to Bitcoin?'
     top: 50% !important;
     margin-top: -22px !important;
     box-shadow: 0 4px 15px rgba(0,0,0,0.4) !important;
-    z-index: 10 !important;
+    z-index: 9999 !important;
   }
   .swiper-button-next:after,
   .swiper-button-prev:after {
@@ -79,103 +107,81 @@ title = 'New to Bitcoin?'
 <div class="shorts-carousel">
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
-      <!-- Video 1 (default) -->
+      <!-- Video 1 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt1" src="https://www.youtube.com/embed/zv_4Qc3YnOY?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/zv_4Qc3YnOY/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/zv_4Qc3YnOY?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 2 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt2" src="https://www.youtube.com/embed/pdxunE_-kLI?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/pdxunE_-kLI/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/pdxunE_-kLI?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 3 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt3" src="https://www.youtube.com/embed/UM83VmFN0Hk?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/UM83VmFN0Hk/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/UM83VmFN0Hk?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 4 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt4" src="https://www.youtube.com/embed/5i6JXEWVxiY?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/5i6JXEWVxiY/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/5i6JXEWVxiY?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 5 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt5" src="https://www.youtube.com/embed/6d2WrRjlzSY?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/6d2WrRjlzSY/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/6d2WrRjlzSY?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 6 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt6" src="https://www.youtube.com/embed/4r7Ne6JxvkE?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/4r7Ne6JxvkE/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/4r7Ne6JxvkE?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 7 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt7" src="https://www.youtube.com/embed/6G4T2HF1xaM?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/6G4T2HF1xaM/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/6G4T2HF1xaM?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 8 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt8" src="https://www.youtube.com/embed/LFuhHB_HTyU?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/LFuhHB_HTyU/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/LFuhHB_HTyU?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 9 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt9" src="https://www.youtube.com/embed/K_E_aNoj3TQ?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/K_E_aNoj3TQ/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/K_E_aNoj3TQ?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 10 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt10" src="https://www.youtube.com/embed/ABdN5u4JDKI?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/ABdN5u4JDKI/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/ABdN5u4JDKI?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
       <!-- Video 11 -->
       <div class="swiper-slide">
-        <div class="video-wrapper">
-          <iframe id="yt11" src="https://www.youtube.com/embed/JxSlfBaGymg?enablejsapi=1" 
-                  title="YouTube Short" frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/JxSlfBaGymg/hqdefault.jpg');" 
+             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/JxSlfBaGymg?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
+          <div class="play-overlay"></div>
         </div>
       </div>
     </div>
@@ -194,9 +200,9 @@ title = 'New to Bitcoin?'
         return;
       }
       const swiper = new Swiper('.mySwiper', {
-        slidesPerView: 1.2,
+        slidesPerView: 1,
         centeredSlides: true,
-        spaceBetween: 20,
+        spaceBetween: 0,
         pagination: {
           el: '.swiper-pagination',
           clickable: true,
@@ -209,12 +215,6 @@ title = 'New to Bitcoin?'
         loop: false,
         rewind: true,
         on: {
-          init: function (s) {
-            // Automatically simulates your manual click fix by updating layout on init
-            setTimeout(() => {
-              s.update();
-            }, 250);
-          },
           slideChange: function (swiperInstance) {
             const currentIndex = swiperInstance.realIndex;
             document.querySelectorAll('.video-wrapper iframe').forEach((iframe, index) => {
@@ -231,13 +231,6 @@ title = 'New to Bitcoin?'
             });
           }
         }
-      });
-
-      // Secondary safety trigger matching the window load lifecycle
-      window.addEventListener('load', () => {
-        setTimeout(() => {
-          swiper.update();
-        }, 300);
       });
     }
 
