@@ -164,7 +164,7 @@ title = 'New to Bitcoin?'
       <!-- Video 11 -->
       <div class="swiper-slide">
         <div class="video-wrapper">
-          <iframe id="yt10" src="https://www.youtube.com/embed/JxSlfBaGymg" 
+          <iframe id="yt11" src="https://www.youtube.com/embed/JxSlfBaGymg" 
                   title="YouTube Short" frameborder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -193,12 +193,9 @@ title = 'New to Bitcoin?'
         prevEl: '.swiper-button-prev',
       },
       allowTouchMove: true,
-      loop: false,           /* ← REQUIRED for true pause/resume */
-      rewind: true,          /* when you reach the end, next arrow jumps back to start smoothly */
+      loop: false,
+      rewind: true,
 
-      // TRUE AUTO-PAUSE: only the visible Short can play.
-      // Previous videos are paused (time position saved) when you switch.
-      // No resets, no two videos playing at once.
       on: {
         slideChange: function (swiperInstance) {
           const currentIndex = swiperInstance.realIndex;
@@ -246,4 +243,5 @@ calLink: "bitcoinchatt/onboarding",
 Cal.ns.onboarding("ui", {"cssVarsPerTheme":{"light":{"cal-brand":"#111213"},"dark":{"cal-brand":"#ff9900"}},"hideEventTypeDetails":false,"layout":"month_view"});
 </script>
 <!-- Cal inline embed code ends -->
+
 </div>
