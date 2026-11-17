@@ -20,24 +20,26 @@ title = 'New to Bitcoin?'
 
 <style>
   .shorts-carousel {
-    max-width: 450px;
+    max-width: 480px;
     margin: 0 auto;
     position: relative;
+    overflow: hidden; /* Clips the extra slides so only slivers show */
+    padding: 20px 0;
   }
   .swiper {
     width: 100%;
     height: 100%;
-    overflow: visible; /* Prevents clipping while Swiper calculates layout */
   }
   .swiper-slide {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 280px !important; /* Force exact width to keep adjacent slivers visible */
   }
   .video-wrapper {
     position: relative;
     width: 100%;
-    max-width: 360px;
+    max-width: 280px;
     padding-top: 177.78%;
     height: 0;
     background: #000;
@@ -193,9 +195,9 @@ title = 'New to Bitcoin?'
         return;
       }
       const swiper = new Swiper('.mySwiper', {
-        slidesPerView: 1.2,
-        spaceBetween: 30,
+        slidesPerView: 'auto',
         centeredSlides: true,
+        spaceBetween: 20,
         pagination: {
           el: '.swiper-pagination',
           clickable: true,
