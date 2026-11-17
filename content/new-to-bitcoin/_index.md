@@ -22,6 +22,12 @@ title = 'New to Bitcoin?'
   .shorts-carousel {
     max-width: 450px;
     margin: 0 auto;
+    position: relative;
+  }
+  .swiper {
+    width: 100%;
+    height: 100%;
+    overflow: visible; /* Prevents clipping while Swiper calculates layout */
   }
   .swiper-slide {
     display: flex;
@@ -48,22 +54,23 @@ title = 'New to Bitcoin?'
     border: none;
   }
 
-  /* FORCE NAVIGATION ARROWS TO BE VISIBLE */
+  /* FORCE NAVIGATION ARROWS TO BE VISIBLE AND CLICKABLE */
   .swiper-button-next,
   .swiper-button-prev {
-    background-color: rgba(0, 0, 0, 0.65) !important;
+    background-color: rgba(0, 0, 0, 0.8) !important;
     color: #ffffff !important;
-    width: 50px !important;
-    height: 50px !important;
+    width: 45px !important;
+    height: 45px !important;
     border-radius: 50% !important;
     top: 50% !important;
-    margin-top: -25px !important;
+    margin-top: -22px !important;
     box-shadow: 0 4px 15px rgba(0,0,0,0.4) !important;
-    z-index: 2 !important;
+    z-index: 10 !important;
   }
   .swiper-button-next:after,
   .swiper-button-prev:after {
-    font-size: 28px !important;
+    font-size: 20px !important;
+    font-weight: bold;
     color: #ffffff !important;
   }
 </style>
@@ -179,43 +186,52 @@ title = 'New to Bitcoin?'
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const swiper = new Swiper('.mySwiper', {
-      slidesPerView: 1.2,
-      spaceBetween: 30,
-      centeredSlides: true,
-      pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-      },
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-      },
-      allowTouchMove: true,
-      loop: false,
-      rewind: true,
-
-      on: {
-        slideChange: function (swiperInstance) {
-          const currentIndex = swiperInstance.realIndex;
-
-          document.querySelectorAll('.video-wrapper iframe').forEach((iframe, index) => {
-            if (index !== currentIndex && iframe.contentWindow) {
-              iframe.contentWindow.postMessage(
-                JSON.stringify({
-                  event: 'command',
-                  func: 'pauseVideo',
-                  args: []
-                }),
-                '*'
-              );
-            }
-          });
-        }
+  (function() {
+    function initShortsCarousel() {
+      if (typeof Swiper === 'undefined') {
+        setTimeout(initShortsCarousel, 50);
+        return;
       }
-    });
-  });
+      const swiper = new Swiper('.mySwiper', {
+        slidesPerView: 1.2,
+        spaceBetween: 30,
+        centeredSlides: true,
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+        allowTouchMove: true,
+        loop: false,
+        rewind: true,
+        on: {
+          slideChange: function (swiperInstance) {
+            const currentIndex = swiperInstance.realIndex;
+            document.querySelectorAll('.video-wrapper iframe').forEach((iframe, index) => {
+              if (index !== currentIndex && iframe.contentWindow) {
+                iframe.contentWindow.postMessage(
+                  JSON.stringify({
+                    event: 'command',
+                    func: 'pauseVideo',
+                    args: []
+                  }),
+                  '*'
+                );
+              }
+            });
+          }
+        }
+      });
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initShortsCarousel);
+    } else {
+      initShortsCarousel();
+    }
+  })();
 </script>
 
 <br>
