@@ -151,33 +151,26 @@ title = 'New to Bitcoin?'
       </div>
       <!-- Video 7 -->
       <div class="swiper-slide">
-        <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/6G4T2HF1xaM/hqdefault.jpg');" 
-             onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/6G4T2HF1xaM?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
-          <div class="play-overlay"></div>
-        </div>
-      </div>
-      <!-- Video 8 -->
-      <div class="swiper-slide">
         <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/LFuhHB_HTyU/hqdefault.jpg');" 
              onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/LFuhHB_HTyU?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
           <div class="play-overlay"></div>
         </div>
       </div>
-      <!-- Video 9 -->
+      <!-- Video 8 -->
       <div class="swiper-slide">
         <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/K_E_aNoj3TQ/hqdefault.jpg');" 
              onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/K_E_aNoj3TQ?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
           <div class="play-overlay"></div>
         </div>
       </div>
-      <!-- Video 10 -->
+      <!-- Video 9 -->
       <div class="swiper-slide">
         <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/ABdN5u4JDKI/hqdefault.jpg');" 
              onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/ABdN5u4JDKI?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
           <div class="play-overlay"></div>
         </div>
       </div>
-      <!-- Video 11 -->
+      <!-- Video 10 -->
       <div class="swiper-slide">
         <div class="video-wrapper" style="background-image: url('https://img.youtube.com/vi/JxSlfBaGymg/hqdefault.jpg');" 
              onclick="this.innerHTML='<iframe src=\'https://www.youtube.com/embed/JxSlfBaGymg?autoplay=1&enablejsapi=1\' title=\'YouTube Short\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' allowfullscreen></iframe>'">
